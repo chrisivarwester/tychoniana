@@ -831,12 +831,12 @@
     "inv": "KKS4530 (state I, no address); KKSgb7575 (state II, 'Marco Sadeler excudit')",
     "url": "https://open.smk.dk/artwork/image/KKS4530",
     "tier": "located (live SMK API records with IIIF images)",
-    "note": "KKS4530: 186 × 134 mm, signed 'J.d. Gheyn.Fe', purchased 1903 from C. G. Boerner, Leipzig. KKSgb7575: the structured dimensions read 187 × 142 mm; the record's note field repeats KKS4530's '186 × 134 mm' verbatim, probably an inherited copy-paste (187 × 142 preferred, unconfirmed by SMK). SMK dates both sheets 1588–1590, departing from New Hollstein's c. 1595 — a departure the museum's own notes source to an e-mail from Christian Westergaard of 31 January 2025; SMK's separate point estimate, 'ca. 1590', converges with the autumn-1590 date fixed by Tycho's letters. No institution publishes a plate-mark or arch-span measurement for any impression."
+    "note": "KKS4530: 186 × 134 mm, signed 'J.d. Gheyn.Fe', purchased 1903 from C. G. Boerner, Leipzig. KKSgb7575: the structured dimensions read 187 × 142 mm; the record's note field repeats KKS4530's '186 × 134 mm' verbatim, probably an inherited copy-paste (187 × 142 preferred, unconfirmed by SMK). SMK dates both sheets 1588–1590, departing from New Hollstein's c. 1595 — a departure the museum's own notes source to a private communication of 31 January 2025; SMK's separate point estimate, 'ca. 1590', converges with the autumn-1590 date fixed by Tycho's letters. No institution publishes a plate-mark or arch-span measurement for any impression."
    },
    "conflicts": [
     {
      "question": "Date of the first plate",
-     "positions": "1588–1590 — SMK's record for KKS4530 and KKSgb7575, departing from New Hollstein's c. 1595; the record's own production_dates_notes field sources the departure, verbatim, to an e-mail from Christian Westergaard of 31 January 2025. Ca. 1590 — SMK's separate point estimate, convergent with this chapter. Autumn 1590 — Tycho's letters of 1, 7 and 8 December 1590, which call the plate 'nuper Amsterodami cupro insculptae', recently engraved at Amsterdam.",
+     "positions": "1588–1590 — SMK's record for KKS4530 and KKSgb7575, departing from New Hollstein's c. 1595; the record's own production_dates_notes field sources the departure, verbatim, to a private communication of 31 January 2025. Ca. 1590 — SMK's separate point estimate, convergent with this chapter. Autumn 1590 — Tycho's letters of 1, 7 and 8 December 1590, which call the plate 'nuper Amsterodami cupro insculptae', recently engraved at Amsterdam.",
      "status": "A disclosure rather than a dispute: the SMK range partly rests on the editor's own 2025 correspondence. Unresolved: whether that e-mail described the engraved print or the supralibros binding medallion — the editor's own letter, re-read, would settle it."
     }
    ]

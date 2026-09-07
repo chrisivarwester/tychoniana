@@ -2767,19 +2767,13 @@
    "cd_d": 1,
    "provisional": true,
    "unreached": [
-    "Österreichischer Bibliothekenverbund / ÖNB",
     "UniCat",
     "CASLIN / Souborný katalog ČR",
-    "K10plus",
-    "B3Kat",
-    "HeBIS",
     "CCFr Base Patrimoine",
     "Jisc Library Hub Discover",
     "MOKKA",
-    "OPAC SBN",
     "WorldCat",
-    "NUKAT",
-    "LIBRIS"
+    "NUKAT"
    ]
   },
   {
