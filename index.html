@@ -21,6 +21,11 @@
 /* the hub's own rules beside the chrome (2026-09-06): the search in the mast, the edition cards */
 .page-hub header.mast{padding-bottom:16px}
 .page-hub .srch-wrap{position:relative;margin:4px 0 12px;max-width:560px}
+/* the search and the version line share one row (2026-09-07): the line sits beside the
+   field rather than under a hairline of its own, and wraps below it on a narrow screen */
+.page-hub .mast-row{display:flex;align-items:center;flex-wrap:wrap;gap:6px 22px;margin:4px 0 2px}
+.page-hub .mast-row .srch-wrap{margin:0;flex:0 1 560px;width:560px}
+.page-hub .mast-row .edition-line{border-top:none;padding-top:0;margin:0}
 .srch-wrap input{width:100%;padding:8px 40px 8px 36px;border-radius:3px;border:1px solid #2a3350;background:#1a2238;color:#cdd6e8;
   font:14px -apple-system,'Segoe UI',sans-serif;outline:none}
 .srch-wrap input::placeholder{color:#6a7898}.srch-wrap input:focus{outline:1px solid #c9a23f;background:#141c30}
@@ -73,6 +78,7 @@ instruments and world.</p></div>
 <span class="run"><b>28</b> legacy episodes</span> <span class="sep">&middot;</span>
 <span class="run"><b>10</b> astrological documents</span> <span class="sep">&middot;</span>
 <span class="run"><b>248</b> diary entries</span></p>
+<div class="mast-row">
 <div class="srch-wrap">
   <span class="srch-icon"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="5.5" cy="5.5" r="4"/><line x1="8.8" y1="8.8" x2="13" y2="13"/></svg></span>
   <input id="srch" type="search" placeholder="Search all twelve chapters&#8230;" autocomplete="off" spellcheck="false" aria-label="Search all Tychoniana chapters">
@@ -81,6 +87,7 @@ instruments and world.</p></div>
   <div id="srch-drop" class="srch-drop" role="listbox"></div>
 </div>
 <p class="edition-line">Version of 5 September 2026 &middot; <a href="about/index.html">About &mdash; the reader&#8217;s manual</a></p>
+</div>
 </div></header>
 <div class="wrap"><section class="guide" aria-label="The twelve chapters">
 <h2>The twelve chapters</h2>
@@ -106,7 +113,6 @@ instruments and world.</p></div>
 <h2 style="margin-top:34px">What the twelve share</h2>
 <div class="gcards"><a class="gcard" href="across/index.html"><span class="t">Across all twelve</span><span class="g">the apparatus the chapters share</span><span class="s">The general chronology of the twelve chapters on one axis, 1546 to the present; the holdings &mdash; the located copies, the library volumes, the likenesses, the codices and the specimens of his hand, city by city; what each chapter records as lost, destroyed, doubtful or unresolved.</span></a><a class="gcard" href="observationes/graphonomicon/brahe-tycho/explorer.html"><span class="t">Manus</span><span class="g">the hand</span><span class="s">The specimens of Tycho&#8217;s own writing, the letterforms, the hand-variants, and the other hands his must be told from &mdash; the method the chapters rely on when they call a page autograph.</span></a><a class="gcard" href="about/index.html"><span class="t">About</span><span class="g">the reader&#8217;s manual</span><span class="s">What Tychoniana is, how every page is organised, what the grades and the words mean, how it dates and cites, how to cite and download it, and where its limits lie.</span></a></div>
 </section></div>
-<div class="build-stamp"><b>Cite:</b> &ldquo;Tycho Brahe, a structured investigation&rdquo;, <i>Tychoniana</i> (version of 5 September 2026), accessed <span class="acc-date"></span>.<script>document.querySelectorAll(".acc-date").forEach(function(e){e.textContent=new Date().toISOString().slice(0,10);});</script></div>
 <script src="vendor/minisearch.min.js"></script>
 <script>
 (function(){
