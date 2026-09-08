@@ -38,16 +38,16 @@
   "img_lost": 5,
   "img_untraced": 4,
   "img_attested": 1,
-  "specimens": 80,
+  "specimens": 82,
   "spec_extant": 75,
   "spec_lost": 1,
   "spec_surrogate": 2,
-  "spec_disputed": 2,
-  "bib_entries": 204,
-  "bib_located_works": 107,
-  "bib_volumes": 66,
-  "bib_missing": 89,
-  "bib_findable": 56,
+  "spec_disputed": 4,
+  "bib_entries": 210,
+  "bib_located_works": 114,
+  "bib_volumes": 71,
+  "bib_missing": 88,
+  "bib_findable": 55,
   "bib_retired": 31,
   "bib_lost": 2,
   "bib_disputed": 6,
@@ -2923,7 +2923,7 @@
    "city": "Prague",
    "country": "CZ",
    "kind": "library volumes",
-   "count": 53
+   "count": 58
   },
   {
    "city": "Prague",
@@ -2935,7 +2935,7 @@
    "city": "Prague",
    "country": "CZ",
    "kind": "hand specimens",
-   "count": 6
+   "count": 8
   },
   {
    "city": "Prague",

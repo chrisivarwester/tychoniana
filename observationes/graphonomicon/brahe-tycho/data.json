@@ -2,22 +2,22 @@
  "title": "Manus — the hand of Tycho Brahe",
  "subject": "Tycho Brahe",
  "registry": {
-  "specimens": 80,
+  "specimens": 82,
   "secure": 14,
   "probable": 59,
-  "possible": 7,
+  "possible": 9,
   "autograph_whole": 24,
   "autograph_partial": 15,
   "signature_only": 25,
   "calligrapher_body": 14,
-  "disputed_autograph": 2,
+  "disputed_autograph": 4,
   "grade_a": 21,
   "grade_b": 52,
-  "grade_c": 5,
+  "grade_c": 7,
   "grade_d": 2,
   "extant": 75,
   "surrogate_only": 2,
-  "disputed": 2,
+  "disputed": 4,
   "lost": 1,
   "registers": 7,
   "stages": 3,
@@ -29,13 +29,13 @@
   "shared_features": 16,
   "misattributions": 4,
   "external": 11,
-  "with_catalogue_record": 38,
+  "with_catalogue_record": 41,
   "with_surrogate": 18,
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 85,
-  "without_record_or_surrogate": 41,
+  "open_questions": 91,
+  "without_record_or_surrogate": 40,
   "anchors": 14,
   "undated": 2
  },
@@ -213,6 +213,58 @@
     "Read any prose discussion of the Mars-latitude method at full res (vs the numeric worksheets) for an attributable comparison; if Tycho, upgrades C->B.",
     "Scribe-compare the cursive instruction lines vs a Tycho pillar (metered — ask before running).",
     "Cross-link to Tycho's Mars work in TBOO and the tycho-thesaurus once the computational content is matched to a known reduction."
+   ],
+   "variants": []
+  },
+  {
+   "id": "strahov-av-ii-2-euclid-marginalia",
+   "label": "Prague, Strahov, AV II 2 — Euclid, Elementa (Basel 1558), binding stamped TYCHO BRAHE 1567: marginal notes attributed to Tycho (unexamined)",
+   "type": "marginalia_in_printed_book",
+   "registers": [
+    "marginalia"
+   ],
+   "stage": "formative-pre-hven",
+   "stage_label": "Formative / pre-Hven",
+   "date": "1567 or later",
+   "date_basis": "the front board carries the blind-stamped name and the year 1567 (Pařez 2009; Strahov catalogue: ‘Supralibros Tychona Brahe z roku 1567’); the notes are undated",
+   "date_conf": "C",
+   "autograph": "disputed",
+   "verdict": "possible",
+   "basis": "Pařez 2009: ‘O Tychově vlastnictví svědčí i přípisky psané jeho rukou in margine’; Pařez, letter: ‘a few notes … certainly Tycho's’. A curator's judgement, not a published comparison; the notes have never been transcribed or reproduced. If they are his and the binding's date holds, they would be the earliest marginalia in the store, from the Rostock student years — a decade before the Hven pillars.",
+   "att_conf": "C",
+   "established_by": "Pařez 2009 (attribution); this store (status)",
+   "scribe": "",
+   "scribe_disc": "",
+   "grade": "C",
+   "status": "disputed",
+   "institution": "Strahovská knihovna, Královská kanonie premonstrátů na Strahově",
+   "city": "Prague",
+   "country": "CZ",
+   "shelfmark": "AV II 2",
+   "catalogue_url": "https://strahovskyklaster.tritius.cz/detail/993601",
+   "iiif": "",
+   "surrogates": [],
+   "content": "Unknown. The book is the Zamberti–Campanus Elements with Theon's exposition, Hypsicles on Books XIV–XV, the Phaenomena and De levi et ponderoso (Basel: Herwagen & Brand 1558, VD16 E 4157) — a working mathematician's Euclid; notes in it are likelier to be geometrical than astronomical.",
+   "extent": "‘a few notes’ (Pařez 2026); number, language and location unrecorded",
+   "references": [
+    {
+     "kind": "paleographic study",
+     "name": "Pařez 2009",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "institutional catalogue",
+     "name": "Strahov Katalog Tritius 993601",
+     "href": "",
+     "loc": ""
+    }
+   ],
+   "census_ref": "",
+   "open_questions": [
+    ": photograph every note with its page at pillar scale and the whole opening for context; record their language and content; photograph the 1567 stamp with a rule in raking light.",
+    "The date test: a 1567 hand should sit beside the ‘Tycho Brade 1561’ and ‘Ty Brad 1563’ student volumes and the Wittenberg/Rostock letters, not beside the Hven pillars — the formative-stage cell of the grid is nearly empty and this is its candidate.",
+    "Mainx test closed on the mark: the plaque Mortensen describes for all eight Mainx books is the gilt portrait; this is a blind-stamped name."
    ],
    "variants": []
   },
@@ -2327,7 +2379,7 @@
    "city": "Prague",
    "country": "CZ",
    "shelfmark": "AG XI 56",
-   "catalogue_url": "",
+   "catalogue_url": "https://strahovskyklaster.tritius.cz/detail/982704",
    "iiif": "",
    "surrogates": [],
    "content": "Presentation dedication to Johann, Baron von Hasenburg; calligraphic body + autograph 'd(ono) d(edi)t Tÿcho Brahe'.",
@@ -4004,6 +4056,64 @@
    "variants": [
     "presentation-formal-exile"
    ]
+  },
+  {
+   "id": "strahov-dr-vii-19-weather-note",
+   "label": "Prague, Strahov, DR VII 19 — Regiomontanus, Ephemerides (Ratdolt 1492): the 34-line note on the winter of 1495/96 (attributed)",
+   "type": "marginalia_in_printed_book",
+   "registers": [
+    "marginalia"
+   ],
+   "stage": "exile-late",
+   "stage_label": "Exile / late",
+   "date": "undated; if Tycho's, between his acquisition of the volume and 1601 — the volume was in the Jesuit Clementinum by 1642",
+   "date_basis": "the note is undated (Straka 1913); Boldan 2025 leaves open whether Tycho acquired the volume before or after coming to Bohemia",
+   "date_conf": "D",
+   "autograph": "disputed",
+   "verdict": "possible",
+   "basis": "Straka 1913: ‘po srovnání jeho s jinými rukopisy slavného hvězdáře nebylo pochybnosti, že zápis psán byl Tychonem samým’ — an undocumented comparison by eye, the method Šíma & Valeška discredited for Studnička's claimed holographs. Munzar & Pařez 2002 re-read the note as Tycho's entry on the winter of 1495/96 (content argument). Boldan 2025 calls it ‘vlastnoruční’ without argument. Pařez himself calls the case hypothetical. The strongest internal pointer is the plague sentence: ‘Germanis et Danis ante ea tempora non solum incognita’ — a Danish frame of reference. Never compared with the pillars.",
+   "att_conf": "C",
+   "established_by": "Straka 1913 (attribution); this store (status)",
+   "scribe": "",
+   "scribe_disc": "",
+   "grade": "C",
+   "status": "disputed",
+   "institution": "Strahovská knihovna, Královská kanonie premonstrátů na Strahově",
+   "city": "Prague",
+   "country": "CZ",
+   "shelfmark": "DR VII 19/1–2 (old shelfmark AG VII 84); the note is at fol. e4v of the 1492 Ephemerides (Boldan 2025) = ‘e14b (75v)’ (Strahov catalogue) = ‘list 75.b’ of an old manuscript foliation (Straka 1913)",
+   "catalogue_url": "https://strahovskyklaster.tritius.cz/detail/1064031",
+   "iiif": "",
+   "surrogates": [],
+   "content": "‘haec hiems tanta frigoris in Bruma asperitate referta erat tantaeque nivium moles passim conglomeratae, ut Agrestium casarum culmina superantes desuper Homines in redis iter expedientissime facerent at sequuta est insequente aestate maxima lues, vulgo Gallica scabies dicta, Germanis et Danis ante ea tempora non solum incognita, sed prorsus inaudita, quae multa hominum milia infecit. Ratio est, quod omnes planete sint in frigidis et humidis signis, praesertim introeunte ☉ in initia solstitii Hiberni. Ex quibus certissimum inditium frigoris et copiosae nivis sumi poterat.’ [table: ☉ Capricorn cold-dry; ☽ Scorpio cold-wet; ♄ Pisces; ♃ Scorpio; ♂ Pisces; ♀ Aquarius/Capricorn wet; ☿ Capricorn cold-dry] — Straka's transcription, 1913. Written on the blank verso of the leaf carrying the December 1495 positions (misprinted ‘1955’); the next leaf opens the almanac for 1496.",
+   "extent": "Latin prose plus a table of the seven planets' zodiacal signs; Straka prints about twelve lines of the Latin and paraphrases the rest in Czech. A large specimen by the discipline's standards — larger than any secure marginalia specimen in this store.",
+   "references": [
+    {
+     "kind": "scholarly work",
+     "name": "Straka 1913",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Munzar & Pařez 2002",
+     "href": "",
+     "loc": "pp. 360–375 — not held; the corpus copy of the volume ends at p. 333"
+    },
+    {
+     "kind": "institutional catalogue",
+     "name": "Boldan 2025",
+     "href": "",
+     "loc": ""
+    }
+   ],
+   "census_ref": "",
+   "open_questions": [
+    "Photograph the whole note and overlapping details at pillar scale, with the same lighting as the secure pillars,; then run the discriminator roster (looped-ascender uncial d; final s; T-capital; the Tÿcho/Tycho question does not arise — the note is unsigned).",
+    "Content test: a note written by a Dane about a winter ‘unknown before to Germans and Danes’ fits Tycho; it also fits any Danish reader of the almanac before 1642. The paper, ink and the other ‘počtářské’ (computational) jottings on the blank leaves are the context to record.",
+    "Which incunable carries the leaf: Boldan 2025 places it in the 1492 Augsburg Ephemerides (adl. 1); the catalogue's ‘e14b’ and Straka's old foliation must be reconciled on the object."
+   ],
+   "variants": []
   }
  ],
  "variants": [

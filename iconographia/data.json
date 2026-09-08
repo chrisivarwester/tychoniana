@@ -1254,12 +1254,14 @@
     "S_ICON_DOSSIER_2026",
     "S_ICON_NORLIND1970",
     "S_ICON_STUDNICKA1901",
-    "S_ICON_MORTENSEN1942"
+    "S_ICON_MORTENSEN1942",
+    "S_ICON_KROUPA2001",
+    "S_ICON_PAREZ2009"
    ],
    "image": "plates/icon-mechanica-watercolours.jpg",
    "image_thumb": "plates/icon-mechanica-watercolours_thumb.jpg",
    "image_credit": "The hand-painted watercolour portrait facing the title of Tycho Brahe, Astronomiæ instauratæ mechanica (Wandsbek 1598). Det Kongelige Bibliotek, Copenhagen, LN 432 2°, eks. 2 — Tycho's presentation copy to Petr Vok z Rožmberka, dedicated 18 September 1600. From KB's own digitisation, Digitale Samlinger object11914, leaf LN_432_2_005 (IIIF: kb-images.kb.dk/DAMJP2/online_master_arkiv_4/non-archival/HA/TB_LN432/).",
-   "census_copies": "Watercolour portraits documented on: Copenhagen KB LN 432 2° eks. 2 (the Petr Vok presentation copy — verified from the digitised copy, July 2026), Strahov (Hasselberg nr 23, 'Med porträtt som i KVA:s', Norlind; leaf reproduced in Studnička 1901, plate at p. 47), Weimar HAAB 15,2:23, Stockholm KVA H1 (Wargentin) and Kalocsa Főszékesegyházi Könyvtár H22.",
+   "census_copies": "Watercolour portraits documented on: Copenhagen KB LN 432 2° eks. 2 (the Petr Vok presentation copy — verified from the digitised copy, July 2026), Strahov AG XI 56 (Hasselberg nr 23, 'Med porträtt som i KVA:s', Norlind; leaf reproduced in Studnička 1901, plate at p. 47; measured by Kroupa 2001 at 285 × 184 mm — portrait, arms and the motto Esse potius quam haberi — and bound in after the Házmburk dedication in place of the pasted-in portrait; reproduced Boldan & Vackářová 2024, p. 92; photographed by Vellev 2005), Weimar HAAB 15,2:23, Stockholm KVA H1 (Wargentin) and Kalocsa Főszékesegyházi Könyvtár H22.",
    "nature": "Each watercolour is unique — hand-painted individually for its copy, so every one is an original, and no two are quite alike. Vellev's claim that they 'must all derive from the same model' is refuted for at least one leaf: a first-hand inspection of the Weimar leaf found it a replica of the de Gheyn 1590 engraving, captioned aetatis 40 / anno 1586 — a demonstrably different and much earlier model.",
    "whereabouts": {
     "summary": "At least five exemplars are known; the Copenhagen one is fully digitised and public.",
@@ -2031,8 +2033,8 @@
     "city": "Prague, Czech Republic",
     "inv": "",
     "url": "",
-    "tier": "attested — Friis and the Vierteljahrsschrift der Astronomischen Gesellschaft (1881); no live Czech record reached",
-    "note": "Distinct from the Strahov Mechanica. Both were presented by Tycho to Jan Zbyněk Zajíc z Házmburka, so the same recipient holds two Tycho presentation volumes, each carrying a watercolour portrait — and the two portraits are of different types. Status is 'untraced', not 'extant': the object's survival rests on the 1881 report and nothing later. A third independent silence has since been added: Boldan & Vackářová, Bibliotheca astronomica (Národní knihovna ČR, 2024), pp. 88–91 — a Strahov-focused Tycho chapter — illustrates only the Mechanica and returns no trace of this Progymnasmata volume, the strongest of the three silences, 143 years after the report. The same source gives the sibling Mechanica's current shelfmark, AG XI 56. Neither the Strahov catalogue (Katalog Tritius) nor Manuscriptorium could be queried for this chapter — the live-record check is unexecuted, not negative. Friis's imprint for the Kilian engraving, 'Vienna 1657', is refuted — see the Kilian record."
+    "tier": "attested — Friis and the Vierteljahrsschrift der Astronomischen Gesellschaft (1881), the latter now read and filed at source; the Strahov catalogue's Brahe provenance search (8 September 2026) returns no Progymnasmata",
+    "note": "Distinct from the Strahov Mechanica. Both were presented by Tycho to Jan Zbyněk Zajíc z Házmburka, so the same recipient holds two Tycho presentation volumes, each carrying a watercolour portrait — and the two portraits are of different types. Status is 'untraced', not 'extant': the object's survival rests on the 1881 report and nothing later. A third independent silence has since been added: Boldan & Vackářová, Bibliotheca astronomica (Národní knihovna ČR, 2024), pp. 88–91 — a Strahov-focused Tycho chapter — illustrates only the Mechanica and returns no trace of this Progymnasmata volume, the strongest of the three silences, 143 years after the report. The same source gives the sibling Mechanica's current shelfmark, AG XI 56. The Strahov catalogue was reached on 8 September 2026: its provenance field for Brahe returns twelve records — five volumes from his library, the Mechanica AG XI 56, two Keplers and three peripheral items — and no Progymnasmata; a Progymnasmata could still be catalogued without a Brahe provenance note, so the check is negative rather than conclusive. Against the silences stands one positive hint: Pařez (2009), listing Strahov's Tycho books, speaks of volumes Tycho ‘used as gifts to other persons’ in the plural, and only the Mechanica is named — his 1996 survey (Tychoniana ve Strahovské knihovně), which predates the catalogue, is the place the volume would be listed. Manuscriptorium remains unqueried. Friis's imprint for the Kilian engraving, 'Vienna 1657', is refuted — see the Kilian record."
    },
    "conflicts": [
     {
@@ -2070,7 +2072,9 @@
     "S_ICON_DOSSIER_2026",
     "S_ICON_STUDNICKA1901",
     "S_ICON_BOLDAN2024",
-    "S_ICON_MEDDELELSER2006"
+    "S_ICON_MEDDELELSER2006",
+    "S_ICON_PAREZ2009",
+    "S_ICON_KROUPA2001"
    ],
    "image": "plates/icon-progymnasmata-watercolour.jpg",
    "image_thumb": "plates/icon-progymnasmata-watercolour_thumb.jpg",
@@ -2601,6 +2605,18 @@
    "id": "S_ICON_ICONES1596",
    "label": "Icones instrumentorum (Uraniborg 1596, Nielsen 975) — the block's first issue",
    "full": "Icones instrumentorum quorundam astronomiae instaurandae gratia a Tychone Brahe Dano...elaboratorum (Uraniborg, [1596]): 18 letterpress-free woodcut pulls of the instrument blocks, issued as a supplement with some copies of the 1596 Epistolae astronomicae; presentation copies to Christian IV and Chancellor Friis December 1596 (Norlind p. 235; Mosley App. I; Dreyer p. 230 n. 2). The armillary leaf prints the Fig. 12 block with the full portrait pedestal — examined in the Stockholm KB exemplar's digitisation (August 2026): same-block verdict on total design and letter-key correspondence. Four copies are censused (Stockholm KB, Vienna, Wrocław, and one in the trade)."
+  },
+  {
+   "id": "S_ICON_KROUPA2001",
+   "label": "Kroupa 2001",
+   "full": "Jiří K. Kroupa, ‘První vydání díla Tychona Brahe Astronomiae instauratae mechanica v českých knihovnách’, Bulletin plus (Národní knihovna ČR) 4/2001 — the three Bohemian copies of the 1598 Mechanica compared with the three in Paris; the Strahov copy's green silk binding, the Házmburk dedication in full, and the bound-in watercolour with portrait, arms and motto, measured at 285 × 184 mm. Recovered from the Internet Archive's capture of the dead NK ČR page.",
+   "url": "http://web.archive.org/web/20120507052325/http://www.nkp.cz/bp/bp2001_4/10.htm"
+  },
+  {
+   "id": "S_ICON_PAREZ2009",
+   "label": "Pařez 2009",
+   "full": "Jan Pařez, ‘Supralibros dánského astronoma Tycha Brahe ve Strahovské knihovně’, Sborník pro exlibris a drobnou grafiku 2009, pp. 24–26 — the Strahov volumes with Tycho's portrait and arms plaques (76 × 59 mm; a 59 × 43 mm variant), the Mechanica AG XI 56 among them on its ‘vzácná hedvábná vazba’; describes the portrait plaque's bust, the Elephant on its long chain and a medallion with the letters FS on the short one.",
+   "url": "https://www.sspe.cz/images/sborniky/Sbornik_2009.pdf"
   }
  ],
  "rejected": [
