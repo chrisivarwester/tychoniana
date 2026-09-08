@@ -3561,11 +3561,11 @@
  "autograph": "",
  "scribe": "",
  "digitized": false,
- "url": "http://data.onb.ac.at/rec/AC13948700",
+ "url": "https://search.onb.ac.at/primo-explore/search?query=any,contains,%22Cod.%2010686%22&tab=default_tab&search_scope=ONB_gesamtbestand&vid=ONB&lang=de_DE&offset=0",
  "confidence": "B",
  "status": "extant",
  "provenance": "",
- "notes": "48 sub-parts catalogued below. ~50 sub-parts: letters, treatises, calculi, orationes, genethliaca, idyllia, polemics. Incl. Responsa ad variorum epistolas 1572–76 (/7), Urania Titani (/12), Tractatus polemici fragmentum 1591 (/20), Kepler editorial notes (/36–44). Parent AC provisional; parts /17 & /22 are the 1573/1574 originals above. Per-part extraction pending.",
+ "notes": "48 sub-parts catalogued below. ~50 sub-parts: letters, treatises, calculi, orationes, genethliaca, idyllia, polemics. Incl. Responsa ad variorum epistolas 1572–76 (/7), Urania Titani (/12), Tractatus polemici fragmentum 1591 (/20), Kepler editorial notes (/36–44). No parent record exists in the ONB catalogue: the convolute is catalogued part by part (Cod. 10686/1 … /66, each with its own AC number), so the link opens the catalogue search for the shelfmark; parts /17 & /22 are the 1573/1574 originals above. Per-part extraction pending.",
  "sources": [
  "S_ONB"
  ],
@@ -5690,12 +5690,12 @@
  "leaves": "",
  "autograph": "",
  "scribe": "",
- "digitized": true,
- "url": "https://digital.onb.ac.at/rep/access/open/BAG_5056515",
+ "digitized": false,
+ "url": "http://data.onb.ac.at/rec/AC13961790",
  "confidence": "A",
  "status": "extant",
  "provenance": "",
- "notes": "Responsa ad variorum epistolas a. 1572-1576; incl. Epistolae Johannis Pratensis (fol. 11v) (7 works) — Correspondence cluster. Only a single Bildarchiv photo (fol. 11v) online.",
+ "notes": "Responsa ad variorum epistolas a. 1572-1576; incl. Epistolae Johannis Pratensis (fol. 11v) (7 works) — Correspondence cluster. The single Bildarchiv photo (fol. 11v, BAG 5056515) once reported online is no longer served (checked 9 September 2026); the link opens the catalogue record.",
  "sources": [
  "S_ONB"
  ],

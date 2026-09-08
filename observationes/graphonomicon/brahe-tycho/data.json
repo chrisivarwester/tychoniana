@@ -34,7 +34,7 @@
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 91,
+  "open_questions": 92,
   "without_record_or_surrogate": 40,
   "anchors": 14,
   "undated": 2
@@ -2766,8 +2766,8 @@
      "kind": "facsimile-record"
     },
     {
-     "url": "https://www.alvin-portal.org/iipsrv/iipsrv.fcgi?IIIF=/mnt/data/alvin/jp2/16000/900/alvin-record_16945-ATTACHMENT-0001.jp2",
-     "label": "IIIF Image API 2.0 service @id (NOT a Presentation manifest)",
+     "url": "https://www.alvin-portal.org/iipsrv/iipsrv.fcgi?IIIF=/mnt/data/alvin/jp2/16000/900/alvin-record_16945-ATTACHMENT-0001.jp2/full/!1600,1600/0/default.jpg",
+     "label": "Alvin IIPImage — the leaf as JPEG (IIIF Image API 2.0; service base = the URL without the /full/… suffix, the record beside it)",
      "kind": "iiif-manifest"
     }
    ],
@@ -3427,7 +3427,7 @@
    "city": "",
    "country": "US",
    "shelfmark": "",
-   "catalogue_url": "https://www.rarepapers.com/",
+   "catalogue_url": "http://web.archive.org/web/20250614144617/http://rarepapers.com/",
    "iiif": "",
    "surrogates": [],
    "content": "Farewell leaf; the signature flourish is the most elaborate of the series. Marks the end of the 236-day Wittenberg sojourn.",
@@ -3442,7 +3442,8 @@
    ],
    "census_ref": "",
    "open_questions": [
-    "current owner/status unconfirmed"
+    "current owner/status unconfirmed",
+    "The dealer's site rarepapers.com is defunct (domain parked for sale by September 2026); the catalogue link now points at the Internet Archive's capture of 14 June 2025. The leaf's current whereabouts are unknown."
    ],
    "variants": [
     "dedication-exile"
@@ -4874,7 +4875,7 @@
    "id": "fof60-venusin-13-autographs",
    "name": "Jon Jacobsen Venusinus — 13 facsimiled autographs 1579–1606 (Fund og Forskning 60, 2022, plates)",
    "kind": "facsimile_archive",
-   "url": "https://tidsskrift.dk/fundogforskning",
+   "url": "https://tidsskrift.dk/fundogforskning/article/view/130493",
    "contributes": ""
   },
   {
