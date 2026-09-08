@@ -1,17 +1,17 @@
 {
  "title": "Across All Twelve — the apparatus of the Tychoniana editions",
  "registry": {
-  "registry_rows": 233,
+  "registry_rows": 232,
   "placeholders": 6,
-  "documented": 227,
+  "documented": 226,
   "located": 107,
   "extant": 106,
   "damaged": 1,
   "untraced": 35,
   "market": 26,
   "lost_copies": 9,
-  "attested": 85,
-  "attested_only": 77,
+  "attested": 84,
+  "attested_only": 76,
   "inferred": 8,
   "cd": 51,
   "cd_c": 43,
@@ -58,9 +58,9 @@
   "diary_years": 13,
   "letters": 509,
   "letters_dated": 509,
-  "episodes": 28,
-  "recep_before": 7,
-  "recep_from": 21,
+  "episodes": 35,
+  "recep_before": 8,
+  "recep_from": 27,
   "recep_1601": 5,
   "transmission": 21,
   "questions": 30,
@@ -1644,6 +1644,15 @@
    "link": "../loca/index.html#per-7"
   },
   {
+   "kind": "reception",
+   "key": "recep-hven-ruin-quarried",
+   "label": "The ruin and the quarry (1597–1652)",
+   "year_start": 1597,
+   "year_end": 1652,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-hven-ruin-quarried"
+  },
+  {
    "kind": "volume",
    "key": "O_COD10671",
    "label": "Fair-copy observations 1597 (apographum)",
@@ -2229,6 +2238,15 @@
    "link": "../instrumenta/index.html#sec-transmission"
   },
   {
+   "kind": "reception",
+   "key": "recep-hven-cellar-1747",
+   "label": "The cellar under the plough, and the cellar that was not beneath it (1747–1824)",
+   "year_start": 1747,
+   "year_end": 1824,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-hven-cellar-1747"
+  },
+  {
    "kind": "instrument-fate",
    "key": "transmission-c. 1780",
    "label": "The Prague observatory's earliest inventory lists 'No. 4, a large sextant of Tycho Brahe, made in the year 1600 by Erasmus Habermel' and 'No. 5, a smaller sextant of Tycho Brahe, which he brought with him to Prague'.",
@@ -2245,6 +2263,42 @@
    "year_end": 1782,
    "edition": "Instrumenta",
    "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-hven-protection-1805",
+   "label": "The ruins made an undisturbed common (1805–1824)",
+   "year_start": 1805,
+   "year_end": 1824,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-hven-protection-1805"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-ekdahl-excavation-1823",
+   "label": "The first excavation of Stjerneborg and Uraniborg (1823–24)",
+   "year_start": 1823,
+   "year_end": 1824,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-ekdahl-excavation-1823"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-faxe-1824-report",
+   "label": "Faxe's report (1824) — the first excavation report",
+   "year_start": 1824,
+   "year_end": 1824,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-faxe-1824-report"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-hven-relics-lund",
+   "label": "The finds to Lund (1824)",
+   "year_start": 1824,
+   "year_end": 1824,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-hven-relics-lund"
   },
   {
    "kind": "likeness",
@@ -2317,6 +2371,15 @@
    "year_end": 1901,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-exhumation-1901"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-hven-later-excavations",
+   "label": "The campaigns after Ekdahl (1901–1973)",
+   "year_start": 1901,
+   "year_end": 1973,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-hven-later-excavations"
   },
   {
    "kind": "reception",
@@ -2759,10 +2822,10 @@
    "short": "Mechanica",
    "year": 1598,
    "place": "Wandsbek",
-   "documented": 61,
+   "documented": 60,
    "located": 21,
    "untraced": 10,
-   "attested": 30,
+   "attested": 29,
    "cd_c": 18,
    "cd_d": 1,
    "provisional": true,

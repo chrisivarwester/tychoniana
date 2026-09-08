@@ -174,6 +174,7 @@ journey,journey-hven-copenhagen-1597,Final removal from Hven to Copenhagen (Febr
 journey,journey-rostock-wandsbek-1597,Rostock to Wandsburg via Segeberg and Bramstedt (8 September – mid-October 1597),1597,1597,Loca,../loca/index.html#journey-rostock-wandsbek-1597
 letters-year,letters-1597,"Letters, 1597: 23",1597,1597,Epistolarium,../epistolarium/index.html
 period,per-7,The departure and exile,1597,1599,Loca,../loca/index.html#per-7
+reception,recep-hven-ruin-quarried,The ruin and the quarry (1597–1652),1597,1652,Receptio,../receptio/index.html#recep-hven-ruin-quarried
 volume,O_COD10671,Fair-copy observations 1597 (apographum),1597,1597,Observationes,../observationes/index.html#vc-O_COD10671
 edition,M_APOLOGIA_1598,Hamburg 1598 (lost; the author's statement),1598,1598,Typographica,../census/brahe-apologia-1598-wandsbeck/explorer.html
 edition,M_MECH_1598,Wandsbek 1598,1598,1598,Typographica,../census/brahe-mechanica-1598-wandsbek/explorer.html
@@ -239,8 +240,13 @@ reception,recep-blaeu-atlas-1664,Joan Blaeu’s Grooten Atlas — Tycho’s inst
 reception,recep-historia-coelestis-1666,Historia Coelestis (Augsburg 1666) — the observations first in print,1666,1666,Receptio,../receptio/index.html#recep-historia-coelestis-1666
 instrument-fate,"transmission-1672, 18 May",The English legation secretary Henshaw reports that 'Tycho Brahe's instruments were long ago sold to brass-founders'.,1672,1672,Instrumenta,../instrumenta/index.html#sec-transmission
 instrument-fate,transmission-1728,"The globe burns in the Round Tower fire; the wooden body is consumed and the brass melts, leaving some lumps, the meridian ring, iron rings and the axle, since lost.",1728,1728,Instrumenta,../instrumenta/index.html#sec-transmission
+reception,recep-hven-cellar-1747,"The cellar under the plough, and the cellar that was not beneath it (1747–1824)",1747,1824,Receptio,../receptio/index.html#recep-hven-cellar-1747
 instrument-fate,transmission-c. 1780,"The Prague observatory's earliest inventory lists 'No. 4, a large sextant of Tycho Brahe, made in the year 1600 by Erasmus Habermel' and 'No. 5, a smaller sextant of Tycho Brahe, which he brought with him to Prague'.",1780,1780,Instrumenta,../instrumenta/index.html#sec-transmission
 instrument-fate,transmission-1782,"At Joseph II's auction of the Castle collections the two sextants are sold to Franz Leonard Herget, public teacher of mechanics and hydraulics.",1782,1782,Instrumenta,../instrumenta/index.html#sec-transmission
+reception,recep-hven-protection-1805,The ruins made an undisturbed common (1805–1824),1805,1824,Receptio,../receptio/index.html#recep-hven-protection-1805
+reception,recep-ekdahl-excavation-1823,The first excavation of Stjerneborg and Uraniborg (1823–24),1823,1824,Receptio,../receptio/index.html#recep-ekdahl-excavation-1823
+reception,recep-faxe-1824-report,Faxe's report (1824) — the first excavation report,1824,1824,Receptio,../receptio/index.html#recep-faxe-1824-report
+reception,recep-hven-relics-lund,The finds to Lund (1824),1824,1824,Receptio,../receptio/index.html#recep-hven-relics-lund
 likeness,icon-eckersberg-1831,"Eckersberg's sketch, 1831 — the young Christian IV visiting Hven",1831,1842,Iconographia,../iconographia/index.html#icon-eckersberg-1831
 reception,recep-comet-recomputation-19c,Tycho's comets recomputed — the 19th-century orbit reductions (1854),1844,1854,Receptio,../receptio/index.html#recep-comet-recomputation-19c
 instrument-fate,transmission-1852,"The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich.",1852,1852,Instrumenta,../instrumenta/index.html#sec-transmission
@@ -249,6 +255,7 @@ likeness,icon-hansen-1882,"Heinrich Hansen, 1882 — Tycho as national history p
 reception,recep-dreyer-biography-1890,"Dreyer, Tycho Brahe (Edinburgh 1890) — the foundational biography",1890,1890,Receptio,../receptio/index.html#recep-dreyer-biography-1890
 instrument-fate,transmission-1901,"Weinek publishes the two Prague sextants, with plates.",1901,1901,Instrumenta,../instrumenta/index.html#sec-transmission
 reception,recep-exhumation-1901,The 1901 exhumation (the tercentenary),1901,1901,Receptio,../receptio/index.html#recep-exhumation-1901
+reception,recep-hven-later-excavations,The campaigns after Ekdahl (1901–1973),1901,1973,Receptio,../receptio/index.html#recep-hven-later-excavations
 reception,recep-opera-omnia,Tychonis Brahe Opera Omnia (Copenhagen 1913–29) — the complete critical edition,1913,1929,Receptio,../receptio/index.html#recep-opera-omnia
 site,site-museum,Tycho Brahe Museum & the Stjerneborg reconstruction,1950,2025,Loca,../loca/index.html#site-museum
 reception,recep-zeeberg-urania-titani,"Zeeberg, Urania Titani (1994) — first critical edition of Tycho’s Latin poetry",1994,1994,Receptio,../receptio/index.html#recep-zeeberg-urania-titani

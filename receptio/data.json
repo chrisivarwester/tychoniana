@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.6",
- "edition_date": "2026-09-05",
+ "version": "1.7",
+ "edition_date": "2026-09-08",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -1055,6 +1055,200 @@
      "kind": "tychoniana"
     }
    ]
+  },
+  {
+   "id": "recep-hven-ruin-quarried",
+   "label": "The ruin and the quarry (1597–1652)",
+   "date": "1597–1652",
+   "year_start": 1597,
+   "year_end": 1652,
+   "status": "",
+   "grade": "B",
+   "description": "Tycho took his instruments off Hven in 1597 and the island reverted to the Crown's disposal. Faxe's reading of what followed is that neither building was merely left uncared for but that both were destroyed by design — the evidence being that Huet found no trace of Uraniborg in 1652, and that the walls of the Kungsgård raised a little distance away under Christian IV are built of the stone of Tycho's castle. By 1823 the site of Uraniborg was an open square of some 160 alnar to a side, ringed by rampart-like rises with four half-circles running out of them, and Stjerneborg betrayed itself only as a patch of ground lying slightly lower than the land around.",
+   "edges": [],
+   "sources": [
+    "S_RECEP_FAXE1824"
+   ],
+   "category": "Site",
+   "links": [
+    {
+     "label": "Uraniborg in Loca",
+     "href": "../loca/index.html#site-uraniborg",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "Stjerneborg in Loca",
+     "href": "../loca/index.html#site-stjerneborg",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-hven-cellar-1747",
+   "label": "The cellar under the plough, and the cellar that was not beneath it (1747–1824)",
+   "date": "1747–1824",
+   "year_start": 1747,
+   "year_end": 1824,
+   "status": "",
+   "grade": "B",
+   "description": "A cellar at Uraniborg came to light in 1747 when a horse in a plough-team fell through its failing vault and it was found that the field had been ploughed over a cellar; it had lain under the rooms Tycho's servants occupied. From the hollow sound the floor returned when struck — the same sound heard against its north wall — Sjöborg conjectured in 1815 that a further cellar lay beneath, and the belief became general among visitors to the site. Ekdahl dug under it and beside it in 1824 and found neither cellar nor room: islanders had been digging there in secret for money, and it is the loosened earth, not a void, that answers differently to the blow.",
+   "edges": [],
+   "sources": [
+    "S_RECEP_FAXE1824"
+   ],
+   "category": "Site",
+   "links": [
+    {
+     "label": "Uraniborg in Loca",
+     "href": "../loca/index.html#site-uraniborg",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-hven-protection-1805",
+   "label": "The ruins made an undisturbed common (1805–1824)",
+   "date": "1805–1824",
+   "year_start": 1805,
+   "year_end": 1824,
+   "status": "",
+   "grade": "A",
+   "description": "At the enskifte conference on Hven in 1805 it was resolved that the remains of Tycho Brahe's castle 'skola, såsom en åminnelse, blifva en orubbad allmänning' — should remain an undisturbed common, as a memorial (§8) — and that no plot be taken there for a school or poorhouse, the castle itself being thought to serve (§13). Nothing was ever built on it. The leaseholders Arvid Schau and, until his death in 1820, Pehr Otto Tausson kept the ground from damage; Tausson planted trees where the King and Queen had taken a meal during their visit in the summer of 1804, of which little remained twenty years later. Once the digging began the county governor placed the site under formal protection.",
+   "edges": [],
+   "sources": [
+    "S_RECEP_FAXE1824"
+   ],
+   "category": "Site",
+   "links": [
+    {
+     "label": "Uraniborg in Loca",
+     "href": "../loca/index.html#site-uraniborg",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-ekdahl-excavation-1823",
+   "label": "The first excavation of Stjerneborg and Uraniborg (1823–24)",
+   "date": "1823–1824",
+   "year_start": 1823,
+   "year_end": 1824,
+   "status": "",
+   "grade": "A",
+   "description": "Ditching to mend the road that runs between the two sites exposed a granite column at midsummer 1823. Nils Johan Ekdahl, then pastor's adjunct at St Ibb, dug where Stjerneborg had stood — almost alone, Faxe records, and seldom helped by more than one workman — following Tycho's own Ichnographia Stelleburgi. Winter stopped the work; it resumed through the summer of 1824 and was still running that October. The crypts, the connecting passages and the square hypocaustum came to light, each answering to its letter on Tycho's plan, together with the places of his own bed and of the pupils'. At Uraniborg the well, whose position was not known, was found after some days' digging, cleaned out and returned to use; the chemical laboratory, a deep cellar of retorts and sublimated sulphur, and the floor of the printing house were located. It is the first archaeological excavation of either building.",
+   "edges": [],
+   "sources": [
+    "S_RECEP_FAXE1824",
+    "S_RECEP_SBL_EKDAHL"
+   ],
+   "category": "Site",
+   "links": [
+    {
+     "label": "Stjerneborg in Loca",
+     "href": "../loca/index.html#site-stjerneborg",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The great equatorial armillary in Instrumenta",
+     "href": "../instrumenta/index.html#inst-great-equatorial-armillary",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The Uraniborg press in Typographica",
+     "href": "../typographica/index.html",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-faxe-1824-report",
+   "label": "Faxe's report (1824) — the first excavation report",
+   "date": "1824",
+   "year_start": 1824,
+   "year_end": 1824,
+   "status": "",
+   "grade": "A",
+   "description": "Bishop Vilhelm Faxe read an account of Ekdahl's finds to the Physiographic Society in Lund on 19 October 1824, certified in the protocol by the Society's secretary C. A. Agardh and printed as a separate at Stockholm the same year, with a folding plate whose plan is lettered to Tycho's Ichnographia and numbered to Hofman's. Faxe reports at one remove and says so: his own autopsy was a two-day visit on 28–29 August, the work was still going on, his notes would be found incomplete, and Ekdahl meant to give them 'mera vidsträckte, antingen genom ett academiskt specimen, eller på annat sätt'. That fuller account never appeared — Ekdahl left the island ten weeks later and made his name instead on the Gotland and Norrland inventories. The interim notice became the permanent record, and remains the only published description of the two sites as they were first uncovered.",
+   "edges": [
+    [
+     "about",
+     "recep-ekdahl-excavation-1823"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_FAXE1824",
+    "S_RECEP_SBL_EKDAHL",
+    "S_RECEP_VELLEV2017"
+   ],
+   "category": "Site",
+   "links": [
+    {
+     "label": "The excavation it reports",
+     "href": "#recep-ekdahl-excavation-1823",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-hven-relics-lund",
+   "label": "The finds to Lund (1824)",
+   "date": "1824",
+   "year_start": 1824,
+   "year_end": 1824,
+   "status": "",
+   "grade": "A",
+   "description": "The loose pieces could not stay on the island 'utan att förskingras eller förstöras', and were sent to the Antiquities Museum at the Carolinian Academy in Lund: the stone from over the hypocaustum, broken in several pieces lying some alnar apart, of which two rejoined read NEC FASCES NEC OPES · SOLA ARTIS · SCEPTRA PERENNANT, with the last two digits of 1585 surviving on one fragment — the same verse that stands on the Týn epitaph in Prague, which opens Non where the Hven stone reads Nec; sandstone ornaments; a lead siphon seven alnar long and a pulley of malm from the well; a worked copper tap of Arion on his dolphin, found with green glazed stove-tiles in the corner of a cellar; and raw and sublimated sulphur from the laboratory cellar. In the same week Ekdahl traced the paper mill's votive stone, carried from Hven to Knutstorp about the 1740s, and its owner Count Arvid Adolf Wachtmeister gave it to the same museum.",
+   "edges": [
+    [
+     "about",
+     "recep-ekdahl-excavation-1823"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_FAXE1824",
+    "S_RECEP_VELLEV2017"
+   ],
+   "category": "Site",
+   "links": [
+    {
+     "label": "Uraniborg in Loca",
+     "href": "../loca/index.html#site-uraniborg",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The grave in the Týn Church",
+     "href": "#recep-grave-prague",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-hven-later-excavations",
+   "label": "The campaigns after Ekdahl (1901–1973)",
+   "date": "1901–1973",
+   "year_start": 1901,
+   "year_end": 1973,
+   "status": "",
+   "grade": "B",
+   "description": "C. V. L. Charlier's excavation of the Uraniborg foundations in 1901 gave Charles Christensen the empirical floor for the measured reconstruction of 1921, and established that the plans printed in Tycho's own lifetime do not answer to what is in the ground. Further digging followed in 1924, and the museum was raised on the site at the turn of the 1930s. In 1973 Jern re-excavated the yellow-brick sub-cellar of the laboratory and argued it genuinely Tycho's against the reading that had condemned it; the Riksantikvarieämbetet had it filled in again the same summer.",
+   "edges": [
+    [
+     "about",
+     "recep-ekdahl-excavation-1823"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_BECKETT1921",
+    "S_RECEP_JERN1976"
+   ],
+   "category": "Site",
+   "links": [
+    {
+     "label": "The Tycho Brahe Museum in Loca",
+     "href": "../loca/index.html#site-museum",
+     "kind": "tychoniana"
+    }
+   ]
   }
  ],
  "sources": [
@@ -1281,6 +1475,40 @@
    "url": "https://muzeum3000.nm.cz/national-museum-news/research-of-the-tomb-and-remains-of-tycho-brahe",
    "url_label": "the museum's account",
    "contributes": "The 1901 opening (Matiegka's examination and certificate) and the 2010 research programme, from the museum that took part."
+  },
+  {
+   "id": "S_RECEP_FAXE1824",
+   "label": "Faxe, Fornlemningar af Tycho Brahes Stjerneborg och Uranienborg (Stockholm, 1824)",
+   "full": "Vilhelm Faxe, Fornlemningar af Tycho Brahes Stjerneborg och Uranienborg på Ön Hvén, aftäckte åren 1823 och 1824 (Stockholm: tryckt hos Johan Hörberg, 1824), 27 pp. + one folding engraved plate — the paper read to the Physiographic Society in Lund on 19 October 1824 (§2 of the protocol) and certified by the Society's secretary C. A. Agardh, reporting N. J. Ekdahl's excavation of Stjerneborg and Uraniborg. Digitised from the Kungliga biblioteket copy by Litteraturbanken, URN urn:nbn:se:lb-lb2399912-faksimil. The machine OCR of the scan is not citation-grade; figures cited here were checked against the page images.",
+   "contributes": "The first excavation report: both sites as they were first uncovered, the finds and their transfer to Lund, the 1805 and 1824 protection of the ground, and the refutation of the cellar believed to lie under the cellar of 1747."
+  },
+  {
+   "id": "S_RECEP_VELLEV2017",
+   "label": "Vellev, 'Et industrianlæg og en votivsten på Hven fra renæssancen' (2017)",
+   "full": "Jens Vellev, 'Et industrianlæg og en votivsten på Hven fra renæssancen. Om Tycho Brahes papirmølle', in God latin. Festskrift til Peter Zeeberg (Renæssanceforum 12, 2017), pp. 107–122 — the paper mill and its votive stone, with the inscription as Frommius copied it and Langebek printed it in 1746. P. 115 nn. 34–35 record that Ekdahl wrote a few reports, that Vellev has had them copied for a planned monograph on Uraniborg and Stjerneborg, and that the fuller account Faxe announced never came.",
+   "url": "https://www.njrs.dk/12_2017/11_vellev_brahe.pdf",
+   "url_label": "the article",
+   "contributes": "The paper-mill votive stone and its text; the fate of Ekdahl's own reports and the copies that survive in private hands."
+  },
+  {
+   "id": "S_RECEP_SBL_EKDAHL",
+   "label": "Svenskt Biografiskt Lexikon, 'Nils Johan Ekdahl'",
+   "full": "Svenskt Biografiskt Lexikon, art. 'Nils Johan Ekdahl' (Riksarkivet) — the excavator's dates (b. 27 April 1799 Fågeltofta, d. 20 December 1870 Stockholm) and church posts: pastor's adjunct at St Ibb on Ven from 18 June 1823, moved to Görslöv and Särslöv on 30 December 1824. It records the digging with the farmer Reinhard, its extension to Uraniborg in the spring of 1824, Faxe's report to the Physiographic Society, and that the fuller account Ekdahl promised 'utkom aldrig'.",
+   "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=16792",
+   "url_label": "the article",
+   "contributes": "Ekdahl's identity, his eighteen months on Ven, and the independent confirmation that his own account was never published."
+  },
+  {
+   "id": "S_RECEP_BECKETT1921",
+   "label": "Beckett & Christensen, Uraniborg og Stjærneborg (1921)",
+   "full": "Francis Beckett and Charles Christensen, Tyge Brahes Uraniborg og Stjærneborg paa Hven (København: Selskabet til Udgivelse af Danske Mindesmærker, 1921) — the measured reconstruction of both buildings, grounded on C. V. L. Charlier's 1901 excavation of the Uraniborg foundations, with the source-criticism of the contemporary depictions that showed them not to match what is in the ground.",
+   "contributes": "The 1901 excavation as the empirical basis of the 1921 reconstruction."
+  },
+  {
+   "id": "S_RECEP_JERN1976",
+   "label": "Jern, Uraniborg: herresäte och himlaborg (Lund, 1976)",
+   "full": "Carl Henrik Jern, Uraniborg: herresäte och himlaborg (Lund: Studentlitteratur, 1976) — the art-historical monograph on Uraniborg as a building, carrying the excavation and reception history from Sjöborg 1814 to the author's own re-excavation of the laboratory sub-cellar in 1973 and the Riksantikvarieämbetet's re-infilling of it.",
+   "contributes": "The campaigns after Ekdahl, and the 1973 sub-cellar episode."
   }
  ],
  "threads": [
@@ -1303,6 +1531,10 @@
   {
    "id": "Biography",
    "gloss": "How his life and character were written, from the earliest contemporary verse and verdict to the modern editions."
+  },
+  {
+   "id": "Site",
+   "gloss": "The place itself after 1597 — the buildings as ruin, quarry, excavation and museum. Where the other threads follow what was made of Tycho's work, this one follows what became of the ground it was done on, and how it was recovered."
   }
  ],
  "grades": {
@@ -1317,6 +1549,7 @@
   "No online record could be verified for the Týn church's own tomb, for Riccioli's 1651 volumes, for Schjellerup's 1854 memoir, for Bricka's volume of Danske Magazin, or for Zeeberg's two studies; those records carry the citation and no link.",
   "The 1901 examination is known only through the 2010 project's account; Matiegka's own report has not been located.",
   "Hind's reduction of the comet of 1582 is dated only by the 1846 paper on the comet of 1590; its own place of publication is not recorded here.",
-  "The Gingerich citation was resolved by the editor to the 1971 Sky and Telescope article; the compilation's original registry named no work."
+  "The Gingerich citation was resolved by the editor to the 1971 Sky and Telescope article; the compilation's original registry named no work.",
+  "Ekdahl's manuscript reports on the 1823-24 excavation, unpublished and un-located in print, would be the only fuller record of what the crypts held when they were opened."
  ]
 }
