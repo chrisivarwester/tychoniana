@@ -6,12 +6,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>A Census of Elegy on Johannes Franciscus Ripensis (Hans Frandsen) (Uraniborg (Hven), 1584)</title>
 <style>
+/* Tychoniana's own palette (2026-09-08): the report is a page of the portal and reads as one.
+   No dark-mode switch — every other Tychoniana page is parchment in either browser mode,
+   and a census that went dark beside them was the one page that changed with the browser. */
 :root {
-  --fg: #1a1a1a;
-  --bg: #fafaf7;
-  --accent: #5a4a3a;
-  --muted: #666;
-  --border: #d8d4cc;
+  --fg: #1a2238;
+  --bg: #f6f1e6;
+  --card: #fffdf8;
+  --accent: #7d6428;
+  --gold: #c9a23f;
+  --muted: #6b6450;
+  --border: #ddd3bf;
 }
 * { box-sizing: border-box; }
 body {
@@ -19,38 +24,46 @@ body {
   color: var(--fg);
   background: var(--bg);
   line-height: 1.55;
-  max-width: 740px;
-  margin: 0 auto;
-  padding: 1.2rem 1rem 4rem;
-  font-size: 17px;
+  margin: 0;
+  padding: 0 0 4rem;
+  font-size: 16px;
 }
-h1 { font-size: 1.65rem; line-height: 1.25; margin: 0 0 .4rem; color: var(--accent); }
-h2 { font-size: 1.25rem; margin: 2.2rem 0 .6rem; color: var(--accent);
-     border-bottom: 1px solid var(--border); padding-bottom: .2rem; }
-h3 { font-size: 1.05rem; margin: 1.6rem 0 .4rem; }
+/* the site topbar runs the width of the window, as on every other page; the reading measure
+   is given to each block instead of to the body, so the two can differ (2026-09-08) */
+body > *:not(.topbar) {
+  max-width: 820px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+div.topbar { margin-bottom: 1.2rem; }
+h1 { font-size: 1.75rem; line-height: 1.25; margin: 0 0 .4rem; color: var(--fg); font-weight: normal; }
+h2 { font-size: 1.3rem; margin: 2.2rem 0 .6rem; color: var(--fg); font-weight: normal;
+     border-bottom: 2px solid var(--gold); padding-bottom: .2rem; }
+h3 { font-size: 1.05rem; margin: 1.6rem 0 .4rem; font-weight: normal; }
 h4 { font-size: 1rem; margin: 1.3rem 0 .35rem; color: var(--muted); }
 p, ul, ol, blockquote { margin: .55rem 0; }
-a { color: var(--accent); text-decoration: underline; }
-a:hover { text-decoration: none; }
-code { background: #efece4; padding: 1px 4px; border-radius: 3px;
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: #f0e8d8; padding: 1px 4px; border-radius: 3px;
        font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: .9em; }
-blockquote { border-left: 3px solid var(--border); margin-left: 0;
-             padding: .1rem 0 .1rem .9rem; color: var(--muted); }
+blockquote { border-left: 2px solid var(--gold); margin-left: 0;
+             padding: .1rem 0 .1rem .9rem; color: #3f382c; }
 hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
 ul, ol { padding-left: 1.5rem; }
+/* a top-level list is inside the measure, so its markers indent from it, not from the page */
+body > ul, body > ol { padding-left: 2.6rem; }
 li { margin: .15rem 0; }
-table { border-collapse: collapse; margin: 1rem 0; font-size: .95rem; width: 100%; }
+.tw { overflow-x: auto; margin: 1rem 0; }
+table { border-collapse: collapse; margin: 1rem 0; font-size: .95rem; width: 100%;
+        background: var(--card); }
 th, td { border: 1px solid var(--border); padding: .35rem .6rem; text-align: left;
-         vertical-align: top; }
-th { background: #efece4; font-weight: bold; }
-@media (prefers-color-scheme: dark) { th { background: #2a2620; } }
+         vertical-align: top; overflow-wrap: break-word; }
+th { background: #efe7d2; font-weight: 600; }
 .meta { color: var(--muted); font-size: .92rem; margin-bottom: 1rem; }
 .footer { color: var(--muted); font-size: .85rem; margin-top: 3rem;
           border-top: 1px solid var(--border); padding-top: .8rem; }
-@media (prefers-color-scheme: dark) {
-  :root { --fg: #e8e5dd; --bg: #1a1815; --accent: #c8b896; --muted: #a09c93; --border: #3a352d; }
-  code { background: #2a2620; }
-}
 </style>
 <link rel="icon" href="../../favicon.svg" type="image/svg+xml"><link rel="alternate icon" href="../../favicon.ico" sizes="any"><link rel="apple-touch-icon" href="../../apple-touch-icon.png">
 </head>
