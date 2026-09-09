@@ -622,6 +622,7 @@ ul.open-questions li::before {
 }
 </style>
 <link rel="icon" href="../../favicon.svg" type="image/svg+xml"><link rel="alternate icon" href="../../favicon.ico" sizes="any"><link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+<style id="tychoniana-plink">.plink{display:inline-block;max-width:100%;font:11.5px/1.6 ui-monospace,Consolas,monospace;color:var(--gold-text,#7d6428);word-break:break-all;text-decoration:none;border-bottom:1px dotted #c9b98f;cursor:pointer}.plink:hover{border-bottom-style:solid;text-decoration:none}.plink .ptag{display:inline-block;font:10px/1.4 -apple-system,'Segoe UI',sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--muted,#6b6450);border:1px solid var(--line,#ddd3bf);border-radius:3px;padding:1px 5px;margin-left:7px;white-space:nowrap}.plink .ptag::before{content:"copy"}.plink.copied .ptag::before{content:"copied"}.plink.copied .ptag{color:#2f6b3a;border-color:#2f6b3a}@media print{.plink .ptag{display:none}.rec-hd a.rec-key.copied::after{content:none}}</style>
 </head>
 <body>
 <style id="tychoniana-chrome">:root{--ink:#1a2238;--gold:#9a7b32;--gold2:#c9a23f;--gold-text:#7d6428;--parch:#f6f1e6;--card:#fffdf8;--line:#ddd3bf;--muted:#6b6450;--navy:#0f1525}div.topbar{background:var(--navy,#0f1525);color:#8090b0;font-size:12px;padding:5px 26px;font-family:-apple-system,'Segoe UI',sans-serif}div.topbar a{color:#c9a23f;text-decoration:none}div.topbar a:hover{text-decoration:underline}div.topbar .sep{color:#5a6a88;margin:0 8px}div.topbar .cur{color:#cdd6e8}div.topbar{display:flex;align-items:center;flex-wrap:wrap;gap:4px 0}.site-search{margin-left:auto;display:flex}.site-search input{font:12px -apple-system,'Segoe UI',sans-serif;padding:3px 8px;width:190px;border:1px solid #2a3350;border-radius:3px;background:#1a2238;color:#cdd6e8}.site-search input::placeholder{color:#6a7898}.site-search input:focus{outline:1px solid #c9a23f;background:#141c30}@media(max-width:600px){.site-search{margin-left:0;width:100%;margin-top:4px}.site-search input{width:100%}}</style>
@@ -1518,7 +1519,7 @@ function renderCard(c) {
       <strong>Full ID:</strong> <code style="${codeStyle}">${escapeHtml(fqid)}</code><br>
       <strong>Local slug:</strong> <code style="${codeStyle}">${escapeHtml(c.slug)}</code><br>
       <strong>Permalink:</strong>
-      <a href="${escapeHtml(url)}" style="color:var(--accent);font-size:11px;word-break:break-all">${escapeHtml(url)}</a><br>
+      <a class="plink" href="${escapeHtml(url)}" data-plink title="Click to copy this link"><span class="purl">${escapeHtml(url)}</span><span class="ptag" aria-hidden="true"></span></a><br>
       <strong>Cite:</strong> <span class="cite-line">${escapeHtml(citeText)}</span>
       <button class="cite-copy" style="font-size:10px;margin-left:6px;padding:1px 7px;border:1px solid var(--border);border-radius:3px;background:#f0eee8;cursor:pointer"
         onclick="try{navigator.clipboard.writeText(this.previousElementSibling.textContent);this.textContent='copied';}catch(e){}">copy</button>
@@ -1606,5 +1607,46 @@ init();
 </script>
 <style id="tychoniana-stamp">.build-stamp{border-top:1px solid #ddd3bf;padding:10px 26px 18px;font-size:10.5px;color:#6b6450;line-height:1.6;font-family:-apple-system,'Segoe UI',sans-serif}.build-stamp b{color:#6b6450;font-weight:600}.build-stamp a{color:#7d6428}@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}</style>
 <div class="build-stamp">Census<br><b>Cite:</b> &ldquo;Census — Epistolarum astronomicarum libri&rdquo;, <i>Tychoniana</i> (version of 19 July 2026), accessed <span class="acc-date"></span>.<script>document.querySelectorAll(".acc-date").forEach(function(e){e.textContent=new Date().toISOString().slice(0,10);});</script></div>
+<script id="tychoniana-plink">
+(function(){
+ var each=function(root,sel,fn){if(root.querySelectorAll)Array.prototype.forEach.call(root.querySelectorAll(sel),fn);
+  if(root.matches&&root.matches(sel))fn(root);};
+ /* the browser has already resolved the anchor's relative href, so a.href IS the full
+    address of what the link points at — that is what is printed and what is copied */
+ var fill=function(root){
+  each(root,'a[data-plink]',function(a){var u=a.querySelector('.purl');if(u)u.textContent=a.href;});
+  /* a citation's own address: the same resolution, without the copy affordance */
+  each(root,'[data-plink-url]',function(el){var a=document.createElement('a');
+   a.href=el.getAttribute('data-plink-url');el.textContent=a.href;});};
+ fill(document);
+ /* the explorers build their record panels after load, so new anchors are filled as they arrive */
+ window.plinkScan=fill;
+ if(window.MutationObserver)new MutationObserver(function(ms){ms.forEach(function(m){
+   Array.prototype.forEach.call(m.addedNodes,function(n){if(n.nodeType===1)fill(n);});});
+  }).observe(document.documentElement,{childList:true,subtree:true});
+ var flash=function(el){el.classList.add('copied');setTimeout(function(){el.classList.remove('copied');},1800);};
+ var toClipboard=function(t,el){
+  var ok=function(){flash(el);};
+  var fb=function(){var ta=document.createElement('textarea');ta.value=t;ta.setAttribute('readonly','');
+   ta.style.cssText='position:fixed;top:-1000px';document.body.appendChild(ta);ta.select();
+   try{document.execCommand('copy');ok();}catch(err){}document.body.removeChild(ta);};
+  if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(t).then(ok,fb);else fb();};
+ document.addEventListener('click',function(ev){
+  var a=ev.target.closest&&ev.target.closest('a[data-plink]');
+  /* a modifier-, middle- or right-click still opens or copies the link the browser's own way */
+  if(!a||ev.button!==0||ev.metaKey||ev.ctrlKey||ev.shiftKey||ev.altKey)return;
+  ev.preventDefault();toClipboard(a.href,a);
+  /* a record's key is user-select:all, so the click also selects the KEY while the clipboard
+     holds the ADDRESS — two different strings. Drop the selection rather than contradict the
+     'link copied' flash; a reader who wants the bare key drags over it, or reads the apparatus. */
+  if(a.classList.contains('rec-key')){try{var sel=window.getSelection();if(sel)sel.removeAllRanges();}catch(err){}}
+  var raw=a.getAttribute('href');
+  if(raw.charAt(0)==='#'){try{history.replaceState(null,'',a.href);}catch(err){}
+   var el=document.getElementById(raw.slice(1));
+   if(el){Array.prototype.forEach.call(document.querySelectorAll('.hl'),function(x){x.classList.remove('hl');});
+    el.classList.add('hl');}}
+ });
+})();
+</script>
 </body>
 </html>

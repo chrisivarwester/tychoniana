@@ -7894,8 +7894,8 @@
    "url_label": "ÖNB digital viewer",
    "urls": [
     {
-     "url": "https://api.onb.ac.at/iiif/presentation/v3/manifest/131EA75D",
-     "label": "IIIF Presentation manifest (v3)"
+     "url": "https://viewer.onb.ac.at/131EA75D",
+     "label": "digital facsimile (ÖNB viewer)"
     },
     {
      "url": "https://data.onb.ac.at/rec/AC13957482",

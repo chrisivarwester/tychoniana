@@ -3046,7 +3046,7 @@
  "kind": "derivative",
  "label": "Apologia ad Craigum — Berlin fragment",
  "inst": "BERLIN",
- "shelfmark": "[Brahe collection vol.; shelfmark unresolved]",
+ "shelfmark": "[Sammelband of Tycho's writings; shelfmark unresolved]",
  "work": "W_APOLOGIA",
  "manif": "",
  "year": "",
@@ -3059,7 +3059,7 @@
  "confidence": "B",
  "status": "extant",
  "provenance": "",
- "notes": "A fragment of the Apologia in a Berlin collection-volume of Tycho's astronomical writings, apparently copied FROM a printed exemplar (Nielsen) and prefaced by Craig's three letters to Tycho. The strongest external corroboration of Bartholin's claim that a print existed. Confirmed located by Nielsen 1921; exact shelfmark unresolved. Per Norlind 1970 the Berlin (Preuß. Staatsbibliothek) De-mundi copy was treated as WWII-lost (p.125). CFC 2026-06-01 settles the Kraków alternative: the two Jagiellońska De-mundi+Epistolae klocki (BJ St. Dr. Cim. 6166–67, inscribed Jan Brożek 1610; and 6169–71, 'M. Weieri') are OLD Krakow holdings, NOT ex-Berlin 'Berlinka', and neither binds in the Apologia or Craig's letters — so this fragment did not relocate to Kraków and is most likely a genuine WWII loss. See Q_APOLOGIA_RESIDUAL.",
+ "notes": "A fragment of the Apologia in a Berlin Sammelband of Tycho's astronomical writings, apparently copied FROM a printed exemplar (Nielsen) and prefaced by Craig's three letters to Tycho. The strongest external corroboration of Bartholin's claim that a print existed. Confirmed located by Nielsen 1921; exact shelfmark unresolved. Per Norlind 1970 the Berlin (Preuß. Staatsbibliothek) De-mundi copy was treated as WWII-lost (p.125). CFC 2026-06-01 settles the Kraków alternative: the two Jagiellońska De-mundi+Epistolae klocki (BJ St. Dr. Cim. 6166–67, inscribed Jan Brożek 1610; and 6169–71, 'M. Weieri') are OLD Krakow holdings, NOT ex-Berlin 'Berlinka', and neither binds in the Apologia or Craig's letters — so this fragment did not relocate to Kraków and is most likely a genuine WWII loss. See Q_APOLOGIA_RESIDUAL.",
  "sources": [
  "S_NIELSEN_BT"
  ],
@@ -10046,7 +10046,7 @@
  "O_APOL_BERLIN"
  ],
  "hypothesis": "Nielsen notes 'flere Afskrifter'; KB NKS 93b is one; a fragment exists in Berlin (apparently copied from the supposed print, prefaced by Craig's three letters); Gassendi names a Longomontanus copy later held by Jørgen From.",
- "resolves": "Witness census assembled. CONFIRMED located — (1) KB NKS 2° 93 b, 40 ll., 32×21 cm, the scribal base-MS for Dreyer's TBOO IV edition; (2) Berlin, a fragment in a Brahe collection-volume, copied from a print and prefaced by Craig's three letters — exact shelfmark unresolved, its post-WWII Berlin-vs-Kraków fate unverified (see ‘The untraced Apologia witnesses, and Berlin against Kraków’). REPORTED but untraced — (3) a Kepler-papers copy titled 'Apologia … ad Craigum de Cometis 1589'; (4) the Longomontanus→Jørgen From manuscript (Gassendi). Nielsen's 'flere Afskrifter' implies at least one further KB copy. Residual: pin the Berlin shelfmark and trace the Kepler/From copies.",
+ "resolves": "Witness census assembled. CONFIRMED located — (1) KB NKS 2° 93 b, 40 ll., 32×21 cm, the scribal base-MS for Dreyer's TBOO IV edition; (2) Berlin, a fragment in a Sammelband of Tycho's writings, copied from a print and prefaced by Craig's three letters — exact shelfmark unresolved, its post-WWII Berlin-vs-Kraków fate unverified (see ‘The untraced Apologia witnesses, and Berlin against Kraków’). REPORTED but untraced — (3) a Kepler-papers copy titled 'Apologia … ad Craigum de Cometis 1589'; (4) the Longomontanus→Jørgen From manuscript (Gassendi). Nielsen's 'flere Afskrifter' implies at least one further KB copy. Residual: pin the Berlin shelfmark and trace the Kepler/From copies.",
  "pillar": "scripta",
  "position_kind": "register-exists",
  "resolved_on": "2026-05-31",

@@ -759,8 +759,8 @@
      "kind": "tychoniana"
     },
     {
-     "label": "Grooten Atlas, vol. 2 — Utrecht University Library AC 62 Rariora, IIIF manifest",
-     "href": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-241046",
+     "label": "Grooten Atlas, vol. 2 — Utrecht University Library AC 62 Rariora",
+     "href": "https://objects.library.uu.nl/reader/20.500.14918-241046",
      "kind": "object"
     }
    ]
@@ -1345,9 +1345,9 @@
   {
    "id": "S_RECEP_BLAEU1664",
    "label": "Blaeu, Grooten Atlas (Amsterdam, 1664) — Utrecht AC 62 Rariora",
-   "full": "Joan Blaeu, Grooten Atlas oft Werelt-beschryving, vol. 2 (Amsterdam, 1664), pp. 136–226 (Deel van Denemarken). Universiteitsbibliotheek Utrecht, shelfmark AC 62 Rariora. IIIF manifest: https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-241046.",
-   "url": "https://objects.library.uu.nl/manifest/iiif/v3/20.500.14918-241046",
-   "url_label": "IIIF manifest, Utrecht",
+   "full": "Joan Blaeu, Grooten Atlas oft Werelt-beschryving, vol. 2 (Amsterdam, 1664), pp. 136–226 (Deel van Denemarken). Universiteitsbibliotheek Utrecht, shelfmark AC 62 Rariora. Digitised at https://objects.library.uu.nl/reader/20.500.14918-241046.",
+   "url": "https://objects.library.uu.nl/reader/20.500.14918-241046",
+   "url_label": "digital facsimile, Utrecht",
    "contributes": "The 1664 atlas's Denmark and Hven sections, the coloured instrument plates and the Stjerneborg inscriptions."
   },
   {

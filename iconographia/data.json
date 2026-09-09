@@ -1553,7 +1553,7 @@
     "inv": "",
     "url": "",
     "tier": "untraced",
-    "note": "Dreyer 1890 pp. 365–66: 'At the present day there is neither at Prague nor at Copenhagen the smallest vestige of Tycho's celebrated instruments' — his own hedge 'are said to have' on the 1619 destruction is preserved. Only the great brass globe survived, and it burned at Copenhagen in October 1728. The Detmold Mechanica (Lippische Landesbibliothek Nl 70.4°) is the only public deep-zoom surrogate of the plate (IIIF manifest digitale-sammlungen.llb-detmold.de/i3f/v20/2547750/manifest, plate at canvas 2547769), but its emblem roundel is uncoloured line-work within an otherwise richly hand-coloured plate; the red/green emblem colouring is known only from BL C.45.h.3 (Perkins & Taub Fig. 3), which has no digital surrogate."
+    "note": "Dreyer 1890 pp. 365–66: 'At the present day there is neither at Prague nor at Copenhagen the smallest vestige of Tycho's celebrated instruments' — his own hedge 'are said to have' on the 1619 destruction is preserved. Only the great brass globe survived, and it burned at Copenhagen in October 1728. The Detmold Mechanica (Lippische Landesbibliothek Nl 70.4°) is the only public deep-zoom surrogate of the plate (digitale-sammlungen.llb-detmold.de, titleinfo 2547750; the plate at image 2547769), but its emblem roundel is uncoloured line-work within an otherwise richly hand-coloured plate; the red/green emblem colouring is known only from BL C.45.h.3 (Perkins & Taub Fig. 3), which has no digital surrogate."
    },
    "conflicts": [
     {
@@ -2313,8 +2313,8 @@
   {
    "id": "S_ICON_DETMOLD",
    "label": "Detmold Mechanica, Lippische Landesbibliothek Nl 70.4° (IIIF)",
-   "full": "Lippische Landesbibliothek Detmold, hand-coloured Astronomiae instauratae mechanica, Nl 70.4°, IIIF manifest digitale-sammlungen.llb-detmold.de/i3f/v20/2547750/manifest — the quadrans minor plate at canvas 2547769 (leaf [16], 4173 × 3223 px), Tycho's Explicatio at canvas 2547770. The only public deep-zoom surrogate of the plate; first-hand inspection (July 2026) shows the emblem roundel as uncoloured line-work within an otherwise richly hand-coloured plate, and most of Tycho's verbal programme not legible on the plate.",
-   "url": "https://digitale-sammlungen.llb-detmold.de/i3f/v20/2547750/manifest"
+   "full": "Lippische Landesbibliothek Detmold, hand-coloured Astronomiae instauratae mechanica, Nl 70.4°, digitised at digitale-sammlungen.llb-detmold.de (titleinfo 2547750) — the quadrans minor plate at image 2547769 (leaf [16], 4173 × 3223 px), Tycho's Explicatio at image 2547770. The only public deep-zoom surrogate of the plate; first-hand inspection (July 2026) shows the emblem roundel as uncoloured line-work within an otherwise richly hand-coloured plate, and most of Tycho's verbal programme not legible on the plate.",
+   "url": "https://digitale-sammlungen.llb-detmold.de/content/titleinfo/2547750"
   },
   {
    "id": "S_ICON_DMR193014",
