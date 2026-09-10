@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.7",
- "edition_date": "2026-09-08",
+ "version": "1.8",
+ "edition_date": "2026-09-10",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -243,7 +243,7 @@
    "year_end": 1901,
    "status": "",
    "grade": "B",
-   "description": "For the three-hundredth anniversary of his death the Týn grave was opened and the remains examined by the anthropologist Jindřich Matiegka, whose certificate of authenticity was sealed in with the bones — the first scientific look at Tycho's body, which fixed in the literature the question of the prosthetic nose and the green stain it left on the skull.",
+   "description": "The Týn grave was opened officially on 24 June 1901, during the restoration of the epitaph, and the remains were examined on 26 and 27 June by Jindřich Matiegka, docent of physical anthropology at the Czech university, with Professor Andreas Schrutz, before a city commission and with the public excluded. Under the paving lay a brick vault over an oblong chamber, broken in on its west side and partly filled with rubble — the relaying of the floor in 1721 had reached it — so that the doubt whether a Protestant's bones had survived the seventeenth century could only be settled by looking. Two bodies, buried in wooden coffins, were found: the man directly at the foot of the gravestone, the woman beside him. His head lay on a cushion under a velvet beret with a much-damaged clasp of bronze wire; a dark-red silk gown covered the body; the feet were in knee-length thread stockings and shoes. The skeleton measured 168 to 170 cm. The lower half had survived far better than the upper, which the rubble had crushed; spine and pelvis were strong and massive, with heavy muscle attachments. Of the skull only part of the face remained — part of the frontal bone, the nasal bones, the left cheekbone, most of the left and part of the right upper jaw with their teeth — with a few coherent lumps Matiegka took for remains of the brain. On the nasal fragment the lower rim of the nasal bones sloped forward and down into a small sickle-shaped surface, and the edge of the nasal opening was stained light green, a colour that could be followed 7 to 15 mm onto the nasal bones and the upper jaw before it faded into the brown of the bone. Matiegka concluded that the build matched the portraits and the gravestone; that the heavy wear of the teeth suited an age of fifty-five; that the sickle-shaped surface was the healed reaction to an old injury, evidently the wound of the duel; that the green stain showed a copper-bearing object had long been fixed to the bone — the prosthetic nose, of sheet metal so thin that no trace of it survived — and that the second skeleton was an older woman, presumably the wife who died three years after him and was buried at his side. On 6 July the skull fragment, its teeth and a remnant of the beard were sealed in a glass jar with a ground-glass lid; on 29 July all the bones, that jar, a second jar with the supposed remains of the brain and what was left of the clothing were closed in a newly made tin coffin and reinterred in the refurbished vault at the same place of honour, with the certificate of authenticity the National Museum's account records as sealed in with them. The report was laid before the Royal Bohemian Society of Sciences on 11 October 1901.",
    "edges": [
     [
      "about",
@@ -252,7 +252,9 @@
    ],
    "sources": [
     "S_RECEP_VELLEV",
-    "S_RECEP_NM_PRAGUE"
+    "S_RECEP_NM_PRAGUE",
+    "S_RECEP_SIMUNEK2002",
+    "S_RECEP_MATIEGKA1901"
    ],
    "category": "Legacy",
    "links": [
@@ -1509,6 +1511,18 @@
    "label": "Jern, Uraniborg: herresäte och himlaborg (Lund, 1976)",
    "full": "Carl Henrik Jern, Uraniborg: herresäte och himlaborg (Lund: Studentlitteratur, 1976) — the art-historical monograph on Uraniborg as a building, carrying the excavation and reception history from Sjöborg 1814 to the author's own re-excavation of the laboratory sub-cellar in 1973 and the Riksantikvarieämbetet's re-infilling of it.",
    "contributes": "The campaigns after Ekdahl, and the 1973 sub-cellar episode."
+  },
+  {
+   "id": "S_RECEP_SIMUNEK2002",
+   "label": "Šimůnek, 'Anthropologische Untersuchung der körperlichen Überreste Tycho Brahes im Jahr 1901' (2002)",
+   "full": "Michal Šimůnek, 'Anthropologische Untersuchung der körperlichen Überreste Tycho Brahes im Jahr 1901', in J. R. Christianson, A. Hadravová, P. Hadrava and M. Šolc (eds), Tycho Brahe and Prague: Crossroads of European Science (Acta Historica Astronomiae 16; Frankfurt am Main: Harri Deutsch, 2002), pp. 356–359 — a summary of Matiegka's printed report of 1901, drawn from the report and from material in the archive of the National Museum, Prague.",
+   "contributes": "The 1901 examination step by step: the dates, who was present, the state of the vault, the two skeletons and their dress, the measurements, the nasal fragment and its stain, Matiegka's five conclusions, the sealing of the skull fragment and the reburial."
+  },
+  {
+   "id": "S_RECEP_MATIEGKA1901",
+   "label": "Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's (Prague, 1901)",
+   "full": "Jindřich (Heinrich) Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's. Erstattet von Dr. Heinrich Matiegka (Prague, 1901) — the report laid before the Royal Bohemian Society of Sciences on 11 October 1901. Not held; cited as Šimůnek 2002 cites it.",
+   "contributes": "The primary record of the 1901 examination, known here through Šimůnek's summary of 2002."
   }
  ],
  "threads": [
@@ -1547,7 +1561,7 @@
   "The commemorative record after 1901 — the quatercentenaries of 1946 and 2001, the museum on Hven, the Prague monuments — is not entered at all. The register ends its Legacy thread with the bones.",
   "Kepler's Harmonices mundi (1619) and the third law are not recorded as a separate use of the data; the Science thread jumps from 1609 to 1627.",
   "No online record could be verified for the Týn church's own tomb, for Riccioli's 1651 volumes, for Schjellerup's 1854 memoir, for Bricka's volume of Danske Magazin, or for Zeeberg's two studies; those records carry the citation and no link.",
-  "The 1901 examination is known only through the 2010 project's account; Matiegka's own report has not been located.",
+  "Matiegka's own report of 1901 (Bericht über die Untersuchung der Gebeine Tycho Brahe's, Prague 1901) is known here through Šimůnek's summary of 2002; the report itself, and the material in the National Museum's archive that Šimůnek also used, have not been read.",
   "Hind's reduction of the comet of 1582 is dated only by the 1846 paper on the comet of 1590; its own place of publication is not recorded here.",
   "The Gingerich citation was resolved by the editor to the 1971 Sky and Telescope article; the compilation's original registry named no work.",
   "Ekdahl's manuscript reports on the 1823-24 excavation, unpublished and un-located in print, would be the only fuller record of what the crypts held when they were opened."
