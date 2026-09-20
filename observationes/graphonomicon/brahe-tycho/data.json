@@ -34,7 +34,7 @@
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 92,
+  "open_questions": 93,
   "without_record_or_surrogate": 40,
   "anchors": 14,
   "undated": 2
@@ -2390,10 +2390,18 @@
      "name": "Šíma & Valeška 2002 (Pillar 3)",
      "href": "",
      "loc": ""
+    },
+    {
+     "kind": "institutional catalogue",
+     "name": "Manuscriptorium facsimile",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/prague-strahov-h23-hasenburg",
-   "open_questions": [],
+   "open_questions": [
+    ": the specimen is now available as a public digital surrogate (Manuscriptorium, canvas Iv, c. 1000 × 1350 px) — usable for the signature's ductus at pillar scale, not for stroke-level measurement; the ‘manu Tychonis propria.’ line beneath is a later reader’s attestation and must not be compared as Tycho’s."
+   ],
    "variants": [
     "presentation-formal-exile"
    ]
@@ -4015,7 +4023,7 @@
   },
   {
    "id": "prague-nm-krivoklat-pruskowski",
-   "label": "Křivoklát Castle (Národní muzeum), III-a-18/1693 — Mechanica (1598) dedicated to U.D. Pruskowski, autograph signature (12 Mar 1601)",
+   "label": "Křivoklát castle, Fürstenberg library (NPÚ ZK KT 01693 = III-a-18/1693) — Mechanica (1598) dedicated to U.D. Pruskovský, autograph signature (12 Mar 1601)",
    "type": "presentation_inscription",
    "registers": [
     "presentation_formal",
@@ -4035,14 +4043,14 @@
    "scribe_disc": "professional-calligrapher",
    "grade": "A",
    "status": "extant",
-   "institution": "Národní muzeum / Křivoklát Castle library",
+   "institution": "Hradní (zámecká) knihovna Křivoklát — the Fürstenberg library; owner Národní památkový ústav, catalogued with the Knihovna Národního muzea (castle-libraries department)",
    "city": "Křivoklát",
    "country": "CZ",
-   "shelfmark": "III-a-18/1693",
+   "shelfmark": "NPÚ ZK KT 01693 = III-a-18 (1693)",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
-   "content": "Presentation dedication to Ulrich Desiderius Pruskowski, Baron de Pruskow, imperial chamberlain. One of the two latest securely-dated Tycho signatures.",
+   "content": "Presentation dedication to Ulrich Desiderius Pruskovský (Pruskowski), Baron of Pruskov, imperial chamberlain (d. 1618). One of the two latest securely-dated Tycho signatures. The book is the Clementinum's own copy (bequeathed by the widow 1629, handed over 1630–34), at Křivoklát since 1881.",
    "extent": "signature only ('Dono dedit Tÿcho Brahe') + autograph date line; calligraphic body",
    "references": [
     {

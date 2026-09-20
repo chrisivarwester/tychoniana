@@ -1287,17 +1287,19 @@
    "sort_name": "Pruskovský von Pruskov, Ulrich Desiderius",
    "name_latin": "",
    "name_variants": [
+    "Oldřich Desiderius Pruskovský z Pruskova",
     "Ulrich Desiderius Pruskowski",
+    "Proskovský z Proskova",
     "Pruskovský (Prussinowsky) von Pruskow"
    ],
    "entry_kind": "person",
-   "born": null,
-   "died": null,
+   "born": 1570,
+   "died": 1618,
    "categories": [
     "patron",
     "dedicatee"
    ],
-   "connection": "Bohemian baron and Imperial Chamberlain under Rudolf II; dedicatee of a Mechanica with Tycho's autograph dated 12 March 1601, now in the National Museum, Prague. (Crossroads Prague)",
+   "connection": "Bohemian baron of a Silesian family, lord of Staré Hrady; chamberlain of Rudolf II and acting Master of the Horse in 1601, Oberstkämmerer 1606–1612 and retained by Matthias, envoy to Spain 1614–15; died 16 February 1618 and was buried at Strahov. Dedicatee of the Mechanica with Tycho's autograph dedication dated 12 March 1601 — the latest dated dispatch of the book — which survives in the Fürstenberg library at Křivoklát castle (NPÚ ZK KT 01693): his widow Johana bequeathed his library to the Clementinum Jesuits in 1629, the books passed to the college in 1630–34, and this volume left the Clementinum for the Fürstenbergs after 1773. (Crossroads Prague; Kroupa 2001; PROVENIO)",
    "sources": [
     "S_CROSSROADS",
     "S_THESAURUS"
