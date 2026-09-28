@@ -34,7 +34,7 @@
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 93,
+  "open_questions": 97,
   "without_record_or_surrogate": 40,
   "anchors": 14,
   "undated": 2
@@ -245,7 +245,7 @@
    "iiif": "",
    "surrogates": [],
    "content": "Unknown. The book is the Zamberti–Campanus Elements with Theon's exposition, Hypsicles on Books XIV–XV, the Phaenomena and De levi et ponderoso (Basel: Herwagen & Brand 1558, VD16 E 4157) — a working mathematician's Euclid; notes in it are likelier to be geometrical than astronomical.",
-   "extent": "‘a few notes’ (Pařez 2026); number, language and location unrecorded",
+   "extent": "one annotated opening (Book I, prop. 4, Theon's exposition) and a short jotting in the Campanus section — Latin, a fine-nibbed humanist hand; located on the object (Pařez's ‘a few notes’)",
    "references": [
     {
      "kind": "paleographic study",
@@ -258,13 +258,20 @@
      "name": "Strahov Katalog Tritius 993601",
      "href": "",
      "loc": ""
+    },
+    {
+     "kind": "paleographic study",
+     "name": "dossier",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "",
    "open_questions": [
     ": photograph every note with its page at pillar scale and the whole opening for context; record their language and content; photograph the 1567 stamp with a rule in raking light.",
     "The date test: a 1567 hand should sit beside the ‘Tycho Brade 1561’ and ‘Ty Brad 1563’ student volumes and the Wittenberg/Rostock letters, not beside the Hven pillars — the formative-stage cell of the grid is nearly empty and this is its candidate.",
-    "Mainx test closed on the mark: the plaque Mortensen describes for all eight Mainx books is the gilt portrait; this is a blind-stamped name."
+    "Mainx test closed on the mark: the plaque Mortensen describes for all eight Mainx books is the gilt portrait; this is a blind-stamped name.",
+    ": the volume examined; ONE annotated opening found — Book I, prop. 4 (Theon's exposition, ‘Si duo triangula duo latera duobus lateribus aequalia habuerint …’), marginal and head-of-page notes with a lettered triangle — plus a short jotting in the Campanus section (19 frames; the house's reading-room photographs (Canon EOS R8, RF 35 mm macro; 99 frames, private research archive under the library's reader's waiver — not for publication)). Assessed on the photographs in docs/research/-crusius-signature-strahov-tycho-the record: NOT ESTABLISHED as Tycho's — the closed-loop g and the ascender-deep descenders lean against the mature hand; a fair test needs a formative-stage control (GKS 1824, pending per-section hand identification). Pařez's attribution stands unrefuted and uncorroborated."
    ],
    "variants": []
   },
@@ -1442,7 +1449,8 @@
    ],
    "census_ref": "",
    "open_questions": [
-    "IIIF manifest in hand (Tycho at fol. 58v); crop the signature + aphorism for the atlas"
+    "IIIF manifest in hand (Tycho at fol. 58v); crop the signature + aphorism for the atlas",
+    "Resolved in part : fol. 58v photographed at reading resolution in the Strahov reading room (6 frames — the motto, the signature and date-line, the whole leaf, Lange's and Hindröffer's entries; the house's reading-room photographs (Canon EOS R8, RF 35 mm macro; 99 frames, private research archive under the library's reader's waiver — not for publication)). The per-glyph exemplar crops for the atlas can now be cut from these rather than from Manuscriptorium; no diaeresis over the y is visible on the leaf. The third entry (Hindröffer) is alchemical — sigla, a German line, ‘intellige folium a[d] Leonem Viridem’ in the margin."
    ],
    "variants": [
     "dedication-inscription-hven"
@@ -2400,7 +2408,8 @@
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/prague-strahov-h23-hasenburg",
    "open_questions": [
-    ": the specimen is now available as a public digital surrogate (Manuscriptorium, canvas Iv, c. 1000 × 1350 px) — usable for the signature's ductus at pillar scale, not for stroke-level measurement; the ‘manu Tychonis propria.’ line beneath is a later reader’s attestation and must not be compared as Tycho’s."
+    ": the specimen is now available as a public digital surrogate (Manuscriptorium, canvas Iv, c. 1000 × 1350 px) — usable for the signature's ductus at pillar scale, not for stroke-level measurement; the ‘manu Tychonis propria.’ line beneath is a later reader’s attestation and must not be compared as Tycho’s.",
+    ": the dedication leaf photographed at pillar scale in the Strahov reading room (the house's reading-room photographs (Canon EOS R8, RF 35 mm macro; 99 frames, private research archive under the library's reader's waiver — not for publication)) — the two-word signature now available at stroke level for measurement; the calligrapher's body and the later ‘manu Tychonis propria.’ on the same frame, to be kept apart."
    ],
    "variants": [
     "presentation-formal-exile"
@@ -4120,7 +4129,8 @@
    "open_questions": [
     "Photograph the whole note and overlapping details at pillar scale, with the same lighting as the secure pillars,; then run the discriminator roster (looped-ascender uncial d; final s; T-capital; the Tÿcho/Tycho question does not arise — the note is unsigned).",
     "Content test: a note written by a Dane about a winter ‘unknown before to Germans and Danes’ fits Tycho; it also fits any Danish reader of the almanac before 1642. The paper, ink and the other ‘počtářské’ (computational) jottings on the blank leaves are the context to record.",
-    "Which incunable carries the leaf: Boldan 2025 places it in the 1492 Augsburg Ephemerides (adl. 1); the catalogue's ‘e14b’ and Straka's old foliation must be reconciled on the object."
+    "Which incunable carries the leaf: Boldan 2025 places it in the 1492 Augsburg Ephemerides (adl. 1); the catalogue's ‘e14b’ and Straka's old foliation must be reconciled on the object.",
+    ": the volume examined and its boards photographed, but the leaf carrying THIS note (fol. e4v) was NOT photographed — the leaf shot is the Tabula regionum with a different, shorter reference-meridian note (‘Nota hec Ephemerides sunt supputate ad longitudinem …’) in a hand that leans against Tycho (19 Sep dossier). The weather note remains untested; order the leaf by its foliation (‘e14b (75v)’) next time."
    ],
    "variants": []
   }

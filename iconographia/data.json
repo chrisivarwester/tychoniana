@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.11",
+ "version": "1.12",
  "edition_date": "2026-09-28",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
@@ -637,7 +637,8 @@
     "S_ICON_FRIIS",
     "S_ICON_MORTENSEN1946",
     "S_ICON_TBV2006",
-    "S_ICON_DOSSIER_2026"
+    "S_ICON_DOSSIER_2026",
+    "S_ICON_STRAHOV_AUTOPSY_2026"
    ],
    "image": "plates/icon-supralibros.jpg",
    "image_thumb": "plates/icon-supralibros_thumb.jpg",
@@ -688,10 +689,10 @@
     {
      "holder": "Strahovská knihovna",
      "city": "Prague",
-     "inv": "",
-     "support": "green satin binding on the Mechanica",
-     "size": "",
-     "verdict": "original presentation binding, with a dedication in Tycho's hand and a pasted portrait",
+     "inv": "AG XI 56",
+     "support": "green silk presentation binding on the Mechanica, portrait on the upper cover, arms on the lower",
+     "size": "c. 76 × 58 mm, the portrait plaque measured with a rule on the front board, 18 September 2026",
+     "verdict": "original presentation binding, with the calligraphed dedication signed by Tycho and a bound-in watercolour (not a pasted portrait)",
      "note": "Photographed by Jens Vellev for Tycho Brahes Verden (2006), figs 1–2, showing portrait on the front and arms on the back of the same volume.",
      "source": "Šidlovský, BETH Bulletin 2023/1; Grinder-Hansen ed. 2006 pp. 84–85"
     },
@@ -723,6 +724,33 @@
      "verdict": "original — and important: a Tycho supralibros on a book Tycho did not write (Rheticus/Otho, Opus palatinum, Neustadt 1596)",
      "note": "Evidence that the portrait die also went on his own-library bindings, not only on presentation copies of his own works.",
      "source": "Voit, Encyklopedie knihy, s.v. Supralibros"
+    },
+    {
+     "holder": "Strahovská knihovna",
+     "city": "Prague",
+     "inv": "Σ V 5/a",
+     "support": "parchment binding on Rheticus & Otho, Opus palatinum (1596), gilt lozenge frame; portrait front, arms back",
+     "size": "c. 76 × 58 mm, measured with a rule on the front board, 18 September 2026",
+     "verdict": "original own-library binding (Knihvazač rudolfínského okruhu II, 1599–1601 per Voit 2020); large die",
+     "source": "S_ICON_STRAHOV_AUTOPSY_2026"
+    },
+    {
+     "holder": "Strahovská knihovna",
+     "city": "Prague",
+     "inv": "AG XIV 7",
+     "support": "gilt-tooled brown leather binding on Ramus, Arithmeticae/Geometriae (Basel 1580) — not parchment; portrait front, arms back",
+     "size": "large die; photographed, not measured",
+     "verdict": "original; a later owner's inscription ‘G: Crusio ‹K› inservio’ on the title (Gabriel Crusius, mid-17th c.)",
+     "source": "S_ICON_STRAHOV_AUTOPSY_2026"
+    },
+    {
+     "holder": "Strahovská knihovna",
+     "city": "Prague",
+     "inv": "Σ VI 3",
+     "support": "brown leather binding on the Morata–Fungerus–Gwalther convolute; portrait front, arms back",
+     "size": "58 × 43 mm, both ovals measured with a rule, 18 September 2026 (Pařez 2009: 59 × 43)",
+     "verdict": "original; the SMALL die, shallower and more rubbed than the large pair",
+     "source": "S_ICON_STRAHOV_AUTOPSY_2026"
     }
    ],
    "open_questions": [
@@ -733,7 +761,8 @@
     "A caliper reading of the de Lode plate. Danske Magazin II (1746) claims to render the portrait die at 1:1 and the arms die at 'selv samme Form og Størrelse'; measuring the oval on a physical 1746 sheet — or on a scan with a known scale — is the cheapest independent test of the large die's dimensions anywhere in this chapter, and the only one that does not measure a compressed impression on leather or vellum."
    ],
    "resolved_questions": [
-    "The Petr Vok dedication date — settled at 18 September 1600. It was never a three-way: the September reading is the object itself, Tycho's autograph 'Anno 1600 Septembris Die 18' on leaf LN_432_2_003 of the Royal Library's digitisation (Digitale Samlinger object11914), read at full resolution in July 2026 (see the Mechanica watercolours record). Langebek's 'd. 18. Decemb. 1600' (Danske Magazin II, 1746, p. 321) is a misreading of the same flyleaf 146 years later, and the '1599?' sometimes attached to the copy has no stated basis."
+    "The Petr Vok dedication date — settled at 18 September 1600. It was never a three-way: the September reading is the object itself, Tycho's autograph 'Anno 1600 Septembris Die 18' on leaf LN_432_2_003 of the Royal Library's digitisation (Digitale Samlinger object11914), read at full resolution in July 2026 (see the Mechanica watercolours record). Langebek's 'd. 18. Decemb. 1600' (Danske Magazin II, 1746, p. 321) is a misreading of the same flyleaf 146 years later, and the '1599?' sometimes attached to the copy has no stated basis.",
+    "The two portrait dies measured on one day, with one rule, on three bindings (18 September 2026): the large die c. 76 × 58 mm on the Strahov Mechanica (silk) and on the Opus palatinum (parchment) alike, the small die 58 × 43 mm on the Σ VI 3 convolute (leather), both boards. Pařez's 76 × 59 and 59 × 43 are confirmed to within a millimetre — the difference is the reading of a compressed impression, not a third die. An observation, not a claim: the large die's short axis and the small die's long axis are both 58 mm, and the two ovals share the same proportion (1.31 and 1.35)."
    ]
   },
   {
@@ -1258,7 +1287,8 @@
     "S_ICON_MORTENSEN1942",
     "S_ICON_KROUPA2001",
     "S_ICON_PAREZ2009",
-    "S_ICON_HADRAVOVA1996"
+    "S_ICON_HADRAVOVA1996",
+    "S_ICON_STRAHOV_AUTOPSY_2026"
    ],
    "image": "plates/icon-mechanica-watercolours.jpg",
    "image_thumb": "plates/icon-mechanica-watercolours_thumb.jpg",
@@ -1320,7 +1350,7 @@
      "support": "watercolour on a leaf bound in after the title, facing the Rudolf II preface; in a green silk binding with the gilt portrait supralibros front and the arms back",
      "size": "285 × 184 mm (Kroupa 2001)",
      "verdict": "original — Tycho's presentation copy to Jan Zbyněk Zajíc z Házmburka (Johann von Hasenburg)",
-     "note": "The dedication is written in the book — on the verso of the first front flyleaf, the body by a professional calligrapher, the two-word signature autograph, and beneath it a later reader's 'manu Tychonis propria.' (Studnička's 'in beifolgender Zuschrift', an accompanying letter, was a misreading; the store repeated it until 20 September 2026, when the Manuscriptorium facsimile was inspected). The leaf shows a bust in an oval within an architectural frame, instruments in the upper corners, two flanking figures with instruments at the base, a dark cartouche above and the arms in a roundel below with the motto Esse potius quam haberi. Von Biela, writing from Prague on 20 June 1824, gives the earliest first-hand description of the portrait: bald head, blue eyes, a long reddish beard, and a nose that does not look natural; his letter was published in Astronomische Nachrichten III (1825), p. 256. Friis footnotes this portrait to a reproduction in Danmarks Riges Historie IV (1897), p. 43; Studnička reproduced it as a plate at p. 47 (1901); Vellev photographed it in 2005 (Tycho Brahes Verden 2006, pp. 84–85); Boldan & Vackářová 2024, p. 92.",
+     "note": "The dedication is written in the book — on the verso of the first front flyleaf, the body by a professional calligrapher, the two-word signature autograph, and beneath it a later reader's 'manu Tychonis propria.' (Studnička's 'in beifolgender Zuschrift', an accompanying letter, was a misreading; the store repeated it until 20 September 2026, when the Manuscriptorium facsimile was inspected). The leaf shows a bust in an oval within an architectural frame, instruments in the upper corners, two flanking figures with instruments at the base, a dark cartouche above and the arms in a roundel below with the motto Esse potius quam haberi. Von Biela, writing from Prague on 20 June 1824, gives the earliest first-hand description of the portrait: bald head, blue eyes, a long reddish beard, and a nose that does not look natural; his letter was published in Astronomische Nachrichten III (1825), p. 256. Friis footnotes this portrait to a reproduction in Danmarks Riges Historie IV (1897), p. 43; Studnička reproduced it as a plate at p. 47 (1901); Vellev photographed it in 2005 (Tycho Brahes Verden 2006, pp. 84–85); Boldan & Vackářová 2024, p. 92. READ ON THE OBJECT, 18 September 2026: the dark cartouche above the oval is lettered ‘EFFIGIES TYCHONIS / BRAHE ÆT[…]’ — an age formula IS present, its numeral illegible in the photographs (dark lettering on the blue ground); the arms roundel below reads ESSE POTIVS QVAM HABERI with ornaments and carries the year 1598 as a column of digits 1·5·9·8 on its left side. The likeness as Biela described it: bald, blue-eyed, the long reddish beard, pipe-ruff, gold chains with the medallion, fur-lined cloak.",
      "source": "Manuscriptorium AIPDIG-KKPS__AG_XI_56____3CH4Z61, canvases Iv, IIr–IIIr, inspected 20 September 2026 (https://www.manuscriptorium.com/hub/catalog/default/detail/single/manuscriptorium%7CAIPDIG-KKPS__AG_XI_56____3CH4Z61-cs?lang=en); Studnička, Prager Tychoniana (1901), pp. 44–48; Kroupa 2001; Friis, Bidrag til dansk Kunsthistorie, p. 226; Mosley 2007, Appendix I"
     }
    ],
@@ -1342,7 +1372,7 @@
     }
    ],
    "open_questions": [
-    "Where do Mortensen's 'Aet: LI' and Vellev's 'LII' actually sit — on Andersen's 1886 etching (Westergaard 1451), or on the Strahov, KVA or Kalocsa leaf? None has been inspected at reading resolution.",
+    "Where do Mortensen's 'Aet: LI' and Vellev's 'LII' actually sit — on Andersen's 1886 etching (Westergaard 1451), or on the Strahov, KVA or Kalocsa leaf? None has been inspected at reading resolution. NARROWED (18 September 2026): the Strahov leaf, inspected at reading resolution, carries ‘EFFIGIES TYCHONIS BRAHE ÆT[…]’ in its cartouche — so an age inscription exists on at least this leaf — but the numeral is not resolvable in the photographs; the roundel is dated 1598. Raking light or infra-red on the cartouche would settle LI against LII (Tycho turned 52 on 14 December 1598).",
     "Strahov holds a third Tycho watercolour, and it is of a different type — see the full-figure record. The Strahov Mechanica's own watercolour is now checked against the Copenhagen composition on the Manuscriptorium facsimile (20 September 2026): the same family — bust in an oval, architectural frame, instruments in the upper corners, two flanking figures, a cartouche above, the arms roundel with the motto below. What the facsimile's c. 1000-pixel width cannot settle: the lettering of the roundel and of the cartouche, and whether any age or date inscription is present. A photograph at reading resolution from Strahov remains the one thing wanted."
    ],
    "resolved_questions": [
@@ -1422,7 +1452,7 @@
    "year_end": 1601,
    "status": "extant",
    "grade": "B",
-   "description": "Tycho's armorial stamp, impressed in gold as the lower-board partner of the portrait oval: on every binding in the attested corpus where both boards have actually been examined — presentation copies and own-library bindings alike — the two ovals travel together as a matched die-pair (Kleinschnitzová states outright that Tycho used the pair on both classes; Prandtl's 1932 frontispiece shows the UT Austin Gesner with gilt ovals on both boards; Mosley photographs both covers of a presentation Epistolae). The device is the plain undifferenced Brahe paternal shield — sable, a pale argent — under helm, coronet and a tall panache crest, not an ancestral marshalling (Grinder-Hansen; Vellev). It is ringed by a motto in an oval medallion ('Arma, genus, fundi pereunt, durabile virtus / et doctrina decus nobilitatis habent' — 'arms, lineage, estates perish; virtue and learning hold nobility's lasting honour'); per Dreyer's apparatus in TBOO IX, 175, the couplet was printed by Tycho's own press at Uraniborg in 1584 — some four years before the die's earliest dated impression — so the stamp adopted an existing text, and the same distich recurs on the reverse of the larger (39 mm) 1595 medal. The familiar claim that the arms occur 'in the same two sizes as the portrait stamp' rests on Mortensen's single joint clause for portrait-and-arms together (7.6 × 5.8 / 5.8–5.9 × 4.3 cm, internally inconsistent between his 1931 and 1966 articles); he never measured the arms oval separately, and the first independent measurement — the Stockholm KB De mundi, ≈6.6 × 5.3 cm from the KB scan on a transferred scale — fits neither figure. One first-hand witness does speak to the question, and it is much the earliest: Danske Magazin II (1746), p. 322, describing the Royal Library's blue-satin Mechanica (LN 432 2°, eks. 2) board by board, reports the arms die on the lower cover as 'i selv samme Form og Størrelse' as the portrait die on the upper — same shape, same size, on one volume, seen by the compilers themselves. That is a statement about a single binding rather than about the dies in general, but it is evidence of a kind Mortensen's joint clause never had. The same page prints the couplet in a variant reading — 'Arma, Genus, Fundi pereunt: Durabile Virtus / Et Doctrinæ decus Nobilitatis habent', with DOCTRINÆ in the genitive against the nominative doctrina given above; the variant is recorded, not adopted, since the nominative rests on Dreyer's TBOO IX apparatus for the 1584 Uraniborg printing.",
+   "description": "Tycho's armorial stamp, impressed in gold as the lower-board partner of the portrait oval: on every binding in the attested corpus where both boards have actually been examined — presentation copies and own-library bindings alike — the two ovals travel together as a matched die-pair (Kleinschnitzová states outright that Tycho used the pair on both classes; Prandtl's 1932 frontispiece shows the UT Austin Gesner with gilt ovals on both boards; Mosley photographs both covers of a presentation Epistolae). The device is the plain undifferenced Brahe paternal shield — sable, a pale argent — under helm, coronet and a tall panache crest, not an ancestral marshalling (Grinder-Hansen; Vellev). It is ringed by a motto in an oval medallion ('Arma, genus, fundi pereunt, durabile virtus / et doctrina decus nobilitatis habent' — 'arms, lineage, estates perish; virtue and learning hold nobility's lasting honour'); per Dreyer's apparatus in TBOO IX, 175, the couplet was printed by Tycho's own press at Uraniborg in 1584 — some four years before the die's earliest dated impression — so the stamp adopted an existing text, and the same distich recurs on the reverse of the larger (39 mm) 1595 medal. The familiar claim that the arms occur 'in the same two sizes as the portrait stamp' rests on Mortensen's single joint clause for portrait-and-arms together (7.6 × 5.8 / 5.8–5.9 × 4.3 cm, internally inconsistent between his 1931 and 1966 articles); he never measured the arms oval separately, and the first independent measurement — the Stockholm KB De mundi, ≈6.6 × 5.3 cm from the KB scan on a transferred scale — fits neither figure. One first-hand witness does speak to the question, and it is much the earliest: Danske Magazin II (1746), p. 322, describing the Royal Library's blue-satin Mechanica (LN 432 2°, eks. 2) board by board, reports the arms die on the lower cover as 'i selv samme Form og Størrelse' as the portrait die on the upper — same shape, same size, on one volume, seen by the compilers themselves. That is a statement about a single binding rather than about the dies in general, but it is evidence of a kind Mortensen's joint clause never had. The same page prints the couplet in a variant reading — 'Arma, Genus, Fundi pereunt: Durabile Virtus / Et Doctrinæ decus Nobilitatis habent', with DOCTRINÆ in the genitive against the nominative doctrina given above; the variant is recorded, not adopted, since the nominative rests on Dreyer's TBOO IX apparatus for the 1584 Uraniborg printing. On 18 September 2026 the small arms oval was measured separately for the first time, on the back board of the Strahov convolute Σ VI 3: 58 × 43 mm, the same as its portrait partner on the front board; the large arms oval on the Strahov Mechanica (AG XI 56) and on the Opus palatinum (Σ V 5/a) was photographed but not put to the rule.",
    "edges": [
     [
      "appears_on",
@@ -1457,7 +1487,8 @@
     "S_ICON_VELLEV2017",
     "S_ICON_MOSLEY",
     "S_ICON_DOSSIER_ARMS2026",
-    "S_ICON_DANSKEMAG1746"
+    "S_ICON_DANSKEMAG1746",
+    "S_ICON_STRAHOV_AUTOPSY_2026"
    ],
    "image": "plates/icon-arms-supralibros.jpg",
    "image_thumb": "plates/icon-arms-supralibros_thumb.jpg",
@@ -2625,6 +2656,11 @@
    "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
    "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia. Prologue pp. xii–xiv on the Křivoklát and Strahov copies; n. 64 on the mural portrait's inscription; n. 58 on Gemperlin.",
    "url": ""
+  },
+  {
+   "id": "S_ICON_STRAHOV_AUTOPSY_2026",
+   "label": "Strahov autopsy, 18 September 2026",
+   "full": "The editor's examination of the five Tycho volumes and the album DG IV 25 in the Strahov reading room on 18 September 2026 (host Jan Pařez), with the house's reading-room photographs of 18 September 2026 (Canon EOS R8, RF 35 mm macro; 99 frames, private research archive under the library's reader's waiver — not for publication). Measurements taken with a millimetre rule laid on the boards; readings of inscriptions and of the watercolour's lettering made on the photographs at reading resolution. The photographs cannot be reproduced; the readings and measurements can."
   }
  ],
  "rejected": [
