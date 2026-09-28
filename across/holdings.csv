@@ -4,8 +4,8 @@ Copenhagen,DK,library volumes,5
 Copenhagen,DK,likenesses,9
 Copenhagen,DK,observation codices,17
 Copenhagen,DK,hand specimens,27
-Prague,CZ,census copies,1
-Prague,CZ,library volumes,58
+Prague,CZ,census copies,3
+Prague,CZ,library volumes,57
 Prague,CZ,likenesses,1
 Prague,CZ,hand specimens,8
 Prague,CZ,instruments,2
@@ -27,9 +27,15 @@ Uppsala,SE,library volumes,1
 Uppsala,SE,hand specimens,1
 Washington DC,US,census copies,4
 Washington DC,US,hand specimens,1
+Zürich,CH,census copies,5
 Dresden,DE,census copies,3
 Dresden,DE,hand specimens,1
+Hillerød,DK,census copies,2
+Hillerød,DK,library volumes,1
+Hillerød,DK,likenesses,1
+Lausanne,CH,census copies,4
 Augsburg,DE,census copies,3
+Bern,CH,census copies,3
 Edinburgh,GB,census copies,3
 Gotha,DE,census copies,1
 Gotha,DE,library volumes,1
@@ -53,14 +59,12 @@ Detmold,DE,census copies,1
 Detmold,DE,hand specimens,1
 Florence,IT,census copies,1
 Florence,IT,hand specimens,1
-Hillerød,,library volumes,1
-Hillerød,,likenesses,1
+Geneva,CH,census copies,2
 Kraków,PL,census copies,2
 Rostock,DE,census copies,1
 Rostock,DE,hand specimens,1
-Zürich,CH,census copies,2
 Bamberg,DE,census copies,1
-Bern,CH,census copies,1
+Basel,CH,census copies,1
 Cambridge,GB,census copies,1
 Chicago,,library volumes,1
 Frankfurt am Main,,likenesses,1
@@ -88,6 +92,7 @@ Pittsburgh,US,census copies,1
 Poznań,PL,census copies,1
 Roskilde,DK,census copies,1
 Schwerin,,hand specimens,1
+Solothurn,CH,census copies,1
 St Petersburg,,hand specimens,1
 Staroměstské náměstí,,likenesses,1
 Stralsund,,hand specimens,1

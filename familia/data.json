@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.0",
- "edition_date": "2026-09-05",
+ "version": "2.1",
+ "edition_date": "2026-09-28",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
  "description": "A prosopography of the documented circle of Tycho Brahe: the assistants and craftsmen of Uraniborg, the printers and publishers of his works, the patrons and dedicatees, the kin and friends, every party to the surviving correspondence, and the later owners, editors and scholars through whom his books and papers passed. Each record carries its roles, dates, documented seat, biography with sources, and the letters, visits, stays, printed works, presentation copies and manuscripts in which the person appears elsewhere in Tychoniana.",
@@ -165,6 +165,12 @@
    "contributes": "The stays at which each person is recorded with Tycho, and the persons of the itinerary this register still lacks.",
    "url": "../loca/index.html",
    "url_label": "Loca"
+  },
+  {
+   "id": "S_HADRAVOVA1996",
+   "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
+   "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
+   "contributes": "The commentary's biographical notes on the people Tycho names in the Mechanica — Tengnagel, Kurtz, Hazmburk, Dançay, Vedel, Scultetus, Homelius, Hainzel, Gemperlin, Arsenius — and the Prologue's Prague matter."
   }
  ],
  "category_colours": {
@@ -1263,11 +1269,12 @@
     "patron",
     "dedicatee"
    ],
-   "connection": "Bohemian baron and ardent alchemist, one of Tycho's closest Prague friends; dedicatee of a Mechanica (Strahov AG XI 56) and of the Progymnasmata copy bearing the canonical full-figure portrait of Tycho. (Dreyer; Crossroads Prague)",
+   "connection": "Bohemian baron and ardent alchemist, one of Tycho's closest Prague friends; dedicatee of a Mechanica (Strahov AG XI 56) and of the Progymnasmata copy bearing the canonical full-figure portrait of Tycho. (Dreyer; Crossroads Prague) Of the Zajíc ('hare') family and humanistically educated: rector of the University of Ingolstadt in 1589, a student at Siena in 1590; keenly interested in science and above all alchemy; kept a large library at his castle of Budyně; financed the Diadochus of Bartołomiej Paprocki; his interests led him into insolvency and dependence on his salary at the court of appeal; d. 1616 (Hadravová, Hadrava & Shackelford 1996, n. 12, after the Rukověť humanistického básnictví).",
    "sources": [
     "S_DREYER",
     "S_CROSSROADS",
-    "S_THESAURUS"
+    "S_THESAURUS",
+    "S_HADRAVOVA1996"
    ],
    "letters_sent": 0,
    "letters_received": 0,
@@ -1891,14 +1898,15 @@
     "Charles de Dancay"
    ],
    "entry_kind": "person",
-   "born": null,
-   "died": null,
+   "born": 1509,
+   "died": 1589,
    "categories": [
     "correspondent"
    ],
-   "connection": "Long-serving French ambassador at the Danish court; one of Tycho's earliest friends in Copenhagen, to whom he showed the new star in 1573 and who laid the foundation stone of Uraniborg in 1576.",
+   "connection": "Long-serving French ambassador at the Danish court; one of Tycho's earliest friends in Copenhagen, to whom he showed the new star in 1573 and who laid the foundation stone of Uraniborg in 1576. Born in 1509 near Poitiers and educated at Strasbourg; envoy to Denmark until his death in 1589, his position increasingly insecure as a French Protestant after St Bartholomew's Day; Tycho, writing in 1597, remembered him dying 'eight years ago in his eighty-first year' (Hadravová, Hadrava & Shackelford 1996, n. 260).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_HADRAVOVA1996"
    ],
    "letters_sent": 3,
    "letters_received": 2,
@@ -2129,13 +2137,14 @@
    ],
    "entry_kind": "person",
    "born": null,
-   "died": null,
+   "died": 1594,
    "categories": [
     "correspondent"
    ],
-   "connection": "Imperial Vice-Chancellor under Rudolf II with a taste for mathematical astronomy; he obtained an imperial printing privilege for Tycho in 1590 and urged his move to Bohemia, but died in 1594 before Tycho arrived.",
+   "connection": "Imperial Vice-Chancellor under Rudolf II with a taste for mathematical astronomy; he obtained an imperial printing privilege for Tycho in 1590 and urged his move to Bohemia, but died in 1594 before Tycho arrived. His letter to Tycho on a new way of dividing a quadrant's scale, with Tycho's evaluation of it, is one of the three letters printed with the Mechanica; he died in 1594 at forty (his gravestone is in St Thomas's church in the Lesser Town), and the house he built on Pohořelec was bought from his widow by the Emperor for Tycho, who was later joined there by Kepler (Hadravová, Hadrava & Shackelford 1996, Prologue p. viii).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_HADRAVOVA1996"
    ],
    "letters_sent": 1,
    "letters_received": 3,
@@ -3652,14 +3661,15 @@
     "Franz Gansneb Tengnagel"
    ],
    "entry_kind": "person",
-   "born": null,
-   "died": null,
+   "born": 1573,
+   "died": 1636,
    "categories": [
     "correspondent"
    ],
-   "connection": "",
+   "connection": "Franz Gansneb Tengnagel von Kamp (1573–1636), Tycho's pupil and collaborator who came with him from Denmark — 'neither gifted nor hard-working' in the 1996 editors' words — extemporised the hexameters printed beneath the steel quadrant in the Mechanica; married Elisabeth Brahe in 1601; after Tycho's death fell out with Kepler over the manuscripts, books and instruments; travelled for Rudolf II on secret missions to Paris and Madrid in 1609; an instigator of the Passau invasion of 1611, captured and imprisoned by the Estates' army; later in Bavarian service; buried in Prague in the church of Our Lady below the Chain (Hadravová, Hadrava & Shackelford 1996, n. 168).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_HADRAVOVA1996"
    ],
    "letters_sent": 1,
    "letters_received": 0,

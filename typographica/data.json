@@ -511,7 +511,8 @@
     "S_DREYER_1890",
     "S_GIGAS_1900",
     "S_DELISLE_1901",
-    "S_STUDNICKA_1901"
+    "S_STUDNICKA_1901",
+    "S_HADRAVOVA1996"
    ]
   },
   {
@@ -1064,8 +1065,8 @@
    "S_NIELSEN_BT"
   ]
  },
- "version": "2.0",
- "edition_date": "2026-09-05",
+ "version": "2.1",
+ "edition_date": "2026-09-28",
  "period_vocabulary": [
   {
    "id": "I",
@@ -1228,8 +1229,19 @@
    "tboo": "V, 1–162, 317–327",
    "kind": "edition",
    "period": "III",
-   "hasselberg_1904": "33 copies; Nielsen added Danzig and Kiel",
-   "facsimile": "ed. B. Hasselberg (Stockholm, 1901)"
+   "hasselberg_1904": "33 copies listed by Hasselberg (the editor of the 1901 facsimile) in 1904, 'most of which are preserved in public libraries', with the dedicatees Hájek (British Library), Petr Vok (Copenhagen), Hazmburk (Strahov), Scaliger (Leiden), Moritz of Orange (Paris), the Venetian Republic; Nielsen added Danzig and Kiel in 1921 (Hadravová, Hadrava & Shackelford 1996, p. xii)",
+   "facsimile": "ed. B. Hasselberg (Stockholm, 1901)",
+   "modern_editions": [
+    "Facsimile, ed. B. Hasselberg (Stockholm: Royal Swedish Academy of Sciences, 1901) — for the tercentenary of Tycho's death; Hasselberg's copy list followed in Vierteljahrsschrift der Astronomischen Gesellschaft 39 (1904), pp. 180–187.",
+    "English translation: Tycho Brahe's Description of his Instruments and Scientific Work, trans. Hans Ræder, Elis Strömgren & Bengt Strömgren (Copenhagen: Royal Danish Academy of Sciences and Letters, 1946) — for the quatercentenary of his birth; omits the preface, the poems and the letters.",
+    "The KLP set for the 450th anniversary (Praha: Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2): a colour facsimile of the Křivoklát presentation copy (III-a-18 [1693]), the first complete Czech translation (Alena Hadravová & Petr Hadrava; the poems by Dana Svobodová), and the Ræder translation revised and commented by Hadravová, Hadrava & Jole R. Shackelford — the first English of the preface to Rudolf II, 301 notes, still without the poems and the Kurtz and Magini letters.",
+    "Digital edition of the Latin with Danish translation: Tycho Brahe, Astronomiæ instauratæ mechanica, eds. Peter Zeeberg & Finn Gredal Jensen, tekstnet.dk (DSL, 2019) — the edition of record for the text (Scripta)."
+   ],
+   "colophon": "'Printed in Wandsbeck at the Rantzov castle near Hamburg at the author's expenses. Printed by Hamburg printer Philippus de Ohr, at the beginning of the year 1598' (trans. Hadravová, Hadrava & Shackelford 1996, p. 166), beneath the alchemical woodcut lettered DESPICIENDO SUSPICIO that answers the title's SUSPICIENDO DESPICIO. Philipp von Ohr was active in Hamburg 1597–1608, more than forty books, specialising in music printing (Benzing, Die Buchdrucker des 16. und 17. Jahrhunderts, 1982, pp. 182, 475, cited ibid. n. 301).",
+   "preface_dated": "The dedication to Rudolf II is dated from 'the Rantzov Castle, Wandsbeck, which is near Hamburg, on the border of Germany and the Jutland Peninsula, on the day before the first day of January of the year 1598' — 31 December 1597 (Hadravová, Hadrava & Shackelford 1996, p. 10; the first English translation of the preface).",
+   "sources": [
+    "S_HADRAVOVA1996"
+   ]
   },
   "M_GJOE_1584": {
    "nielsen": "",
@@ -1343,7 +1355,11 @@
    "period": "posthumous",
    "norman": "320",
    "description": "A new edition in a wholly new setting, printed for Hülsius at Nuremberg in 1602 from Tycho's original woodblocks and copperplates. Hülsius was a publisher, not a printer; the material assigns the book, like the Epistolae title-quire, to Christoph Lochner. Libraries catalogue it as 1598 when the title-leaf is wanting (Nielsen 1921, p. 212).",
-   "census_inclusion": "censused separately"
+   "census_inclusion": "censused separately",
+   "czech_holdings": "Four copies in the Czech Republic per Hadravová, Hadrava & Shackelford 1996, p. xiv (after Horský & Tenorová, Soupis tisků předních pražských astronomů 16.–17. století, 1990): Ondřejov, Astronomical Institute Q 424; Prague, NK ČR 49 A 36; Brno, MZK St 3-724.084; Olomouc, VKOL II 9319 / adl. 2 ('heavily damaged') — each now an attested copy record in the 1602 census. The same page reports 'the only copy of the third edition of 1611' — the Hülsius sheets under a new title — at Vyšší Brod (the Cistercian abbey library, administered from České Budějovice); no manifestation of the 1611 issue is modelled here, so the holding is recorded on this row.",
+   "sources": [
+    "S_HADRAVOVA1996"
+   ]
   },
   "M_PROG_1610": {
    "nielsen": "",
@@ -2008,32 +2024,39 @@
    "full": "Tycho Brahe, works and letters, ed. Peter Zeeberg for Det Danske Sprog- og Litteraturselskab, tekstnet.dk (2019–2021), from Dreyer's Opera Omnia.",
    "contributes": "the critical texts linked from the records",
    "url": "https://tekstnet.dk/authors/tycho-brahe/"
+  },
+  {
+   "id": "S_HADRAVOVA1996",
+   "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (Prague 1996)",
+   "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. — the English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a Czech translation).",
+   "contributes": "the edition's afterlife in print (Hasselberg 1901/1904, Ræder 1946, the KLP set); the Prologue's census of the Bohemian copies of 1598 and the Czech copies of 1602 and 1611; the colophon translated and the printer dated; the preface's date",
+   "url": ""
   }
  ],
  "edition": {
-  "date": "2026-09-05",
+  "date": "2026-09-28",
   "title": "Typographica Tychonis — The Printed Works of Tycho Brahe"
  },
  "figures": {
   "editions_and_issues": 29,
   "printed_works": 19,
   "censused": 24,
-  "copy_records": 227,
+  "copy_records": 245,
   "placeholders": 6,
-  "located": 107,
+  "located": 124,
   "in_trade": 26,
-  "recorded_untraced": 77,
+  "recorded_untraced": 78,
   "lost": 9,
   "inferred": 8,
   "located_grades": {
-   "A": 66,
-   "B": 34,
+   "A": 73,
+   "B": 44,
    "C": 7
   },
   "located_by_class": {
-   "tycho": 72,
+   "tycho": 78,
    "other": 16,
-   "posthumous": 19
+   "posthumous": 30
   },
   "register_entries": 21
  },
@@ -2344,14 +2367,14 @@
    "census_key": "brahe-de-mundi-1588",
    "counts": {
     "records": 30,
-    "located": 25,
+    "located": 26,
     "trade": 0,
-    "untraced": 4,
+    "untraced": 3,
     "lost": 0,
     "inferred": 1,
     "stubs": 0,
     "grades": {
-     "A": 10,
+     "A": 11,
      "B": 13,
      "C": 2
     }
@@ -2477,16 +2500,16 @@
    "kind": "edition",
    "census_key": "brahe-epistolae-1596",
    "counts": {
-    "records": 29,
-    "located": 11,
+    "records": 32,
+    "located": 14,
     "trade": 10,
     "untraced": 7,
     "lost": 1,
     "inferred": 0,
     "stubs": 0,
     "grades": {
-     "A": 7,
-     "B": 4
+     "A": 9,
+     "B": 5
     }
    }
   },
@@ -2523,14 +2546,14 @@
    "census_key": "brahe-mechanica-1598-wandsbek",
    "counts": {
     "records": 61,
-    "located": 21,
+    "located": 23,
     "trade": 4,
-    "untraced": 30,
+    "untraced": 28,
     "lost": 6,
     "inferred": 0,
     "stubs": 0,
     "grades": {
-     "A": 17,
+     "A": 19,
      "B": 4
     }
    }
@@ -2546,8 +2569,8 @@
    "kind": "completion",
    "census_key": "brahe-progymnasmata-1602",
    "counts": {
-    "records": 9,
-    "located": 9,
+    "records": 11,
+    "located": 11,
     "trade": 0,
     "untraced": 0,
     "lost": 0,
@@ -2555,8 +2578,8 @@
     "stubs": 0,
     "grades": {
      "A": 5,
-     "C": 2,
-     "B": 2
+     "B": 4,
+     "C": 2
     }
    }
   },
@@ -2583,16 +2606,16 @@
    "kind": "reprint",
    "census_key": "brahe-mechanica-1602-nuremberg",
    "counts": {
-    "records": 25,
-    "located": 10,
+    "records": 38,
+    "located": 19,
     "trade": 6,
-    "untraced": 9,
+    "untraced": 13,
     "lost": 0,
     "inferred": 0,
     "stubs": 0,
     "grades": {
-     "A": 7,
-     "B": 2,
+     "B": 9,
+     "A": 9,
      "C": 1
     }
    }

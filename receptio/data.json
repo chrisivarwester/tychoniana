@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.8",
- "edition_date": "2026-09-10",
+ "version": "1.9",
+ "edition_date": "2026-09-28",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -1251,6 +1251,78 @@
      "kind": "tychoniana"
     }
    ]
+  },
+  {
+   "id": "recep-mechanica-editions",
+   "label": "The Mechanica reprinted and translated — Hasselberg 1901, Ræder 1946, the Prague set of 1996",
+   "date": "1901–1996",
+   "year_start": 1901,
+   "year_end": 1996,
+   "status": "extant",
+   "grade": "A",
+   "description": "The book that described the instruments outlived them by four centuries in three anniversary editions. For the tercentenary of Tycho's death Bernhard Hasselberg had the Wandsbek first edition reproduced in facsimile (Stockholm 1901) and in 1904 published the first census of its copies — thirty-three, most in public libraries. For the quatercentenary of his birth the Royal Danish Academy commissioned the first translation: Hans Ræder's unpublished Danish rendering turned into English with Elis and Bengt Strömgren (Copenhagen 1946) — the instrument chapters, the curriculum vitae and the appendices, without the preface, the poems or the letters. For the 450th anniversary the Prague classicists Alena Hadravová and Petr Hadrava, with Jole Shackelford, issued a three-part set (KLP, 1996): a colour facsimile of the Křivoklát presentation copy, the first complete Czech translation, and Ræder's English revised against the Latin with 301 notes and, for the first time in English, the preface to Rudolf II. Its Prologue is also the fullest printed account of the three Bohemian copies of 1598 and the only one of the Czech copies of 1602 and 1611. The poems and the Kurtz and Magini letters remain untranslated; the Latin with a Danish translation is now on tekstnet (2019).",
+   "edges": [
+    [
+     "about",
+     "W_MECHANICA"
+    ],
+    [
+     "about",
+     "TYCHO"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_HADRAVOVA1996"
+   ],
+   "category": "Biography",
+   "links": [
+    {
+     "label": "The Mechanica in the Scripta",
+     "href": "../scripta/index.html#brahe-t_mechanica",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The 1598 edition in the Typographica",
+     "href": "../typographica/index.html#ln432",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The instruments it describes — Instrumenta",
+     "href": "../instrumenta/index.html",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-hipparcos-tycho-catalogue",
+   "label": "The Tycho Catalogue (1997) — a million stars under his name",
+   "date": "1997",
+   "year_start": 1997,
+   "year_end": 1997,
+   "status": "extant",
+   "grade": "B",
+   "description": "When the European Space Agency published the results of its astrometric satellite Hipparcos in 1997, the larger of the two star catalogues — 1,058,332 stars with positions good to about a hundredth of an arcsecond — was named the Tycho Catalogue, the smaller and more precise one (118,218 stars, better than a thousandth of an arcsecond) Hipparcos. The editors of the 1996 Prague edition of the Mechanica, writing in the anniversary year as the catalogue was completed, set the comparison beside Tycho's own thousand stars at about a minute of arc: 'It is thus not only symbolic, but a statement of historical continuity' — the observatory in orbit measuring, four centuries on, what the great mural quadrant had measured on Hven. Grade B: the naming and the figures are reported from the edition's Prologue (p. x, n. 4), not from the ESA publication itself.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ],
+    [
+     "builds_on",
+     "W_OBSERVATIONES"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_HADRAVOVA1996"
+   ],
+   "category": "Sky",
+   "links": [
+    {
+     "label": "The great brass globe and its thousand stars — Instrumenta",
+     "href": "../instrumenta/index.html#inst-globe",
+     "kind": "tychoniana"
+    }
+   ]
   }
  ],
  "sources": [
@@ -1523,6 +1595,12 @@
    "label": "Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's (Prague, 1901)",
    "full": "Jindřich (Heinrich) Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's. Erstattet von Dr. Heinrich Matiegka (Prague, 1901) — the report laid before the Royal Bohemian Society of Sciences on 11 October 1901. Not held; cited as Šimůnek 2002 cites it.",
    "contributes": "The primary record of the 1901 examination, known here through Šimůnek's summary of 2002."
+  },
+  {
+   "id": "S_RECEP_HADRAVOVA1996",
+   "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
+   "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
+   "contributes": "The Mechanica's editions and translations as its Prologue recounts them, and the 450th-anniversary edition itself; the Hipparcos 'Tycho' catalogue named in the anniversary year (p. x, n. 4)."
   }
  ],
  "threads": [

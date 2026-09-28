@@ -45,7 +45,7 @@ CORRADUZ,Rudolf Coraduz (Corraducius),"Coraduz, Rudolf (Corraducius)",,"Rudolf C
 CRAIG,John Craig,"Craig, John",,,person,,,,antagonist,Scientific peers and rivals,contemporary,Edinburgh,55.953,-3.188,Edinburgh physician,7,2,John Craig,0,0,2,,S_THESAURUS; S_EPISTOLARIUM
 COR_THOMAS_CRAIG,Thomas Craig,"Craig, Thomas",,,person,,,,correspondent,Correspondents only,contemporary,Edinburgh,55.953,-3.188,Scottish jurist,1,1,Thomas Craig,0,0,0,,S_EPISTOLARIUM
 COR_DANIEL_CRAMER,Daniel Cramer,"Cramer, Daniel",,,person,,,,correspondent,Correspondents only,contemporary,,,,,2,2,Daniel Cramer,0,0,0,,S_EPISTOLARIUM
-COR_CHARLES_DE_DANÇAY,Charles de Dançay,"Dançay, Charles de",,Charles de Dancey; Charles de Dancay,person,,,,correspondent,Correspondents only,contemporary,Copenhagen,55.676,12.568,French ambassador to Denmark,3,2,Charles de Dançay,0,5,1,,S_EPISTOLARIUM
+COR_CHARLES_DE_DANÇAY,Charles de Dançay,"Dançay, Charles de",,Charles de Dancey; Charles de Dancay,person,1509,1589,,correspondent,Correspondents only,contemporary,Copenhagen,55.676,12.568,French ambassador to Denmark,3,2,Charles de Dançay,0,5,1,,S_EPISTOLARIUM; S_HADRAVOVA1996
 COR_HARTWIG_VON_DASSEL,Hartwig von Dassel,"Dassel, Hartwig von",,,person,,,,correspondent,Correspondents only,contemporary,,,,,2,0,Hartwig von Dassel,0,0,0,,S_EPISTOLARIUM
 DREYER_J,J. L. E. Dreyer,"Dreyer, J. L. E.",,,person,1852,1926,,scholar; editor; source,"Editors, owners and scholars",afterlife,Copenhagen,55.676,12.568,Danish-born astronomer and biographer,0,0,,0,0,0,,S_THESAURUS
 COR_HEINRICH_ELLENBERGER,Heinrich Ellenberger,"Ellenberger, Heinrich",,,person,,,,correspondent,Correspondents only,contemporary,,,,,1,0,Heinrich Ellenberger,0,0,0,,S_EPISTOLARIUM
@@ -91,7 +91,7 @@ KEPLER,Johannes Kepler,"Kepler, Johannes",,,person,1571,1630,,associate,Scientif
 FAM_HANS_KNIEPER,Hans Knieper,"Knieper, Hans",,,person,,1587,,craftsman,Builders and craftsmen,contemporary,,,,,0,0,,0,0,1,,S_BECKETT
 COR_METTE_KOTTE,Mette Kotte,"Kotte, Mette",,,person,,,,correspondent,Correspondents only,contemporary,,,,,0,1,Mette Kotte,0,0,0,,S_EPISTOLARIUM
 COR_NIELS_KRAG,Niels Krag,"Krag, Niels",,,person,,,,correspondent,Correspondents only,contemporary,,,,,1,3,Niels Krag,6,4,1,,S_EPISTOLARIUM
-COR_JACOB_KURZ,Jacob Kurz,"Kurz, Jacob",,Jacob Kurz von Senftenau (Curtius),person,,,,correspondent,Correspondents only,contemporary,,,,,1,3,Jacob Kurz,0,1,0,,S_EPISTOLARIUM
+COR_JACOB_KURZ,Jacob Kurz,"Kurz, Jacob",,Jacob Kurz von Senftenau (Curtius),person,,1594,,correspondent,Correspondents only,contemporary,,,,,1,3,Jacob Kurz,0,1,0,,S_EPISTOLARIUM; S_HADRAVOVA1996
 FAM_GEORG_LABENWOLF,Georg Labenwolf,"Labenwolf, Georg",,,person,,,,craftsman,Builders and craftsmen,contemporary,Nuremberg,49.452,11.077,Nuremberg founder; Uraniborg's water-system,0,0,,0,2,0,,S_JERN; S_BECKETT
 FAM_ERIK_LANGE,Erik Lange,"Lange, Erik",Ericus Langius,,person,,1613,,friend; family,Family and friends,contemporary,Engelsholm,55.726,9.418,"alchemist; Sophie Brahe's husband, his Jutland seat",0,0,,11,3,4,,S_ELLEFSEN; S_ZEEBERG1994
 COR_KIRSTEN_LINDENOV,Kirsten Lindenov,"Lindenov, Kirsten",,Kirsten Lindenow,person,,,,correspondent,Correspondents only,contemporary,,,,,0,1,Kirsten Lindenov,0,1,0,,S_EPISTOLARIUM
@@ -152,7 +152,7 @@ COR_JOHANNES_STYGGE,Johan Stygge,"Stygge, Johan",,Johannes Stygge; Hans Stygge,p
 TAMPACH,Gottfried Tampach,"Tampach, Gottfried",,,person,,,,publisher,The book trade,contemporary,Frankfurt,50.111,8.682,Frankfurt publisher (posthumous re-issues),0,0,,0,0,3,,S_NIELSEN1921; S_THESAURUS
 COR_FRIEDRICH_TAUBMANN,Friedrich Taubmann,"Taubmann, Friedrich",,,person,,,,correspondent,Correspondents only,contemporary,,,,,0,1,Friedrich Taubmann,0,1,0,,S_EPISTOLARIUM
 COR_JOHANN_TAUCHMANN,Johann Tauchmann,"Tauchmann, Johann",,,person,,,,correspondent,Correspondents only,contemporary,,,,,0,1,Johann Tauchmann,0,1,0,,S_EPISTOLARIUM
-COR_FRANS_TENGNAGEL,Frans Tengnagel,"Tengnagel, Frans",,Frans Gansneb genannt Tengnagel; Franz Gansneb Tengnagel,person,,,,correspondent,Correspondents only,contemporary,,,,,1,0,Frans Tengnagel,0,9,0,,S_EPISTOLARIUM
+COR_FRANS_TENGNAGEL,Frans Tengnagel,"Tengnagel, Frans",,Frans Gansneb genannt Tengnagel; Franz Gansneb Tengnagel,person,1573,1636,,correspondent,Correspondents only,contemporary,,,,,1,0,Frans Tengnagel,0,9,0,,S_EPISTOLARIUM; S_HADRAVOVA1996
 FAM_BIRGITTE_THOTT,Birgitte Thott,"Thott, Birgitte",,,person,1610,1662,,scholar,"Editors, owners and scholars",afterlife,Sorø,55.432,11.554,learned noblewoman; lived and is buried at Sorø,0,0,,0,0,0,,S_ELLEFSEN
 COR_TAGE_OTTESEN_THOTT,Tage Ottesen Thott,"Thott, Tage Ottesen",,,person,,,,correspondent; family,Correspondents only; Family and friends,contemporary,,,,,1,1,Tage Ottesen Thott,0,0,1,,S_EPISTOLARIUM
 COR_ULRICH_3,"Ulrich III, Duke of Mecklenburg","Ulrich III, Duke of Mecklenburg",,"Ulrich 3., hertug af Mecklenburg; Ulrich, Duke of Mecklenburg; Duke Ulrich III of Mecklenburg",person,,,,patron; correspondent,Patrons and dedicatees; Correspondents only,contemporary,Güstrow,53.797,12.176,Duke of Mecklenburg,7,6,"Ulrich 3., hertug af Mecklenburg",1,2,0,,S_EPISTOLARIUM
@@ -174,4 +174,4 @@ WITTICH,Paul Wittich,"Wittich, Paul",,Paulus Wittichius,person,1546,1586,,astron
 COR_HIERONYMUS_WOLF,Hieronymus Wolf,"Wolf, Hieronymus",,,person,1516,1580,,correspondent,Correspondents only,contemporary,Augsburg,48.37,10.898,Augsburg humanist,6,1,Hieronymus Wolf,0,2,0,,S_EPISTOLARIUM
 COR_GEORG_VON_WOLFRAMSDORF,Georg von Wolframsdorf,"Wolframsdorf, Georg von",,,person,,,,correspondent,Correspondents only,contemporary,,,,,0,1,Georg von Wolframsdorf,0,0,0,,S_EPISTOLARIUM
 COR_PETER_YOUNG,Peter Young,"Young, Peter",,,person,1544,1628,,correspondent,Correspondents only,contemporary,Edinburgh,55.953,-3.188,"tutor to James VI, Scotland",1,6,Peter Young,0,0,0,,S_EPISTOLARIUM
-HASENBURG,Jan Zbyněk Zajíc z Házmburka (Johann von Hasenburg),"Zajíc z Házmburka, Jan Zbyněk (Johann von Hasenburg)",,,person,1565,1616,,patron; dedicatee,Patrons and dedicatees,contemporary,Prague,50.075,14.438,Bohemian noble patron,0,0,,0,0,1,,S_DREYER; S_CROSSROADS; S_THESAURUS
+HASENBURG,Jan Zbyněk Zajíc z Házmburka (Johann von Hasenburg),"Zajíc z Házmburka, Jan Zbyněk (Johann von Hasenburg)",,,person,1565,1616,,patron; dedicatee,Patrons and dedicatees,contemporary,Prague,50.075,14.438,Bohemian noble patron,0,0,,0,0,1,,S_DREYER; S_CROSSROADS; S_THESAURUS; S_HADRAVOVA1996

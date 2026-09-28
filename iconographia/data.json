@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.9",
- "edition_date": "2026-09-05",
+ "version": "1.11",
+ "edition_date": "2026-09-28",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -437,7 +437,7 @@
     "inv": "",
     "url": "",
     "tier": "extant as impressions; the block untraced",
-    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592."
+    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592. (5) CANDIDATE — Hillerød, Det Nationalhistoriske Museum på Frederiksborg, print collection, P-10178: ‘et træsnit-portræt af Tycho’ from Harald Mortensen's collection, his gift of 1950, confirmed as held by the museum's collections department on 28 September 2026. Paulli & Dal (Fund og Forskning 5–6, 1959, p. 15) say Mortensen knew the woodcut in only two other impressions, both in Germany — which fits this block (Marburg, Berlin, with Königsberg destroyed) and no other Tycho woodcut, but the museum has not described the print and no image has been seen; whether it is a loose impression or a leaf cut from a prospectus is unknown. Not counted until examined."
    }
   },
   {
@@ -532,7 +532,7 @@
     "upper": "1587",
     "argument": "The great mural quadrant itself was built in 1582 — nothing could be painted in its arc before that. The date 1587 is not merely conventional: it is inscribed on the plate's own tablet ('A° DOMINI 1587 ÆTATIS SVÆ 40', confirmed letter-for-letter at 600 DPI in two independent KB Copenhagen copies), and Tycho's text endorses the tablet ('prout vides'). The cap on Gemperlin's share of the work comes from his death — dead by 1587, the die-window running 1586 to May 1588 — not from Tycho's testimony. For the effigy and the architecture the attribution rests on Tycho's own word: he named Gemperlin and Stenwinkel outright, and praised the likeness in the Mechanica ('vix similior dari possit' — scarcely could a more faithful one be made); the landscape hand he named only as 'Johannes of Antwerp, royal painter at Kronborg', the surname Knieper being inherited, uncontested scholarship. A genuine late-1586 strand — Gassendi (via Resen 1668, attached to this mural effigy specifically), Thoren 1990, and Friis's earlier essay ('omtrent 1586') — dates the execution to late 1586; under aetatis-40 reckoning (Tycho's 40th year ran 14 December 1586 – 13 December 1587) both dates are consistent with a sitting late in 1586 completed by 1587."
    },
-   "description": "Painted in 1587 within the arc of the great mural quadrant: a trompe-l'oeil 'diorama' in which Tycho, seated life-size in effigy in a fur-lined robe whose front carries a gold frog-and-button closure — no order insignia or pendant of any kind — looks up and points to the real observing-slit cut in the room's south wall, a dog (fidelity) at his feet and an open book with dividers and square on the table before him. Through the illusory wall one sees into the three storeys of the south tower — the vaulted laboratory, the library with the great brass globe, and the observatory with working assistants — flanked by medallion portraits of Frederik II and Queen Sofie; a tablet records it as the work of Tycho, 'author of the building and the astronomical instruments', in his 40th year. The painting perished with Uraniborg and survives through the copperplate engraving in the Mechanica (1598); a re-cut woodblock derivative of the plate appears in the 1666 Historia Coelestis (Liber Prolegomenon, p. cxiii).",
+   "description": "Painted in 1587 within the arc of the great mural quadrant: a trompe-l'oeil 'diorama' in which Tycho, seated life-size in effigy in a fur-lined robe whose front carries a gold frog-and-button closure — no order insignia or pendant of any kind — looks up and points to the real observing-slit cut in the room's south wall, a dog (fidelity) at his feet and an open book with dividers and square on the table before him. Through the illusory wall one sees into the three storeys of the south tower — the vaulted laboratory, the library with the great brass globe, and the observatory with working assistants — flanked by medallion portraits of Frederik II and Queen Sofie; a tablet records it as the work of Tycho, 'author of the building and the astronomical instruments', in his 40th year. The painting perished with Uraniborg and survives through the copperplate engraving in the Mechanica (1598); a re-cut woodblock derivative of the plate appears in the 1666 Historia Coelestis (Liber Prolegomenon, p. cxiii). The inscription over the portrait and the whole painting is translated by the 1996 editors (n. 64): 'Figure of Tycho Brahe, Otto's son, the builder of this building and of astronomical instruments. In the year 1587, at the age of forty years'; Gemperlin, the Augsburg painter who did the likeness, also took part in Tycho's observations, for instance of the comet of 1577 (n. 58).",
    "edges": [
     [
      "depicts",
@@ -569,7 +569,8 @@
     "S_ICON_THOREN",
     "S_ICON_DREYER",
     "S_ICON_CHRISTIANSON",
-    "S_ICON_DOSSIER_2026"
+    "S_ICON_DOSSIER_2026",
+    "S_ICON_HADRAVOVA1996"
    ],
    "image": "plates/icon-mural-portrait.jpg",
    "image_thumb": "plates/icon-mural-portrait_thumb.jpg",
@@ -1256,15 +1257,16 @@
     "S_ICON_STUDNICKA1901",
     "S_ICON_MORTENSEN1942",
     "S_ICON_KROUPA2001",
-    "S_ICON_PAREZ2009"
+    "S_ICON_PAREZ2009",
+    "S_ICON_HADRAVOVA1996"
    ],
    "image": "plates/icon-mechanica-watercolours.jpg",
    "image_thumb": "plates/icon-mechanica-watercolours_thumb.jpg",
    "image_credit": "The hand-painted watercolour portrait facing the title of Tycho Brahe, Astronomiæ instauratæ mechanica (Wandsbek 1598). Det Kongelige Bibliotek, Copenhagen, LN 432 2°, eks. 2 — Tycho's presentation copy to Petr Vok z Rožmberka, dedicated 18 September 1600. From KB's own digitisation, Digitale Samlinger object11914, leaf LN_432_2_005 (IIIF: kb-images.kb.dk/DAMJP2/online_master_arkiv_4/non-archival/HA/TB_LN432/).",
-   "census_copies": "Watercolour portraits documented on: Copenhagen KB LN 432 2° eks. 2 (the Petr Vok presentation copy — verified from the digitised copy, July 2026), Strahov AG XI 56 (Hasselberg nr 23, 'Med porträtt som i KVA:s', Norlind; leaf reproduced in Studnička 1901, plate at p. 47; measured by Kroupa 2001 at 285 × 184 mm — portrait, arms and the motto Esse potius quam haberi — and bound in after the Házmburk dedication in place of the pasted-in portrait; reproduced Boldan & Vackářová 2024, p. 92; photographed by Vellev 2005), Weimar HAAB 15,2:23, Stockholm KVA H1 (Wargentin) and Kalocsa Főszékesegyházi Könyvtár H22.",
+   "census_copies": "Watercolour portraits documented on: Copenhagen KB LN 432 2° eks. 2 (the Petr Vok presentation copy — verified from the digitised copy, July 2026), Strahov AG XI 56 (Hasselberg nr 23, 'Med porträtt som i KVA:s', Norlind; leaf reproduced in Studnička 1901, plate at p. 47; measured by Kroupa 2001 at 285 × 184 mm — portrait, arms and the motto Esse potius quam haberi — and bound in after the Házmburk dedication in place of the pasted-in portrait; reproduced Boldan & Vackářová 2024, p. 92; photographed by Vellev 2005; the whole volume digitised in Manuscriptorium, inspected 20 September 2026), Weimar HAAB 15,2:23, Stockholm KVA H1 (Wargentin) and Kalocsa Főszékesegyházi Könyvtár H22. The 1996 KLP edition (Prologue p. xiv) confirms Kroupa's 285 × 184 mm for the Strahov watercolour and its motto Esse potius, quam haberi, and contrasts the Křivoklát copy, which carries the engraved portrait with the motto in its other form, Non haberi, sed esse.",
    "nature": "Each watercolour is unique — hand-painted individually for its copy, so every one is an original, and no two are quite alike. Vellev's claim that they 'must all derive from the same model' is refuted for at least one leaf: a first-hand inspection of the Weimar leaf found it a replica of the de Gheyn 1590 engraving, captioned aetatis 40 / anno 1586 — a demonstrably different and much earlier model.",
    "whereabouts": {
-    "summary": "At least five exemplars are known; the Copenhagen one is fully digitised and public.",
+    "summary": "At least five exemplars are known; two are fully digitised and public — Copenhagen (KB) and, since the Strahov catalogue linked its Manuscriptorium record, Strahov AG XI 56 (95 images, CC BY-NC).",
     "holder": "Det Kongelige Bibliotek",
     "city": "Copenhagen",
     "inv": "LN 432 2°, eks. 2",
@@ -1314,12 +1316,12 @@
     {
      "holder": "Strahovská knihovna, Královská kanonie premonstrátů na Strahově",
      "city": "Prague",
-     "inv": "",
-     "support": "watercolour, in a green silk binding with the gilt portrait supralibros front and the arms back",
-     "size": "",
+     "inv": "AG XI 56",
+     "support": "watercolour on a leaf bound in after the title, facing the Rudolf II preface; in a green silk binding with the gilt portrait supralibros front and the arms back",
+     "size": "285 × 184 mm (Kroupa 2001)",
      "verdict": "original — Tycho's presentation copy to Jan Zbyněk Zajíc z Házmburka (Johann von Hasenburg)",
-     "note": "The dedication is in an accompanying autograph letter rather than written into the book — a real difference from the Copenhagen copy, where it is on the flyleaf. Von Biela, writing from Prague on 20 June 1824, gives the earliest first-hand description of the portrait: bald head, blue eyes, a long reddish beard, and a nose that does not look natural. He also transcribes the dedication: 'Illustri ac Generoso Domino, Dno. Johanni liber Baro ab Hasenburg, Capitaneo, S. Cæsar. Majestatis a Consiliis, Domino et amico suo in primis honorando Tycho Brahe'. Von Biela's letter was published in Astronomische Nachrichten III (1825), p. 256. Friis footnotes this portrait — the Strahov Mechanica one — to a reproduction in Danmarks Riges Historie IV (1897), p. 43.",
-     "source": "Studnička, Prager Tychoniana (1901), pp. 44–48; Friis, Bidrag til dansk Kunsthistorie, p. 226; Mosley 2007, Appendix I"
+     "note": "The dedication is written in the book — on the verso of the first front flyleaf, the body by a professional calligrapher, the two-word signature autograph, and beneath it a later reader's 'manu Tychonis propria.' (Studnička's 'in beifolgender Zuschrift', an accompanying letter, was a misreading; the store repeated it until 20 September 2026, when the Manuscriptorium facsimile was inspected). The leaf shows a bust in an oval within an architectural frame, instruments in the upper corners, two flanking figures with instruments at the base, a dark cartouche above and the arms in a roundel below with the motto Esse potius quam haberi. Von Biela, writing from Prague on 20 June 1824, gives the earliest first-hand description of the portrait: bald head, blue eyes, a long reddish beard, and a nose that does not look natural; his letter was published in Astronomische Nachrichten III (1825), p. 256. Friis footnotes this portrait to a reproduction in Danmarks Riges Historie IV (1897), p. 43; Studnička reproduced it as a plate at p. 47 (1901); Vellev photographed it in 2005 (Tycho Brahes Verden 2006, pp. 84–85); Boldan & Vackářová 2024, p. 92.",
+     "source": "Manuscriptorium AIPDIG-KKPS__AG_XI_56____3CH4Z61, canvases Iv, IIr–IIIr, inspected 20 September 2026 (https://www.manuscriptorium.com/hub/catalog/default/detail/single/manuscriptorium%7CAIPDIG-KKPS__AG_XI_56____3CH4Z61-cs?lang=en); Studnička, Prager Tychoniana (1901), pp. 44–48; Kroupa 2001; Friis, Bidrag til dansk Kunsthistorie, p. 226; Mosley 2007, Appendix I"
     }
    ],
    "conflicts": [
@@ -1341,7 +1343,7 @@
    ],
    "open_questions": [
     "Where do Mortensen's 'Aet: LI' and Vellev's 'LII' actually sit — on Andersen's 1886 etching (Westergaard 1451), or on the Strahov, KVA or Kalocsa leaf? None has been inspected at reading resolution.",
-    "Strahov holds a third Tycho watercolour, and it is of a different type — see the full-figure record. Whether the Strahov Mechanica's own watercolour matches the Copenhagen composition is now partially checked: the Studnička 1901 plate (p. 47) shows the Strahov leaf as a bust in an oval with an architectural/strapwork surround, two small flanking figures, a cartouche-like element above, and an arms roundel below — structurally cognate with Copenhagen, but the photogravure cannot confirm lettering or figure identities. A modern image from Strahov is still needed."
+    "Strahov holds a third Tycho watercolour, and it is of a different type — see the full-figure record. The Strahov Mechanica's own watercolour is now checked against the Copenhagen composition on the Manuscriptorium facsimile (20 September 2026): the same family — bust in an oval, architectural frame, instruments in the upper corners, two flanking figures, a cartouche above, the arms roundel with the motto below. What the facsimile's c. 1000-pixel width cannot settle: the lettering of the roundel and of the cartouche, and whether any age or date inscription is present. A photograph at reading resolution from Strahov remains the one thing wanted."
    ],
    "resolved_questions": [
     "The age inscription — resolved for Copenhagen: no age inscription exists on the leaf (full-resolution IIIF inspection, July 2026). Residual, still open: where Mortensen's 'Aet: LI' and Vellev's 'LII' actually sit — on Andersen's 1886 etching (Westergaard 1451), or on the Strahov, KVA or Kalocsa leaf, none inspected at reading resolution."
@@ -2615,8 +2617,14 @@
   {
    "id": "S_ICON_PAREZ2009",
    "label": "Pařez 2009",
-   "full": "Jan Pařez, ‘Supralibros dánského astronoma Tycha Brahe ve Strahovské knihovně’, Sborník pro exlibris a drobnou grafiku 2009, pp. 24–26 — the Strahov volumes with Tycho's portrait and arms plaques (76 × 59 mm; a 59 × 43 mm variant), the Mechanica AG XI 56 among them on its ‘vzácná hedvábná vazba’; describes the portrait plaque's bust, the Elephant on its long chain and a medallion with the letters FS on the short one.",
+   "full": "Jan Pařez, ‘Supralibros dánského astronoma Tycha Brahe ve Strahovské knihovně’, Sborník pro exlibris a drobnou grafiku 2009, pp. 24–26 — the Strahov volumes with Tycho's portrait and arms plaques (76 × 59 mm; a 59 × 43 mm variant), the Mechanica AG XI 56 among them on its ‘vzácná hedvábná vazba’; describes the portrait plaque's bust, the Elephant on its long chain and a medallion with the letters FS on the short one. The small variant measured 58 × 43 mm on Σ VI 3 at the Strahov desk, 18 September 2026.",
    "url": "https://www.sspe.cz/images/sborniky/Sbornik_2009.pdf"
+  },
+  {
+   "id": "S_ICON_HADRAVOVA1996",
+   "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
+   "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia. Prologue pp. xii–xiv on the Křivoklát and Strahov copies; n. 64 on the mural portrait's inscription; n. 58 on Gemperlin.",
+   "url": ""
   }
  ],
  "rejected": [

@@ -1,8 +1,8 @@
 {
  "pillar": "scripta",
  "subject": "brahe-tycho",
- "version": "1.0",
- "edition_date": "2026-09-05",
+ "version": "1.1",
+ "edition_date": "2026-09-28",
  "title": "Scripta Tychonis — the writings of Tycho Brahe in the edition of 2019: a catalogue, with the texts",
  "dsl": {
   "editors": "Peter Zeeberg and Finn Gredal Jensen",
@@ -8457,7 +8457,7 @@
     }
    ],
    "place": null,
-   "research_status": "not_yet_researched",
+   "research_status": "partly_researched",
    "confidence": null,
    "summary": null,
    "occasion": null,
@@ -8468,7 +8468,7 @@
    "printed": {
     "status": "not_yet_researched"
    },
-   "modern_edition": null,
+   "modern_edition": "Translated twice. Tycho Brahe's Description of his Instruments and Scientific Work, trans. Hans Ræder, Elis Strömgren & Bengt Strömgren (Copenhagen: Royal Danish Academy, 1946), for the quatercentenary of his birth — the instrument chapters, the curriculum vitae and the appendices only. For the 450th anniversary the Prague set of Alena Hadravová, Petr Hadrava & Jole R. Shackelford, Tycho Brahe: Instruments of the Renewed Astronomy (KLP, 1996): a colour facsimile of the Křivoklát presentation copy, the first complete Czech translation (the Latin and Greek poems in verse by Dana Svobodová), and Ræder's English revised against the Latin and furnished with 301 notes, adding the preface to Rudolf II in English for the first time. Still untranslated in either: the admirers' poems (Rosenkrantz, Caukerchius, Tengnagel), the letters of Kurtz and Magini and Tycho's comments on them. A facsimile of the first edition was issued by Hasselberg (Stockholm 1901) for the tercentenary of Tycho's death. The Latin with a Danish translation is on tekstnet (DSL, 2019), the edition of record here.",
    "tboo": {
     "volume": null,
     "pages": null,
@@ -8480,7 +8480,16 @@
      "basis": "the page markers of the edition's text"
     }
    },
-   "references": [],
+   "references": [
+    {
+     "source": "Hadravová, Hadrava & Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy (Prague 1996), Prologue and notes",
+     "locus": "pp. xi–xii (the edition), 3–10 (the preface in English), 166 (the colophon), n. 301",
+     "supports": "The translation history (1946 the only earlier translation; 1996 the revised English with the Czech edition's notes); what remains untranslated; the preface dated 'the day before the first day of January of the year 1598' at the Rantzov castle, Wandsbek; the colophon naming Philipp von Ohr of Hamburg, active 1597–1608 (Benzing).",
+     "source_ids": [
+      "S_HADRAVOVA1996"
+     ]
+    }
+   ],
    "open_questions": [],
    "resolved_questions": [],
    "editorial_notes": [],
@@ -12350,6 +12359,15 @@
    "url": "../census/",
    "url_status": null,
    "cited_by": 0
+  },
+  {
+   "id": "S_HADRAVOVA1996",
+   "short": "Hadravová, Hadrava & Shackelford 1996",
+   "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
+   "contributes": "The commented English edition: the translation history, what is and is not translated, the Opera omnia parallels, and the Prologue's account of the Bohemian copies.",
+   "url": null,
+   "url_status": null,
+   "cited_by": 1
   }
  ]
 }
