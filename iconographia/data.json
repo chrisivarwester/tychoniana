@@ -424,7 +424,8 @@
     "S_ICON_CHRISTIANSON",
     "S_ICON_NIELSEN1921",
     "S_ICON_NORLIND1970",
-    "S_ICON_DOSSIER_2026"
+    "S_ICON_DOSSIER_2026",
+    "S_ICON_WESTERGAARD1930"
    ],
    "image": "plates/icon-woodcut-1586.jpg",
    "image_thumb": "plates/icon-woodcut-1586_thumb.jpg",
@@ -853,7 +854,8 @@
     "S_ICON_RIJKSMUSEUM9945",
     "S_ICON_DIARIUM",
     "S_ICON_MOSLEY",
-    "S_ICON_NOTES_2026_10"
+    "S_ICON_NOTES_2026_10",
+    "S_ICON_WESTERGAARD1930"
    ],
    "image": "plates/icon-degheyn-v1.jpg",
    "image_thumb": "plates/icon-degheyn-v1_thumb.jpg",
@@ -990,7 +992,8 @@
     "S_ICON_DIARIUM",
     "S_ICON_TBV2006",
     "S_ICON_FRIIS",
-    "S_ICON_NOTES_2026_10"
+    "S_ICON_NOTES_2026_10",
+    "S_ICON_WESTERGAARD1930"
    ],
    "image": "plates/icon-degheyn-v2.jpg",
    "image_thumb": "plates/icon-degheyn-v2_thumb.jpg",
@@ -1042,7 +1045,8 @@
     "S_ICON_CHRISTIANSON",
     "S_ICON_CERL",
     "S_ICON_DOSSIER_2026",
-    "S_ICON_NOTES_2026_10"
+    "S_ICON_NOTES_2026_10",
+    "S_ICON_WESTERGAARD1930"
    ],
    "image": "plates/icon-cornelisz-1595.jpg",
    "image_thumb": "plates/icon-cornelisz-1595_thumb.jpg",
@@ -2294,7 +2298,7 @@
   {
    "id": "S_ICON_EPISTOLAE_1596",
    "label": "Tycho Brahe, Epistolae astronomicae (Uraniborg, 1596)",
-   "full": "Tycho Brahe, Epistolarum astronomicarum libri (Uraniborg, 1596), pp. 243–246 = Opera Omnia VI.273–276 — Tycho's own printed description of the painted decoration of Stjerneborg's warming room, naming all eight astronomers and giving their distichs. A lifetime, first-person, printed source for a lost painting."
+   "full": "Tycho Brahe, Epistolarum astronomicarum libri (Uraniborg, 1596), pp. 243–246 = Opera Omnia VI.273–276 — Tycho's own printed description of the painted decoration of Stjerneborg's warming room, naming all eight astronomers and giving their distichs. A lifetime, first-person, printed source for a lost painting. The front matter (Opera Omnia VI, pp. 4–8): the inserted portrait leaf, whose tablet reads 'Effigies Tychonis Brahe Ottonidis Dani … aetatis suae anno 40. Anno Domini 1586. compl.', and the dedicatory poems — Albertus Voitus of Wittenberg, 'In effigiem magnifici et nobilissimi viri D. Tychonis Brahei' ('parva haec picta Tabella capit'), Nathan Chytraeus, Henricus Hoierus, Antonius Riccobonus and Olivierus Tubanellus (both addressed to Magini), Marinus Plecius — the printed harvest of the epigram campaign of 1590–1592."
   },
   {
    "id": "S_ICON_MOSLEY",
@@ -2364,7 +2368,7 @@
   {
    "id": "S_ICON_DEMUNDI_1588",
    "label": "Tycho Brahe, De mundi aetherei recentioribus phaenomenis (Uraniborg, 1588)",
-   "full": "Tycho Brahe, De mundi aetherei recentioribus phaenomenis liber secundus (Uraniborg, 1588) = Opera Omnia IV — the chapter heading 'NOVA MVNDANI SYSTEMATIS HYPOTYPOSIS AB AVTHORE NVPER ADINVENTA', verbatim-verified: the first-person ancestor of the clock plate's third-person banderole 'HYPOTYPOSIS Systematis mundani a Tychone inventi'."
+   "full": "Tycho Brahe, De mundi aetherei recentioribus phaenomenis liber secundus (Uraniborg, 1588) = Opera Omnia IV — the chapter heading 'NOVA MVNDANI SYSTEMATIS HYPOTYPOSIS AB AVTHORE NVPER ADINVENTA', verbatim-verified: the first-person ancestor of the clock plate's third-person banderole 'HYPOTYPOSIS Systematis mundani a Tychone inventi'. P. 284 (= Opera Omnia IV, 235): Gemperlin named as the painter of the mural-quadrant effigy and recorded as dead — 'quique non ita dudum lue Epidemica Hafniae grassante correptus, diem obijt' — in a text printed at Uraniborg in 1587."
   },
   {
    "id": "S_ICON_DETMOLD",
@@ -2601,8 +2605,8 @@
   },
   {
    "id": "S_ICON_TBOO",
-   "label": "Tychonis Brahe Opera Omnia — the quadrant's primary witnesses",
-   "full": "Tychonis Brahe Dani Opera Omnia (ed. Dreyer): V, 12–15, the Mechanica's quadrans minor chapter with Tycho's own description of the emblem ('Juvenis laurea insignitus', celestial globe and book); VI, 284–285, the 1591 instrument synopsis for Landgrave Wilhelm IV of Hessen-Kassel, item XXV — the earliest dated witness to the emblem's description, motto included; X, 38–39, the December 1573 eclipse log cited by Thoren as the dating anchor."
+   "label": "Tychonis Brahe Opera Omnia — primary witnesses in several volumes",
+   "full": "Tychonis Brahe Dani Opera Omnia (ed. Dreyer): V, 12–15, the Mechanica's quadrans minor chapter with Tycho's own description of the emblem ('Juvenis laurea insignitus', celestial globe and book); VI, 284–285, the 1591 instrument synopsis for Landgrave Wilhelm IV of Hessen-Kassel, item XXV — the earliest dated witness to the emblem's description, motto included; X, 38–39, the December 1573 eclipse log cited by Thoren as the dating anchor. XIV, 293: a letter of 1627 from one of Tycho's children to Kepler, on the plates for the Rudolphine Tables, expecting 'des herrn vattern selig: contrafeth jn kupfer gestecht' to be found 'in eine truhe an einem orth auf dem lande' — the heirs still believed they owned a portrait copperplate of their father. VI, 4–8: the Epistolae front matter."
   },
   {
    "id": "S_ICON_TBOO9",
@@ -2695,6 +2699,11 @@
    "id": "S_ICON_NOTES_2026_10",
    "label": "The editor's research notes on the two engravings and the drawing (October 2026)",
    "full": "The editor's unpublished notes of October 2026: the complete sweep of the surviving correspondence of 1590–1597 for any mention of the second plate (none between 8 December 1590 and 5 September 1595); the orientation argument that Lambert Cornelisz's copy of 1595 was taken from the printed second plate; the Statens Museum for Kunst record for KKSgb5254 tested claim by claim; the couriers documented between Hven and Amsterdam in 1590 and 1593 (Arnold and Hendrik van Langren) and in 1594–96 (Isaac Pietersz and his son Pontanus); and the two readings of the age tablet on the van Langren globe of 1594."
+  },
+  {
+   "id": "S_ICON_WESTERGAARD1930",
+   "label": "Westergaard, Danske Portræter i Kobberstik, Litografi og Træsnit (1930)",
+   "full": "Harald Westergaard, Danske Portræter i Kobberstik, Litografi og Træsnit: en beskrivende Fortegnelse, vol. I (Copenhagen, 1930), the Tycho Brahe entries — no. 1376 the woodcut, 1377 the first de Gheyn engraving (noting the 'Marco Sadeler excudit' state), 1394 the second, 1409 the Cornelisz print. Entries 1375–1382 read at first hand; 1394 and 1409 are cited through Mortensen 1946, who gives the numbers."
   }
  ],
  "rejected": [
