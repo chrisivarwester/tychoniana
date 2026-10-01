@@ -1227,12 +1227,12 @@
    "date_iso": "1590-04-06",
    "date_style": "Julian",
    "person_name_raw": "Er. Lang.; Arn. flor.",
-   "person_name_expanded": "Erik Lange (came and departed); Arnoldus Florentius (came; unidentified)",
+   "person_name_expanded": "Erik Lange (came and departed); Arnold Floris van Langren (came; Amsterdam globe-maker's son)",
    "person_id_viaf": null,
    "person_id_familia": "FAM_ERIK_LANGE",
    "person_status": "nobility",
    "direction": "arrival",
-   "occasion": "Erik Lange came and departed; Arnoldus Florentius came",
+   "occasion": "Erik Lange came and departed; Arnold Floris van Langren came, to stay seven weeks",
    "origin_or_destination": null,
    "note_text_raw": "Er. Lang. venit et abiit. Arn. flor. ven.",
    "source": "FRIIS1876",
@@ -1398,6 +1398,26 @@
    "source": "FRIIS1876",
    "source_page": 148,
    "source_scan_page": 158,
+   "page_basis": "note located on the page",
+   "confidence": "A"
+  },
+  {
+   "id": "d-1590-05-23-a",
+   "date_raw": "23 May 1590",
+   "date_iso": "1590-05-23",
+   "date_style": "Julian",
+   "person_name_raw": "nobiles Scoti; Arnoldus F.",
+   "person_name_expanded": "The Scots nobles; Arnold Floris van Langren (Amsterdam globe-maker's son)",
+   "person_id_viaf": null,
+   "person_id_familia": "FAM_ARNOLD_VAN_LANGREN",
+   "person_status": "craftsman",
+   "direction": "departure",
+   "occasion": "The Scots nobles departed for Helsingør and Arnold Floris van Langren with them, after seven weeks on Hven",
+   "origin_or_destination": "Helsingør",
+   "note_text_raw": "Discesserunt nobiles Scoti Helsingoram et cum illis Arnoldus F.",
+   "source": "FRIIS1876",
+   "source_page": 149,
+   "source_scan_page": 159,
    "page_basis": "note located on the page",
    "confidence": "A"
   },
@@ -2022,6 +2042,26 @@
    "confidence": "B"
   },
   {
+   "id": "d-1591-03-06-a",
+   "date_raw": "6 Mar 1591",
+   "date_iso": "1591-03-06",
+   "date_style": "Julian",
+   "person_name_raw": "Mgr. Petrus; pictor",
+   "person_name_expanded": "Master Petrus (unidentified); a painter (unnamed)",
+   "person_id_viaf": null,
+   "person_id_familia": null,
+   "person_status": "craftsman",
+   "direction": "arrival",
+   "occasion": "Master Petrus returned from Helsingør with a painter, whose work on Hven was completed by 23 April",
+   "origin_or_destination": "Helsingør",
+   "note_text_raw": "Rediit Mgr. Petrus Helsingora cum pictore.",
+   "source": "FRIIS1876",
+   "source_page": 172,
+   "source_scan_page": 182,
+   "page_basis": "note located on the page",
+   "confidence": "A"
+  },
+  {
    "id": "d-1591-03-22-a",
    "date_raw": "22 Mar 1591",
    "date_iso": "1591-03-22",
@@ -2138,6 +2178,26 @@
    "source": "FRIIS1876",
    "source_page": 175,
    "source_scan_page": 185,
+   "page_basis": "note located on the page",
+   "confidence": "A"
+  },
+  {
+   "id": "d-1591-04-23-a",
+   "date_raw": "23 Apr 1591",
+   "date_iso": "1591-04-23",
+   "date_style": "Julian",
+   "person_name_raw": "famulus Pict.",
+   "person_name_expanded": "The painter's servant (unnamed)",
+   "person_id_viaf": null,
+   "person_id_familia": null,
+   "person_status": "craftsman",
+   "direction": "departure",
+   "occasion": "The painter's servant departed, the work completed — the end of the painting commission begun on 6 March",
+   "origin_or_destination": null,
+   "note_text_raw": "Abiit famulus Pict., opere confecto.",
+   "source": "FRIIS1876",
+   "source_page": 176,
+   "source_scan_page": 186,
    "page_basis": "note located on the page",
    "confidence": "A"
   },
@@ -3247,12 +3307,12 @@
    "date_iso": "1593-04-13",
    "date_style": "Julian",
    "person_name_raw": "Paulus pharmacop.; nobilis Germanus; frater Arnoldi",
-   "person_name_expanded": "Paulus the apothecary; an unnamed German nobleman; Arnold's brother",
+   "person_name_expanded": "Paulus the apothecary; an unnamed German nobleman; Hendrik Floris van Langren, Arnold's brother (Amsterdam globe-maker's son)",
    "person_id_viaf": null,
-   "person_id_familia": null,
+   "person_id_familia": "FAM_HENDRIK_VAN_LANGREN",
    "person_status": "merchant",
    "direction": "arrival",
-   "occasion": "Paulus the apothecary arrived from Helsingør with a German nobleman and Arnold's brother",
+   "occasion": "Paulus the apothecary arrived from Helsingør with a German nobleman and Hendrik Floris van Langren, Arnold's brother",
    "origin_or_destination": "Helsingør",
    "note_text_raw": "Paulus qiaçfzax. Helsinyora venit eum nobili quodam Germano et fratre Arnoldi.",
    "source": "FRIIS1876",
@@ -3315,6 +3375,26 @@
    "occasion": "Death of Tornillo at Uraniborg",
    "origin_or_destination": null,
    "note_text_raw": "Obiit diem suum Tornillo..",
+   "source": "FRIIS1876",
+   "source_page": 210,
+   "source_scan_page": 220,
+   "page_basis": "note located on the page",
+   "confidence": "A"
+  },
+  {
+   "id": "d-1593-05-25-a",
+   "date_raw": "25 May 1593",
+   "date_iso": "1593-05-25",
+   "date_style": "Julian",
+   "person_name_raw": "Hen. Florin.",
+   "person_name_expanded": "Hendrik Floris van Langren (Amsterdam globe-maker's son)",
+   "person_id_viaf": null,
+   "person_id_familia": "FAM_HENDRIK_VAN_LANGREN",
+   "person_status": "craftsman",
+   "direction": "departure",
+   "occasion": "Hendrik Floris van Langren departed after six weeks on Hven",
+   "origin_or_destination": null,
+   "note_text_raw": "Abiit Hen. Florin.",
    "source": "FRIIS1876",
    "source_page": 210,
    "source_scan_page": 220,
@@ -5441,21 +5521,6 @@
    "keyed": true
   },
   {
-   "key": "one-arnold-s-brother",
-   "label": "Arnold's brother",
-   "forms": [
-    "Arnold's brother",
-    "nobilis Germanus"
-   ],
-   "entries": [
-    "d-1593-04-13-a"
-   ],
-   "familia": null,
-   "viaf": null,
-   "collective": false,
-   "keyed": false
-  },
-  {
    "key": "one-buch",
    "label": "Buch",
    "forms": [
@@ -5717,21 +5782,6 @@
    "viaf": null,
    "collective": false,
    "keyed": true
-  },
-  {
-   "key": "one-arnoldus-florentius",
-   "label": "Arnoldus Florentius",
-   "forms": [
-    "Arn. flor.",
-    "Arnoldus Florentius"
-   ],
-   "entries": [
-    "d-1590-04-06-a"
-   ],
-   "familia": null,
-   "viaf": null,
-   "collective": false,
-   "keyed": false
   },
   {
    "key": "foss-anders",
@@ -6224,6 +6274,41 @@
    "keyed": true
   },
   {
+   "key": "langren-arnold",
+   "label": "Langren, Arnold Floris van, Amsterdam globe-maker (on Hven 1590)",
+   "forms": [
+    "Arn. flor.",
+    "Arnold Floris van Langren",
+    "Arnoldus F."
+   ],
+   "entries": [
+    "d-1590-04-06-a",
+    "d-1590-05-23-a"
+   ],
+   "familia": null,
+   "viaf": null,
+   "collective": false,
+   "keyed": true
+  },
+  {
+   "key": "langren-hendrik",
+   "label": "Langren, Hendrik Floris van, Arnold's brother (on Hven 1593)",
+   "forms": [
+    "Hen. Florin.",
+    "Hendrik Floris van Langren",
+    "Hendrik Floris van Langren, Arnold's brother",
+    "nobilis Germanus"
+   ],
+   "entries": [
+    "d-1593-04-13-a",
+    "d-1593-05-25-a"
+   ],
+   "familia": "FAM_HENDRIK_VAN_LANGREN",
+   "viaf": null,
+   "collective": false,
+   "keyed": true
+  },
+  {
    "key": "liddel-duncan",
    "label": "Liddel, Duncan, of Scotland, professor at Helmstedt",
    "forms": [
@@ -6522,6 +6607,21 @@
    ],
    "entries": [
     "d-1596-06-20-a"
+   ],
+   "familia": null,
+   "viaf": null,
+   "collective": false,
+   "keyed": false
+  },
+  {
+   "key": "one-master-petrus",
+   "label": "Master Petrus",
+   "forms": [
+    "Master Petrus",
+    "Mgr. Petrus"
+   ],
+   "entries": [
+    "d-1591-03-06-a"
    ],
    "familia": null,
    "viaf": null,
@@ -7654,7 +7754,7 @@
    "entries": [
     "d-1593-04-13-a"
    ],
-   "familia": null,
+   "familia": "FAM_HENDRIK_VAN_LANGREN",
    "viaf": null,
    "collective": true,
    "keyed": false
@@ -7715,6 +7815,36 @@
     "d-1587-07-24-a"
    ],
    "familia": null,
+   "viaf": null,
+   "collective": true,
+   "keyed": false
+  },
+  {
+   "key": "coll-the-painter-s-servant",
+   "label": "The painter's servant",
+   "forms": [
+    "The painter's servant",
+    "famulus Pict."
+   ],
+   "entries": [
+    "d-1591-04-23-a"
+   ],
+   "familia": null,
+   "viaf": null,
+   "collective": true,
+   "keyed": false
+  },
+  {
+   "key": "coll-the-scots-nobles",
+   "label": "The Scots nobles",
+   "forms": [
+    "The Scots nobles",
+    "nobiles Scoti"
+   ],
+   "entries": [
+    "d-1590-05-23-a"
+   ],
+   "familia": "FAM_ARNOLD_VAN_LANGREN",
    "viaf": null,
    "collective": true,
    "keyed": false

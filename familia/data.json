@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.1",
- "edition_date": "2026-09-28",
+ "version": "2.2",
+ "edition_date": "2026-10-01",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
  "description": "A prosopography of the documented circle of Tycho Brahe: the assistants and craftsmen of Uraniborg, the printers and publishers of his works, the patrons and dedicatees, the kin and friends, every party to the surviving correspondence, and the later owners, editors and scholars through whom his books and papers passed. Each record carries its roles, dates, documented seat, biography with sources, and the letters, visits, stays, printed works, presentation copies and manuscripts in which the person appears elsewhere in Tychoniana.",
@@ -5041,7 +5041,7 @@
    "categories": [
     "craftsman"
    ],
-   "connection": "Augsburg-born painter whom Tycho brought home and kept as his court painter on Hven. He painted the life-size figure of Tycho in effigy directing the observations in the 1587 trompe-l'oeil behind the great mural quadrant (the landscape by Hans Knieper, the perspectival architecture by Stenwinkel), and presumably the cycle of eight astronomers in the cupola of Stjerneborg's warming-room; he also decorated instruments and illustrated Tycho's books and painted Danish nobles. His lost portrait of Tycho was the model from which Jacob de Gheyn's portrait engraving descends (cut in Amsterdam, autumn 1590, though inscribed with the 1586 sitting date). He died of the plague in Copenhagen by 1587 — Tycho's own words in De mundi aetherei liber secundus (printed at Uraniborg, 1587) record him as already dead. (Beckett & Christensen, Uraniborg, 1921; Christianson, On Tycho's Island, 2000; Jern, Uraniborg, 1976; Brahe, De mundi aetherei recentioribus phaenomenis liber secundus, Uraniborg 1587, p. 284.)",
+   "connection": "Augsburg-born painter whom Tycho brought home and kept as his court painter on Hven. He painted the life-size figure of Tycho in effigy directing the observations in the 1587 trompe-l'oeil behind the great mural quadrant (the landscape by Hans Knieper, the perspectival architecture by Stenwinkel), and presumably the cycle of eight astronomers in the cupola of Stjerneborg's warming-room; he also decorated instruments and illustrated Tycho's books and painted Danish nobles. His lost portrait of Tycho of 1586 is, in the older literature (Beckett & Christensen 1921; Mortensen 1946), the presumed model behind Jacob de Gheyn's two portrait engravings, cut in Amsterdam from autumn 1590 and both inscribed with the age statement 'aetatis 40 … 1586'; no document names the model. He died of the plague in Copenhagen by 1587 — Tycho's own words in De mundi aetherei liber secundus (printed at Uraniborg, 1587) record him as already dead. (Beckett & Christensen, Uraniborg, 1921; Christianson, On Tycho's Island, 2000; Jern, Uraniborg, 1976; Brahe, De mundi aetherei recentioribus phaenomenis liber secundus, Uraniborg 1587, p. 284.)",
    "sources": [
     "S_CHRISTIANSON",
     "S_JERN",
@@ -5279,6 +5279,73 @@
    "thesaurus_agent": "",
    "in_agents": false,
    "seat": null
+  },
+  {
+   "id": "FAM_ARNOLD_VAN_LANGREN",
+   "name": "Arnold Floris van Langren",
+   "sort_name": "Langren, Arnold Floris van",
+   "name_latin": "Arnoldus Florentius Langrenus",
+   "name_variants": [
+    "Arnoldus Florentius",
+    "Arnold van Langren"
+   ],
+   "entry_kind": "person",
+   "born": 1571,
+   "died": 1644,
+   "categories": [
+    "craftsman",
+    "intermediary"
+   ],
+   "connection": "Amsterdam cartographer and engraver, son of the globe- and map-publisher Jacob Floris van Langren; trained in his father's shop, he engraved the plates of a terrestrial globe at fourteen. He came to Hven on 6 April 1590 to obtain Tycho's star positions for a new celestial globe, was shown the great brass globe in the library and refused the unpublished catalogue, and left for Helsingør with the Scots courtiers on 23 May 1590, after seven weeks in the familia. He is the one documented traveller between Hven and Amsterdam in the year in which Tycho's first portrait plate was cut there ('nuper Amsterodami cupro insculptae', 1 December 1590), and his family's trade makes him the probable broker of that commission, though no document says so. With his father and his brother Hendrik he held the States-General privilege for globes of 1592, renewed 1596, and he cut the lettering of the Tychonic celestial globe of 1594 that carries Tycho's portrait. Later spherographer to the Habsburg governors at Antwerp and Royal Cosmographer to the king of Spain. (Christianson, On Tycho's Island, 2000, pp. 142–143, 308–311; Mosley, Bearing the Heavens, 2007, pp. 231–233; the Uraniborg diary, TBOO IX 83, 86.)",
+   "sources": [
+    "S_CHRISTIANSON",
+    "S_MOSLEY",
+    "S_DIARIUM"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Amsterdam",
+    "lat": 52.3728,
+    "lon": 4.8936,
+    "basis": "his father's globe and map shop"
+   }
+  },
+  {
+   "id": "FAM_HENDRIK_VAN_LANGREN",
+   "name": "Hendrik Floris van Langren",
+   "sort_name": "Langren, Hendrik Floris van",
+   "name_latin": "Henricus Florentius Langrenus",
+   "name_variants": [
+    "Henricus Florentius",
+    "Hendrik van Langren"
+   ],
+   "entry_kind": "person",
+   "born": 1574,
+   "died": null,
+   "categories": [
+    "craftsman"
+   ],
+   "connection": "Amsterdam cartographer and engraver, Arnold's younger brother. He arrived on Hven from Helsingør on 13 April 1593, entered in the diary as 'frater Arnoldi', and left on 25 May 1593 — six weeks in the familia, without the star catalogue his father wanted. The van Langren celestial globe of 1594 names his journey in its imprint ('having sent his son Hendrik to Denmark to carefully map the stars according to the confirmed observations of the Nobleman Tycho Brahe') and carries Tycho's portrait with the age tablet 'Aetatis 47'; he engraved its figures, Arnold its lettering. He engraved maps of Holland (1594), the Far East (1595) and, with Arnold, a world map after Plancius (1596), and disappears from the record after 1598. (Christianson, On Tycho's Island, 2000, p. 311; Mosley, Bearing the Heavens, 2007, pp. 231–233; the Uraniborg diary, TBOO IX 118–119.)",
+   "sources": [
+    "S_CHRISTIANSON",
+    "S_MOSLEY",
+    "S_DIARIUM"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Amsterdam",
+    "lat": 52.3728,
+    "lon": 4.8936,
+    "basis": "his father's globe and map shop"
+   }
   }
  ]
 }

@@ -54,7 +54,7 @@
   "periods": 8,
   "stays": 140,
   "journeys": 21,
-  "diary_notes": 248,
+  "diary_notes": 252,
   "diary_years": 13,
   "letters": 509,
   "letters_dated": 509,
@@ -1223,7 +1223,7 @@
   {
    "kind": "diary-year",
    "key": "year-1590",
-   "label": "Diary, 1590: 47 notes",
+   "label": "Diary, 1590: 48 notes",
    "year_start": 1590,
    "year_end": 1590,
    "edition": "Diarium",
@@ -1286,7 +1286,7 @@
   {
    "kind": "diary-year",
    "key": "year-1591",
-   "label": "Diary, 1591: 34 notes",
+   "label": "Diary, 1591: 36 notes",
    "year_start": 1591,
    "year_end": 1591,
    "edition": "Diarium",
@@ -1333,7 +1333,7 @@
    "key": "icon-degheyn-v2",
    "label": "De Gheyn's second engraving (Westergaard 1394) — the corrected portrait",
    "year_start": 1591,
-   "year_end": 1596,
+   "year_end": 1595,
    "edition": "Iconographia",
    "link": "../iconographia/index.html#icon-degheyn-v2"
   },
@@ -1342,7 +1342,7 @@
    "key": "icon-drawing-kksgb5254",
    "label": "The Copenhagen pen drawing (SMK KKSgb5254) — the second engraving's production drawing",
    "year_start": 1591,
-   "year_end": 1595,
+   "year_end": 1594,
    "edition": "Iconographia",
    "link": "../iconographia/index.html#icon-drawing-kksgb5254"
   },
@@ -1394,7 +1394,7 @@
   {
    "kind": "diary-year",
    "key": "year-1593",
-   "label": "Diary, 1593: 19 notes",
+   "label": "Diary, 1593: 20 notes",
    "year_start": 1593,
    "year_end": 1593,
    "edition": "Diarium",
