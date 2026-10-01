@@ -8,27 +8,27 @@
    "id": "icon-armillary-pedestal-portraits",
    "section": "portrait",
    "label": "The portraits on the equatorial armillary's pedestal",
-   "date": "c. 1584 (instrument built) – December 1596 (the recording block's first issue); the inscribed '1580' is Tycho's floruit year, not an execution date",
+   "date": "painted between 1584 and 1596; the tablet's '1580' is Tycho's floruit year, not a date of execution",
    "year_start": 1584,
-   "year_end": 1598,
+   "year_end": 1596,
    "status": "lost",
    "grade": "A",
-   "maker": "Unrecorded. Christianson's 'probably painted by Gemperle' remains an uncited hedge (grade C) — Beckett & Christensen 1921 never mention these portraits, and DBL's Gemperlin entry is silent on the armillary. Gemperlin WAS available: recruited at Augsburg 1575, royal settlement letter 23 April 1577, documented in Denmark from 1578, died 1587 of a Copenhagen epidemic on Tycho's own printed testimony (De mundi II, p. 284) — his residency brackets the whole preferred painting window.",
+   "maker": "Unrecorded. Tycho names no painter for the pedestal. Christianson's 'probably painted by Gemperle' (On Tycho's Island, 2000) is an uncited conjecture and is carried at grade C: Beckett and Christensen, who gave the Stjerneborg cycle to Gemperlin by analogy, never mention these portraits. Gemperlin was available for the whole preferred window — recruited at Augsburg in 1575, settled in Denmark under a royal letter of 1577, dead of the Copenhagen epidemic by 1587 on Tycho's own printed testimony — and the mural quadrant of 1587 shows the division of labour he worked in, the figure his, the architecture Stenwinkel's, the landscape Knieper's; nothing ties him to this object.",
    "bounds": {
-    "lower": "c. 1584",
+    "lower": "summer 1584 (the instrument built)",
     "upper": "December 1596 (the Icones instrumentorum issue)",
-    "argument": "Name-labels N·C·T·G / T·BR·D sit on the entablatures above the niches; the year-tablets on the plinths beneath the figures read '…520' (leading digit obscured by the block's own carved bracket in every impression examined) and '1580' ('I580' is the font's flag-serif numeral 1). The years are floruit labels, settled by direct inspection of Nathan Chytraeus, Variorum in Europa itinerum deliciae (Herborn 1594), pp. 596–598 (inspected August 2026): the Stjerneborg hypocaustum cycle — Tycho's own sibling lineage programme, on material his preface says came largely from Tycho himself — gives every figure an 'Anno X' floruit line, with COPERNICUS 'Anno 1520 post Christum' and TYCHO BRAHE 'Anno 1580': the identical pair of years the pedestal tablets carry. The pedestal therefore uses the same convention (and the obscured '…520' is confirmed as 1520); '1580' cannot in any case date the execution, since no armillary existed then. Christianson 2000's reading of 1580 as a construction year (against his own 2020 chronology) is thereby retired; what 1580 commemorates within Tycho's career (Uraniborg's completion is Dreyer's candidate) remains open, and Zeeberg 1995 ('The Inscriptions at Tycho Brahe's Uraniborg', in Skafte Jensen ed., Odense 1995, pp. 251–66 — undigitised; no scan located as of August 2026) is now corroborative rather than load-bearing. If Christianson's hedged Gemperlin attribution were adopted, the upper bound would fall to 1587; it stays 1598 (publication of the recording plate). The 1585 Icones instrumentorum (Nielsen 976, Uraniborg broadsides, Marburg unicum — enclosed with Tycho's 1 March 1586 letter to Wilhelm IV) was checked as a possible earlier attestation (August 2026): its armillary woodcut depicts the steel armilla (Fig. 13 type; 'pes...ex solido metallo'), not this instrument — a diagnostic null that leaves the 1598 plate the earliest witness to the portraits. The hard upper bound is December 1596, not 1598: the Icones instrumentorum suite (Nielsen 975, Uraniborg 1596, 18 letterpress-free woodcut pulls issued with some Epistolae copies; presentation copies to Christian IV and Chancellor Friis in December 1596) contains the armillary printed from what is almost certainly the same woodblock (Stockholm KB exemplar examined leaf-by-leaf: identical tablets, V-medallion, and the full compositor letter-key in identical positions; print-flaw-level confirmation pending an uncoloured 1598 impression). The painting window is therefore summer 1584 to December 1596, preferred sub-window 1584–87 unchanged. The block itself was cut somewhere between 1584 and 1596; the documented production waves (two blocks 1585, two 1586–87 for De mundi, several 1592–93 for the Progymnasmata, boxwood-only from April 1590) make the post-1590 campaign the likeliest home for it, stated as preference."
+    "argument": "The portraits are painted on the wooden pedestal of the equatorial armillary that Tycho built in the summer of 1584 and first used on 20 August 1584: Thoren and Christianson reach the date by separate trails into the observation protocols, and the October–November 1584 Jupiter and Aldebaran series records a measurement 'per Armillas'. Nothing on the pedestal can be older than the pedestal. The first witness to the portraits is the woodcut of the instrument, pulled for the Icones instrumentorum issued with the Epistolae astronomicae in December 1596, two years before the Mechanica printed the same block with its letterpress; the painting therefore falls between 1584 and 1596. The 1585 Icones broadside sent to Wilhelm IV depicts the steel-based armillary of Fig. 13, not this instrument, and attests nothing earlier. The two plinths carry the tablets 1520 under N·C·T·G (its first digit crowded against the tablet's frame, as the description sets out) and 1580 under T·BR·D. They are floruit years, not dates of making: the Stjerneborg hypocaustum cycle, Tycho's sibling lineage programme printed by Chytraeus in 1594 from material Tycho supplied, gives every astronomer an 'Anno' line and the same two values, Copernicus 'Anno 1520 post Christum' and Tycho Brahe 'Anno 1580'. The year 1580 is also the Mechanica's own date for Uraniborg's completion, 'circa annum 1580 … exaedificatae', the event Dreyer took the tablet to commemorate; no source states what Tycho meant by it. Christianson's reading of 1580 as the instrument's construction year (On Tycho's Island, pp. 78 and 290) is contradicted by the protocols and by his own later chronology. If Gemperlin painted the figures the upper bound would fall to 1587; nothing documents that, and the bound stays at December 1596. The block itself was cut between 1584 and 1596; the press's documented cutting campaigns (1585, 1586–87, 1592–93, boxwood only from April 1590) make the years after 1590 the likelier home for it, a preference and not a finding."
    },
-   "description": "Four portraits were painted on the wooden pedestal of the smaller equatorial armillary — the instrument of the Mechanica's Fig. 12, whose pedestal Tycho describes as built 'e solido et forti ligno'; not the great steel-based armillary of Fig. 14, built later, whose chapter mentions no portraits. Tycho and Copernicus occupied the two visible niches, Ptolemy and Albategnius the hidden reverse. Tycho names them himself in the Mechanica: 'sunt 4. Icones … quae effigies Ptolemæi, Albategnij et Copernici; tum quoque NOSTRAM repræsentant' — and ours too. The instrument put him into the lineage physically, on the object that did the measuring. Blaeu re-engraved the whole plate on copper for the Grooten Atlas (Amsterdam 1664, Hven section): the pedestal programme is carried over intact — both niches with their figures, the plumb-bob cartouche, and the year-tablets, with '1520' engraved in full (the woodcut's carved bracket no longer obscures the leading digit) — while the right entablature is re-lettered 'T.B.N.D.' against the woodcut's 'T-BR-D' (engraver's error or a deliberate re-reading; which, is undetermined). Derivative of the woodcut rather than of the lost instrument, but the fullest posthumous transmission of the portrait programme. The instrument's place is settled from Tycho's own Uraniborg room-list: 'S. Observatorium minus Septentrionale, alias Armillas AEquatorias continens num. 12' — the lesser north observatory of the main house, with the steel sibling (Fig. 13) in the south room under key N; the house-key letters invert the compass sense, which also explains Blaeu's 'Armillae S' section heading. The same room assignment already stands in the 1596 Epistolae. The entablature initials follow the lineage formula of the sibling Stjerneborg headings (name + origin): T-BR-D = Tycho BRahe Danus (anchored by Chytraeus's 'Tycho Brahe Danus de Knudstryp'), N-C-T-G = Nicolaus Copernicus Torunensis G[ermanus] - the G a structural inference completing the Danus/Germanus pairing, nowhere spelled out. The tablets' years are round-decade floruit values like the whole Stjerneborg series (300 BC...1520, 1580); 1520 = Copernicus's Frombork observing maturity in Tycho's assignment; what 1580 commemorates stays open (Uraniborg's completion leads, per the Mechanica's own 'CIRCA ANNUM 1580' caption). Against Blaeu's re-lettered 'T.B.N.D.', the woodcut's T-BR-D governs: the lifetime block was cut under Tycho's control, and its crude period R invites exactly the misreading the 1664 engraver made. The block's first issue was not the Mechanica: the Icones instrumentorum suite (Uraniborg 1596, Nielsen 975 — bare image-pulls without letterpress, keyed to the Epistolae's instrument descriptions) already carries it, so the portrait programme is attested by December 1596. Four Icones copies are documented (Stockholm KB, Vienna, Wroclaw, and one Epistolae-and-Icones volume in the trade).",
-   "nature": "The painted originals are destroyed with the instruments. What survives is the record: the Mechanica plate.",
+   "description": "Four portraits were painted on the wooden pedestal of the smaller equatorial armillary, the instrument of the Mechanica's Fig. 12, whose pedestal Tycho describes as made 'e solido et forti ligno'; the great armillary of Fig. 14, built later on a steel base, carries none, and its chapter mentions none. Tycho and Copernicus occupied the two niches the woodcut shows, Ptolemy and Albategnius the two on the hidden side. Tycho names all four himself: 'Icones ornatus gratiâ solerter appictae, quae effigies Ptolemaei, Albategnii et Copernici, tum quoque nostram repraesentant: quarum binae, Copernici videlicet et mea, juxta d visuntur; reliquae duae ab altera parte latent' — painted for ornament, Ptolemy, Albategnius, Copernicus, and ours. The instrument stood in Uraniborg's lesser north observatory: Tycho's own room-list reads 'S. Observatorium minus Septentrionale, alias Armillas Aequatorias continens, num. 12', with the steel sibling of Fig. 13 in the south room under the key N; the house keys invert the compass sense, which is why Blaeu's heading of 1664 calls the plate 'Armillae S'. The entablatures over the niches carry the formula of name and origin used in the Stjerneborg headings: T·BR·D for Tycho Brahe Danus, anchored by Chytraeus's 'Tycho Brahe Danus de Knudstrup', and N·C·T·G for Nicolaus Copernicus Torunensis G[ermanus], the G an inference completing the Danus–Germanus pair, nowhere spelled out. The plinths carry the floruit tablets: 1580 on the right, read entire; on the left '520' preceded by a stroke that sits against the tablet's frame under the carved bracket, on every impression examined — the Icones leaves at Stockholm and in the volume sold in 2022, the Mechanica of 1598 and the Nuremberg reissue of 1602. The year is restored as 1520 from Chytraeus's cycle and from Blaeu's copper re-engraving for the Grooten Atlas of 1664, which carries the whole pedestal programme over intact — both niches, the plumb-bob cartouche, the tablets — engraves 1520 in full, and re-letters the right entablature 'T.B.N.D.', the engraver's misreading of the woodcut's crude R. The figures are gowned, soft-capped lineage emblems three to four millimetres high; at that scale neither the woodcut nor Blaeu's copy transmits a face, and the cap and beard-hatching added in 1664 are the engraver's resolution of blank patches, not information about the lost paintings. What the record attests is that a portrait of Tycho stood on the instrument as the fourth figure of the chain Ptolemy, Albategnius, Copernicus, Tycho, and how he labelled it; not what it looked like.",
+   "nature": "The painted originals are lost with the instrument. What survives is the record of them: the woodcut block of the instrument, first pulled for the Icones instrumentorum of 1596 and printed with its letterpress in the Mechanica of 1598 and the Nuremberg reissue of 1602, and Blaeu's copper copy of 1664.",
    "whereabouts": {
-    "summary": "Painted originals destroyed with Tycho's instruments at Prague. The plate survives in every intact copy of the 1598 Mechanica.",
+    "summary": "Painted originals destroyed with Tycho's instruments in Bohemia. The woodcut survives in the four Icones instrumentorum copies and in every intact copy of the Mechanica of 1598 and 1602.",
     "holder": "Det Kongelige Bibliotek (hand-coloured exemplar)",
     "city": "Copenhagen",
     "inv": "LN 432 2°",
     "url": "https://archive.org/details/den-kbd-pil-130018165806-001",
-    "tier": "destroyed (originals); located (the recording plate)",
-    "note": "The Mechanica's instrument plates are woodcuts, not engravings — only six illustrations in the book are from copperplates. The pedestal plate is printed from the identical woodblock in the 1602 Hulsius reissue — the inscriptions are letter-for-letter identical; the one armillary re-engraved on copper in 1602 is Fig. 13, not this plate. Fate: not among the four giant instruments left on Hven in 1597 (Tycho's own Wandsbek list, TBOO XIII.101-104), so it travelled with the general train, reaching Bohemia only in October or November 1600 (Dreyer p. 320; Thoren JHA 1973 via Wolfschmidt). After 1601 the accounts fork — most instruments confiscated toward Vienna by 1604 (Schuppener after Kleinschnitzova) vs. destroyed after the 1619 Bohemian war (Wolfschmidt) — unreconciled; no fragment survives (only the two NTM sextants survive of all the instruments). Bergeron's 1603 Belvedere ensemble (four rulers + four astronomers, matching Resen 1668) is a different programme from this pedestal's two-name scheme."
+    "tier": "destroyed (originals); located (the recording block, in a public exemplar under a live record)",
+    "note": "The Mechanica's instrument figures are woodcuts, not engravings; only six illustrations in the book are from copperplates. The identical block prints the plate in the 1602 Hülsius reissue, the inscriptions letter for letter the same; the one armillary re-engraved on copper in 1602 is Fig. 13. Fate: the instrument is not among the four left on Hven in 1597 in Tycho's own Wandsbek list (Opera Omnia XIII, 101–104), so it travelled with the rest and reached Bohemia in October or November 1600 (Dreyer, p. 320; Thoren, as cited by Wolfschmidt). After 1601 the accounts part: most instruments confiscated towards Vienna by 1604 (Schuppener, after Kleinschnitzová), or destroyed in Prague after the Bohemian war of 1619 (Wolfschmidt); no fragment survives, and of all Tycho's instruments only the two sextants in Prague's National Technical Museum are extant. Bergeron's account of 1603 of a Belvedere ensemble of four rulers and four astronomers, the programme Resen recorded in 1668, is a different programme from this pedestal's two-name scheme."
    },
    "edges": [
     [
@@ -55,40 +55,55 @@
     "S_ICON_DOSSIER_2026",
     "S_ICON_BLAEU1664",
     "S_ICON_TBOOX",
-    "S_ICON_ICONES1596"
+    "S_ICON_ICONES1596",
+    "S_ICON_CROSSROADS2002",
+    "S_BECKETT",
+    "S_ICON_DEMUNDI_1588"
    ],
    "image": "plates/icon-armillary-pedestal.jpg",
    "image_thumb": "plates/icon-armillary-pedestal_thumb.jpg",
-   "image_credit": "The pedestal niches on the 'Armillae aequatoriae' plate — the woodcut that records the lost painted portraits: T-BR-D over '1580' (right), N-C-T-G over the bracket-obscured '...520' (left). Tycho Brahe, Astronomiae instauratae mechanica (Wandsbek 1598), hand-coloured exemplar, Det Kongelige Bibliotek, Copenhagen (LN 432 2). Public domain.",
+   "image_credit": "The 'Armillae aequatoriae' woodcut, the Mechanica's Fig. 12 block, in its first issue, the Icones instrumentorum of 1596: the pedestal niches N·C·T·G over the crowded '1520' and T·BR·D over 1580. Uncoloured impression in the Epistolae–Icones volume sold at Bruun Rasmussen, Copenhagen, 8 June 2022 (sale 908, lot 176), now in a private collection; photograph Bruun Rasmussen.",
    "versions": [
     {
-     "holder": "every intact copy of the Mechanica",
+     "holder": "Icones instrumentorum (Uraniborg 1596), four copies",
      "city": "",
      "inv": "",
-     "support": "woodcut, Wandsbek 1598; the identical block reprinted in the 1602 Hulsius reissue",
-     "verdict": "the recording plate — the only lifetime transmission of the destroyed painted portraits",
-     "note": "Reference exemplar the record reproduces: the KB hand-coloured copy, LN 432 2."
+     "support": "woodcut, a letterpress-free pull of the block; Stockholm (Kungliga biblioteket), Vienna, Wrocław, and the Epistolae–Icones volume sold at Bruun Rasmussen in 2022 (sale 908, lot 176), now in a private collection",
+     "verdict": "the block's first issue, December 1596 — the earliest witness to the portraits",
+     "note": "The impression reproduced in this record is the leaf of the 2022 volume; the Stockholm leaf agrees with it in every tablet and letter-key."
+    },
+    {
+     "holder": "Astronomiae instauratae mechanica (Wandsbek 1598; Nuremberg 1602), every intact copy",
+     "city": "Copenhagen",
+     "inv": "LN 432 2°",
+     "support": "the same woodcut block, now with the letterpress heading 'Armillae aequatoriae' and its chapter",
+     "verdict": "the lifetime book issue of the block; the 1602 reissue prints it unchanged",
+     "note": "Copenhagen's hand-coloured exemplar, LN 432 2°, is the located public copy under a live record."
     },
     {
      "holder": "Blaeu, Grooten Atlas (Amsterdam 1664), Hven section",
      "city": "",
      "inv": "",
      "support": "copper re-engraving, with facing Dutch text ('Armillae S')",
-     "verdict": "posthumous copy — pedestal programme intact; '1520' unobscured; entablature re-lettered 'T.B.N.D.'",
-     "note": "Examined in the Utrecht University exemplar (images 198–199 of its digitisation, inspected August 2026). Blaeu's plate is derivative of the woodcut, so the full '1520' corroborates the restoration of the obscured digit without being independent evidence for it."
+     "verdict": "posthumous copy — pedestal programme intact; '1520' entire; entablature re-lettered 'T.B.N.D.'",
+     "note": "Read in the Utrecht University exemplar's digitisation (images 198–199). Derivative of the woodcut, so it corroborates the tablet without being independent evidence for it."
     }
    ],
    "conflicts": [
     {
      "question": "Do Figs. 12/13 map onto Thoren's 'first' and 'second' small equatorial armillaries?",
      "positions": "Thoren 1990 pp. 171-174 has a first (a converted zodiacal set, late 1583/earliest 1584, later reconverted for Stjerneborg crypt E per fn. 71) and a second 'one-third again as large' ready summer 1584; Fig. 13 is described as the same size as Fig. 12, not larger.",
-     "status": "open — the ring-count/size details do not align cleanly; TBOO X pp. 292/363 read on page images would likely settle it"
+     "status": "open; the ring counts and sizes in Opera Omnia X, pp. 292 and 363, would settle it"
     },
     {
      "question": "What destroyed the instrument?",
      "positions": "Confiscated toward Vienna by 1604 (Schuppener, Crossroads 2002 p. 298, after Kleinschnitzova p. 75) vs. destroyed in Prague after the 1619 Bohemian war (Wolfschmidt, Crossroads 2002 p. 208).",
      "status": "both primary, never integrated by any source found; the record carries both"
     }
+   ],
+   "open_questions": [
+    "Who painted the four figures, and in which year between 1584 and 1596; no source names the painter or dates the work.",
+    "Whether any impression of the block shows the first digit of 1520 clear of the tablet's frame; on the four impressions examined it does not."
    ]
   },
   {
@@ -2664,7 +2679,7 @@
   {
    "id": "S_ICON_ICONES1596",
    "label": "Icones instrumentorum (Uraniborg 1596, Nielsen 975) — the block's first issue",
-   "full": "Icones instrumentorum quorundam astronomiae instaurandae gratia a Tychone Brahe Dano...elaboratorum (Uraniborg, [1596]): 18 letterpress-free woodcut pulls of the instrument blocks, issued as a supplement with some copies of the 1596 Epistolae astronomicae; presentation copies to Christian IV and Chancellor Friis December 1596 (Norlind p. 235; Mosley App. I; Dreyer p. 230 n. 2). The armillary leaf prints the Fig. 12 block with the full portrait pedestal — examined in the Stockholm KB exemplar's digitisation (August 2026): same-block verdict on total design and letter-key correspondence. Four copies are censused (Stockholm KB, Vienna, Wrocław, and one in the trade)."
+   "full": "Icones instrumentorum quorundam astronomiae instaurandae gratia a Tychone Brahe Dano...elaboratorum (Uraniborg, [1596]): 18 letterpress-free woodcut pulls of the instrument blocks, issued as a supplement with some copies of the 1596 Epistolae astronomicae; presentation copies to Christian IV and Chancellor Friis December 1596 (Norlind p. 235; Mosley App. I; Dreyer p. 230 n. 2). The armillary leaf prints the Fig. 12 block with the full portrait pedestal — examined in the Stockholm KB exemplar's digitisation (August 2026): same-block verdict on total design and letter-key correspondence. Four copies are censused: Stockholm KB, Vienna, Wrocław, and the Epistolae–Icones volume sold at Bruun Rasmussen, Copenhagen, 8 June 2022 (sale 908, lot 176), now in a private collection, whose armillary leaf is reproduced in the armillary-pedestal record."
   },
   {
    "id": "S_ICON_KROUPA2001",
