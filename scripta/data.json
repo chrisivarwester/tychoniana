@@ -10493,16 +10493,21 @@
    "translation": null,
    "addressees": [],
    "place": null,
-   "research_status": "not_yet_researched",
+   "research_status": "partly_researched",
    "confidence": null,
    "summary": null,
    "occasion": null,
    "addressee_note": null,
-   "transmission": null,
-   "channel": null,
-   "channel_basis": "not established",
+   "transmission": "A single manuscript witness: a working draft on the flyleaf of Erasmus Reinhold's Prutenicae tabulae (Tübingen 1551) from Tycho's library, the author's dedication copy to the Counts of Mansfeld, now Prague, National Library, 14 J 176. A first version of six lines, ‘Quamuis Humanus vescor mortalibus auris’, is corrected between the lines and struck through; under the word ‘Aliter’ follow the eight lines printed here. Studnička reproduced the leaf in facsimile in 1901. Dreyer and Ræder edited the epigram from the Prague copy in 1927, with a reference to that facsimile, among the Carmina, and gave the cancelled version among the variant readings under the heading ‘Ad versus Prutenicis tabulis praemissos’. A different form of the lines stands in the oration De disciplinis mathematicis of 1574, where Tycho introduces them as words of Ptolemy (‘haec a Ptolomaeo prolata’): ‘Quamuis mortalis vescor mortalibus auris / Et quoque mortali cognitione premor, / Cum tamen aethereos sublimi mente meatus / Scrutor, et assiduis astra rotata vijs …’.",
+   "channel": "posthumous",
+   "channel_basis": "the facsimile in Studnička 1901; first set in type in the Opera omnia IX (1927)",
    "printed": {
-    "status": "not_yet_researched"
+    "status": "printed_posthumously",
+    "place": "Prague",
+    "printer": "",
+    "year": "1901",
+    "nielsen": "",
+    "note": "in facsimile of the manuscript draft, by Studnička (Bericht über die astrologischen Studien …, p. 44); first set in type in the Opera omnia IX (1927), p. 215."
    },
    "modern_edition": null,
    "tboo": {
@@ -10516,8 +10521,43 @@
      "basis": "the page markers of the edition's text"
     }
    },
-   "references": [],
-   "open_questions": [],
+   "references": [
+    {
+     "source": "Dreyer & Ræder (eds.), Tychonis Brahe Dani Opera Omnia, tom. IX (Hauniae, 1927)",
+     "locus": "p. 215 (Carmina), with the source lemma ‘[Ex exemplo Pragensi Erasmi Reinholdi Prutenicarum Tabularum; vid. F. J. Studnicka, Bericht über die astrologischen Studien des Tycho Brahe (Pragae 1901) p. 44]’",
+     "supports": "The text of eight lines and its source, the Prague copy of the Prutenic tables",
+     "source_ids": [
+      "S_TBOO_IX"
+     ]
+    },
+    {
+     "source": "Dreyer & Ræder, TBOO IX, Variae scripturae",
+     "locus": "p. 316 (‘AD VERSUS PRUTENICIS TABULIS PRAEMISSOS. p. 215 v. 8–15 prius ita scripti fuerunt: Quamuis Humanus vescor mortalibus auris / Et mortali etiam conditione premor … at pro quattuor primis versibus eos, quos in textu dedimus, scripsit ipse Tycho, duos vero ultimos delevit’)",
+     "supports": "The cancelled first version; the editors' statement that the revision is in Tycho's own hand",
+     "source_ids": [
+      "S_TBOO_IX"
+     ]
+    },
+    {
+     "source": "F. J. Studnička, Bericht über die astrologischen Studien … Tycho Brahe (Prague, 1901)",
+     "locus": "pp. 41–45; the facsimile of the draft p. 44",
+     "supports": "The facsimile of both versions; the volume (Reinhold 1551, the dedication to the Counts of Mansfeld, the note ‘emi Pragae anno 1601 mense Junio’); Studnička's supposition that Tycho had kept the draft from an earlier time and inserted it in the volume",
+     "source_ids": [
+      "S_STUDNICKA_BERICHT_1901"
+     ]
+    },
+    {
+     "source": "Tycho Brahe, De disciplinis mathematicis oratio, in Opera Omnia, tom. I (Hauniae, 1913)",
+     "locus": "pp. 151–152",
+     "supports": "The lines as quoted in the oration, in a different form, introduced as words of Ptolemy",
+     "source_ids": [
+      "S_TBOO_I"
+     ]
+    }
+   ],
+   "open_questions": [
+    "When the lines were written. The volume carries the note that it was bought at Prague in June 1601; a different form of the lines is quoted in the oration of 1574, which was first printed in 1610. Studnička supposed the leaf older than the purchase and inserted by Tycho; whether the flyleaf is conjugate with the binding has not been reported."
+   ],
    "resolved_questions": [],
    "editorial_notes": [],
    "bridges": [],
@@ -12368,6 +12408,15 @@
    "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
    "contributes": "The commented English edition: the translation history, what is and is not translated, the Opera omnia parallels, and the Prologue's account of the Bohemian copies.",
    "url": null,
+   "url_status": null,
+   "cited_by": 1
+  },
+  {
+   "id": "S_STUDNICKA_BERICHT_1901",
+   "short": "Studnička 1901 (Bericht)",
+   "full": "František Josef Studnička, Bericht über die astrologischen Studien des Reformators der beobachtenden Astronomie Tycho Brahe (Prague: Königlich Böhmische Gesellschaft der Wissenschaften, 1901), 54 pp. The Tychoniana found in the Prague University Library after his Prager Tychoniana, with facsimiles of manuscript notes in the books.",
+   "contributes": "The facsimile (p. 44) of the draft of Quamvis mortalis on the flyleaf of the Reinhold of 1551, and the description of that volume (pp. 41–45).",
+   "url": "https://archive.org/details/berichtberdieas00studgoog",
    "url_status": null,
    "cited_by": 1
   }
