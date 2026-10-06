@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.0",
- "edition_date": "2026-09-05",
+ "version": "2.1",
+ "edition_date": "2026-10-06",
  "generated": "2026-09-05",
  "title": "Horoscopi — the astrological manuscripts of Tycho Brahe",
  "description": "The astrological documents of Tycho Brahe whose primary form is a manuscript — the texts he wrote or had written for an astrological purpose and never sent to press — with every manuscript that carries them, the hand per witness with its authority, Dreyer's edition and the readable text where one exists; and the documents the sources attest but no one has located. The printed astrology, the weather diary, the Hven almanacs and the poem Urania Titani are bridged to their own pillars.",
@@ -256,6 +256,14 @@
    "contributes": "The modern critical text, with Danish translation, of the three princely nativities, the weather-astrology fragment and the Diarium for 1573 — read here through Scripta.",
    "url": "https://tekstnet.dk/",
    "url_label": "tekstnet.dk"
+  },
+  {
+   "id": "S_FRIIS1868",
+   "label": "Friis 1868–69",
+   "full": "F. R. Friis, 'Tyge Brahes Haandskrifter i Wien og Prag', Danske Samlinger for Historie, Topographi, Personal- og Literaturhistorie IV (Copenhagen, 1868–69), pp. 250–268.",
+   "contributes": "The three presentation copies of the 1600 star catalogue described binding by binding in 1868, under their then shelfmarks Cod. philos. 42, 47 and 48 (pp. 262–263).",
+   "url": "",
+   "url_label": ""
   }
  ],
  "items": [
@@ -1576,7 +1584,12 @@
      "graphonomicon_specimen": "",
      "thesaurus_object": "O_COD10707",
      "dating_note": "",
-     "checks": []
+     "checks": [
+      {
+       "date": "October 2026",
+       "result": "binding to be checked in Vienna against Friis 1868–69, pp. 262–263, who gives the green velvet and the dies to the Matthias copy (Cod. philos. 42) and light-blue silk with another vignette to this one"
+      }
+     ]
     }
    ],
    "links": [
@@ -1594,11 +1607,13 @@
    "grade": "A",
    "grade_basis": "Dreyer's edition; the catalogue record read",
    "open_questions": [
-    "The star catalogue as an object belongs to Observationes, which has no anchor for Cod. 10707; the bridge lands on its page."
+    "The star catalogue as an object belongs to Observationes, which has no anchor for Cod. 10707; the bridge lands on its page.",
+    "The three presentation copies as Friis saw them in 1868 (pp. 262–263) do not match this witness's binding description. He distinguishes Cod. philos. 42 (now 10705) — parchment, bound in light-green velvet with the portrait and arms dies, dedicated to Matthias, only the signature autograph, 25 written leaves; Cod. philos. 47 (now 10706) — paper, in parchment with the dies, no dedication, 'T. Brahe. Stellarum inerrantium restitutio' on the cover, 26 leaves; and Cod. philos. 48 (now 10707) — paper, bound in light-blue silk ('lyseblaat Silketøi') with a different vignette on each board, dedicated to Rudolph Coraducius 'Anno 1600 Mense Martio', only the signature autograph, 30 written leaves, with the appendix from fol. 26 'som ikke findes i de andre Expl.' The appendix and the Coraduz dedication sit where this record puts them; the green velvet and the two dies Friis attaches to the Matthias copy, not to this one. The binding stored here from the catalogue record is kept and flagged: an object check in Vienna against Friis's three descriptions is wanted before any die or binding statement about Cod. 10707 is repeated."
    ],
    "sources": [
     "S_TBOO_III",
-    "S_ONB"
+    "S_ONB",
+    "S_FRIIS1868"
    ],
    "references": [
     {
@@ -1610,6 +1625,11 @@
      "source": "S_ONB",
      "locus": "AC13947088",
      "note": ""
+    },
+    {
+     "source": "S_FRIIS1868",
+     "locus": "pp. 262–263",
+     "note": "the three copies of 1600 binding by binding; the appendix from fol. 26 only in the Coraduz copy"
     }
    ]
   },

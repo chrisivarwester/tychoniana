@@ -1,12 +1,12 @@
 {
  "edition": {
   "title": "Observationes — The Observation Archive of Tycho Brahe, and the Printed Catalogue of Stars",
-  "date": "2026-09-05"
+  "date": "2026-10-06"
  },
  "codices": {
   "id": "brahe-tycho",
-  "version": "2.0",
-  "edition_date": "2026-09-05",
+  "version": "2.1",
+  "edition_date": "2026-10-06",
   "generated": "2026-09-05",
   "title": "Observationes — the observation archive of Tycho Brahe, and the printed catalogue of stars",
   "description": "The manuscript volumes in which Tycho Brahe's observations survive — the archetypes and transcripts at the Royal Danish Library, the nineteen annual fair copies and the working star catalogue at the Austrian National Library, and the lost octavo — with Dreyer's description of each, the hand, what it was copied from, the pages of the Opera Omnia set from it, and the events of its custody 1601–1929.",
@@ -257,6 +257,22 @@
     "full": "Per Friedrichsen, Tycho Brahes observationer: en tekst- og billedmosaik (typescript, Royal Danish Library), pp. 27–33: the Wolfen–Rostgaard letters of 1696–97 and Toinard's note on the Paris volumes.",
     "contributes": "the Paris episode from the Danish side, with the letters",
     "cited_by": "the transmission"
+   },
+   {
+    "id": "S_FRIIS1868",
+    "label": "Friis, 'Tyge Brahes Haandskrifter i Wien og Prag' (1868–69)",
+    "full": "F. R. Friis, 'Tyge Brahes Haandskrifter i Wien og Prag', Danske Samlinger for Historie, Topographi, Personal- og Literaturhistorie IV (Copenhagen, 1868–69), pp. 250–268: the survey of the Vienna and Prague manuscripts made in the summer of 1868, with the then shelfmarks.",
+    "url": "",
+    "contributes": "the 1868 cross-key Cod. philos. 514–532 for the nineteen fair copies, his readings of the 1599 title and of Cod. 10709, the pencil list of Cod. 10686 and the maps in Cod. 10688, and his account of the Vienna accession",
+    "cited_by": "the Vienna fair copies, Cod. 10709, the desiderata and the transmission"
+   },
+   {
+    "id": "S_GIGAS1900",
+    "label": "Gigas, 'Nogle Bøger fra Tycho Brahes Bogbinderi' (1900)",
+    "full": "Emil Gigas, 'Nogle Bøger fra Tycho Brahes Bogbinderi', Bogvennen (Copenhagen, 1900), pp. 30–38 — twelve Royal Library bindings described tool by tool, among them GKS 311 (no. 9) and GKS 1825 (no. 12).",
+    "url": "",
+    "contributes": "the bindings of GKS 311 and GKS 1825",
+    "cited_by": "Codices B and C"
    }
   ],
   "volumes": [
@@ -336,11 +352,12 @@
     "scribe_attribution": null,
     "url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122875896605763",
     "facsimile": null,
-    "notes": "Codex B (Opera Omnia X); Hven 1577–1582. Tycho's portrait and arms on the binding.",
+    "notes": "Codex B (Opera Omnia X); Hven 1577–1582. Tycho's portrait and arms on the binding. Binding, as Gigas described it in 1900 (p. 38): white parchment with green ties, the oval portrait and the arms in gold, the arms stamped the wrong way up ('anbragt forkert'), traces of other gilt tooling; largely autograph. A protocol of 1577–81 in a binding with the dies of 1588 and after was bound, or rebound, after it was written.",
     "confidence": "A",
     "sources": [
      "S_DREYER_BIO",
-     "S_KB"
+     "S_KB",
+     "S_GIGAS1900"
     ],
     "questions": [
      "Q_DIGITISATION"
@@ -392,12 +409,13 @@
     "scribe_attribution": null,
     "url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122748878505763",
     "facsimile": null,
-    "notes": "Codex C (Opera Omnia X); Hven 1582–1586. Partly autograph; the autograph source recopied into the Vienna fair-copies of 1582–1586 (Cod. 10657–10661). some ten inserted 4° leaves of Elias Olai's German observations at the end of 1584.",
+    "notes": "Codex C (Opera Omnia X); Hven 1582–1586. Partly autograph; the autograph source recopied into the Vienna fair-copies of 1582–1586 (Cod. 10657–10661). some ten inserted 4° leaves of Elias Olai's German observations at the end of 1584. Binding, as Gigas described it in 1900 (p. 37): white parchment without ornament, green ties, 'Spor af megen Brug'.",
     "confidence": "A",
     "sources": [
      "S_DREYER_BIO",
      "S_TBOO_X_PROL",
-     "S_KB"
+     "S_KB",
+     "S_GIGAS1900"
     ],
     "questions": [
      "Q_1585_CODEXL",
@@ -1469,12 +1487,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13948895",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1582 observations (216 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C (1582–1586). One of the 19 Vienna apographa (vol. 1 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Pre-Longomontanus — he reached Hven only summer 1589/90. Early familia (Flemløse from c.1577, Sascerides from c.1582); Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven).",
+    "notes": "The neat yearly fair-copy of the 1582 observations (216 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C (1582–1586). One of the 19 Vienna apographa (vol. 1 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Pre-Longomontanus — he reached Hven only summer 1589/90. Early familia (Flemløse from c.1577, Sascerides from c.1582); Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 514 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [
      "Q_APOGRAPHA_COLLATE",
@@ -1544,12 +1563,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955722",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1583 observations (173 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. One of the 19 Vienna apographa (vol. 2 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Morsing joins 1583. Early familia; Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven).",
+    "notes": "The neat yearly fair-copy of the 1583 observations (173 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. One of the 19 Vienna apographa (vol. 2 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Morsing joins 1583. Early familia; Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 515 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -1615,12 +1635,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955723",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1584 observations (239 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. One of the 19 Vienna apographa (vol. 3 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Hans Crol active from c.1584; the year-end carries some ten inserted leaves of Morsing's German observations. Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven).",
+    "notes": "The neat yearly fair-copy of the 1584 observations (239 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. One of the 19 Vienna apographa (vol. 3 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Hans Crol active from c.1584; the year-end carries some ten inserted leaves of Morsing's German observations. Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 516 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -1686,12 +1707,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955724",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1585 observations (250 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. Dreyer (Opera Omnia X) also cites a separate 4° transcript of 1585 copied from the Vienna fair-copy. One of the 19 Vienna apographa (vol. 4 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Full early-familia roster. Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven).",
+    "notes": "The neat yearly fair-copy of the 1585 observations (250 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. Dreyer (Opera Omnia X) also cites a separate 4° transcript of 1585 copied from the Vienna fair-copy. One of the 19 Vienna apographa (vol. 4 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Full early-familia roster. Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 517 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -1757,12 +1779,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955725",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1586 observations (369 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. One of the 19 Vienna apographa (vol. 5 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Early familia. Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven).",
+    "notes": "The neat yearly fair-copy of the 1586 observations (369 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex C. One of the 19 Vienna apographa (vol. 5 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Early familia. Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 518 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [
      "Q_SPOTCOLLATE"
@@ -1828,12 +1851,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955726",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1587 observations (406 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex D (Sun/Moon/planets 1587–1589). One of the 19 Vienna apographa (vol. 6 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Sascerides winding down (to c.1588/89). Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven).",
+    "notes": "The neat yearly fair-copy of the 1587 observations (406 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex D (Sun/Moon/planets 1587–1589). One of the 19 Vienna apographa (vol. 6 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Sascerides winding down (to c.1588/89). Tycho's own hand frequent here (Dreyer's 'prioribus tomis … multa Tychonis manu'). Longomontanus is excluded (not yet on Hven). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 519 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -1897,12 +1921,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955727",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1588 observations (296 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex D. One of the 19 Vienna apographa (vol. 7 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Last full pre-Longomontanus year. Tycho's hand frequent but beginning to thin. Longomontanus is excluded (not yet on Hven).",
+    "notes": "The neat yearly fair-copy of the 1588 observations (296 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex D. One of the 19 Vienna apographa (vol. 7 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): Last full pre-Longomontanus year. Tycho's hand frequent but beginning to thin. Longomontanus is excluded (not yet on Hven). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 520 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -1966,12 +1991,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955728",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1589 observations (214 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex D. One of the 19 Vienna apographa (vol. 8 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): The hinge year. The departing cohort (Morsing leaves Apr 1589, Flemløse c.1589/90) overlaps Longomontanus's arrival (summer 1589/90). The first volume where Longomontanus is even possible — but not yet the probable hand. Genuinely split.",
+    "notes": "The neat yearly fair-copy of the 1589 observations (214 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex D. One of the 19 Vienna apographa (vol. 8 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): The hinge year. The departing cohort (Morsing leaves Apr 1589, Flemløse c.1589/90) overlaps Longomontanus's arrival (summer 1589/90). The first volume where Longomontanus is even possible — but not yet the probable hand. Genuinely split. Friis's survey of 1868 lists this volume as Cod. philos. Nr. 521 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2031,12 +2057,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955729",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1590 observations (264 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E (Sun/Moon/planets 1590–1594). One of the 19 Vienna apographa (vol. 9 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus now the senior engrossing assistant; Crol still present (to Nov 1591). The Longomontanus era of the fair-copying begins.",
+    "notes": "The neat yearly fair-copy of the 1590 observations (264 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E (Sun/Moon/planets 1590–1594). One of the 19 Vienna apographa (vol. 9 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus now the senior engrossing assistant; Crol still present (to Nov 1591). The Longomontanus era of the fair-copying begins. Friis's survey of 1868 lists this volume as Cod. philos. Nr. 522 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2094,12 +2121,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955730",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1591 observations (257 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E. One of the 19 Vienna apographa (vol. 10 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus primary; Hans Crol present until his death on Hven, Nov 1591. Tycho's own hand now rare (Dreyer's 'in posterioribus pauca') from about here.",
+    "notes": "The neat yearly fair-copy of the 1591 observations (257 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E. One of the 19 Vienna apographa (vol. 10 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus primary; Hans Crol present until his death on Hven, Nov 1591. Tycho's own hand now rare (Dreyer's 'in posterioribus pauca') from about here. Friis's survey of 1868 lists this volume as Cod. philos. Nr. 523 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2153,12 +2181,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955731",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1592 observations (147 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E. One of the 19 Vienna apographa (vol. 11 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus the sole senior scribal assistant (Crol dead; Morsing and Flemløse gone). One of the strongest Longomontanus volumes. Tycho's own hand now rare (Dreyer's 'in posterioribus pauca').",
+    "notes": "The neat yearly fair-copy of the 1592 observations (147 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E. One of the 19 Vienna apographa (vol. 11 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus the sole senior scribal assistant (Crol dead; Morsing and Flemløse gone). One of the strongest Longomontanus volumes. Tycho's own hand now rare (Dreyer's 'in posterioribus pauca'). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 524 by the series — the digit is damaged in the scan of his table — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [
      "Q_1593",
@@ -2215,12 +2244,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955732",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1594 observations (144 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E. One of the 19 Vienna apographa (vol. 12 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): As 1592 — Longomontanus primary, few alternatives (the 1593 volume is lost). Tycho's own hand now rare (Dreyer's 'in posterioribus pauca').",
+    "notes": "The neat yearly fair-copy of the 1594 observations (144 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex E. One of the 19 Vienna apographa (vol. 12 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): As 1592 — Longomontanus primary, few alternatives (the 1593 volume is lost). Tycho's own hand now rare (Dreyer's 'in posterioribus pauca'). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 525 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [
      "Q_1593",
@@ -2277,12 +2307,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955733",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1595 observations (284 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex F. One of the 19 Vienna apographa (vol. 13 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus primary; firmly in Dreyer's rare-Tycho zone (Cod. 10669 onward).",
+    "notes": "The neat yearly fair-copy of the 1595 observations (284 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex F. One of the 19 Vienna apographa (vol. 13 of 19). Scribal attribution (documentary prior, grade B, not palaeographically confirmed): Longomontanus primary; firmly in Dreyer's rare-Tycho zone (Cod. 10669 onward). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 526 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2342,12 +2373,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955734",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1596 observations (199 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex G (1596–1597). One of the 19 Vienna apographa (vol. 14 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Johannes Eriksen joins in 1596, creating a genuine two-way split with Longomontanus. Tycho's own hand now rare (Dreyer's 'in posterioribus pauca').",
+    "notes": "The neat yearly fair-copy of the 1596 observations (199 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex G (1596–1597). One of the 19 Vienna apographa (vol. 14 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Johannes Eriksen joins in 1596, creating a genuine two-way split with Longomontanus. Tycho's own hand now rare (Dreyer's 'in posterioribus pauca'). Friis's survey of 1868 lists this volume as Cod. philos. Nr. 527 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2407,12 +2439,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955735",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1597 observations (168 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex G. One of the 19 Vienna apographa (vol. 15 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Longomontanus departs 1 Jun 1597 — the early part of the year is Longomontanus-plausible, the remainder Eriksen. (Tycho appended David Fabricius's autograph observations.)",
+    "notes": "The neat yearly fair-copy of the 1597 observations (168 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex G. One of the 19 Vienna apographa (vol. 15 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Longomontanus departs 1 Jun 1597 — the early part of the year is Longomontanus-plausible, the remainder Eriksen. (Tycho appended David Fabricius's autograph observations.) Friis's survey of 1868 lists this volume as Cod. philos. Nr. 528 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2472,12 +2505,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13955736",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1598 observations (154 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex H, 2nd fascicle. One of the 19 Vienna apographa (vol. 16 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): An exile volume: Hven abandoned 1597 (Wandsbek, then Wittenberg). Longomontanus gone; no documented engrossing scribe. Unattributed — Eriksen and Tengnagel are weak, unconfirmed candidates.",
+    "notes": "The neat yearly fair-copy of the 1598 observations (154 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex H, 2nd fascicle. One of the 19 Vienna apographa (vol. 16 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): An exile volume: Hven abandoned 1597 (Wandsbek, then Wittenberg). Longomontanus gone; no documented engrossing scribe. Unattributed — Eriksen and Tengnagel are weak, unconfirmed candidates. Friis's survey of 1868 lists this volume as Cod. philos. Nr. 529 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2537,12 +2571,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13956230",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1599 observations (181 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex H, 1st fascicle. One of the 19 Vienna apographa (vol. 17 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): An exile volume (Wittenberg → Prague/Benátky). No documented engrossing scribe. Unattributed.",
+    "notes": "The neat yearly fair-copy of the 1599 observations (181 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex H, 1st fascicle. One of the 19 Vienna apographa (vol. 17 of 19). Scribal attribution (documentary prior, grade D, not palaeographically confirmed): An exile volume (Wittenberg → Prague/Benátky). No documented engrossing scribe. Unattributed. Friis's survey of 1868 lists this volume as Cod. philos. Nr. 530 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252). Friis read the volume's title in 1868 as 'Observationes astronomicae anni 1599 habitae … Wittebergæ, postea in Bohemia primo Pragæ deinde Benachiæ atque etiam Girsitzae … arcibus Cæsareanis' (Friis 1868–69, p. 253) — placing the year at Wittenberg and in Bohemia, where the catalogue title above has 'factae Vranoburgi in insula Huena'; both readings are kept until the title leaf is read.",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2604,12 +2639,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13956231",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1600 observations (259 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex I (1600–1601). One of the 19 Vienna apographa (vol. 18 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Longomontanus rejoined Tycho at Prague in 1600 and is again a candidate; Eriksen returning, Tengnagel present. A genuine multi-way split.",
+    "notes": "The neat yearly fair-copy of the 1600 observations (259 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex I (1600–1601). One of the 19 Vienna apographa (vol. 18 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Longomontanus rejoined Tycho at Prague in 1600 and is again a candidate; Eriksen returning, Tengnagel present. A genuine multi-way split. Friis's survey of 1868 lists this volume as Cod. philos. Nr. 531 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2671,12 +2707,13 @@
     },
     "url": "http://data.onb.ac.at/rec/AC13956232",
     "facsimile": null,
-    "notes": "The neat yearly fair-copy of the 1601 observations (152 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex I. One of the 19 Vienna apographa (vol. 19 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Longomontanus with Tycho until his death (24 Oct 1601); Johannes Eriksen was Tycho's personal secretary by spring 1601 (Christianson). Both strong candidates; Tengnagel also present.",
+    "notes": "The neat yearly fair-copy of the 1601 observations (152 ll.), recopied from the nightly autograph protocols now at KB. Year fixed by ÖNB Tabulae codicum VI p. 218 (leaf-count series) + Dreyer Opera Omnia X. KB original: Codex I. One of the 19 Vienna apographa (vol. 19 of 19). Scribal attribution (documentary prior, grade C, not palaeographically confirmed): Longomontanus with Tycho until his death (24 Oct 1601); Johannes Eriksen was Tycho's personal secretary by spring 1601 (Christianson). Both strong candidates; Tengnagel also present. Friis's survey of 1868 lists this volume as Cod. philos. Nr. 532 — the stable 1868 cross-key; the 'nye Nummer' 10657–10675 he gave beside it he called provisional (Friis 1868–69, pp. 251–252).",
     "confidence": "A",
     "sources": [
      "S_ONB",
      "S_TABULAE_VI",
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ],
     "questions": [
      "Q_APOGRAPHA_SCRIBES",
@@ -2723,12 +2760,13 @@
     "scribe_attribution": null,
     "url": "http://data.onb.ac.at/rec/AC13947891",
     "facsimile": null,
-    "notes": "Dreyer's second Vienna codex: the working catalogue of 296 zodiacal stars for the year 1589, printed at the end of TBOO XI (pp. 383–412) with the 723-star catalogue of GKS 316. Registered here because Dreyer used it as a witness of the observations; the thesaurus files it under the star-catalogue work.",
+    "notes": "Dreyer's second Vienna codex: the working catalogue of 296 zodiacal stars for the year 1589, printed at the end of TBOO XI (pp. 383–412) with the 723-star catalogue of GKS 316. Registered here because Dreyer used it as a witness of the observations; the thesaurus files it under the star-catalogue work. Friis in 1868 called it 'et lidet Foliobind (i Pergament)' under the catalogue title 'Variae observationes astronomicae' (Cod. philos. Nr. 73; Friis 1868–69, p. 263) — folio with Dreyer, against the catalogue's quarto.",
     "confidence": "A",
     "sources": [
      "S_TBOO_X_PROL",
      "S_ONB",
-     "S_TBOO_III"
+     "S_TBOO_III",
+     "S_FRIIS1868"
     ],
     "questions": [],
     "graphonomicon": null,
@@ -2852,11 +2890,15 @@
    },
    {
     "date": "1630-11-15",
-    "event": "Kepler dies at Regensburg; the edition never begun. The archetypes pass to his son Ludwig, a physician at Königsberg.",
+    "event": "Kepler dies at Regensburg; the edition never begun. The archetypes pass to his son Ludwig, a physician at Königsberg. Friis 1868–69 (p. 250) prints '30 Novbr. ny St.', an error.",
     "sources": [
      [
       "S_TBOO_X_PROL",
       "pp. III–IV"
+     ],
+     [
+      "S_FRIIS1868",
+      "p. 250"
      ]
     ]
    },
@@ -2907,6 +2949,16 @@
      [
       "S_TBOO_X_PROL",
       "pp. IV–V"
+     ]
+    ]
+   },
+   {
+    "date": "c. 1657",
+    "event": "The Hofbibliothek's acquisition of the Tycho manuscripts is known to Friis in 1868 only through Mosel's 'um dieselbe Zeit' (about 1657); nothing in the library's acts records it, and he denies that the whole library reached Vienna — only part of the manuscripts, and hardly many of the printed books.",
+    "sources": [
+     [
+      "S_FRIIS1868",
+      "p. 265"
      ]
     ]
    },
@@ -3073,9 +3125,10 @@
    {
     "id": "des-vienna-bundles",
     "title": "The three Vienna paper bundles (Cod. 10686, 10688, 10689)",
-    "text": "Dreyer used three large bundles of letters and papers at Vienna that carry copies of some observations (TBOO XIII p. 98 note: 'Apographum harum observationum in cod. Vindob. lat. 10689 f 26r sqq'). They are not registered here; a leaf-level description would settle which observations they witness.",
+    "text": "Dreyer used three large bundles of letters and papers at Vienna that carry copies of some observations (TBOO XIII p. 98 note: 'Apographum harum observationum in cod. Vindob. lat. 10689 f 26r sqq'). They are not registered here; a leaf-level description would settle which observations they witness. Friis listed the contents of Cod. 10686 in the summer of 1868 and pencilled numbers on the pieces, which had been pasted in 'uden at man tog synderligt Hensyn til, om de bleve anbragte paa rette Sted': among them, inside a wrapper of Kepler's Mars papers, the binding waste 'Jorde Bogenn Thill Knudstrup Aar 1580 Thyge Brades'; a folio quire prepared for the press with the Pratensis epitaph; Urania Titani with autograph corrections (his item 12); Elias Olsen Morsing's preface to his Calendarium, dated Uraniborg 1 January 1586; and a star catalogue sent by Rothmann in 1586 (Friis 1868–69, pp. 253–259). In Cod. 10688 he found, beside the book-lists, maps of part of Norway, 'Nordfjords Lehn' dated 1594, Hven after Braun, and Copenhagen (p. 259).",
     "sources": [
-     "S_TBOO_X_PROL"
+     "S_TBOO_X_PROL",
+     "S_FRIIS1868"
     ]
    },
    {

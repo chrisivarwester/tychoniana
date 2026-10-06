@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "2.1",
- "edition_date": "2026-09-28",
+ "version": "2.2",
+ "edition_date": "2026-10-06",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
   {
@@ -305,7 +305,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "A large revolving wood quadrant — 'one-and-a-half-meter' per Thoren (p. 177), 155 cm per Wolfschmidt 2002 — available at the turn of 1585–6 (Thoren, p. 177). Probably an experimental analogue to the mural quadrant, kept rigid by lightweight struts instead of anchors to a wall, so it could be turned to any azimuth. Together with the great equatorial armillary it gave Tycho the redundancy to verify his mural quadrant systematically, enabling the 1′ accuracy milestone achieved by the 1585 comet season. The second large quadrant (the revolving steel quadrant) entered service two years later. Not extant. In his own words: “A revolving quadrant, which can be used for determining not only altitudes, like the previous sextant, but also, most accurately, azimuths, has been constructed by us.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 33). The crypt's roof 'made of small, smooth beams … can be turned around, with little effort' on wheels hidden in a wooden ring, its two windows turned toward the star — 'the first account of a movable observatory dome in northern Europe' in the judgement of the 1996 editors (n. 70, p. 39).",
+   "description": "A large revolving wood quadrant — 'one-and-a-half-meter' per Thoren (p. 177), 155 cm per Wolfschmidt 2002 — available at the turn of 1585–6 (Thoren, p. 177). Its column was set on 14 December 1585, about seven in the evening — Tycho's entry on the last leaf of the 1585 Vienna volume, 'hora existente juxta 7 vespertinam', the column 'in quo quadrans volubilis in turricula orientali observatorii subterranii convoluitur' (Friis 1868–69, p. 253); his 'eastern turret' is the north-east crypt of this record. Probably an experimental analogue to the mural quadrant, kept rigid by lightweight struts instead of anchors to a wall, so it could be turned to any azimuth. Together with the great equatorial armillary it gave Tycho the redundancy to verify his mural quadrant systematically, enabling the 1′ accuracy milestone achieved by the 1585 comet season. The second large quadrant (the revolving steel quadrant) entered service two years later. Not extant. In his own words: “A revolving quadrant, which can be used for determining not only altitudes, like the previous sextant, but also, most accurately, azimuths, has been constructed by us.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 33). The crypt's roof 'made of small, smooth beams … can be turned around, with little effort' on wheels hidden in a wooden ring, its two windows turned toward the star — 'the first account of a movable observatory dome in northern Europe' in the judgement of the 1996 editors (n. 70, p. 39).",
    "edges": [
     [
      "described_in",
@@ -322,7 +322,8 @@
     "S_THOREN_LORD",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_FRIIS1868"
    ],
    "radius_cm": 155,
    "location": "north-east crypt, Stjerneborg",
@@ -472,7 +473,7 @@
    "place": "P_HVEN",
    "dimensions": "one complete revolving armilla seven cubits in diameter — Tycho's own figure, ≈272 cm (radius ≈136 cm); a fixed nine-cubit (≈350 cm) semicircular armilla (Mechanica 1946, Fig. 14, p. 65)",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "The great equatorial armillary of the Stjerneborg crypt, 1.36 m radius (Wolfschmidt 2002; Thoren: 'one-and-a-third metre'), completed by the summer solstice of 1585 — the single most important instrument on Hven (Thoren, ch. 5, p. 174). Foundation laid December 1584. Its single declination ring — made of wood to minimise flexure, except for brass alidades and graduation strips — was pivoted on a hollow steel axis tilted to the Hven latitude. In simplicity it rivalled the mural quadrant; right ascension and declination are read directly, in the equatorial coordinate system astronomers still use. Tycho had tried a zodiacal (ecliptic) armillary first but abandoned it almost immediately; the converted zodiacal armillary was the first equatorial armillary (c. 1583–84), the two smaller equatorial armillaries in the Uraniborg castle itself (north and south, 1584) were the second step, and this great Stjerneborg instrument was the third and culminating form: 'a third, which was to become the single most important instrument on Hven' (Thoren, p. 174). After 1585, the great armillary and the revolving quadrant together enabled Tycho to cross-check the mural quadrant systematically, and it was by this comet-of-1585 season that he achieved his 1′ accuracy target (Thoren, p. 190). Not extant. In his own words: “It has one complete armilla [ring] only which can revolve, and another semicircular one, which is fixed.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 65).",
+   "description": "The great equatorial armillary of the Stjerneborg crypt, 1.36 m radius (Wolfschmidt 2002; Thoren: 'one-and-a-third metre'), completed by the summer solstice of 1585 — the single most important instrument on Hven (Thoren, ch. 5, p. 174). The foundation stone was laid at noon on 11 December 1584 — Tycho's own entry in the 1584 observation volume at Vienna: 'die 11 Decembris in ipso Meridie … posui primum lapidem pro fundamento armillarum majorum subterranearum' (Friis 1868–69, p. 253). Its single declination ring — made of wood to minimise flexure, except for brass alidades and graduation strips — was pivoted on a hollow steel axis tilted to the Hven latitude. In simplicity it rivalled the mural quadrant; right ascension and declination are read directly, in the equatorial coordinate system astronomers still use. Tycho had tried a zodiacal (ecliptic) armillary first but abandoned it almost immediately; the converted zodiacal armillary was the first equatorial armillary (c. 1583–84), the two smaller equatorial armillaries in the Uraniborg castle itself (north and south, 1584) were the second step, and this great Stjerneborg instrument was the third and culminating form: 'a third, which was to become the single most important instrument on Hven' (Thoren, p. 174). After 1585, the great armillary and the revolving quadrant together enabled Tycho to cross-check the mural quadrant systematically, and it was by this comet-of-1585 season that he achieved his 1′ accuracy target (Thoren, p. 190). Not extant. In his own words: “It has one complete armilla [ring] only which can revolve, and another semicircular one, which is fixed.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 65).",
    "edges": [
     [
      "described_in",
@@ -490,7 +491,8 @@
     "S_THOREN_LORD",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_FRIIS1868"
    ],
    "radius_cm": 136,
    "location": "south (largest) crypt, Stjerneborg",
@@ -1040,7 +1042,7 @@
    "dimensions": "diameter almost six feet — Tycho's own figure, ≈149 cm; on a stand about five feet (≈130 cm) high (Mechanica 1946, Fig. 22, p. 103)",
    "fate": "returned to Copenhagen; destroyed in the University observatory-tower fire of 1728",
    "maker": "Christopher Schissler the Elder (Augsburg, shell, 1570)",
-   "description": "A celestial globe of almost six Tychonic feet (c. 149 cm) in diameter. Its wooden shell was commissioned in 1570 from Christopher Schissler the Elder, the leading Augsburg instrument-maker, who built it of many fir staves and rings fitted together like a great puzzle (Christianson, On Tycho's Island, p. 358; Dreyer, p. 112). On Tycho's return to Augsburg in 1575 it was found not perfectly spherical and slightly cracked; once received in Denmark in 1576 the cracks were stopped and the sphericity restored, after which the globe was observed over a two-year period to be sure it would hold its shape through the changeable Danish climate before being sheathed in brass, marked with ecliptic and equator divided to a minute of arc, and mounted in divided meridian and horizon rings. An inscription on the horizon dated its completion to 1584; only then were star positions engraved — Tycho's own measured places, added down to 1595 — making it a precision computing instrument as well as a showpiece (Mosley, Bearing the Heavens, ch. 4). The maker of the shell is normally identified as Christopher Schissler the Elder, though Mosley flags the identification as not beyond doubt. The longest-surviving of all Tycho's instruments, with a circuitous return: listed in the 6 Dec 1621 Belvedere inventory ('Ein sehr grosser globus coelestis vom metall'), it was acquired c.1625 by the Jesuit Christoph Scheiner for the Jesuit College at Neisse (Nysa) in Silesia, whence in 1632 it was carried as war-booty to Copenhagen by Prince Ulrik, son of Christian IV; there it stood in the University's observatory tower until that tower and all its contents burned in 1728 (Mortensen, Fra Tycho Brahes Bogsamling). In his own words: “A globe of this size, so solidly and finely worked, and correct in every respect, has never I think been constructed up to now by any man anywhere in the world.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 104). Tycho's own chronology as the 1996 edition prints it (pp. 112–115): the wooden core made at Augsburg in 1570, left there five years, found cracked in 1575 on the way to Regensburg, sent to Denmark in 1576, two years' shape test, the brass sheets, another year's test, the circles and the thousand stars 'referred to the integer year 1600' — 'about 25 years' from first phase to finish; the horizon inscription's 1584 'about the middle of the period'; the base about five feet (130 cm), the globe 'almost six feet' (149 cm), a hollow cover lowered by a rope.",
+   "description": "A celestial globe of almost six Tychonic feet (c. 149 cm) in diameter. Its wooden shell was commissioned in 1570 from Christopher Schissler the Elder, the leading Augsburg instrument-maker, who built it of many fir staves and rings fitted together like a great puzzle (Christianson, On Tycho's Island, p. 358; Dreyer, p. 112). On Tycho's return to Augsburg in 1575 it was found not perfectly spherical and slightly cracked; once received in Denmark in 1576 the cracks were stopped and the sphericity restored, after which the globe was observed over a two-year period to be sure it would hold its shape through the changeable Danish climate before being sheathed in brass, marked with ecliptic and equator divided to a minute of arc, and mounted in divided meridian and horizon rings. An inscription on the horizon dated its completion to 1584; only then were star positions engraved — Tycho's own measured places, added down to 1595 — making it a precision computing instrument as well as a showpiece (Mosley, Bearing the Heavens, ch. 4). The maker of the shell is normally identified as Christopher Schissler the Elder, though Mosley flags the identification as not beyond doubt. The longest-surviving of all Tycho's instruments, with a circuitous return: listed in the 6 Dec 1621 Belvedere inventory ('Ein sehr grosser globus coelestis vom metall'), it is placed by Mortensen's inference — the Jesuit college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397) names no globe — at the Jesuit College at Neisse (Nysa) in Silesia under Christoph Scheiner by about 1625, whence in 1632 it was carried as war-booty to Copenhagen by Prince Ulrik, son of Christian IV; there it stood in the University's observatory tower until that tower and all its contents burned in 1728 (Mortensen, Fra Tycho Brahes Bogsamling). In his own words: “A globe of this size, so solidly and finely worked, and correct in every respect, has never I think been constructed up to now by any man anywhere in the world.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 104). Tycho's own chronology as the 1996 edition prints it (pp. 112–115): the wooden core made at Augsburg in 1570, left there five years, found cracked in 1575 on the way to Regensburg, sent to Denmark in 1576, two years' shape test, the brass sheets, another year's test, the circles and the thousand stars 'referred to the integer year 1600' — 'about 25 years' from first phase to finish; the horizon inscription's 1584 'about the middle of the period'; the base about five feet (130 cm), the globe 'almost six feet' (149 cm), a hollow cover lowered by a rope. Mortensen gives the diameter as 149.2 cm, and the Prague Kunstkammer inventory of 6 December 1621 numbers the globe 'N:o 1424 Ein sehr grosser globus coelestis vomm metall' beside 'N:o 1425 Ein qvadrant mit viel zugehörigen instrumenten' (Jahrbuch der kunsthistorischen Sammlungen XXV, p. LI; Mortensen 1942, p. 20); after the fire of 1728 the wooden core had burned and the metal plates melted, and what remained — lumps of metal, the meridian ring, iron rings and the axle — has since been lost (p. 21).",
    "edges": [
     [
      "described_in",
@@ -1060,7 +1062,8 @@
     "S_MECH_OO5",
     "S_MORTENSEN_BOG",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_MORTENSEN"
    ],
    "location": "library, Uraniborg",
    "location_group": "uraniborg",
@@ -1854,6 +1857,13 @@
    "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
    "kind": "primary",
    "contributes": "The revised English text with the only modern commentary: the plausibility of Tycho's stated precisions read against the radii (n. 35 and its cross-references), the identification of the persons and instruments he names, the Opera omnia parallels for every self-citation, the preface to Rudolf II in English, and the Kassel history of the transversal scale and the slit-sights."
+  },
+  {
+   "id": "S_FRIIS1868",
+   "label": "Friis, 'Tyge Brahes Haandskrifter i Wien og Prag' (1868–69)",
+   "full": "F. R. Friis, 'Tyge Brahes Haandskrifter i Wien og Prag', Danske Samlinger for Historie, Topographi, Personal- og Literaturhistorie IV (Copenhagen, 1868–69), pp. 250–268.",
+   "kind": "secondary",
+   "contributes": "Tycho's own dated entries in the 1584 and 1585 Vienna volumes, quoted in 1868: the foundation stone of the great subterranean armillae laid at noon on 11 December 1584, and the column of the revolving quadrant 'in turricula orientali' set on 14 December 1585 about 7 p.m. (p. 253)."
   }
  ],
  "federates_with": [
@@ -2202,7 +2212,7 @@
   },
   {
    "year": "c. 1625",
-   "event": "The globe is acquired by Christoph Scheiner for the Jesuit college at Neisse in Silesia.",
+   "event": "The globe passes to the Jesuit college at Neisse in Silesia under Christoph Scheiner — Mortensen's inference from the college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397), which names no globe; no document records the transfer.",
    "sources": [
     [
      "S_MORTENSEN_BOG",
@@ -2284,7 +2294,7 @@
   },
   {
    "year": "1852",
-   "event": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich.",
+   "event": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904).",
    "sources": [
     [
      "S_MORTENSEN",

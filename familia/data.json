@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.2",
- "edition_date": "2026-10-01",
+ "version": "2.3",
+ "edition_date": "2026-10-06",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
  "description": "A prosopography of the documented circle of Tycho Brahe: the assistants and craftsmen of Uraniborg, the printers and publishers of his works, the patrons and dedicatees, the kin and friends, every party to the surviving correspondence, and the later owners, editors and scholars through whom his books and papers passed. Each record carries its roles, dates, documented seat, biography with sources, and the letters, visits, stays, printed works, presentation copies and manuscripts in which the person appears elsewhere in Tychoniana.",
@@ -171,6 +171,20 @@
    "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
    "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
    "contributes": "The commentary's biographical notes on the people Tycho names in the Mechanica — Tengnagel, Kurtz, Hazmburk, Dançay, Vedel, Scultetus, Homelius, Hainzel, Gemperlin, Arsenius — and the Prologue's Prague matter."
+  },
+  {
+   "id": "S_BRONDSTED1962",
+   "label": "Brøndsted, 'Et ukendt digt af Tycho Brahe' (1962)",
+   "full": "Mogens Brøndsted, 'Et ukendt digt af Tycho Brahe', Fund og Forskning i Det kongelige Biblioteks Samlinger IX (1962), pp. 71–78; corrected on the poem's novelty by the editors' Efterslæt, Fund og Forskning XII (1965), p. 156.",
+   "contributes": "Frobenius's later life from Hoffmann's biography of 1867: Rantzau's household, Wandsbek, Hamburg, the Heinsius letters of 1627 and the Almagest translation; his 1644 proof-sheet with Tycho's Ptolemy verses.",
+   "url": "https://tidsskrift.dk/fundogforskning/article/view/41172",
+   "url_label": "open access at tidsskrift.dk"
+  },
+  {
+   "id": "S_KOLLN1995",
+   "label": "Kølln, 'Danskere i Prag omkring år 1600' (1995)",
+   "full": "Herman Kølln, 'Danskere i Prag omkring år 1600', Magasin fra Det Kongelige Bibliotek 9:4 (1995), pp. 64–75.",
+   "contributes": "Jessenius's dates and offices (p. 75)."
   }
  ],
  "category_colours": {
@@ -388,12 +402,13 @@
     "scribe",
     "correspondent"
    ],
-   "connection": "Tycho's chief calculator; served on Hven 1589–97 and at Benátky in Bohemia January–August 1600. Son of Jutland peasants, he later became professor at Copenhagen and wrote Astronomia Danica (1622), the textbook of the Tychonic world-system. (Christianson; Thoren)",
+   "connection": "Tycho's chief calculator; served on Hven 1589–97, supervised at Tycho's summons the printing of the Progymnasmata's lunar section begun at Hamburg in 1598 — the sheets Tycho scrapped for the printer's errors (Nielsen 1921, p. 207) — and was with him at Benátky in Bohemia January–August 1600 and in Prague early in 1600 (p. 209). Son of Jutland peasants, he later became professor at Copenhagen and wrote Astronomia Danica (1622), the textbook of the Tychonic world-system. (Christianson; Thoren)",
    "sources": [
     "S_CHRISTIANSON",
     "S_THOREN",
     "S_THESAURUS",
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_NIELSEN1921"
    ],
    "letters_sent": 1,
    "letters_received": 7,
@@ -1061,10 +1076,11 @@
     "bookseller",
     "author"
    ],
-   "connection": "Hamburg printer-bookseller and mathematician who spent about six weeks in the familia on Hven in 1591; the true author of GKS 320, a four-world-systems treatise long mis-catalogued as a Tycho autograph. (Christianson, On Tycho's Island, 2000)",
+   "connection": "Hamburg printer-bookseller and mathematician who spent about six weeks in the familia on Hven in 1591 — his family register says 'unerträgliche Bedingnisse nötigten ihn zur Abreise' — then tutor to Heinrich Rantzau's grandchildren and assistant in his literary undertakings, and lessee of Wandsbek when Tycho was installed there in 1597; a Hamburg citizen and publishing bookseller after Rantzau's death. In 1627 he wrote to Daniel Heinsius about borrowing the Leiden Almagest manuscript (Royal Library, GKS 3072 4°, pp. 803 ff.); his Latin translation of the Almagest, said by Moller in 1744 to lie in manuscript in the Hamburg cathedral library, is untraced; and his proof-sheet of 1644 reprints Tycho's Ptolemy verses of 1584 from the Epistolae astronomicae — not, as was claimed in 1962, a hitherto unknown poem. The true author of GKS 320, a four-world-systems treatise long mis-catalogued as a Tycho autograph. (Christianson, On Tycho's Island, 2000; Hoffmann, Der gelehrte Buchhändler Georg Ludwig Frobenius, Hamburg 1867, the biography of record, through Brøndsted 1962, pp. 71–77, and Fund og Forskning XII, 1965, p. 156)",
    "sources": [
     "S_CHRISTIANSON",
-    "S_THESAURUS"
+    "S_THESAURUS",
+    "S_BRONDSTED1962"
    ],
    "letters_sent": 0,
    "letters_received": 0,
@@ -2878,14 +2894,15 @@
     "Johannes Jessenius (Jan Jesenský)"
    ],
    "entry_kind": "person",
-   "born": null,
-   "died": null,
+   "born": 1566,
+   "died": 1621,
    "categories": [
     "correspondent"
    ],
-   "connection": "",
+   "connection": "Anatomist and physician; Tycho's host in Melanchthon's house at Wittenberg from 4 December 1598 to 14 June 1599, mediator in the quarrel with Kepler in April 1600, and the speaker of the funeral oration on 4 November 1601; later rector of the Carolinum, and executed with twenty-six others on the Old Town Square of Prague on 21 June 1621. (Kølln 1995, p. 75; the stays)",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_KOLLN1995"
    ],
    "letters_sent": 1,
    "letters_received": 3,
@@ -4088,9 +4105,10 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "",
+   "connection": "Mathematician to the Elector of Brandenburg; Tycho's assistant at Wandsbek in March 1598, when Tycho gave him the working copy of the Progymnasmata that was later at Königsberg and is reported destroyed (Nielsen 1921, p. 198); in residence at Benátky with his wife from about March 1600, and three months in Tycho's service in Bohemia in 1601.",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_NIELSEN1921"
    ],
    "letters_sent": 1,
    "letters_received": 0,
@@ -5345,6 +5363,92 @@
     "lat": 52.3728,
     "lon": 4.8936,
     "basis": "his father's globe and map shop"
+   }
+  },
+  {
+   "id": "FAM_HANS_BINDER",
+   "name": "Hans Binder",
+   "sort_name": "Binder, Hans",
+   "name_latin": "",
+   "name_variants": [],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "printer"
+   ],
+   "connection": "Hamburg printer, with Henrik Binder the former owner of the printing material — type and ornaments — with which Philipp von Ohr printed from 1597, and so of the material that printed Tycho's Mechanica at Wandsbek in 1598. (Nielsen 1921, p. 206, after Lappenberg 1840, p. XLVI)",
+   "sources": [
+    "S_NIELSEN1921"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Hamburg",
+    "lat": 53.55,
+    "lon": 9.99,
+    "basis": "Hamburg printer"
+   }
+  },
+  {
+   "id": "FAM_HENRIK_BINDER",
+   "name": "Henrik Binder",
+   "sort_name": "Binder, Henrik",
+   "name_latin": "",
+   "name_variants": [
+    "Heinrich Binder"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "printer"
+   ],
+   "connection": "Hamburg printer, with Hans Binder the former owner of the printing material — type and ornaments — with which Philipp von Ohr printed from 1597, and so of the material that printed Tycho's Mechanica at Wandsbek in 1598. (Nielsen 1921, p. 206, after Lappenberg 1840, p. XLVI)",
+   "sources": [
+    "S_NIELSEN1921"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Hamburg",
+    "lat": 53.55,
+    "lon": 9.99,
+    "basis": "Hamburg printer"
+   }
+  },
+  {
+   "id": "FAM_MATTHIAS_BECKER",
+   "name": "Matthias Becker",
+   "sort_name": "Becker, Matthias",
+   "name_latin": "",
+   "name_variants": [],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "printer"
+   ],
+   "connection": "Printer named in books Gottfried Tampach published at Frankfurt in 1610 that carry the same printer's mark as the supplementary parts of the 1610 reissues of Tycho's works; Nielsen suggests he may therefore have printed those supplements too. (Nielsen 1921, p. 213 n. 1)",
+   "sources": [
+    "S_NIELSEN1921"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Frankfurt",
+    "lat": 50.111,
+    "lon": 8.682,
+    "basis": "printer for Tampach, Frankfurt 1610"
    }
   }
  ]

@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.9",
- "edition_date": "2026-09-28",
+ "version": "1.10",
+ "edition_date": "2026-10-06",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -165,7 +165,7 @@
    "year_end": 1690,
    "status": "",
    "grade": "B",
-   "description": "The last practitioner of Tychonic naked-eye precision was Johannes Hevelius (1611–1687) of Danzig, who as late as the 1660s compiled a star catalogue of high accuracy using 'Tychonic' instruments without telescopic sights (Wolfschmidt, Crossroads, p. 211). When Robert Hooke insisted that only telescopic sights and micrometer eyepieces could now give adequate accuracy, Hevelius defended the naked-eye method — a defence descending directly from Tycho's rimula-and-transversal protocol — and to adjudicate the dispute the Royal Society sent the young Edmond Halley to Danzig in 1679; Halley was impressed by Hevelius's accuracy, though later retrospective comparison favoured the telescopic instruments (Biographical Encyclopedia, p. 502). The tradition reached China, where the Jesuit Ferdinand Verbiest rebuilt the bronze instruments of the Peking Imperial Observatory in the 1670s as direct descendants of Tycho's designs. Naked-eye sights gave way to telescopic sights with Flamsteed at Greenwich.",
+   "description": "The last practitioner of Tychonic naked-eye precision was Johannes Hevelius (1611–1687) of Danzig, who as late as the 1660s compiled a star catalogue of high accuracy using 'Tychonic' instruments without telescopic sights (Wolfschmidt, Crossroads, p. 211). When Robert Hooke insisted that only telescopic sights and micrometer eyepieces could now give adequate accuracy, Hevelius defended the naked-eye method — a defence descending directly from Tycho's rimula-and-transversal protocol — and to adjudicate the dispute the Royal Society sent the young Edmond Halley to Danzig in 1679; Halley was impressed by Hevelius's accuracy, though later retrospective comparison favoured the telescopic instruments (Biographical Encyclopedia, p. 502). The tradition reached China, where the Jesuit Ferdinand Verbiest built six bronze instruments for the Peking Imperial Observatory in 1675 after the plates of the Mechanica — direct descendants of Tycho's designs (du Halde 1736); four of them were carried off to Potsdam by German troops in 1901 and returned after the First World War (Mortensen 1942, p. 21). Naked-eye sights gave way to telescopic sights with Flamsteed at Greenwich.",
    "edges": [
     [
      "about",
@@ -182,7 +182,8 @@
    ],
    "sources": [
     "S_RECEP_WOLFSCHMIDT",
-    "S_RECEP_BIOGENC"
+    "S_RECEP_BIOGENC",
+    "S_RECEP_MORTENSEN1942"
    ],
    "category": "Science",
    "links": [
@@ -243,7 +244,7 @@
    "year_end": 1901,
    "status": "",
    "grade": "B",
-   "description": "The Týn grave was opened officially on 24 June 1901, during the restoration of the epitaph, and the remains were examined on 26 and 27 June by Jindřich Matiegka, docent of physical anthropology at the Czech university, with Professor Andreas Schrutz, before a city commission and with the public excluded. Under the paving lay a brick vault over an oblong chamber, broken in on its west side and partly filled with rubble — the relaying of the floor in 1721 had reached it — so that the doubt whether a Protestant's bones had survived the seventeenth century could only be settled by looking. Two bodies, buried in wooden coffins, were found: the man directly at the foot of the gravestone, the woman beside him. His head lay on a cushion under a velvet beret with a much-damaged clasp of bronze wire; a dark-red silk gown covered the body; the feet were in knee-length thread stockings and shoes. The skeleton measured 168 to 170 cm. The lower half had survived far better than the upper, which the rubble had crushed; spine and pelvis were strong and massive, with heavy muscle attachments. Of the skull only part of the face remained — part of the frontal bone, the nasal bones, the left cheekbone, most of the left and part of the right upper jaw with their teeth — with a few coherent lumps Matiegka took for remains of the brain. On the nasal fragment the lower rim of the nasal bones sloped forward and down into a small sickle-shaped surface, and the edge of the nasal opening was stained light green, a colour that could be followed 7 to 15 mm onto the nasal bones and the upper jaw before it faded into the brown of the bone. Matiegka concluded that the build matched the portraits and the gravestone; that the heavy wear of the teeth suited an age of fifty-five; that the sickle-shaped surface was the healed reaction to an old injury, evidently the wound of the duel; that the green stain showed a copper-bearing object had long been fixed to the bone — the prosthetic nose, of sheet metal so thin that no trace of it survived — and that the second skeleton was an older woman, presumably the wife who died three years after him and was buried at his side. On 6 July the skull fragment, its teeth and a remnant of the beard were sealed in a glass jar with a ground-glass lid; on 29 July all the bones, that jar, a second jar with the supposed remains of the brain and what was left of the clothing were closed in a newly made tin coffin and reinterred in the refurbished vault at the same place of honour, with the certificate of authenticity the National Museum's account records as sealed in with them. The report was laid before the Royal Bohemian Society of Sciences on 11 October 1901.",
+   "description": "The Týn grave was opened officially on 24 June 1901, during the restoration of the epitaph, and the remains were examined on 26 and 27 June by Jindřich Matiegka, docent of physical anthropology at the Czech university, with Professor Andreas Schrutz, before a city commission and with the public excluded. Under the paving lay a brick vault over an oblong chamber, broken in on its west side and partly filled with rubble — the relaying of the floor in 1721 had reached it — so that the doubt whether a Protestant's bones had survived the seventeenth century could only be settled by looking. Two bodies, buried in wooden coffins, were found: the man directly at the foot of the gravestone, the woman beside him. His head lay on a cushion under a velvet beret with a much-damaged clasp of bronze wire; a dark-red silk gown covered the body; the feet were in knee-length thread stockings and shoes. The skeleton measured 168 to 170 cm. The lower half had survived far better than the upper, which the rubble had crushed; spine and pelvis were strong and massive, with heavy muscle attachments. Of the skull only part of the face remained — part of the frontal bone, the nasal bones, the left cheekbone, most of the left and part of the right upper jaw with their teeth — with a few coherent lumps Matiegka took for remains of the brain. On the nasal fragment the lower rim of the nasal bones sloped forward and down into a small sickle-shaped surface, and the edge of the nasal opening was stained light green, a colour that could be followed 7 to 15 mm onto the nasal bones and the upper jaw before it faded into the brown of the bone. Matiegka concluded that the build matched the portraits and the gravestone; that the heavy wear of the teeth suited an age of fifty-five; that the sickle-shaped surface was the healed reaction to an old injury, evidently the wound of the duel; that the green stain showed a copper-bearing object had long been fixed to the bone — the prosthetic nose, of sheet metal so thin that no trace of it survived — and that the second skeleton was an older woman, presumably the wife who died three years after him and was buried at his side. On 6 July the skull fragment, its teeth and a remnant of the beard were sealed in a glass jar with a ground-glass lid; on 29 July all the bones, that jar, a second jar with the supposed remains of the brain and what was left of the clothing were closed in a newly made tin coffin and reinterred in the refurbished vault at the same place of honour, with the certificate of authenticity the National Museum's account records as sealed in with them. The report was laid before the Royal Bohemian Society of Sciences on 11 October 1901. Later witnesses add to the record. Mortensen measured the monument at 2.03 × 1.15 m and gives the wife's height as 155 cm; casts of the monument and of the skull fragment were made for the collection at Rundetaarn; the City Museum of Prague received garments from the grave in 1901 — a beret of gold velvet, a sleeve of dark-red brocade, a white wool stocking and a very small shoe of brown velvet (Kølln 1995, p. 69) — kept in a cardboard box until 1939, when at Mortensen's initiative, through Professor Arnošt Kraus, they were sealed in an airtight glass vessel; small textile fragments taken from the grave per nefas were later found in several hands, some at the Treptow observatory in Berlin (Mortensen 1942, pp. 26–27). A plaster cast of the facial fragment, made in 1901 and given to Mortensen, was by 1959 at Frederiksborg (Paulli & Dal 1959, p. 8) — an object distinct from that museum's cast of the effigy. The accounts of the clothing diverge: Šimůnek, after Matiegka, has what was left of it reinterred with the bones in the tin coffin, while Kølln lists garments held by the City Museum; both can be true of different pieces, and the materials named differ — a silk gown against a brocade sleeve, thread against wool stockings — so the museum's inventory is the next witness to read.",
    "edges": [
     [
      "about",
@@ -254,7 +255,10 @@
     "S_RECEP_VELLEV",
     "S_RECEP_NM_PRAGUE",
     "S_RECEP_SIMUNEK2002",
-    "S_RECEP_MATIEGKA1901"
+    "S_RECEP_MATIEGKA1901",
+    "S_RECEP_MORTENSEN1942",
+    "S_RECEP_KOLLN1995",
+    "S_RECEP_PAULLI1959"
    ],
    "category": "Legacy",
    "links": [
@@ -486,6 +490,43 @@
    ]
   },
   {
+   "id": "recep-danish-memorials-1930s",
+   "label": "The Danish memorials of the 1930s — Harald Mortensen's Tycho",
+   "date": "1932–1957",
+   "year_start": 1932,
+   "year_end": 1957,
+   "status": "extant",
+   "grade": "B",
+   "description": "The Danish commemoration of Tycho between the wars was largely one man's work. Harald Mortensen (1878–1957), kustode at the Royal Library, founded and ran the astronomical-historical collection at Rundetaarn, and on his initiative Siegfried Wagner's bust of Tycho in grey syenite was raised there and unveiled on 8 August 1932, modelled on the watercolour portrait in the Strahov Mechanica (Mortensen 1942, p. 25). He had Sophie Brahe's grave at Torrlösa marked with a stone and set a memorial stone to Longomontanus in his birthplace, Lomborg; he arranged the local Tycho Brahe museum on Hven; and his obituarists credit him with rescuing the grave relics in Prague when they were perishing from neglect in the 1930s. His collection of Tycho literature, some four or five hundred numbers, passed to the Royal Library in 1957, five objects having gone to Frederiksborg as his gift of 1950 (Paulli & Dal 1959, pp. 9–10, 15). Grade B: the memorials rest on Mortensen's own article and on his obituarists; no inventory of the Rundetaarn collection or of the stones has been read.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ],
+    [
+     "about",
+     "recep-rundetaarn"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_MORTENSEN1942",
+    "S_RECEP_PAULLI1959"
+   ],
+   "category": "Legacy",
+   "links": [
+    {
+     "label": "The Strahov watercolour — the bust's model (Iconographia)",
+     "href": "../iconographia/index.html#icon-mechanica-watercolours",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "Rundetaarn — the tower today",
+     "href": "https://www.rundetaarn.dk/",
+     "kind": "object"
+    }
+   ]
+  },
+  {
    "id": "recep-historia-coelestis-1666",
    "label": "Historia Coelestis (Augsburg 1666) — the observations first in print",
    "date": "1666",
@@ -543,7 +584,7 @@
    "year_end": 1929,
    "status": "extant",
    "grade": "A",
-   "description": "The fate of the observation logs. Bought by the Emperor with the instruments, they were lent to Kepler and kept after his death by his son Ludwig Kepler as a pawn against the unpaid imperial debt (a 1633 bond of 12,694 gulden). With no prospect of payment, Ludwig sold them in 1655 to King Frederik III of Denmark for 600 rixdollars; they have been in Det Kongelige Bibliotek, Copenhagen, ever since, and were published by J. L. E. Dreyer as Tomes X–XIII of the Tychonis Brahe Opera Omnia (1913–1929). Had Kepler's pledge to return them to the imperial court been kept, Werlauff observed, they would have ended in Vienna, not Copenhagen.",
+   "description": "The fate of the observation logs. Bought by the Emperor with the instruments, they were lent to Kepler and kept after his death by his son Ludwig Kepler as a pawn against the unpaid imperial debt (a 1633 bond of 12,694 gulden). With no prospect of payment, Ludwig sold them in 1655 to King Frederik III of Denmark for 600 rixdollars; they have been in Det Kongelige Bibliotek, Copenhagen, ever since, and were published by J. L. E. Dreyer as Tomes X–XIII of the Tychonis Brahe Opera Omnia (1913–1929). Had Kepler's pledge to return them to the imperial court been kept, Werlauff observed, they would have ended in Vienna, not Copenhagen. What Kepler's slip pasted on the 1596–97 volume actually undertakes is told three ways: Werlauff read it as a promise to return the books to the imperial court; the 1612 declaration, as Dreyer prints it, has each volume marked as Kepler's treasure and locked away should he die suddenly; Mortensen paraphrases it as an undertaking to keep the heirs informed of deaths in the Kepler family (Mortensen 1942, pp. 18–19) — three paraphrases of one slip, recorded until the slip is read. Mortensen counts the Royal Library's set as '10 Bind i Folio og 8 i Kvart'.",
    "edges": [
     [
      "about",
@@ -560,7 +601,8 @@
    ],
    "sources": [
     "S_RECEP_MORTENSEN",
-    "S_RECEP_DREYER"
+    "S_RECEP_DREYER",
+    "S_RECEP_MORTENSEN1942"
    ],
    "category": "Data",
    "links": [
@@ -1601,6 +1643,26 @@
    "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
    "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
    "contributes": "The Mechanica's editions and translations as its Prologue recounts them, and the 450th-anniversary edition itself; the Hipparcos 'Tycho' catalogue named in the anniversary year (p. x, n. 4)."
+  },
+  {
+   "id": "S_RECEP_MORTENSEN1942",
+   "label": "Mortensen, 'Tycho Brahe Minder i Prag' (1942)",
+   "full": "Harald Mortensen, 'Tycho Brahe Minder i Prag', Astronomiska Sällskapet Tycho Brahe, Årsbok 1942 (Lund, 1942), pp. 13–27 (offprint).",
+   "url": "https://slaegtsbibliotek.dk/2024/946436.pdf",
+   "url_label": "digitised (Danskernes Historie Online)",
+   "contributes": "Verbiest's Peking instruments and their Potsdam episode (p. 21); the Týn monument's measurements, the casts and the grave relics' keeping in the 1930s (pp. 26–27); Kepler's slip on the 1596–97 volume and the Royal Library set's format count (pp. 18–19); the Wagner bust of 1932 (p. 25)."
+  },
+  {
+   "id": "S_RECEP_KOLLN1995",
+   "label": "Kølln, 'Danskere i Prag omkring år 1600' (1995)",
+   "full": "Herman Kølln, 'Danskere i Prag omkring år 1600', Magasin fra Det Kongelige Bibliotek 9:4 (1995), pp. 64–75.",
+   "contributes": "The grave garments held by the City Museum of Prague (p. 69)."
+  },
+  {
+   "id": "S_RECEP_PAULLI1959",
+   "label": "Paulli & Dal, 'Harald Mortensen og hans bogsamling' (Fund og Forskning V–VI, 1959)",
+   "full": "R. Paulli and Erik Dal, 'Harald Mortensen og hans bogsamling', Fund og Forskning i Det kongelige Biblioteks Samlinger V–VI (1958–59), pp. 7–18.",
+   "contributes": "Mortensen's life and works: the 1901 plaster of the facial fragment, the Rundetaarn collection, the Wagner bust, the stones for Sophie Brahe and Longomontanus, the Hven museum, the 1950 gift and the 1957 bequest (pp. 8–10, 15)."
   }
  ],
  "threads": [
@@ -1636,7 +1698,7 @@
  "desiderata": [
   "Riccioli's Almagestum novum (1651) deserves its own record: it is cited here only inside the world-system and crater episodes.",
   "The semi-Tychonic variants — Ursus, Roslin, Riccioli's own — are not modelled as a cluster; the Tychonic-system record names them in passing.",
-  "The commemorative record after 1901 — the quatercentenaries of 1946 and 2001, the museum on Hven, the Prague monuments — is not entered at all. The register ends its Legacy thread with the bones.",
+  "The commemorative record after 1901 is entered only for the Danish memorials of the 1930s (the Rundetaarn bust and collection, the stones at Torrlösa and Lomborg, the museum on Hven); the quatercentenaries of 1946 and 2001 and the Prague monuments — the 1971 competition, the plinth and Vajce's statue of 1983 at the Curtius-house site, the Belvedere exhibition of 1971 — are not.",
   "Kepler's Harmonices mundi (1619) and the third law are not recorded as a separate use of the data; the Science thread jumps from 1609 to 1627.",
   "No online record could be verified for the Týn church's own tomb, for Riccioli's 1651 volumes, for Schjellerup's 1854 memoir, for Bricka's volume of Danske Magazin, or for Zeeberg's two studies; those records carry the citation and no link.",
   "Matiegka's own report of 1901 (Bericht über die Untersuchung der Gebeine Tycho Brahe's, Prague 1901) is known here through Šimůnek's summary of 2002; the report itself, and the material in the National Museum's archive that Šimůnek also used, have not been read.",

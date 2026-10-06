@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.13",
- "edition_date": "2026-10-01",
+ "version": "1.14",
+ "edition_date": "2026-10-06",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -280,6 +280,60 @@
     "S_ICON_MOSLEY",
     "S_ICON_CHRISTIANSON",
     "S_ICON_DOSSIER_2026"
+   ]
+  },
+  {
+   "id": "icon-museum-portrait-boards",
+   "section": "portrait",
+   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus (by October 1584)",
+   "date": "by 1–2 October 1584 (Ptolemy, Copernicus); all four by 1596",
+   "year_start": 1580,
+   "year_end": 1584,
+   "status": "lost",
+   "grade": "A",
+   "maker": "Unrecorded. Tycho names no painter. Tobias Gemperlin, in Danish service from 1577, whose documented work on Hven begins with the portrait sitting of 1586 and who was dead by 1587, is the obvious candidate for boards finished by October 1584; nothing ties him to them.",
+   "bounds": {
+    "lower": "c. 1580–81 (Uraniborg habitable; the Museum fitted out)",
+    "upper": "1 and 2 October 1584 for the Ptolemy and Copernicus boards; December 1596 for the set as printed",
+    "argument": "The verses Tycho appended to the boards are dated in the Epistolae: the Ptolemy elegy 'Kal. Octob. 1584' and the Copernicus verses 2 October 1584 — a terminus ante quem for those two boards. Hipparchus and Albategnius are attested only by the printed inventory of 1596, which describes all four boards hanging between the windows. Uraniborg was 'circa annum 1580 … exaedificatae' by the Mechanica's own date, so nothing hung in the Museum before about 1580–81."
+   },
+   "description": "On the wall between the windows of the Museum — the round library in Uraniborg's south tower, the great brass globe in the middle of it — hung painted boards with the effigies of Hipparchus, Ptolemy, Albategnius and Copernicus, Tycho's own four-name genealogy of the science he meant to complete, to each of which he appended verses. His description of the room is printed in the Epistolae astronomicae (Uraniborg 1596), pp. 238–240 (= Opera omnia VI, 268–271), and with it two of the poems: beneath the Ptolemy, the elegy 'In Cl. Ptolemaei Alexandrini effigiem' dated Kal. Octob. 1584, and beneath the Copernicus — whose likeness was 'quam ipsemet sua manu e speculo depinxisse dicitur', said to have been painted by Copernicus himself from a mirror — the verses of 2 October 1584 and a second epigram. Resen reprinted the verses in the Inscriptiones Hafnienses (1668), p. 338, and Georg Ludwig Frobenius reprinted the Ptolemy elegy on his Almagest proof-sheet of 1644. The same four names, with Timochares, Alfonso, Tycho himself and the Tychonides, recur in the painted cycle of Stjerneborg's warming room; the Museum boards are the earlier and smaller statement of the lineage, and the pedestal of the smaller equatorial armillary carries it a third time. What the record attests is the subjects, the hanging and the dated verses — not what the four effigies looked like.",
+   "nature": "Original painted boards, lost with Uraniborg. No board, fragment or copy is attested in the excavation literature or in any collection.",
+   "whereabouts": {
+    "summary": "Lost. Uraniborg was quarried after 1601; of its interior decoration nothing is known to survive beyond the oak column capital at Frederiksborg, whose place in the building is unrecorded.",
+    "holder": "",
+    "city": "Site only: Uraniborg, island of Ven, Skåne, Sweden",
+    "inv": "",
+    "url": "",
+    "tier": "destroyed",
+    "note": "The boards are known from Tycho's printed description and from the verses he printed beneath it."
+   },
+   "conflicts": [
+    {
+     "question": "Was the Ptolemy elegy a separate Uraniborg print?",
+     "positions": "Brøndsted 1962, publishing the elegy from Frobenius's 1644 proof-sheet, took it for a hitherto unknown poem omitted from the Opera omnia and supposed a lost Uraniborg broadside behind the sheet, reached through Frobenius's stay on Hven in 1591 or at Wandsbek. The Epistolae (1596), p. 239, prints the elegy beneath the description of the Ptolemy board; Dreyer printed it at Opera omnia VI, 269–270; Resen reprinted it in 1668; the editors' Efterslæt of 1965 (Fund og Forskning XII, p. 156, after Norlind) said so in print.",
+     "status": "settled — the elegy is part of the printed Epistolae, and Frobenius's sheet is a reprint from it; no separate Uraniborg print is attested"
+    }
+   ],
+   "open_questions": [
+    "Who painted the four boards, and when between about 1580 and October 1584; no source names the painter or dates the work.",
+    "Whether the Copernicus board reproduced a known self-portrait type — Tycho's 'e speculo' phrase repeats the tradition attached to the Copernicus likenesses, and the model of his own copy is unrecorded."
+   ],
+   "edges": [
+    [
+     "depicts",
+     "site-uraniborg"
+    ],
+    [
+     "appears_in",
+     "W_EPISTOLAE"
+    ]
+   ],
+   "sources": [
+    "S_ICON_EPISTOLAE_1596",
+    "S_ICON_RESEN1668",
+    "S_ICON_HADRAVOVA1996",
+    "S_ICON_BRONDSTED1962"
    ]
   },
   {
@@ -617,7 +671,7 @@
     "upper": "20 March 1588",
     "argument": "The upper bound is an object: the Royal Library's Sascerides copy of De mundi aetherei (LN 428 4°, eks. 1) carries both gilt ovals — portrait on the front cover, arms on the back — on its original parchment presentation binding, with Tycho's autograph dedication to Gellius Sascerides dated 20 March 1588 (verified on the EEB surrogate), so both dies existed by that date. The British Library's Maestlin copy, dispatched from Uraniborg on 14 May 1588, remains the second keystone — nobody rebinds a book into a Tycho presentation binding. The lower bound is the costume it carries: the multi-chain-and-medallion scheme belongs to the likeness layer begun with the 1586 sitting. This dating overturns the older literature's assumption (Mortensen; Christianson) that the stamp copies de Gheyn's engraving — the engraving was cut only in autumn 1590, two years after the die was in use. The small die's own first anchor is much later: its documented carrier is the Calvin/Theocritus volume Tycho gave Hans Lindenov, registered at Uraniborg on 21 March 1597."
    },
-   "description": "Tycho's most personal device: a gilt-stamped portrait of himself, bust-length in a cartwheel ruff, wearing the loaded chain scheme of his royal favour — the Frederik II medallion with the initials F.S., an elephant pendant (Danske Magazin 1746 — the earliest eyewitness — reports only 'en Elefant', seen 'tydeligen' in the second chain, and names no order; reading it as the Order of the Elephant insignia is this chapter's gloss and Mortensen's 1946 gloss on the model engraving, and it sits badly against the fact that Tycho held no such membership; the photographs alone cannot resolve the object), and a third chain whose ornament no witness has made out — Danske Magazin 1746, p. 322, is the source of that negative: 'om der har været noget Smykke i den tredie, kand man ikke see'. Impressed in gold on the front covers of deluxe presentation bindings (the arms stamp on the back), it branded his gifts with his likeness: on De mundi (1588), the Epistolae (1596), the Mechanica (1598), and on Prague bindings to c.1601–03. Around the portrait runs the motto 'Hic patet exterior Tychonis forma Brahei / pulchrius eniteat, quae latet interior' ('here is Tycho's outward form; may the inner, hidden, shine more beautifully'). The stamp exists in TWO sizes, but the published metrology is shaky throughout: Mortensen 1931 prints the figures as '7,6 X 5,8 og 5,9 X 4,3 mm' — millimetres where centimetres must be meant, and with the small die's width drifting between 5.9 and 5.8 across his 1931 and 1966 articles; Friis gives 8 × 6 cm, on the authority of the earliest published rendering of the large die — the plate at Danske Magazin II (1746), p. 321, engraved by O. H. de Lode from the Royal Library's blue-satin Mechanica (LN 432 2°, eks. 2, the Petr Vok presentation copy) and printed, the accompanying text insists, at the die's own size ('Billedet paa Bogen er i selv samme Størrelse, som dette Koberstykke'); that plate is a witness in its own right, not merely Friis's authority, and it carries the only 1:1 claim in the whole literature; a scaled estimate from the Stockholm RAR: 106 A digitisation (c. 6.3–6.5 × 5.9 cm) matches none of them; and every figure is taken from impressions on compressible supports, never from tools; the smaller die is far the rarer — its documented carrier is the KB Calvin/Theocritus volume given to Hans Lindenov — and it differs tellingly from the large: the small die's ruff edge carries serrated notches, rendering the lobed cartwheel ruff of the engraving family faithfully, where the large die smooths them away (Mortensen noticed the notches; object photographs confirm them). Two facts anchor the die pair's place in the story. First, the large die is the earliest witness of the multi-chain-and-medallion costume — it predates de Gheyn's first engraving, and on the leading reconstruction the costume scheme travelled from Denmark to the Amsterdam workshop, plausibly with Arnold van Langren, the Amsterdam globe-maker's son who left Hven for home on 23 May 1590 and is the one documented traveller between Hven and Amsterdam in that year. Second, the dies were never revised: after the second engraving corrected the costume (c.1595), the binding stamps went on impressing the old loaded scheme for the rest of Tycho's life and posthumously — the correction was aimed at the print's public circulation, not at the livery of his bindings.",
+   "description": "Tycho's most personal device: a gilt-stamped portrait of himself, bust-length in a cartwheel ruff, wearing the loaded chain scheme of his royal favour — the Frederik II medallion with the initials F.S., an elephant pendant (Danske Magazin 1746 — the earliest eyewitness — reports only 'en Elefant', seen 'tydeligen' in the second chain, and names no order; reading it as the Order of the Elephant insignia is this chapter's gloss and Mortensen's 1946 gloss on the model engraving, and it sits badly against the fact that Tycho held no such membership; the photographs alone cannot resolve the object), and a third chain whose ornament no witness has made out — Danske Magazin 1746, p. 322, is the source of that negative: 'om der har været noget Smykke i den tredie, kand man ikke see'. Impressed in gold on the front covers of deluxe presentation bindings (the arms stamp on the back), it branded his gifts with his likeness: on De mundi (1588), the Epistolae (1596), the Mechanica (1598), and on Prague bindings to c.1601–03. Around the portrait runs the motto 'Hic patet exterior Tychonis forma Brahei / pulchrius eniteat, quae latet interior' ('here is Tycho's outward form; may the inner, hidden, shine more beautifully'). The stamp exists in TWO sizes, but the published metrology is shaky throughout: Mortensen 1931 prints the figures as '7,6 X 5,8 og 5,9 X 4,3 mm' — millimetres where centimetres must be meant, and with the small die's width drifting between 5.9 and 5.8 across his 1931 and 1966 articles; Friis gives 8 × 6 cm, on the authority of the earliest published rendering of the large die — the plate at Danske Magazin II (1746), p. 321, engraved by O. H. de Lode from the Royal Library's blue-satin Mechanica (LN 432 2°, eks. 2, the Petr Vok presentation copy) and printed, the accompanying text insists, at the die's own size ('Billedet paa Bogen er i selv samme Størrelse, som dette Koberstykke'); that plate is a witness in its own right, not merely Friis's authority, and it carries the only 1:1 claim in the whole literature; a scaled estimate from the Stockholm RAR: 106 A digitisation (c. 6.3–6.5 × 5.9 cm) matches none of them; and every figure is taken from impressions on compressible supports, never from tools; the smaller die is far the rarer — its documented carrier is the KB Calvin/Theocritus volume given to Hans Lindenov — and it differs tellingly from the large: the small die's ruff edge carries serrated notches, rendering the lobed cartwheel ruff of the engraving family faithfully, where the large die smooths them away (Mortensen noticed the notches; object photographs confirm them). Two facts anchor the die pair's place in the story. First, the large die is the earliest witness of the multi-chain-and-medallion costume — it predates de Gheyn's first engraving, and on the leading reconstruction the costume scheme travelled from Denmark to the Amsterdam workshop, plausibly with Arnold van Langren, the Amsterdam globe-maker's son who left Hven for home on 23 May 1590 and is the one documented traveller between Hven and Amsterdam in that year. Second, the dies were never revised: after the second engraving corrected the costume (c.1595), the binding stamps went on impressing the old loaded scheme for the rest of Tycho's life and posthumously — the correction was aimed at the print's public circulation, not at the livery of his bindings. Three later witnesses place the dies. Friis's survey of the Vienna manuscripts in 1868 found the nineteen fair-copy observation quartos (Cod. 10657–10675) bound in parchment, all but two with 'Portræt og Vaaben med Omskrift', the last five with the large stamps — 2 7/8 × 2 1/4 tommer, about 75 × 59 mm, 'sml. D. Mag. 2.321' — and the first twelve with the small, 2 1/4 × 1 5/8 tommer, about 59 × 42.5 mm, two with simpler vignettes (Friis 1868–69, p. 251): the earliest published measurements of both dies, taken from impressions, and no ground for moving the dies' dates, since a volume's binding may post-date the year its notes record. Gigas found the same leaf-roll and the same two rosette punches on the Epistolae of 1596, on GKS 307 of 1598 and on other Royal Library bindings — the one published tool-recurrence argument for a single workshop behind the Hven presentation bindings (Gigas 1900, p. 37) — and recorded that GKS 1825, a protocol of 1577–81, carries the dies, so that volume was bound or rebound after 1588 (p. 38). Roos placed the bindings historically: modelled on the Frederik II portrait-plate bindings and the German princely tradition, with a Latin moral inscription German in character, but oval where plate stamps are normally rectangular and 'mere italiensk-franske end tyske' in style (Roos 1948, pp. 143–144).",
    "edges": [
     [
      "depicts",
@@ -644,7 +698,7 @@
      "copy:brahe-epistolae-1596:wolfenbuttel-hab-astronomica8"
     ]
    ],
-   "census_copies": "Portrait supralibros documented on: the KB Sascerides copy (LN 428 4°, eks. 1, autograph dedication 20 March 1588 — now the earliest dated carrier), the BL Maestlin De mundi (dispatched 14 May 1588 — the second dating keystone), the Magini De mundi, KB LN 428 copy 2, the Stockholm KB De mundi (RAR: 106 A), the Strahov Mechanica (green satin), the Wolfenbüttel Epistolae (HAB Astronomica 8), the St Petersburg Otto Brahe Mechanica (dedicated 5 October 1598), the Cambrai Lobkowitz Mechanica (dedicated 18 August 1600), and posthumous bindings to c.1603. Not the Smithsonian Epistolae, whose cover carries the arms stamp.",
+   "census_copies": "Portrait supralibros documented on: the KB Sascerides copy (LN 428 4°, eks. 1, autograph dedication 20 March 1588 — now the earliest dated carrier), the BL Maestlin De mundi (dispatched 14 May 1588 — the second dating keystone), the Magini De mundi, KB LN 428 copy 2, the Stockholm KB De mundi (RAR: 106 A), the Strahov Mechanica (green satin), the Wolfenbüttel Epistolae (HAB Astronomica 8), the St Petersburg Mechanica dedicated to Duke Otto II of Braunschweig-Lüneburg (5 October 1598), the Cambrai Lobkowitz Mechanica (dedicated 18 August 1600), and posthumous bindings to c.1603. Not the Smithsonian Epistolae, whose cover carries the arms stamp. The nineteen Vienna fair-copy observation quartos, Cod. 10657–10675, all but two with portrait and arms (Friis 1868–69, p. 251).",
    "sources": [
     "S_ICON_NTBB1931",
     "S_ICON_MORTENSEN",
@@ -655,7 +709,9 @@
     "S_ICON_TBV2006",
     "S_ICON_DOSSIER_2026",
     "S_ICON_STRAHOV_AUTOPSY_2026",
-    "S_ICON_DIARIUM"
+    "S_ICON_DIARIUM",
+    "S_ICON_FRIIS1868",
+    "S_ICON_ROOS1948"
    ],
    "image": "plates/icon-supralibros.jpg",
    "image_thumb": "plates/icon-supralibros_thumb.jpg",
@@ -768,6 +824,16 @@
      "size": "58 × 43 mm, both ovals measured with a rule, 18 September 2026 (Pařez 2009: 59 × 43)",
      "verdict": "original; the SMALL die, shallower and more rubbed than the large pair",
      "source": "S_ICON_STRAHOV_AUTOPSY_2026"
+    },
+    {
+     "holder": "Österreichische Nationalbibliothek",
+     "city": "Vienna",
+     "inv": "Cod. 10657–10675",
+     "support": "parchment bindings of the nineteen fair-copy observation quartos, 1582–1601 (1593 wanting); all but two with 'Portræt og Vaaben med Omskrift', two with simpler vignettes",
+     "size": "the last five with the large stamps, 2 7/8 × 2 1/4 tommer (about 75 × 59 mm, 'sml. D. Mag. 2.321'); the first twelve with the small, 2 1/4 × 1 5/8 tommer (about 59 × 42.5 mm)",
+     "verdict": "original own-archive bindings — the earliest published measurements of both dies; they do not move the dies' dates, since a volume's binding may post-date the year its notes record",
+     "note": "Not examined for this record; the sizes are Friis's, taken from impressions.",
+     "source": "Friis 1868–69, p. 251"
     }
    ],
    "open_questions": [
@@ -775,11 +841,19 @@
     "Per-volume die-size assignment for Kleinschnitzová's six Clementinum shelfmarks (8 H 39, 12 H 10, 14 G 30, 14 J 176, 19 C 92, 9 B 135) — the decisive test of the format hypothesis, with predictions on record (octavos small, quartos large).",
     "Reconciliation of the Bodleian SOLO full-livery description of the Savile copy against the photographed 4° T 2 Art.Seld. Sammelband, and recovery of the Weston Savilian shelfmark — one object with a misattached description, or a seventh De mundi carrier?",
     "A first-hand raking-light reading of both gilt legends on the Sascerides copy (LN 428 4°, eks. 1), illegible in the digitised surrogate.",
-    "A caliper reading of the de Lode plate. Danske Magazin II (1746) claims to render the portrait die at 1:1 and the arms die at 'selv samme Form og Størrelse'; measuring the oval on a physical 1746 sheet — or on a scan with a known scale — is the cheapest independent test of the large die's dimensions anywhere in this chapter, and the only one that does not measure a compressed impression on leather or vellum."
+    "A caliper reading of the de Lode plate. Danske Magazin II (1746) claims to render the portrait die at 1:1 and the arms die at 'selv samme Form og Størrelse'; measuring the oval on a physical 1746 sheet — or on a scan with a known scale — is the cheapest independent test of the large die's dimensions anywhere in this chapter, and the only one that does not measure a compressed impression on leather or vellum.",
+    "Roos 1948 refers his fig. 26 to Hannover 1907, p. 143, fig. 123, and to Kyster, Bookbindings I (1938), nr 30; if the printed Kyster entry is the Petr Vok Mechanica, LN 432 2° eks. 2, all three reproduce the very binding de Lode engraved in 1746 — an identification that waits on a reading of the printed Kyster and Hannover."
    ],
    "resolved_questions": [
     "The Petr Vok dedication date — settled at 18 September 1600. It was never a three-way: the September reading is the object itself, Tycho's autograph 'Anno 1600 Septembris Die 18' on leaf LN_432_2_003 of the Royal Library's digitisation (Digitale Samlinger object11914), read at full resolution in July 2026 (see the Mechanica watercolours record). Langebek's 'd. 18. Decemb. 1600' (Danske Magazin II, 1746, p. 321) is a misreading of the same flyleaf 146 years later, and the '1599?' sometimes attached to the copy has no stated basis.",
     "The two portrait dies measured on one day, with one rule, on three bindings (18 September 2026): the large die c. 76 × 58 mm on the Strahov Mechanica (silk) and on the Opus palatinum (parchment) alike, the small die 58 × 43 mm on the Σ VI 3 convolute (leather), both boards. Pařez's 76 × 59 and 59 × 43 are confirmed to within a millimetre — the difference is the reading of a compressed impression, not a third die. An observation, not a claim: the large die's short axis and the small die's long axis are both 58 mm, and the two ovals share the same proportion (1.31 and 1.35)."
+   ],
+   "conflicts": [
+    {
+     "question": "On which board does the arms oval sit?",
+     "positions": "Roos 1948, p. 143: the author's gilt arms 'som centrum paa forpermen'. Roos's own figure list for fig. 26 ('portræt … paa bagperm vaaben'), Danske Magazin 1746, Gigas 1900, Kleinschnitzová 1933 and every binding examined for this chapter: portrait on the upper board, arms on the lower.",
+     "status": "settled against Roos's sentence — a slip against his own plate, recorded so that it is not re-imported"
+    }
    ]
   },
   {
@@ -870,7 +944,9 @@
     "S_ICON_DIARIUM",
     "S_ICON_MOSLEY",
     "S_ICON_NOTES_2026_10",
-    "S_ICON_WESTERGAARD1930"
+    "S_ICON_WESTERGAARD1930",
+    "S_ICON_NIELSEN1921",
+    "S_ICON_GIGAS"
    ],
    "image": "plates/icon-degheyn-v1.jpg",
    "image_thumb": "plates/icon-degheyn-v1_thumb.jpg",
@@ -890,6 +966,11 @@
      "question": "Date of the first plate",
      "positions": "1588–1590 — SMK's record for KKS4530 and KKSgb7575, departing from New Hollstein's c. 1595; the record's own production_dates_notes field sources the departure, verbatim, to a private communication of 31 January 2025. Ca. 1590 — SMK's separate point estimate, convergent with this chapter. Autumn 1590 — Tycho's letters of 1, 7 and 8 December 1590, which call the plate 'nuper Amsterodami cupro insculptae', recently engraved at Amsterdam.",
      "status": "A disclosure rather than a dispute: the SMK range partly rests on the editor's own 2025 correspondence. Unresolved: whether that e-mail described the engraved print or the supralibros binding medallion — the editor's own letter, re-read, would settle it."
+    },
+    {
+     "question": "Which plate is Strunk 356?",
+     "positions": "Nielsen 1921 (pp. 195, 210): the copperplate portrait pasted into some copies of the Prague 1602 Progymnasmata, Strunk 356, is a later copy of the 1592 Uraniborg woodcut. Gigas 1900 (p. 36): the Royal Library's 1602 Progymnasmata carries Strunk 356 'før M. Sadelers Navn' — a state description that fits this plate, whose later impressions carry Sadeler's address; the same author (pp. 34, 37) sets the plate 'not in Strunk' on the Johan Adolf Epistolae, the Tuscany Mechanica, GKS 306 and GKS 307. This record: the 1602 Copenhagen title-verso impression is this plate, on the 2026 examination.",
+     "status": "unresolved as a matter of Strunk's numbering; the 2026 examination of the Copenhagen impression stands, and Nielsen's 'copy of the woodcut' is recorded, not adopted"
     }
    ]
   },
@@ -995,7 +1076,7 @@
      "icon-gassendi-frontispiece"
     ]
    ],
-   "census_copies": "Four digitised copies examined across all three issue-clusters (July 2026): every portrait present is the hatted second engraving — Smithsonian/Dibner (1596 issue, hand-coloured), ETH Zürich (1601 Hülsius issue), Florence BNCF (1610 Tampach issue); the Dresden SLUB 1610-issue copy lacks the leaf entirely (loose inserts do go missing). Nielsen §430 names no state ('et kobberstukket Portræt'). No copy carrying the capless first engraving has yet been found (n=4 of 29 census copies).",
+   "census_copies": "Four digitised copies examined across all three issue-clusters (July 2026): every portrait present is the hatted second engraving — Smithsonian/Dibner (1596 issue, hand-coloured), ETH Zürich (1601 Hülsius issue), Florence BNCF (1610 Tampach issue); the Dresden SLUB 1610-issue copy lacks the leaf entirely (loose inserts do go missing). Nielsen §430 names no state ('et kobberstukket Portræt'). No copy carrying the capless first engraving has yet been found (n=4 of 29 census copies). Gigas 1900 (pp. 34, 37) tells the Royal Library's impressions apart by Strunk's catalogue: the Johan Adolf Epistolae, the Tuscany Mechanica, GKS 306 and GKS 307 carry the plate 'not in Strunk' — on his description the hatted second engraving — while the 1602 Progymnasmata carries Strunk 356 'før M. Sadelers Navn'; four further carriers of this plate on a reading of 1900, none yet examined for this record.",
    "sources": [
     "S_ICON_LETTERS",
     "S_ICON_DOSSIER_2026",
@@ -1008,7 +1089,8 @@
     "S_ICON_TBV2006",
     "S_ICON_FRIIS",
     "S_ICON_NOTES_2026_10",
-    "S_ICON_WESTERGAARD1930"
+    "S_ICON_WESTERGAARD1930",
+    "S_ICON_GIGAS"
    ],
    "image": "plates/icon-degheyn-v2.jpg",
    "image_thumb": "plates/icon-degheyn-v2_thumb.jpg",
@@ -1307,7 +1389,7 @@
     "upper": "24 October 1601",
     "argument": "The Mechanica was produced from January 1598, which sets the campaign's lower bound; Tycho's death on 24 October 1601 caps it, and the bulk of the presentation copies had gone out by about 1600. The Copenhagen copy's autograph dedication of 18 September 1600 is that exemplar's terminus ante quem. The former lower-bound basis — an 'Aet: LII' age inscription on the watercolours — is withdrawn: full-resolution inspection of the Copenhagen leaf (July 2026) found no age inscription of any kind, Mortensen's actual printed reading is 'Aet: LI', type-generic and anchored to Andersen's 1886 etching rather than to any leaf, and Vellev's 'LII' remains unlocated."
    },
-   "description": "The grandest copies of the Mechanica (Wandsbek 1598) carry, on the leaf facing the title, a hand-painted watercolour portrait made individually for that copy — for the three dedicated exemplars (Copenhagen, Strahov, Weimar) demonstrably the last portrait campaign of Tycho's life, and the only one where each impression is unique; for the undedicated pair (Stockholm KVA and Kalocsa), which carry neither dedicatee nor dispatch date, a post-1601 completion by the heirs or Tengnagel cannot be formally excluded, though no post-death dispatch of any Mechanica copy is documented. The composition is a claim as much as a likeness. The bust sits in a blue oval; two winged putti above hold a cartouche lettered 'Effigies Tychonis Brahe'; below, two bearded figures in gold, lettered on their plinths COPERNICVS (left) and PTOLOMEVS (right), each lean on a gilt armillary sphere and gesture toward the arms roundel between them, around which runs Tycho's motto 'Esse potius quam haberi' — the astronomer placing himself, literally, between the two authorities his own system was built to supersede. He wears a fur-lined black gown over a gold brocade doublet with a heavy linked chain, a black belt, and holds a small dark object in his left hand. Despite Friis's and Mortensen's readings of an Elephant device on the chain, the full-resolution image shows no figurative pendant — the chain ends in a plain knot. Four exemplars are recorded by Mortensen: the Royal Library in Copenhagen, the Royal Library in Stockholm, the Strahov monastery in Prague, and the cathedral library at Kalocsa in Hungary. The Copenhagen exemplar is identified here as Det Kongelige Bibliotek, LN 432 2°, eks. 2 — Tycho's own presentation copy to Petr Vok z Rožmberka (Peter Wok von Rosenberg), lord of Krumlov and Třeboň, which carries in one volume its silk presentation binding stamped with Tycho's gilt portrait supralibros, Rožmberk's engraved ex-libris of 1609, Tycho's autograph dedication ('Dono Dat', signed Tycho Brahe and dated 'Anno 1600 Septembris Die 18'), and the watercolour on the leaf facing the title. Nationalmuseet reproduced this leaf in Tycho Brahes Verden (2006), fig. 8, credited to the Royal Library.",
+   "description": "The grandest copies of the Mechanica (Wandsbek 1598) carry, on the leaf facing the title, a hand-painted watercolour portrait made individually for that copy — for the three dedicated exemplars (Copenhagen, Strahov, Weimar) demonstrably the last portrait campaign of Tycho's life, and the only one where each impression is unique; for the undedicated pair (Stockholm KVA and Kalocsa), which carry neither dedicatee nor dispatch date, a post-1601 completion by the heirs or Tengnagel cannot be formally excluded, though no post-death dispatch of any Mechanica copy is documented. The composition is a claim as much as a likeness. The bust sits in a blue oval; two winged putti above hold a cartouche lettered 'Effigies Tychonis Brahe'; below, two bearded figures in gold, lettered on their plinths COPERNICVS (left) and PTOLOMEVS (right), each lean on a gilt armillary sphere and gesture toward the arms roundel between them, around which runs Tycho's motto 'Esse potius quam haberi' — the astronomer placing himself, literally, between the two authorities his own system was built to supersede. He wears a fur-lined black gown over a gold brocade doublet with a heavy linked chain, a black belt, and holds a small dark object in his left hand. Despite Friis's and Mortensen's readings of an Elephant device on the chain, the full-resolution image shows no figurative pendant — the chain ends in a plain knot. Four exemplars are recorded by Mortensen: the Royal Library in Copenhagen, the Royal Library in Stockholm, the Strahov monastery in Prague, and the cathedral library at Kalocsa in Hungary. The Copenhagen exemplar is identified here as Det Kongelige Bibliotek, LN 432 2°, eks. 2 — Tycho's own presentation copy to Petr Vok z Rožmberka (Peter Wok von Rosenberg), lord of Krumlov and Třeboň, which carries in one volume its silk presentation binding stamped with Tycho's gilt portrait supralibros, Rožmberk's engraved ex-libris of 1609, Tycho's autograph dedication ('Dono Dat', signed Tycho Brahe and dated 'Anno 1600 Septembris Die 18'), and the watercolour on the leaf facing the title. Nationalmuseet reproduced this leaf in Tycho Brahes Verden (2006), fig. 8, credited to the Royal Library. Gigas, comparing the leaves in 1900, found the Copenhagen watercolour 'ligner noget' the Stockholm one reproduced in the Academy's facsimile of 1901 'men er dog ikke nogen Kopi deraf, mindst for Cartouchens Vedkommende', and the Strahov one 'omtrent Magen til det, der findes i Stockholm, ogsaa hvad Cartouchen med dens Figurer angaar' — the earliest three-way comparison, which groups Stockholm with Strahov and sets Copenhagen's cartouche apart (Gigas 1900, pp. 34, 38). The Strahov watercolour served as the model of Siegfried Wagner's grey-syenite bust of Tycho at Rundetaarn, unveiled on 8 August 1932 (Mortensen 1942, p. 25).",
    "edges": [
     [
      "depicts",
@@ -1328,7 +1410,8 @@
     "S_ICON_KROUPA2001",
     "S_ICON_PAREZ2009",
     "S_ICON_HADRAVOVA1996",
-    "S_ICON_STRAHOV_AUTOPSY_2026"
+    "S_ICON_STRAHOV_AUTOPSY_2026",
+    "S_ICON_GIGAS"
    ],
    "image": "plates/icon-mechanica-watercolours.jpg",
    "image_thumb": "plates/icon-mechanica-watercolours_thumb.jpg",
@@ -1413,7 +1496,8 @@
    ],
    "open_questions": [
     "Where do Mortensen's 'Aet: LI' and Vellev's 'LII' actually sit — on Andersen's 1886 etching (Westergaard 1451), or on the Strahov, KVA or Kalocsa leaf? None has been inspected at reading resolution. NARROWED (18 September 2026): the Strahov leaf, inspected at reading resolution, carries ‘EFFIGIES TYCHONIS BRAHE ÆT[…]’ in its cartouche — so an age inscription exists on at least this leaf — but the numeral is not resolvable in the photographs; the roundel is dated 1598. Raking light or infra-red on the cartouche would settle LI against LII (Tycho turned 52 on 14 December 1598).",
-    "Strahov holds a third Tycho watercolour, and it is of a different type — see the full-figure record. The Strahov Mechanica's own watercolour is now checked against the Copenhagen composition on the Manuscriptorium facsimile (20 September 2026): the same family — bust in an oval, architectural frame, instruments in the upper corners, two flanking figures, a cartouche above, the arms roundel with the motto below. What the facsimile's c. 1000-pixel width cannot settle: the lettering of the roundel and of the cartouche, and whether any age or date inscription is present. A photograph at reading resolution from Strahov remains the one thing wanted."
+    "Strahov holds a third Tycho watercolour, and it is of a different type — see the full-figure record. The Strahov Mechanica's own watercolour is now checked against the Copenhagen composition on the Manuscriptorium facsimile (20 September 2026): the same family — bust in an oval, architectural frame, instruments in the upper corners, two flanking figures, a cartouche above, the arms roundel with the motto below. What the facsimile's c. 1000-pixel width cannot settle: the lettering of the roundel and of the cartouche, and whether any age or date inscription is present. A photograph at reading resolution from Strahov remains the one thing wanted.",
+    "Gigas 1900 (p. 34) and Friis both place the Copenhagen watercolour on the verso of the title leaf ('paaklæbet Titelbladets Bagside'); this record describes a separate leaf facing the title, on the sequence of the Royal Library's digitisation (title 004, watercolour 005). Whether image 005 is the verso of leaf 004 or a leaf of its own decides it — a check of the digitisation's leaf structure, or of the volume."
    ],
    "resolved_questions": [
     "The age inscription — resolved for Copenhagen: no age inscription exists on the leaf (full-resolution IIIF inspection, July 2026). Residual, still open: where Mortensen's 'Aet: LI' and Vellev's 'LII' actually sit — on Andersen's 1886 etching (Westergaard 1451), or on the Strahov, KVA or Kalocsa leaf, none inspected at reading resolution."
@@ -1492,7 +1576,7 @@
    "year_end": 1601,
    "status": "extant",
    "grade": "B",
-   "description": "Tycho's armorial stamp, impressed in gold as the lower-board partner of the portrait oval: on every binding in the attested corpus where both boards have actually been examined — presentation copies and own-library bindings alike — the two ovals travel together as a matched die-pair (Kleinschnitzová states outright that Tycho used the pair on both classes; Prandtl's 1932 frontispiece shows the UT Austin Gesner with gilt ovals on both boards; Mosley photographs both covers of a presentation Epistolae). The device is the plain undifferenced Brahe paternal shield — sable, a pale argent — under helm, coronet and a tall panache crest, not an ancestral marshalling (Grinder-Hansen; Vellev). It is ringed by a motto in an oval medallion ('Arma, genus, fundi pereunt, durabile virtus / et doctrina decus nobilitatis habent' — 'arms, lineage, estates perish; virtue and learning hold nobility's lasting honour'); per Dreyer's apparatus in TBOO IX, 175, the couplet was printed by Tycho's own press at Uraniborg in 1584 — some four years before the die's earliest dated impression — so the stamp adopted an existing text, and the same distich recurs on the reverse of the larger (39 mm) 1595 medal. The familiar claim that the arms occur 'in the same two sizes as the portrait stamp' rests on Mortensen's single joint clause for portrait-and-arms together (7.6 × 5.8 / 5.8–5.9 × 4.3 cm, internally inconsistent between his 1931 and 1966 articles); he never measured the arms oval separately, and the first independent measurement — the Stockholm KB De mundi, ≈6.6 × 5.3 cm from the KB scan on a transferred scale — fits neither figure. One first-hand witness does speak to the question, and it is much the earliest: Danske Magazin II (1746), p. 322, describing the Royal Library's blue-satin Mechanica (LN 432 2°, eks. 2) board by board, reports the arms die on the lower cover as 'i selv samme Form og Størrelse' as the portrait die on the upper — same shape, same size, on one volume, seen by the compilers themselves. That is a statement about a single binding rather than about the dies in general, but it is evidence of a kind Mortensen's joint clause never had. The same page prints the couplet in a variant reading — 'Arma, Genus, Fundi pereunt: Durabile Virtus / Et Doctrinæ decus Nobilitatis habent', with DOCTRINÆ in the genitive against the nominative doctrina given above; the variant is recorded, not adopted, since the nominative rests on Dreyer's TBOO IX apparatus for the 1584 Uraniborg printing. On 18 September 2026 the small arms oval was measured separately for the first time, on the back board of the Strahov convolute Σ VI 3: 58 × 43 mm, the same as its portrait partner on the front board; the large arms oval on the Strahov Mechanica (AG XI 56) and on the Opus palatinum (Σ V 5/a) was photographed but not put to the rule.",
+   "description": "Tycho's armorial stamp, impressed in gold as the lower-board partner of the portrait oval: on every binding in the attested corpus where both boards have actually been examined — presentation copies and own-library bindings alike — the two ovals travel together as a matched die-pair (Kleinschnitzová states outright that Tycho used the pair on both classes; Prandtl's 1932 frontispiece shows the UT Austin Gesner with gilt ovals on both boards; Mosley photographs both covers of a presentation Epistolae). The device is the plain undifferenced Brahe paternal shield — sable, a pale argent — under helm, coronet and a tall panache crest, not an ancestral marshalling (Grinder-Hansen; Vellev). It is ringed by a motto in an oval medallion ('Arma, genus, fundi pereunt, durabile virtus / et doctrina decus nobilitatis habent' — 'arms, lineage, estates perish; virtue and learning hold nobility's lasting honour'); per Dreyer's apparatus in TBOO IX, 175, the couplet was printed by Tycho's own press at Uraniborg in 1584 — some four years before the die's earliest dated impression — so the stamp adopted an existing text, and the same distich recurs on the reverse of the larger (39 mm) 1595 medal. The familiar claim that the arms occur 'in the same two sizes as the portrait stamp' rests on Mortensen's single joint clause for portrait-and-arms together (7.6 × 5.8 / 5.8–5.9 × 4.3 cm, internally inconsistent between his 1931 and 1966 articles); he never measured the arms oval separately, and the first independent measurement — the Stockholm KB De mundi, ≈6.6 × 5.3 cm from the KB scan on a transferred scale — fits neither figure. One first-hand witness does speak to the question, and it is much the earliest: Danske Magazin II (1746), p. 322, describing the Royal Library's blue-satin Mechanica (LN 432 2°, eks. 2) board by board, reports the arms die on the lower cover as 'i selv samme Form og Størrelse' as the portrait die on the upper — same shape, same size, on one volume, seen by the compilers themselves. That is a statement about a single binding rather than about the dies in general, but it is evidence of a kind Mortensen's joint clause never had. The same page prints the couplet in a variant reading — 'Arma, Genus, Fundi pereunt: Durabile Virtus / Et Doctrinæ decus Nobilitatis habent', with DOCTRINÆ in the genitive against the nominative doctrina given above; the variant is recorded, not adopted, since the nominative rests on Dreyer's TBOO IX apparatus for the 1584 Uraniborg printing. On 18 September 2026 the small arms oval was measured separately for the first time, on the back board of the Strahov convolute Σ VI 3: 58 × 43 mm, the same as its portrait partner on the front board; the large arms oval on the Strahov Mechanica (AG XI 56) and on the Opus palatinum (Σ V 5/a) was photographed but not put to the rule. Friis's 1868 survey adds the nineteen Vienna fair-copy quartos (Cod. 10657–10675) as carriers of the arms oval beside the portrait — 'Portræt og Vaaben med Omskrift' on all but two (Friis 1868–69, p. 251). Roos's placement of the dies in binding history (1948, pp. 143–144) applies to the arms oval as to the portrait; his sentence putting the arms 'som centrum paa forpermen' (p. 143) contradicts his own figure list and every examined binding, and is not followed.",
    "edges": [
     [
      "appears_on",
@@ -1515,7 +1599,7 @@
      "copy:brahe-epistolae-1596:smithsonian-dibner"
     ]
    ],
-   "census_copies": "Arms supralibros documented on: Stockholm KB De mundi RAR: 106 A (arms on the lower cover, verified first-hand from the KB scan, p. 493); Görlitz De mundi (dedication copy to Bartholomäus Scultetus, 8 May 1588, per Norlind p. 127 — the earliest dated arms attestation); Smithsonian/Dibner Epistolae (arms supralibros on covers). The Wolfenbüttel Epistolae HAB Astronomica 8 line (arms + motto on back cover, behind the portrait front) is unreconciled — a July 2026 search returned nothing for Wolfenbüttel; a direct query to the Herzog August Bibliothek is pending. The Bodleian Savile De mundi is a documented negative (no supralibros on either cover). Danske Magazin II (1746), p. 322 supplies the earliest attestation of all, and one not previously in this list: the arms die on the lower cover of the Copenhagen KB Mechanica LN 432 2°, eks. 2 (the Petr Vok z Rožmberka presentation copy), described first-hand as the same-size partner of the portrait oval on the upper cover.",
+   "census_copies": "Arms supralibros documented on: Stockholm KB De mundi RAR: 106 A (arms on the lower cover, verified first-hand from the KB scan, p. 493); Görlitz De mundi (dedication copy to Bartholomäus Scultetus, 8 May 1588, per Norlind p. 127 — the earliest dated arms attestation); Smithsonian/Dibner Epistolae (arms supralibros on covers). The Wolfenbüttel Epistolae HAB Astronomica 8 line (arms + motto on back cover, behind the portrait front) is unreconciled — a July 2026 search returned nothing for Wolfenbüttel; a direct query to the Herzog August Bibliothek is pending. The Bodleian Savile De mundi is a documented negative (no supralibros on either cover). Danske Magazin II (1746), p. 322 supplies the earliest attestation of all, and one not previously in this list: the arms die on the lower cover of the Copenhagen KB Mechanica LN 432 2°, eks. 2 (the Petr Vok z Rožmberka presentation copy), described first-hand as the same-size partner of the portrait oval on the upper cover. The nineteen Vienna fair-copy observation quartos, Cod. 10657–10675, all but two with the arms oval (Friis 1868–69, p. 251).",
    "sources": [
     "S_ICON_NTBB1931",
     "S_ICON_MORTENSEN",
@@ -1528,7 +1612,9 @@
     "S_ICON_MOSLEY",
     "S_ICON_DOSSIER_ARMS2026",
     "S_ICON_DANSKEMAG1746",
-    "S_ICON_STRAHOV_AUTOPSY_2026"
+    "S_ICON_STRAHOV_AUTOPSY_2026",
+    "S_ICON_FRIIS1868",
+    "S_ICON_ROOS1948"
    ],
    "image": "plates/icon-arms-supralibros.jpg",
    "image_thumb": "plates/icon-arms-supralibros_thumb.jpg",
@@ -1548,6 +1634,11 @@
      "question": "Was the front/back split really portrait-for-gifts, arms-for-library?",
      "positions": "The 2006 book's own caption says the PORTRAIT die was used on 'gaveeksemplarer af sine egne bøger samt nogle af bindene i hans eget bibliotek' — gift copies AND some bindings in his own library. Kleinschnitzová 1933 records six own-library Clementinum volumes with the ovals, and Strahov Σ V 5 is a Tycho supralibros on a book he did not write.",
      "status": "settled: the split is affirmatively contradicted — the ovals travel as a pair on both presentation and own-library bindings (Kleinschnitzová explicit; zero single-oval bindings in the 25–30 or so examined objects; the unchecked interiors — GKS 306, Kalocsa, Grimani, Sign. 14 G 30 — declared as missing data)"
+    },
+    {
+     "question": "On which board does the arms oval sit?",
+     "positions": "Roos 1948, p. 143: the author's gilt arms 'som centrum paa forpermen'. Roos's own figure list for fig. 26 ('portræt … paa bagperm vaaben'), Danske Magazin 1746, Gigas 1900, Kleinschnitzová 1933 and every binding examined for this chapter: portrait on the upper board, arms on the lower.",
+     "status": "settled against Roos's sentence — a slip against his own plate, recorded so that it is not re-imported"
     }
    ]
   },
@@ -1592,7 +1683,14 @@
     "url": "",
     "tier": "extant as impressions inside surviving copies",
     "note": "The Smithsonian/Dibner Epistolae impression was identified as the second engraving (v2) by marker examination of the full-resolution digitisation (July 2026); no institutional catalogue states the plate, and the insertion date into that volume is undetermined (earliest documented owner: Uffenbach)."
-   }
+   },
+   "conflicts": [
+    {
+     "question": "Was the Epistolae portrait always inserted loose?",
+     "positions": "Gigas 1900, p. 34, with the Royal Library's Johan Adolf Epistolae in hand, reports its coloured portrait 'paa Bagsiden af Titelbladet paatrykt, ikke paaklæbet' — printed on the title verso, not pasted. This record: inserted loose at Uraniborg, whose press had no intaglio capability.",
+     "status": "open until the volume is examined — either the title sheet of that copy went through an intaglio press somewhere, and 'inserted loose' does not hold for every copy, or Gigas misjudged a pasted impression with trimmed margins"
+    }
+   ]
   },
   {
    "id": "icon-gilt-quadrant",
@@ -1732,7 +1830,9 @@
     "S_ICON_CHRISTIANSON",
     "S_ICON_TBV2006",
     "S_ICON_GATTEI2009",
-    "S_ICON_NEWHOLLSTEIN"
+    "S_ICON_NEWHOLLSTEIN",
+    "S_ICON_NIELSEN1921",
+    "S_ICON_GIGAS"
    ],
    "nature": "The copy-stemma of the two engraved Amsterdam plates only; carved, painted, and instrument-borne likenesses are treated in their own records (icon-blaeu-globes, icon-console-clock-1642, icon-teyn-epitaph, icon-standing-type).",
    "whereabouts": {
@@ -1758,7 +1858,8 @@
     "Date of the 'Marco Sadeler excudit' address on New Hollstein 238 State II — New Hollstein gives none.",
     "Portrait-leaf mechanics of the Epistolarum issues (integral title-verso versus inserted plate leaf) — decides how absolute the titelauflage reading of the 1610 reissue is.",
     "Models of the two unattributed LWL Münster woodcuts and of the Freher 1688 Theatrum book-portrait — undetermined.",
-    "Whether the 1654 Paris first printing of Gassendi's Vita carries any portrait — the van Meurs plate is documented only in Vlacq's Hague 1655 second edition, and this record's 1655 end-date and icon-gassendi-frontispiece must agree on that basis."
+    "Whether the 1654 Paris first printing of Gassendi's Vita carries any portrait — the van Meurs plate is documented only in Vlacq's Hague 1655 second edition, and this record's 1655 end-date and icon-gassendi-frontispiece must agree on that basis.",
+    "Nielsen 1921 (pp. 195, 210) identifies the copperplate pasted into some copies of the Prague 1602 Progymnasmata (Strunk 356) as a later copy of the 1592 Uraniborg woodcut, not of either Amsterdam plate — a third engraved lineage if right. Gigas 1900 (p. 36) describes the Royal Library's 1602 copy as carrying Strunk 356 'før M. Sadelers Navn', which reads as the first de Gheyn plate before its Sadeler address. Whether Strunk 356 is the first engraving or a copy after the woodcut is unresolved; the 2026 examination of the Copenhagen impression, which found the first plate, stands."
    ]
   },
   {
@@ -2286,7 +2387,7 @@
   {
    "id": "S_ICON_GIGAS",
    "label": "Gigas, 'Nogle Bøger fra Tycho Brahes Bogbinderi' (Bogvennen, 1900)",
-   "full": "Emil Gigas, 'Nogle Bøger fra Tycho Brahes Bogbinderi', Bogvennen (Copenhagen, 1900) — the earliest detailed description of Tycho's presentation bindings (materials, the two gold ovals + mottoes, the rhombus-and-lily layout, the inside de Gheyn portrait) and twelve KB copies + the foreign copies."
+   "full": "Emil Gigas, 'Nogle Bøger fra Tycho Brahes Bogbinderi', Bogvennen (Copenhagen, 1900) — the earliest detailed description of Tycho's presentation bindings (materials, the two gold ovals + mottoes, the rhombus-and-lily layout, the inside de Gheyn portrait) and twelve KB copies + the foreign copies. P. 34: the Johan Adolf Epistolae's portrait 'paatrykt, ikke paaklæbet' on the title verso, and the Petr Vok Mechanica's watercolour 'paaklæbet Titelbladets Bagside'; pp. 34 and 38: the three-way comparison of the Copenhagen, Stockholm and Strahov watercolours; p. 37: the same leaf-roll and two rosette punches on the Epistolae (1596), on GKS 307 (1598) and on other Royal Library bindings; p. 38: GKS 1825, a protocol of 1577–81, in the portrait-and-arms binding with the arms stamped the wrong way up; pp. 34, 36 and 37: the Royal Library's de Gheyn impressions told apart by Strunk's catalogue."
   },
   {
    "id": "S_ICON_GILTQUAD",
@@ -2313,7 +2414,7 @@
   {
    "id": "S_ICON_EPISTOLAE_1596",
    "label": "Tycho Brahe, Epistolae astronomicae (Uraniborg, 1596)",
-   "full": "Tycho Brahe, Epistolarum astronomicarum libri (Uraniborg, 1596), pp. 243–246 = Opera Omnia VI.273–276 — Tycho's own printed description of the painted decoration of Stjerneborg's warming room, naming all eight astronomers and giving their distichs. A lifetime, first-person, printed source for a lost painting. The front matter (Opera Omnia VI, pp. 4–8): the inserted portrait leaf, whose tablet reads 'Effigies Tychonis Brahe Ottonidis Dani … aetatis suae anno 40. Anno Domini 1586. compl.', and the dedicatory poems — Albertus Voitus of Wittenberg, 'In effigiem magnifici et nobilissimi viri D. Tychonis Brahei' ('parva haec picta Tabella capit'), Nathan Chytraeus, Henricus Hoierus, Antonius Riccobonus and Olivierus Tubanellus (both addressed to Magini), Marinus Plecius — the printed harvest of the epigram campaign of 1590–1592."
+   "full": "Tycho Brahe, Epistolarum astronomicarum libri (Uraniborg, 1596), pp. 243–246 = Opera Omnia VI.273–276 — Tycho's own printed description of the painted decoration of Stjerneborg's warming room, naming all eight astronomers and giving their distichs. A lifetime, first-person, printed source for a lost painting. The front matter (Opera Omnia VI, pp. 4–8): the inserted portrait leaf, whose tablet reads 'Effigies Tychonis Brahe Ottonidis Dani … aetatis suae anno 40. Anno Domini 1586. compl.', and the dedicatory poems — Albertus Voitus of Wittenberg, 'In effigiem magnifici et nobilissimi viri D. Tychonis Brahei' ('parva haec picta Tabella capit'), Nathan Chytraeus, Henricus Hoierus, Antonius Riccobonus and Olivierus Tubanellus (both addressed to Magini), Marinus Plecius — the printed harvest of the epigram campaign of 1590–1592. Pp. 238–240 (= Opera Omnia VI, 268–271): Tycho's description of the Museum at Uraniborg — the painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus between the windows, with the verses he appended to them, the Ptolemy elegy 'In Cl. Ptolemaei Alexandrini effigiem' dated Kal. Octob. 1584 (p. 239) and the Copernicus verses of 2 October 1584 (p. 240)."
   },
   {
    "id": "S_ICON_MOSLEY",
@@ -2540,7 +2641,7 @@
   {
    "id": "S_ICON_MORTENSEN1942",
    "label": "Mortensen, 'Tycho Brahe Minder i Prag' (Tycho Brahe-selskabets årsbok, 1942)",
-   "full": "Harald Mortensen, 'Tycho Brahe Minder i Prag', Tycho Brahe-selskabets årsbok (1942) — records two oil portraits of Tycho at the Prague Observatory as copies after the de Gheyn engravings (Westergaard 1377 and 1394), 'without historical or artistic value', possibly by Pater Klein (director 1732–82); never reconciled with his 1946 account of a Clementinum panel. At p. 16 the same article glosses the Mechanica watercolour exemplars and describes the Stockholm one as belonging to the 'Sv. Vetenskapsakademien' — the passage that resolves his 1946 census's 'Royal Library in Stockholm' to the KVA Wargentin copy (same object, loose institutional label)."
+   "full": "Harald Mortensen, 'Tycho Brahe Minder i Prag', Tycho Brahe-selskabets årsbok (1942) — records two oil portraits of Tycho at the Prague Observatory as copies after the de Gheyn engravings (Westergaard 1377 and 1394), 'without historical or artistic value', possibly by Pater Klein (director 1732–82); never reconciled with his 1946 account of a Clementinum panel. At p. 16 the same article glosses the Mechanica watercolour exemplars and describes the Stockholm one as belonging to the 'Sv. Vetenskapsakademien' — the passage that resolves his 1946 census's 'Royal Library in Stockholm' to the KVA Wargentin copy (same object, loose institutional label). P. 25: Siegfried Wagner's grey-syenite bust of Tycho at Rundetaarn, unveiled 8 August 1932, modelled on the Strahov Mechanica watercolour."
   },
   {
    "id": "S_ICON_NEWHOLLSTEIN",
@@ -2550,7 +2651,7 @@
   {
    "id": "S_ICON_NIELSEN1921",
    "label": "Nielsen, 'Tycho Brahes Bogtrykkeri paa Hveen' (NTBB VIII, 1921)",
-   "full": "Lauritz Nielsen, 'Tycho Brahes Bogtrykkeri paa Hveen', Nordisk tidskrift för bok- och biblioteksväsen VIII (1921), pp. 182–203 — the Uraniborg press monograph: the 25 August 1585 Hagecius letter (Tycho's wood-cutter away in Germany), p. 185 the inference from that letter and undeciphered monograms that German wood-cutters resided at Uraniborg (no cutter is named for any Uraniborg block), p. 196 the woodcut as original, pp. 197–98 the Berlin Sammelband. Pp. 181–184 give the bibliographic account of the Orthographia broadsheet (the early-1585 print date is Nielsen's own hedged inference from the Rantzau dispatch of 1 March 1585, not a printed or physical date) and his verdict that the Marburg sheet is the direct original of the Braun & Hogenberg plate; his Dansk Bibliografi entry 432 tags the Mechanica 'Træsn. og Kobberstik' — woodcuts and copperplates both.",
+   "full": "Lauritz Nielsen, 'Tycho Brahes Bogtrykkeri paa Hveen', Nordisk tidskrift för bok- och biblioteksväsen VIII (1921), pp. 182–203 — the Uraniborg press monograph: the 25 August 1585 Hagecius letter (Tycho's wood-cutter away in Germany), p. 185 the inference from that letter and undeciphered monograms that German wood-cutters resided at Uraniborg (no cutter is named for any Uraniborg block), p. 196 the woodcut as original, pp. 197–98 the Berlin Sammelband. Pp. 181–184 give the bibliographic account of the Orthographia broadsheet (the early-1585 print date is Nielsen's own hedged inference from the Rantzau dispatch of 1 March 1585, not a printed or physical date) and his verdict that the Marburg sheet is the direct original of the Braun & Hogenberg plate; his Dansk Bibliografi entry 432 tags the Mechanica 'Træsn. og Kobberstik' — woodcuts and copperplates both. Pp. 195 and 210: the copperplate portrait pasted into some copies of the Prague 1602 Progymnasmata (Strunk 356) identified as a later copy of the 1592 Uraniborg woodcut.",
    "url": "https://runeberg.org/bokobibl/1921/0187.html"
   },
   {
@@ -2583,7 +2684,7 @@
   {
    "id": "S_ICON_RESEN1668",
    "label": "Resen, Inscriptiones Hafnienses (1668) — the lost Copenhagen picture's inscription",
-   "full": "Peder Hansen Resen, Inscriptiones Hafnienses, Latinæ, Danicæ et Germanicæ (Copenhagen 1668), pp. 335–336: the full inscription of the lost Copenhagen picture of the aetatis-50 type, recorded from the object then hanging in Frederik III's library — the 'Sub pyramide' motto, the first-person close ('restitutus fui'), the place and date VANDESBECHI AN. MDXCVII, and the signature TYCHO BRAHE OT. Often cited with the year 1663 after Mortensen 1946; the work is of 1668.",
+   "full": "Peder Hansen Resen, Inscriptiones Hafnienses, Latinæ, Danicæ et Germanicæ (Copenhagen 1668), pp. 335–336: the full inscription of the lost Copenhagen picture of the aetatis-50 type, recorded from the object then hanging in Frederik III's library — the 'Sub pyramide' motto, the first-person close ('restitutus fui'), the place and date VANDESBECHI AN. MDXCVII, and the signature TYCHO BRAHE OT. Often cited with the year 1663 after Mortensen 1946; the work is of 1668. P. 338 reprints the Ptolemy and Copernicus verses from the Uraniborg Museum.",
    "url": "https://archive.org/details/ita-bnc-mag-00001206-001"
   },
   {
@@ -2696,7 +2797,7 @@
   {
    "id": "S_ICON_HADRAVOVA1996",
    "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
-   "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia. Prologue pp. xii–xiv on the Křivoklát and Strahov copies; n. 64 on the mural portrait's inscription; n. 58 on Gemperlin.",
+   "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia. Prologue pp. xii–xiv on the Křivoklát and Strahov copies; n. 64 on the mural portrait's inscription; n. 58 on Gemperlin. N. 263 (pp. 148–149) quotes Tycho's inventory of the Museum (Opera omnia VI, 268).",
    "url": ""
   },
   {
@@ -2719,6 +2820,22 @@
    "id": "S_ICON_WESTERGAARD1930",
    "label": "Westergaard, Danske Portræter i Kobberstik, Litografi og Træsnit (1930)",
    "full": "Harald Westergaard, Danske Portræter i Kobberstik, Litografi og Træsnit: en beskrivende Fortegnelse, vol. I (Copenhagen, 1930), the Tycho Brahe entries — no. 1376 the woodcut, 1377 the first de Gheyn engraving (noting the 'Marco Sadeler excudit' state), 1394 the second, 1409 the Cornelisz print. Entries 1375–1382 read at first hand; 1394 and 1409 are cited through Mortensen 1946, who gives the numbers."
+  },
+  {
+   "id": "S_ICON_FRIIS1868",
+   "label": "Friis, 'Tyge Brahes Haandskrifter i Wien og Prag' (Danske Samlinger IV, 1868–69)",
+   "full": "F. R. Friis, 'Tyge Brahes Haandskrifter i Wien og Prag', Danske Samlinger for Historie, Topographi, Personal- og Literaturhistorie IV (Copenhagen, 1868–69), pp. 250–268 — the survey of the Vienna and Prague manuscripts made in the summer of 1868. P. 251 describes the bindings of the nineteen fair-copy observation quartos (Cod. 10657–10675): all in parchment, all but two with 'Portræt og Vaaben med Omskrift', the last five with the large stamps, 2 7/8 × 2 1/4 tommer, 'sml. D. Mag. 2.321', the first twelve with the small, 2 1/4 × 1 5/8 tommer, two with simpler vignettes — the earliest published measurements of both dies. Pp. 262–263 describe the three star-catalogue presentation copies of 1600 binding by binding."
+  },
+  {
+   "id": "S_ICON_ROOS1948",
+   "label": "Roos, 'Om nogle vaaben- og portrætprydede danske bogbind' (Bogvennen 1948)",
+   "full": "Carl Roos, 'Om nogle vaaben- og portrætprydede danske bogbind fra slutningen af det 16. aarhundrede', Bogvennen (Copenhagen, 1948), pp. 134–152, the Tycho bindings at pp. 143–144 and fig. 26 — the one binding-historical placement of the two dies: modelled on the Frederik II portrait-plate bindings and the German princely tradition, oval where plate stamps are normally rectangular, 'mere italiensk-franske end tyske' in style, German in the moral inscription. His sentence putting the arms 'som centrum paa forpermen' contradicts his own figure list ('paa bagperm vaaben') and every examined binding, and is not followed."
+  },
+  {
+   "id": "S_ICON_BRONDSTED1962",
+   "label": "Brøndsted, 'Et ukendt digt af Tycho Brahe' (Fund og Forskning IX, 1962)",
+   "full": "Mogens Brøndsted, 'Et ukendt digt af Tycho Brahe', Fund og Forskning i Det kongelige Biblioteks Samlinger IX (1962), pp. 71–78 — publishes the Ptolemy effigy-verses of 1 October 1584 from Georg Ludwig Frobenius's Almagest proof-sheet of 1644 (Stockholm) as a hitherto unknown poem; the verses had in fact been printed by Tycho himself in the Epistolae astronomicae (1596), p. 239, as the editors' Efterslæt (Fund og Forskning XII, 1965, p. 156, after Norlind) pointed out. Cited here for the sheet and for the error.",
+   "url": "https://tidsskrift.dk/fundogforskning/article/view/41172"
   }
  ],
  "rejected": [

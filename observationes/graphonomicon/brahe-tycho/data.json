@@ -2,22 +2,22 @@
  "title": "Manus — the hand of Tycho Brahe",
  "subject": "Tycho Brahe",
  "registry": {
-  "specimens": 82,
+  "specimens": 83,
   "secure": 14,
   "probable": 59,
-  "possible": 9,
-  "autograph_whole": 24,
+  "possible": 10,
+  "autograph_whole": 25,
   "autograph_partial": 15,
   "signature_only": 25,
-  "calligrapher_body": 14,
-  "disputed_autograph": 4,
+  "calligrapher_body": 13,
+  "disputed_autograph": 5,
   "grade_a": 21,
   "grade_b": 52,
-  "grade_c": 7,
+  "grade_c": 8,
   "grade_d": 2,
   "extant": 75,
   "surrogate_only": 2,
-  "disputed": 4,
+  "disputed": 5,
   "lost": 1,
   "registers": 7,
   "stages": 3,
@@ -34,8 +34,8 @@
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 97,
-  "without_record_or_surrogate": 40,
+  "open_questions": 102,
+  "without_record_or_surrogate": 41,
   "anchors": 14,
   "undated": 2
  },
@@ -104,7 +104,7 @@
    "date_conf": "C",
    "autograph": "autograph_whole",
    "verdict": "secure",
-   "basis": "One of the Vienna Tychonis-Brahe Nachlass papers (Cod. 10689; Dreyer TBOO X notes these bundles 'contain autograph material' used to edit Tycho's Works & Letters). A full-res hand-triage (IIIF surrogate, 17 canvases @ ~5857x8685px): the judgment is a WORKING DRAFT in Tycho's rapid humanist-italic autograph hand — heading 'Iudicium Astrologicum huius geniturae', then a nativity chart/positions table and the judgment under rubric sections 'De Complexione', 'De Amicis et Inimicis', 'De Itinere'. Diagnostic features all match the secure pillars: single-storey cursive a, uncial looped d, long-s + round final-s, looped -que abbreviation, dense macron suspensions, steep rightward slant, rapid ductus — plus AUTHOR-STYLE strike-throughs and interlinear corrections (img 0006, 0009), i.e. composition not transcription. Same genre and hand as the autograph Latin judgment in GKS 1823. Sampled canvases 0006 + 0009 show a single consistent autograph hand; a full leaf-by-leaf confirmation of all 4 leaves is pending. A register-symmetric, feature-by-feature comparison of the judgment prose ('De Amicis et Inimicis') against the SECURE pillar GKS 316 autograph prose ('De occasione interruptarum observationum & discessus mej') supports the same hand: 22 concordances — 19 of them confirmed on a second audit pass — against 4 discordances, all four on LABILE traits (baseline-drift direction, line-spacing, pen-pressure, minim regularity), plausibly genre- or speed-driven, with NO discordance on letterform construction. Two highly distinctive concordances carry the case: the non-closing, leftward-curling g descender, and the curved, hook-shaped (rather than barred) abbreviation marks. The secure/A grade rests on CONVERGENCE — (i) provenance: this is literally a leaf of Tycho's own Nachlass (Cod. 10689), bought with his effects and mined by Dreyer to edit Tycho's Works; (ii) full-diagnostic paleographic match to the pillars; (iii) the draft-with-corrections character (a composer's, not a copyist's, hand); and (iv) the register-symmetric comparison against a secure pillar — a corroboration GKS 316 itself never received. CAVEATS (ENFSI BPM-FHX-01): a comparison at these sample lengths is SUPPORTING evidence, not a forensic identification; the run is modest (~85 words combined) with no overlapping capitals; and unlike GKS 306 there is no independent NAMED-AUTHOR anchor (the geniture is unnamed) — the case is provenance + paleography + comparison, not authorship documentation.",
+   "basis": "One of the Vienna Tychonis-Brahe Nachlass papers (Cod. 10689; Dreyer TBOO X notes these bundles 'contain autograph material' used to edit Tycho's Works & Letters). A full-res hand-triage (IIIF surrogate, 17 canvases @ ~5857x8685px): the judgment is a WORKING DRAFT in Tycho's rapid humanist-italic autograph hand — heading 'Iudicium Astrologicum huius geniturae', then a nativity chart/positions table and the judgment under rubric sections 'De Complexione', 'De Amicis et Inimicis', 'De Itinere'. Diagnostic features all match the secure pillars: single-storey cursive a, uncial looped d, long-s + round final-s, looped -que abbreviation, dense macron suspensions, steep rightward slant, rapid ductus — plus AUTHOR-STYLE strike-throughs and interlinear corrections (img 0006, 0009), i.e. composition not transcription. Same genre and hand as the autograph Latin judgment in GKS 1823. Sampled canvases 0006 + 0009 show a single consistent autograph hand; a full leaf-by-leaf confirmation of all 4 leaves is pending. A register-symmetric, feature-by-feature comparison of the judgment prose ('De Amicis et Inimicis') against the SECURE pillar GKS 316 autograph prose ('De occasione interruptarum observationum & discessus mej') supports the same hand: 22 concordances — 19 of them confirmed on a second audit pass — against 4 discordances, all four on LABILE traits (baseline-drift direction, line-spacing, pen-pressure, minim regularity), plausibly genre- or speed-driven, with NO discordance on letterform construction. Two highly distinctive concordances carry the case: the non-closing, leftward-curling g descender, and the curved, hook-shaped (rather than barred) abbreviation marks. The secure/A grade rests on CONVERGENCE — (i) provenance: this is literally a leaf of Tycho's own Nachlass (Cod. 10689), bought with his effects and mined by Dreyer to edit Tycho's Works; (ii) full-diagnostic paleographic match to the pillars; (iii) the draft-with-corrections character (a composer's, not a copyist's, hand); and (iv) the register-symmetric comparison against a secure pillar — a corroboration GKS 316 itself never received. CAVEATS (ENFSI BPM-FHX-01): a comparison at these sample lengths is SUPPORTING evidence, not a forensic identification; the run is modest (~85 words combined) with no overlapping capitals; and unlike GKS 306 there is no independent NAMED-AUTHOR anchor (the geniture is unnamed) — the case is provenance + paleography + comparison, not authorship documentation. WITNESS (recorded): Friis 1868–69, pp. 260–261, lists the Iudicium among the Cod. 10689 drafts as his item 32 — 'Judicium astrologicum hujus Genituræ', 4 leaves (the leaf count agrees with the record) — behind the comet drafts for De mundi lib. II; his item 29 is 'Von den Cometen Ursprung'. Do not equate his pencil numbers with the modern slash numbers. Grade unchanged (secure / A).",
    "att_conf": "A",
    "established_by": "full-res hand-triage + register-symmetric comparison; comparison vs secure pillar kb-gks-316 + kb-gks-1823 (autograph judgment); Dreyer TBOO X Prolegomena (Vienna Nachlass)",
    "scribe": "",
@@ -141,6 +141,12 @@
     {
      "kind": "scholarly work",
      "name": "Dreyer, TBOO tom. X, Prolegomena Editoris (the Vienna Nachlass bundles 10686/10688/10689)",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Friis 1868–69, 'Tyge Brahes Haandskrifter i Wien og Prag'",
      "href": "",
      "loc": ""
     }
@@ -2566,7 +2572,7 @@
   },
   {
    "id": "kb-mechanica-otto-brahe",
-   "label": "Mechanica (1598) dedicated to Otto Steensen Brahe (Tycho's nephew) — autograph signature (1598-06-08)",
+   "label": "Mechanica (1598) dedicated to Otte Steensen Brahe (Tycho's nephew), 8 June 1598 — the signature autograph status disputed between Tycho and his son Tyge",
    "type": "presentation_inscription",
    "registers": [
     "presentation_formal",
@@ -2577,23 +2583,23 @@
    "date": "1598-06-08",
    "date_basis": "autograph dedication dated 8 June 1598 (Hasselberg 5; Norlind 1933)",
    "date_conf": "B",
-   "autograph": "calligrapher_body_autograph_signature",
-   "verdict": "probable",
-   "basis": "Autograph presentation dedication to Otto Steensen Brahe (Tycho's nephew); per Šíma–Valeška the formal dedication body of the Mechanica copies is professional calligraphy and the SIGNATURE is the autograph element.",
-   "att_conf": "B",
-   "established_by": "Mechanica-1598 census (Norlind 1933 / Hasselberg)",
+   "autograph": "disputed",
+   "verdict": "possible",
+   "basis": "Presentation dedication dated 8 June 1598 to Otte Steensen Brahe, Tycho's nephew; per Šíma & Valeška the formal dedication body of the Mechanica presentation copies is professional calligraphy and the signature is the autograph element. WHOSE SIGNATURE IS DISPUTED IN PRINT (recorded October 2026; verdict 'possible' = the attribution between father and son is open). The two printed autopsies of the copy attribute the dedication to Tycho's son Tyge Brahe (1581–1627), Otte's cousin: Gigas 1900, p. 34 ('Det har ogsaa været et Dedikationseksemplar, nemlig fra den yngre Tycho Brahe til Otto Stensen Brahe 1598'), and Norlind 1970, p. 288 ('skänkt av Tycho d.y. till hans kusin Otte Steensen Brahe'); the Mechanica census (Norlind 1933 / Hasselberg 5; Mosley 2007, pp. 303–304) carries it as the father's. Tycho's letter to Grynaeus (TBOO VIII 70) documents the dispatch of the copy from Wandsbek, not the hand that signed it. Tyge is known to have signed as if his father, leaving only a 'T.F.' afterthought to distinguish them (Šíma & Valeška 2002 on the Detmold dedication), and father and son do not separate on ductus at short sample lengths, so a bare 'Tÿcho Brahe' of 1598 could be either. Decisive test: compare the signature with the Detmold 'Tÿcho Brahe T.F.' leaf (detmold-llb-nl-70-4) on the copy itself at the Royal Library (eks. 4 has no digital surrogate). Recorded as a documented dispute, not a resolution; not to be used as a comparator for the father's hand until settled.",
+   "att_conf": "C",
+   "established_by": "Mechanica-1598 census (Norlind 1933 / Hasselberg 5; Mosley 2007) for the father; Gigas 1900, p. 34, and Norlind 1970, p. 288, for the son — dispute recorded",
    "scribe": "professional calligrapher (unidentified, formal body)",
    "scribe_disc": "professional-calligrapher",
-   "grade": "B",
-   "status": "extant",
+   "grade": "C",
+   "status": "disputed",
    "institution": "Det Kgl. Bibliotek (Royal Danish Library)",
    "city": "Copenhagen",
    "country": "DK",
-   "shelfmark": "LN 432 2° (Hasselberg 5)",
+   "shelfmark": "Hielmst. 148 2° eks. 4 (LN 432; Hasselberg 5)",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
-   "content": "Surviving signed presentation copy of the Astronomiae Instauratae Mechanica (Wandsbek 1598), dedicated to Otto Steensen Brahe (Tycho's nephew).",
+   "content": "Signed presentation copy of the Astronomiae instauratae mechanica (Wandsbek 1598), dedicated 8 June 1598 to Otte Steensen Brahe, Tycho's nephew, and sent by way of Johannes Grynaeus at Basel (TBOO VIII 70). The copy is the Hielmstierne one at the Royal Library, Hielmst. 148 2° eks. 4, rebound long ago ('ombundet forlængst'); Ove Gedde owned it in 1618 and the astronomer Peder Horrebow in 1732, after whom it came with Henrik Hielmstierne's library to the Royal Library in 1807; de Gheyn's portrait is pasted on the title verso (Gigas 1900, p. 34). Which Brahe wrote and signed the dedication — the father, or the son Tyge as Gigas and Norlind state — is autograph status disputed; see the attribution.",
    "extent": "autograph signature (+ dedication); formal body calligraphic",
    "references": [
     {
@@ -2601,10 +2607,23 @@
      "name": "Mechanica-1598-Wandsbek census",
      "href": "../../../census/brahe-mechanica-1598-wandsbek/explorer.html?copy=copenhagen-kb-ln-432-copy5",
      "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Gigas 1900, 'Nogle Bøger fra Tycho Brahes Bogbinderi', Bogvennen 1900, pp. 30–38",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Norlind 1970, Tycho Brahe: en levnadsteckning med nya bidrag belysande hans liv och verk (Lund)",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/copenhagen-kb-ln-432-copy5",
    "open_questions": [
+    "WHICH BRAHE SIGNED? Gigas 1900, p. 34, and Norlind 1970, p. 288, give the dedication to the son Tyge; the Mechanica census (Norlind 1933 / Hasselberg 5) and Mosley 2007 to the father. Decisive test: compare the signature with the Detmold 'Tÿcho Brahe T.F.' leaf (detmold-llb-nl-70-4) on the copy at the Royal Library — Hielmst. 148 2° eks. 4 has no digital surrogate, so a reading-room order. Until then the specimen is not a comparator for the father's hand.",
     "signature autograph vs body calligrapher not separately graded from images — confirm via the census copy's surrogate where digitised"
    ],
    "variants": [
@@ -3178,6 +3197,71 @@
    ]
   },
   {
+   "id": "frederiksborg-dnm-b3949",
+   "label": "Hillerød, Det Nationalhistoriske Museum på Frederiksborg, B3949 — album leaf, Wittenberg 16 February 1599, 'Perieram ni sic periissem' (Harald Mortensen's leaf; attested, not yet seen)",
+   "type": "album_amicorum_leaf",
+   "registers": [
+    "dedication_inscription"
+   ],
+   "stage": "exile-late",
+   "stage_label": "Exile / late",
+   "date": "1599-02-16",
+   "date_basis": "Mortensen 1942, p. 15: 'skrevet i Wittenberg under Landflygtigheden 16 Febr. 1599?' — the date as printed by the leaf's then owner (his query mark included); the leaf itself not yet examined",
+   "date_conf": "B",
+   "autograph": "autograph_whole",
+   "verdict": "probable",
+   "basis": "Attested, not examined. The leaf's owner, Harald Mortensen, published it as an album leaf in Tycho's hand written at Wittenberg during the exile: 'Samme Følelser har Tycho Brahe udtrykt i et, Forfatteren tilhørende, Stambogsblad, skrevet i Wittenberg under Landflygtigheden 16 Febr. 1599? PERIERAM NI SIC PERIISSEM!' (Mortensen 1942, p. 15). The record of his gift to the museum in 1950 lists 'et stambogsblad med Tychos hånd' (Paulli & Dal 1959, p. 15, from the museum's report for 1949–50). The museum's own description of inventory B3949 is 'the album leaf in Tycho's hand' (letter). The identification of Mortensen's leaf with B3949 is an inference from those three records — one leaf owned, one given, one held — and the museum has not yet confirmed the text and date on the object. No scholar has compared the hand with the Wittenberg series and no image exists; the verdict rests on the owner's statement and the museum's description, and on the place, date and gnomic one-line text fitting the seven-leaf Wittenberg series of 1598–99 (cf. the 8 May and 14 June 1599 leaves). Grade B until the museum confirms.",
+   "att_conf": "B",
+   "established_by": "Mortensen 1942, p. 15; Paulli & Dal 1959, p. 15; the museum's letter",
+   "scribe": "",
+   "scribe_disc": "",
+   "grade": "B",
+   "status": "extant",
+   "institution": "Det Nationalhistoriske Museum på Frederiksborg (Museum of National History)",
+   "city": "Hillerød",
+   "country": "DK",
+   "shelfmark": "B3949 (in store)",
+   "catalogue_url": "",
+   "iiif": "",
+   "surrogates": [],
+   "content": "Album leaf, Wittenberg, 16 February 1599: 'Perieram ni sic periissem' — 'I should have perished had I not perished in this way', the saying of Themistocles in exile, which Mortensen set beside the sentiment of Tycho's letters from Wandsbek. Harald Mortensen's own leaf, published by him in 1942; his gift to Det Nationalhistoriske Museum på Frederiksborg in 1950, with Tycho's De mundi and Progymnasmata, a woodcut portrait and the Agrippa in Tycho's binding (Paulli & Dal 1959, p. 15); held as inventory B3949, in store (the museum's letter). Host album unknown; the leaf is detached. Entry 15 of the album-entry census of, where its whereabouts had been 'to confirm'.",
+   "extent": "one album leaf; the text 'PERIERAM NI SIC PERIISSEM' as printed by Mortensen (the Themistocles saying, Plutarch, Themistocles 29); whether a second line stands on the leaf is open",
+   "references": [
+    {
+     "kind": "scholarly work",
+     "name": "Mortensen 1942, Tycho Brahe Minder i Prag",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Paulli & Dal 1959, 'Harald Mortensen og hans bogsamling', Fund og Forskning 5–6",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "institutional catalogue",
+     "name": "Det Nationalhistoriske Museum på Frederiksborg, the collections department",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Album-entry census",
+     "href": "",
+     "loc": ""
+    }
+   ],
+   "census_ref": "",
+   "open_questions": [
+    "IDENTIFICATION IS AN INFERENCE: Mortensen owned one leaf (1942), gave one leaf (1950), the museum holds one leaf (B3949) — the museum has not yet confirmed that B3949 reads 'Perieram ni sic periissem' and is dated Wittenberg 16 February 1599. Ask for the text with the promised photographs; grade B until confirmed.",
+    "Erik Dal (Paulli & Dal 1959, p. 18) quotes 'Quo genius ducit eundum' as written by Tycho in an album in 1599; Mortensen 1942 quotes only 'Perieram ni sic periissem' for his leaf. Either a second line on this leaf or another leaf — open (album census entries 15 and 25); the museum's photographs decide the first.",
+    "No image: the museum promised photographs when its conservation staff are free; the hand has not been compared with the Wittenberg-series pillars. Host album unidentified.",
+    "Mortensen prints '16 Febr. 1599?' with a query mark — whether it attaches to the day or the year is to be read on the leaf."
+   ],
+   "variants": []
+  },
+  {
    "id": "prague-nm-vi-f-44",
    "label": "Prague, Národní muzeum, VI F 44 — Tyge Brahe album, Tycho's holograph entry (Wittenberg, 28 Feb 1599)",
    "type": "album_amicorum_leaf",
@@ -3216,7 +3300,7 @@
      "kind": "raster-images"
     }
    ],
-   "content": "Latin: 'Disce puer virtutem ex me durumque laborem, / Fortiter et sortis sustinuisse vices.' Tÿcho Brahe, Filio TYCHoni primogenito scripsi Anno 1599 Feb. 28, Vitebergae. The single most secure Tycho specimen; gold-standard prose comparator. NB the album is catalogued (Manuscriptorium) as 'Stambuch Tychona Brahe ml.' = the album OF Tycho Brahe junior (the son); the Pillar-1 entry is the FATHER's holograph written INTO the son's album ('I wrote [this] for my firstborn son Tycho').",
+   "content": "Latin: 'Disce puer virtutem ex me durumque laborem, / Fortiter et sortis sustinuisse vices.' Tÿcho Brahe, Filio TYCHoni primogenito scripsi Anno 1599 Feb. 28, Vitebergae. The single most secure Tycho specimen; gold-standard prose comparator. NB the album is catalogued (Manuscriptorium) as 'Stambuch Tychona Brahe ml.' = the album OF Tycho Brahe junior (the son); the Pillar-1 entry is the FATHER's holograph written INTO the son's album ('I wrote [this] for my firstborn son Tycho'). PROVENANCE AND CONTENTS OF THE ALBUM (recorded): the album came to the Bohemian National Museum in 1868 as the gift of Count Franz von Klebelsberg, with a collection of books and manuscripts partly concerning the Brahe and Tengnagel families, to whom Klebelsberg was related — 'Det bøhmiske Nationalmuseum i Prag erholdt 1868 som Gave fra Greve Franz v. Klebelsberg, en Samling Bøger og Haandskrifter, hvoraf en Del vedrører de Braheske og Tengnagelske Familier med hvilke v. Klebelsberg var i Slægtskabsforhold' (Mortensen 1942, p. 27). Contents per Mortensen 1942, p. 27, and Friis 1868–69, p. 267: autographs of Johannes Jessenius ('den bekendte Dr. J. Jessen, der holdt Gravtalen over Tycho Brahe'), Eduard Fugger of Augsburg, and scholars and nobles of Copenhagen, Hamburg, Nuremberg, Bologna and Siena; some coloured arms ('nogle farvelagte Adelsvaaben'; Friis: 'et Par malede Vaaben'); at the front de Gheyn's engraving of Tycho, coloured ('udført i Farver'), with the autographs of Tycho and his son. Friis, who saw the album in 1868, gives no shelfmark and no date for the father's entry (no 28 February 1599); the quarto format and the gift to the son 'da denne studerede i Wittenberg' are his.",
    "extent": "verse advice (Virgil Aen. XII.435-6 adapted) + signature; verso carries Tyge's own distinct entry (1598)",
    "references": [
     {
@@ -3224,6 +3308,18 @@
      "name": "Šíma & Valeška 2002, 'Analysis of Tycho's Handwritings' (Pillar 1)",
      "href": "",
      "loc": "pp. 150-167"
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Mortensen 1942, Tycho Brahe Minder i Prag",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Friis 1868–69, 'Tyge Brahes Haandskrifter i Wien og Prag'",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "",
@@ -3765,7 +3861,7 @@
    "date_conf": "B",
    "autograph": "autograph_partial",
    "verdict": "possible",
-   "basis": "One of the Vienna Tychonis-Brahe Nachlass papers (Cod. 10688; Dreyer TBOO X: these bundles 'contain autograph material' used to edit Tycho's Works & Letters, though 'very few' items belong among the observations proper). A full-res hand-triage (IIIF surrogate, 63 canvases @ ~5343x8334px) found that: chiefly NUMERIC computation worksheets — planetary mean-motion / apogee / longitude tables (e.g. img 0020: 'Simplex [Solis]', 'Longitudo [Saturni]', 'Apogeum [Jovis]' columns by year 1580/1587/1590...) and a 'pone Apogeo [Jovis] gradus 12' working sheet. The brief cursive Latin column-headers and instruction lines are consistent with Tycho's rapid working hand (looped d, cursive ductus), but the bulk is figures: numeric worksheets are far harder to attribute than prose, and a familia computer cannot be excluded. Recorded as autograph-PLAUSIBLE (possible/C), not asserted, pending a prose-section read or a comparison of the headers.",
+   "basis": "One of the Vienna Tychonis-Brahe Nachlass papers (Cod. 10688; Dreyer TBOO X: these bundles 'contain autograph material' used to edit Tycho's Works & Letters, though 'very few' items belong among the observations proper). A full-res hand-triage (IIIF surrogate, 63 canvases @ ~5343x8334px) found that: chiefly NUMERIC computation worksheets — planetary mean-motion / apogee / longitude tables (e.g. img 0020: 'Simplex [Solis]', 'Longitudo [Saturni]', 'Apogeum [Jovis]' columns by year 1580/1587/1590...) and a 'pone Apogeo [Jovis] gradus 12' working sheet. The brief cursive Latin column-headers and instruction lines are consistent with Tycho's rapid working hand (looped d, cursive ductus), but the bulk is figures: numeric worksheets are far harder to attribute than prose, and a familia computer cannot be excluded. Recorded as autograph-PLAUSIBLE (possible/C), not asserted, pending a prose-section read or a comparison of the headers. WITNESS (recorded): Friis 1868–69, pp. 259–261, listing the Cod. 10688 bundle as he found it in 1868, describes the 1576 'Simplices motus' / Christian IV nativity draft material as 'Simplices motus ad Annum 1576 etc. Tildeels Udkast til Christian IV. Nativitet, alt af T. B.' — an assertion of Tycho's hand by an early eye-witness, without paleographic argument. His pencil item numbers do not map onto the modern slash numbers, so the statement is a witness for the bundle, not a verdict on /17. Grade unchanged (possible / C).",
    "att_conf": "C",
    "established_by": "a hand-triage; Dreyer TBOO X Prolegomena (Vienna Nachlass)",
    "scribe": "",
@@ -3802,6 +3898,12 @@
     {
      "kind": "scholarly work",
      "name": "Dreyer, TBOO tom. X, Prolegomena Editoris (Vienna Nachlass bundles 10686/10688/10689)",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Friis 1868–69, 'Tyge Brahes Haandskrifter i Wien og Prag'",
      "href": "",
      "loc": ""
     }
@@ -3921,11 +4023,17 @@
      "name": "Nordisk Tidskrift för Bok- och Biblioteksväsen XIV (1927), p.31 ff. (cited on the CP.2.C.21 flyleaf for the Matthias dedication)",
      "href": "",
      "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Friis 1868–69, 'Tyge Brahes Haandskrifter i Wien og Prag'",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/vienna-onb-h20",
    "open_questions": [
-    "LOCATE THE DETACHED AUTOGRAPH LEAF: it left CP.2.C.21 on 12 Dec 1855 (Bartsch) into the ÖNB Autographen-Sammlung — find its current shelfmark/digitisation (the Autographen-Sammlung 'Tycho Brahe' file) so the actual autograph (not just the printed host) can be examined and atlas-cropped.",
+    "LOCATE THE DETACHED AUTOGRAPH LEAF: it left CP.2.C.21 on 12 Dec 1855 (Bartsch) into the ÖNB Autographen-Sammlung — find its current shelfmark/digitisation (the Autographen-Sammlung 'Tycho Brahe' file) so the actual autograph (not just the printed host) can be examined and atlas-cropped. FRIIS SAW IT (recorded): Friis 1868–69, pp. 264–265, describes the Autographen-Sammlung's Tycho items as he found them in 1868 — the letter to Heinrich Rantzau of 8 January 1585, a letter of 14 December 1599 lacking its address, and two leaves from the Mechanica (Wandsbek 1598): the Matthias dedication, whose poem he prints in full, and the Coraduz dedication dated 'Anno 1600' with no month. He takes the signature as autograph — consistent with the calligraphic body and autograph signature of the Mechanica pillars. He prints no '2 May 1600'. This places the leaf in the Autographen-Sammlung thirteen years after Bartsch's detachment note but gives no modern shelfmark; the leaf is still to be located and imaged. A placement, not a resolution.",
     "signature autograph vs body calligrapher not separately graded from images — resolved only once the detached leaf is located (the printed host CP.2.C.21 no longer carries it).",
     "check NTBB XIV (1927) pp.31ff for the dedication text + any reproduction of the autograph leaf."
    ],

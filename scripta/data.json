@@ -1,8 +1,8 @@
 {
  "pillar": "scripta",
  "subject": "brahe-tycho",
- "version": "1.1",
- "edition_date": "2026-09-28",
+ "version": "1.2",
+ "edition_date": "2026-10-06",
  "title": "Scripta Tychonis — the writings of Tycho Brahe in the edition of 2019: a catalogue, with the texts",
  "dsl": {
   "editors": "Peter Zeeberg and Finn Gredal Jensen",
@@ -6501,7 +6501,9 @@
    "references": [],
    "open_questions": [],
    "resolved_questions": [],
-   "editorial_notes": [],
+   "editorial_notes": [
+    "The Museum description (pp. 238–240 = TBOO VI 268–271) prints the verses Tycho set beneath the painted astronomers on the Museum wall: In Cl. Ptolemaei Alexandrini effigiem (16 distichs, 'Sic oculos, faciem, barbam, sic membra gerebat', dated Kal. Octob. 1584) and the two poems on Copernicus (2 October 1584). The Ptolemy elegy was published as a hitherto unknown poem from G. L. Frobenius's 1644 Almagest proof-sheet by Brøndsted (Fund og Forskning 9, 1962) and corrected in Fund og Forskning 12 (1965), p. 156: Frobenius reprinted it from this volume; Resen, Inscriptiones Hafnienses (1668), p. 338, reprints it too."
+   ],
    "bridges": [
     {
      "label": "The 1596 book — Typographica",

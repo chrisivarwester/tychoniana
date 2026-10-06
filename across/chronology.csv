@@ -55,6 +55,7 @@ letters-year,letters-1578,"Letters, 1578: 2",1578,1578,Epistolarium,../epistolar
 letters-year,letters-1579,"Letters, 1579: 7",1579,1579,Epistolarium,../epistolarium/index.html
 instrument,inst-medium-quadrant,Quadrans mediocris azimuthalis — the medium brass quadrant,1580,1601,Instrumenta,../instrumenta/index.html#inst-medium-quadrant
 letters-year,letters-1580,"Letters, 1580: 3",1580,1580,Epistolarium,../epistolarium/index.html
+likeness,icon-museum-portrait-boards,"The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus (by October 1584)",1580,1584,Iconographia,../iconographia/index.html#icon-museum-portrait-boards
 site,site-laboratory,The alchemical laboratory,1580,1597,Loca,../loca/index.html#site-laboratory
 site,site-library,The library and the great globe,1580,1597,Loca,../loca/index.html#site-library
 letters-year,letters-1581,"Letters, 1581: 2",1581,1581,Epistolarium,../epistolarium/index.html
@@ -69,7 +70,7 @@ instrument,inst-bipartite-arc,Arcus bipartitus — the bipartite arc (1583),1583
 instrument,inst-parallactic-azimuth,Parallactic instrument with an azimuth circle,1583,1601,Instrumenta,../instrumenta/index.html#inst-parallactic-azimuth
 letters-year,letters-1583,"Letters, 1583: 1",1583,1583,Epistolarium,../epistolarium/index.html
 volume,O_COD10658,Fair-copy observations 1583 (apographum),1583,1583,Observationes,../observationes/index.html#vc-O_COD10658
-edition,M_ELEGIA_PTOL_1584,Uraniborg 1584? (lost as issued),1584,1584,Typographica,../census/brahe-elegia-ptolemaeus-1584/explorer.html
+edition,M_ELEGIA_PTOL_1584,Uraniborg 1584? (conjectured separate print — unattested; the text is in the Epistolae 1596),1584,1584,Typographica,../census/brahe-elegia-ptolemaeus-1584/explorer.html
 edition,M_FRANDSEN_1584,Uraniborg 1584? (lost),1584,1584,Typographica,../census/brahe-elegy-frandsen-1584/explorer.html
 edition,M_GJOE_1584,Uraniborg 1584 (lost),1584,1584,Typographica,../census/brahe-carmen-gjoe-1584/explorer.html
 edition,M_LANGE_1584,Uraniborg 1584 (lost),1584,1584,Typographica,../census/brahe-carmen-lange-1584/explorer.html
@@ -201,6 +202,7 @@ instrument-fate,"transmission-1600, October–November","The great instruments f
 journey,journey-benatky-prague-1600,"Final removal from Benátky to Prague, June 1600",1600,1600,Loca,../loca/index.html#journey-benatky-prague-1600
 letters-year,letters-1600,"Letters, 1600: 127",1600,1600,Epistolarium,../epistolarium/index.html
 site,site-curtius-house,The Curtius (Kurtz) house — Tycho's Prague residence and place of death,1600,1601,Loca,../loca/index.html#site-curtius-house
+site,site-golden-griffin,"The Golden Griffin inn (U Zlatého noha), Nový Svět — Tycho's first Prague lodging of 1600",1600,1600,Loca,../loca/index.html#site-golden-griffin
 volume,O_COD10674,Fair-copy observations 1600 (apographum),1600,1600,Observationes,../observationes/index.html#vc-O_COD10674
 volume,O_GKS318,Observations 1600–1601 (Benátky & Prague),1600,1601,Observationes,../observationes/index.html#vc-O_GKS318
 instrument-fate,"transmission-1601, 10 April",All the instruments are moved from the Belvedere to the Curtius house and observation resumes.,1601,1601,Instrumenta,../instrumenta/index.html#sec-transmission
@@ -226,7 +228,7 @@ instrument-fate,transmission-1619,"Destruction in the disturbances that followed
 instrument-fate,"transmission-1621, 6 December","The inventory of the Prague treasury and Kunstkammer still lists, in the Belvedere, 'no. 1424, a very large celestial globe of metal' and 'no. 1425, a quadrant with many appurtenant instruments'.",1621,1621,Instrumenta,../instrumenta/index.html#sec-transmission
 reception,recep-longomontanus-danica,"Longomontanus, Astronomia Danica (1622) — the Tychonic textbook",1622,1622,Receptio,../receptio/index.html#recep-longomontanus-danica
 likeness,icon-console-clock-1642,The 1642 console clock — Tycho as proprietor of a world system,1623,1642,Iconographia,../iconographia/index.html#icon-console-clock-1642
-instrument-fate,transmission-c. 1625,The globe is acquired by Christoph Scheiner for the Jesuit college at Neisse in Silesia.,1625,1625,Instrumenta,../instrumenta/index.html#sec-transmission
+instrument-fate,transmission-c. 1625,"The globe passes to the Jesuit college at Neisse in Silesia under Christoph Scheiner — Mortensen's inference from the college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397), which names no globe; no document records the transfer.",1625,1625,Instrumenta,../instrumenta/index.html#sec-transmission
 reception,recep-rudolphine,The Rudolphine Tables (1627),1627,1627,Receptio,../receptio/index.html#recep-rudolphine
 instrument-fate,transmission-1632,"Prince Ulrik, son of Christian IV, takes the globe from Neisse as war booty to Copenhagen, where it is placed in the observatory of the Round Tower.",1632,1632,Instrumenta,../instrumenta/index.html#sec-transmission
 reception,recep-rundetaarn,"The Round Tower (Rundetårn), Copenhagen — Tycho's catalogue continued",1637,1728,Receptio,../receptio/index.html#recep-rundetaarn
@@ -249,7 +251,7 @@ reception,recep-faxe-1824-report,Faxe's report (1824) — the first excavation r
 reception,recep-hven-relics-lund,The finds to Lund (1824),1824,1824,Receptio,../receptio/index.html#recep-hven-relics-lund
 likeness,icon-eckersberg-1831,"Eckersberg's sketch, 1831 — the young Christian IV visiting Hven",1831,1842,Iconographia,../iconographia/index.html#icon-eckersberg-1831
 reception,recep-comet-recomputation-19c,Tycho's comets recomputed — the 19th-century orbit reductions (1854),1844,1854,Receptio,../receptio/index.html#recep-comet-recomputation-19c
-instrument-fate,transmission-1852,"The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich.",1852,1852,Instrumenta,../instrumenta/index.html#sec-transmission
+instrument-fate,transmission-1852,"The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904).",1852,1852,Instrumenta,../instrumenta/index.html#sec-transmission
 likeness,icon-levy-mindeblad,The Levy memorial sheet — Tycho for children,1855,1901,Iconographia,../iconographia/index.html#icon-levy-mindeblad
 likeness,icon-hansen-1882,"Heinrich Hansen, 1882 — Tycho as national history painting",1882,1882,Iconographia,../iconographia/index.html#icon-hansen-1882
 reception,recep-dreyer-biography-1890,"Dreyer, Tycho Brahe (Edinburgh 1890) — the foundational biography",1890,1890,Receptio,../receptio/index.html#recep-dreyer-biography-1890
@@ -258,6 +260,7 @@ reception,recep-exhumation-1901,The 1901 exhumation (the tercentenary),1901,1901
 reception,recep-hven-later-excavations,The campaigns after Ekdahl (1901–1973),1901,1973,Receptio,../receptio/index.html#recep-hven-later-excavations
 reception,recep-mechanica-editions,"The Mechanica reprinted and translated — Hasselberg 1901, Ræder 1946, the Prague set of 1996",1901,1996,Receptio,../receptio/index.html#recep-mechanica-editions
 reception,recep-opera-omnia,Tychonis Brahe Opera Omnia (Copenhagen 1913–29) — the complete critical edition,1913,1929,Receptio,../receptio/index.html#recep-opera-omnia
+reception,recep-danish-memorials-1930s,The Danish memorials of the 1930s — Harald Mortensen's Tycho,1932,1957,Receptio,../receptio/index.html#recep-danish-memorials-1930s
 site,site-museum,Tycho Brahe Museum & the Stjerneborg reconstruction,1950,2025,Loca,../loca/index.html#site-museum
 reception,recep-zeeberg-urania-titani,"Zeeberg, Urania Titani (1994) — first critical edition of Tycho’s Latin poetry",1994,1994,Receptio,../receptio/index.html#recep-zeeberg-urania-titani
 reception,recep-hipparcos-tycho-catalogue,The Tycho Catalogue (1997) — a million stars under his name,1997,1997,Receptio,../receptio/index.html#recep-hipparcos-tycho-catalogue

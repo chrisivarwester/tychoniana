@@ -2,21 +2,21 @@
  "title": "Across All Twelve — the apparatus of the Tychoniana editions",
  "registry": {
   "registry_rows": 251,
-  "placeholders": 6,
-  "documented": 245,
+  "placeholders": 5,
+  "documented": 246,
   "located": 124,
   "extant": 123,
   "damaged": 1,
-  "untraced": 35,
+  "untraced": 36,
   "market": 26,
-  "lost_copies": 9,
+  "lost_copies": 10,
   "attested": 86,
   "attested_only": 78,
   "inferred": 8,
-  "cd": 51,
+  "cd": 52,
   "cd_c": 43,
-  "cd_d": 8,
-  "cd_no_exemplar": 44,
+  "cd_d": 9,
+  "cd_no_exemplar": 45,
   "censuses": 24,
   "cens_located_some": 16,
   "cens_documented_none": 3,
@@ -29,20 +29,20 @@
   "inst_extant": 2,
   "inst_destroyed": 19,
   "inst_lost": 5,
-  "sites": 14,
+  "sites": 15,
   "sites_lost": 5,
   "volumes": 38,
   "vol_lost": 1,
-  "images": 32,
+  "images": 33,
   "img_extant": 22,
-  "img_lost": 5,
+  "img_lost": 6,
   "img_untraced": 4,
   "img_attested": 1,
-  "specimens": 82,
+  "specimens": 83,
   "spec_extant": 75,
   "spec_lost": 1,
   "spec_surrogate": 2,
-  "spec_disputed": 4,
+  "spec_disputed": 5,
   "bib_entries": 209,
   "bib_located_works": 113,
   "bib_volumes": 70,
@@ -58,9 +58,9 @@
   "diary_years": 13,
   "letters": 509,
   "letters_dated": 509,
-  "episodes": 37,
+  "episodes": 38,
   "recep_before": 8,
-  "recep_from": 29,
+  "recep_from": 30,
   "recep_1601": 5,
   "transmission": 21,
   "questions": 30,
@@ -573,6 +573,15 @@
    "link": "../epistolarium/index.html"
   },
   {
+   "kind": "likeness",
+   "key": "icon-museum-portrait-boards",
+   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus (by October 1584)",
+   "year_start": 1580,
+   "year_end": 1584,
+   "edition": "Iconographia",
+   "link": "../iconographia/index.html#icon-museum-portrait-boards"
+  },
+  {
    "kind": "site",
    "key": "site-laboratory",
    "label": "The alchemical laboratory",
@@ -701,7 +710,7 @@
   {
    "kind": "edition",
    "key": "M_ELEGIA_PTOL_1584",
-   "label": "Uraniborg 1584? (lost as issued)",
+   "label": "Uraniborg 1584? (conjectured separate print — unattested; the text is in the Epistolae 1596)",
    "year_start": 1584,
    "year_end": 1584,
    "edition": "Typographica",
@@ -1887,6 +1896,15 @@
    "link": "../loca/index.html#site-curtius-house"
   },
   {
+   "kind": "site",
+   "key": "site-golden-griffin",
+   "label": "The Golden Griffin inn (U Zlatého noha), Nový Svět — Tycho's first Prague lodging of 1600",
+   "year_start": 1600,
+   "year_end": 1600,
+   "edition": "Loca",
+   "link": "../loca/index.html#site-golden-griffin"
+  },
+  {
    "kind": "volume",
    "key": "O_COD10674",
    "label": "Fair-copy observations 1600 (apographum)",
@@ -2114,7 +2132,7 @@
   {
    "kind": "instrument-fate",
    "key": "transmission-c. 1625",
-   "label": "The globe is acquired by Christoph Scheiner for the Jesuit college at Neisse in Silesia.",
+   "label": "The globe passes to the Jesuit college at Neisse in Silesia under Christoph Scheiner — Mortensen's inference from the college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397), which names no globe; no document records the transfer.",
    "year_start": 1625,
    "year_end": 1625,
    "edition": "Instrumenta",
@@ -2321,7 +2339,7 @@
   {
    "kind": "instrument-fate",
    "key": "transmission-1852",
-   "label": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich.",
+   "label": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904).",
    "year_start": 1852,
    "year_end": 1852,
    "edition": "Instrumenta",
@@ -2398,6 +2416,15 @@
    "year_end": 1929,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-opera-omnia"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-danish-memorials-1930s",
+   "label": "The Danish memorials of the 1930s — Harald Mortensen's Tycho",
+   "year_start": 1932,
+   "year_end": 1957,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-danish-memorials-1930s"
   },
   {
    "kind": "site",
@@ -2544,12 +2571,12 @@
    "short": "Elegy to Ptolemy",
    "year": 1584,
    "place": "Uraniborg (Hven)",
-   "documented": 1,
+   "documented": 2,
    "located": 0,
-   "untraced": 0,
+   "untraced": 1,
    "attested": 1,
    "cd_c": 0,
-   "cd_d": 0,
+   "cd_d": 1,
    "provisional": true,
    "unreached": [
     "LIBRIS",
@@ -3066,6 +3093,30 @@
    "count": 1
   },
   {
+   "city": "Hillerød",
+   "country": "DK",
+   "kind": "census copies",
+   "count": 2
+  },
+  {
+   "city": "Hillerød",
+   "country": "DK",
+   "kind": "library volumes",
+   "count": 1
+  },
+  {
+   "city": "Hillerød",
+   "country": "DK",
+   "kind": "likenesses",
+   "count": 1
+  },
+  {
+   "city": "Hillerød",
+   "country": "DK",
+   "kind": "hand specimens",
+   "count": 1
+  },
+  {
    "city": "Uppsala",
    "country": "SE",
    "kind": "census copies",
@@ -3111,24 +3162,6 @@
    "city": "Dresden",
    "country": "DE",
    "kind": "hand specimens",
-   "count": 1
-  },
-  {
-   "city": "Hillerød",
-   "country": "DK",
-   "kind": "census copies",
-   "count": 2
-  },
-  {
-   "city": "Hillerød",
-   "country": "DK",
-   "kind": "library volumes",
-   "count": 1
-  },
-  {
-   "city": "Hillerød",
-   "country": "DK",
-   "kind": "likenesses",
    "count": 1
   },
   {
@@ -3847,6 +3880,14 @@
   },
   {
    "kind": "census copy",
+   "key": "brahe-elegia-ptolemaeus-1584:lost-uraniborg-original-1584",
+   "label": "the conjectured 1584 Uraniborg occasional print — no evidence that any separate print existed; the text was published in the Epistolae (1596)",
+   "status": "lost",
+   "date": "",
+   "link": "../census/brahe-elegia-ptolemaeus-1584/explorer.html?copy=lost-uraniborg-original-1584"
+  },
+  {
+   "kind": "census copy",
    "key": "brahe-epistolae-1596:market-hohenems-weiss",
    "label": "copy in a private collection",
    "status": "lost",
@@ -3932,6 +3973,14 @@
    "status": "lost",
    "date": "1584 – 1594",
    "link": "../iconographia/index.html#icon-stjerneborg-astronomers"
+  },
+  {
+   "kind": "likeness",
+   "key": "icon-museum-portrait-boards",
+   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus (by October 1584)",
+   "status": "lost",
+   "date": "by 1–2 October 1584 (Ptolemy, Copernicus); all four by 1596",
+   "link": "../iconographia/index.html#icon-museum-portrait-boards"
   },
   {
    "kind": "likeness",

@@ -11,7 +11,7 @@
    "id": "II",
    "title": "II · The Uraniborg private press",
    "subtitle": "Hven, 1584–1597",
-   "blurb": "From 1584 Tycho ran his own press in a dedicated building south of Uraniborg, staffed by three printers known by name — Joachim, then Christopher Weida, then Hans Gaschitz, each in his service only briefly and otherwise unattested — Weida and Gaschitz probably Germans in Nielsen's judgement, Joachim of unrecorded origin — and supplied with type brokered through Rostock. It produced occasional poems to keep the printer busy between the great books — De mundi (1588), Epistolae (1596), the unfinished Progymnasmata (1592) — and the instrument-image broadsides (Icones). Several small prints survive in a single copy; four printings are known only from documents; one elegy of 1584, recovered in 1962 from a later reprint, is attributed to the press by conjecture."
+   "blurb": "From 1584 Tycho ran his own press in a dedicated building south of Uraniborg, staffed by three printers known by name — Joachim, then Christopher Weida, then Hans Gaschitz, each in his service only briefly and otherwise unattested — Weida and Gaschitz probably Germans in Nielsen's judgement, Joachim of unrecorded origin — and supplied with type brokered through Rostock. It produced occasional poems to keep the printer busy between the great books — De mundi (1588), Epistolae (1596), the unfinished Progymnasmata (1592) — and the instrument-image broadsides (Icones). Several small prints survive in a single copy; four printings are known only from documents; one elegy of 1584, once taken for a recovery of 1962 from a later reprint, turns out to stand in the Epistolae of 1596 and was never a separate print."
   },
   {
    "id": "III",
@@ -22,8 +22,8 @@
   {
    "id": "IV",
    "title": "IV · Posthumous completions & re-issues",
-   "subtitle": "Prague, Nuremberg, Frankfurt, 1602–1610",
-   "blurb": "After Tycho's death (24 Oct 1601) Kepler oversaw completion of the Progymnasmata (Prague, Schumann press, 1602) and a re-issue of De mundi (1603). The remaining stock passed to the booksellers Levinus Hülsius (Nuremberg, 1602) and then Gottfried Tampach (Frankfurt, 1610), who put the old Uraniborg sheets out afresh under new title-leaves. The Mechanica was the exception: Tengnagel sold its woodblocks to Hülsius, and Christoph Lochner reset the whole book in new type (Nuremberg 1602 = Norman 320) — a reprint, not a re-issue, and one still catalogued as '1598' wherever its title-leaf is lost."
+   "subtitle": "Prague, Nuremberg, Frankfurt, 1601–1610",
+   "blurb": "After Tycho's death (24 Oct 1601) Kepler oversaw completion of the Progymnasmata (Prague, Schumann press, 1602) and a re-issue of De mundi (1603). The remaining stock passed to the booksellers Levinus Hülsius (Nuremberg, 1601 — the Epistolae title-quire dated MDCI) and then Gottfried Tampach (Frankfurt, 1610), who put the old Uraniborg sheets out afresh under new title-leaves. The Mechanica was the exception: Tengnagel sold its woodblocks to Hülsius, and Christoph Lochner reset the whole book in new type (Nuremberg 1602 = Norman 320) — a reprint, not a re-issue, and one still catalogued as '1598' wherever its title-leaf is lost."
   }
  ],
  "press": {
@@ -50,7 +50,7 @@
    },
    {
     "h": "The printer's emblems",
-    "html": "Two woodcut marks carved at Uraniborg recur in the books: <b>'Astronomy'</b>, with the motto SVSPICIENDO DESPICIO ('looking up, I look down'), and <b>'Chemistry'</b>, with DESPICIENDO SVSPICIO ('looking down, I look up') — the allegorical figures that stood on the castle façade.",
+    "html": "Two woodcut marks carved at Uraniborg recur in the books: <b>'Astronomy'</b>, with the motto SVSPICIENDO DESPICIO ('looking up, I look down'), and <b>'Chemistry'</b>, with DESPICIENDO SVSPICIO ('looking down, I look up') — the allegorical figures that stood on the castle façade. The blocks are more than two: a second block of 'Astronomy' closes the Epistolae of 1596; the Prague titles of 1602 and 1603 carry a reduced redrawing in a square frame, and the 1603 De mundi closes with a reduced 'Chemistry' (Nielsen 1921, pp. 201, 210–211).",
     "id": "emblems"
    },
    {
@@ -144,7 +144,7 @@
    "census_keys": [
     "brahe-epitaphium-pratensis-1584"
    ],
-   "gloss": "A memorial broadsheet for Tycho's friend Johannes Pratensis (d. 1576) — the earliest known imprint from the Uraniborg press.",
+   "gloss": "A memorial broadsheet for Tycho's friend Johannes Pratensis (d. 1576) — the earliest Uraniborg imprint of which a copy survives.",
    "survival": "One copy located — the Royal Danish Library, Copenhagen; Nielsen 1931 records no other holding.",
    "diplomatic": "EPITAPHIVM. | CLARISSIMI ET OMNIGENA ERVDITIONE | VIRTVTEQVE ORNATISSIMO VIRO D. IOHANNI PRATENSI | AARVSIENSI MEDICINÆ PARACELSICÆ ET GALENICÆ DOCTORI | EXCELLENTISSIMO … | … | OBIIT ANNO 1576. ÆTATIS 32. | … | TYCHO BRAHE | Vranibutgi. [!] | 1584. |",
    "collation": "Single leaf, patent (broadsheet). 30 lines. Type-area: 276 × 258 mm (two columns). Italic. One initial.",
@@ -152,7 +152,7 @@
    "references": "Reprinted: Danske Magazin II, pp. 199–201; T. Brahe, Opera omnia IX, pp. 176–77.",
    "nielsen_census": "Copenhagen, Kgl. Bibl.",
    "production": "Among the first prints run off the new press in late 1584, set to test its capacity and to keep the printer occupied; its type matches the later Uraniborg books.",
-   "note_html": "<b>The earliest known Uraniborg imprint.</b> A long-promised tribute to Johannes Pratensis (professor of medicine at Copenhagen, d. 1576), now redeemed once Tycho's new press could set it. The colophon misprints the place 'Vranibutgi' (t for r); Nielsen marks it [!].",
+   "note_html": "<b>The earliest surviving Uraniborg imprint.</b> The first thing printed was the poem to Erik Lange, 27 November 1584, by Tycho's own protocol (Opera omnia X, p. 302), of which no copy survives. A long-promised tribute to Johannes Pratensis (professor of medicine at Copenhagen, d. 1576), now redeemed once Tycho's new press could set it. The colophon misprints the place 'Vranibutgi' (t for r); Nielsen marks it [!].",
    "flags": [
     "unicum"
    ],
@@ -169,7 +169,8 @@
     "S_NIELSEN_DB",
     "S_NIELSEN_BT",
     "S_DANSKE_MAGAZIN_II",
-    "S_TBOO"
+    "S_TBOO",
+    "S_FRIIS_1868"
    ]
   },
   {
@@ -358,7 +359,7 @@
    "contents": "Bl. 1a title; 1b blank; Bl. 2–10 eighteen full-page woodcuts of instruments (no captions); Bl. 11–12 originally blank. In the Vienna copy the title-leaf is reset and a printed afterword (To the inspector of these images, Tycho Brahe greets) appears on Bl. 11a; in the Breslau copy that afterword is in manuscript.",
    "references": "L. Nielsen, in Nord. tidskr. f. bok- och biblioteksväsen VIII, pp. 202–04.",
    "nielsen_census": "*Breslau, Univ. Bibl.; Stockholm, Kgl. Bibl.; *Vienna, Nationalbibl.",
-   "production": "Eighteen instrument-woodcuts assembled as a supplement to the Epistolae, printed one to a page with no captions. Nielsen's typographic analysis shows the Vienna copy's reset title-leaf and printed afterword were not printed at Uraniborg — most likely by Philip de Ohr at Hamburg in early 1598, when Tycho was at Wandsbek.",
+   "production": "Eighteen instrument-woodcuts assembled as a supplement to the Epistolae, printed one to a page with no captions. Nielsen's typographic analysis shows the Vienna copy's reset title-leaf and printed afterword were not printed at Uraniborg ('Saavel Typerne som Vignetten paa Titelbladet er forskellige', 1921, p. 204); where and by whom he does not say. The attribution to Philip de Ohr at Hamburg in early 1598, when Tycho was at Wandsbek, is this apparatus's inference from the chronology, not Nielsen's.",
    "note_html": "The <i>Icones</i> was sent as a supplement to the <i>Epistolae</i> (1596), whose bound-in instrument descriptions supply the captions these plates lack. The Vienna afterword announces the forthcoming <i>Mechanica</i>: the Icones is thus the immediate predecessor of the 1598 masterpiece.",
    "flags": [],
    "entry_class": "surviving",
@@ -387,14 +388,14 @@
     }
    ],
    "gloss": "Volume I of Tycho's astronomical correspondence with the court of Hesse-Kassel — and the printed form of letters whose autograph originals survive at Marburg.",
-   "survival": "Nielsen's 1931 list names some thirty-eight libraries; his list is not yet exhausted by the census. Quires LL and MM exist in two settings. The Nuremberg (1602) and Frankfurt (1610) issues are the same sheets under new title-leaves and are censused with the edition.",
+   "survival": "Nielsen's 1931 list names some thirty-eight libraries; his list is not yet exhausted by the census. Quires LL and MM exist in two settings. The Nuremberg (1601, title-quire dated MDCI) and Frankfurt (1610) issues are the same sheets under new title-leaves and are censused with the edition.",
    "diplomatic": "TYCHONIS BRAHE DANI | EPISTOLARVM | ASTRONOMICARVM | LIBRI | Quorum | PRIMVS | HIC | ILLVSTRISS: ET LAVDATISS: | PRINCIPIS GVLIELMI HASSIÆ LANDTGRAVII | ac ipsius Mathematici Literas, unaque | Responsa ad singula | complectitur. | [vignette] | VRANIBVRGI | CVM CÆSARIS ET REGVM | QVORVNDAM PRIVILEGIIS. | ANNO | CIↃ IↃ XCVI. |",
    "collation": "176 leaves. Signatures: ✱⁴ (:)⁴ (:)⁴ )✱(⁴ ✱(⁴ A⁴–Z⁴ AA⁴–QQ⁴. Paginated [40] 1–309 [3] (some pagination errors). 40 lines. Type-area: 185 × 124 mm. Running titles and catchwords. Roman (smaller passages italic and Fraktur). Initials (and majuscules used as initials) and vignettes. Woodcuts and figures. Tables.",
    "contents": "Bl. 1a title; 2–4a commendatory poems (Voitus, Chytraeus, Hoier, Riccobonus, Tubanellus, Plecius); Bl. 5–12 dedication to Landgrave Moritz of Hesse, dated the vernal equinox (20 March) 1596; Bl. 13–20 prefaces; Bl. 21a (p. 1) the letters and replies between Tycho and Wilhelm IV's court astronomer Christopher Rothmann; Bl. 176a the author's emblem and colophon. In many copies an engraved portrait of Tycho is pasted onto the verso of the title-leaf.",
    "references": "T. Brahe, Opera omnia VI. Gigas, in Bogvennen 1900 p. 34; L. Nielsen, in Nord. tidskr. VIII, 199–201. Facsimiles: Bogvennen 1900 p. 35; Nord. tidskr. VIII p. 200; Opera omnia VI pp. 3 and 341.",
    "nielsen_census": "Aberdeen; Altenburg; Augsburg; Berlin (Bibl. des grauen Klosters, Staatsbibl.); Bonn; Braunschweig; Breslau; Cambridge; Danzig; Darmstadt; Dessau; Dresden (2 copies); Edinburgh (Obs.); Gotha; Göttingen; Hamburg; Herlufsholm; Kassel; Kiel; Copenhagen, *Kgl. Bibl. (2 copies), Univ. Bibl.; Königsberg; Leiden; London (BM); Lund; München; Oslo; Oxford (Bodleian, Magdalen); Prague; Stockholm (Kgl. Bibl. 2 copies, Academy); Stuttgart; Trondheim; Uppsala; Weimar; Vienna (Nat. Bibl.); Wolfenbüttel.",
    "production": "Long in the press: as early as 1590 Tycho's pupil Gellius Sascerides handed the printed sheet G — carrying important star observations — to Magini in Bologna. By 1590 two presses ran at Uraniborg at once, one on the Progymnasmata and one on this correspondence. Quires LL and MM (pp. 265–80) exist in two settings; the Gheyn copper-portrait was cut c. 1590, probably for this book.",
-   "note_html": "Dedicated to the young Landgrave Moritz (successor to Wilhelm IV), the volume prints Tycho's correspondence with Wilhelm IV and the Kassel astronomer Christopher Rothmann, with a German-and-Latin description of Uraniborg and Stjerneborg and new woodcut views. <b>The autograph originals survive</b> in the Kassel-retained convolute HStAM Best. 3 II, Nr. 1070 (former 4a.31.14) at Marburg — several letters holograph — and Tycho <i>cut and revised</i> the letters for print, making the convolute the primary collation source against this edition. Re-issued by Hülsius (Nuremberg 1602, new title-leaf only) and Tampach (Frankfurt 1610).",
+   "note_html": "Dedicated to the young Landgrave Moritz (successor to Wilhelm IV), the volume prints Tycho's correspondence with Wilhelm IV and the Kassel astronomer Christopher Rothmann, with a German-and-Latin description of Uraniborg and Stjerneborg and new woodcut views. <b>The autograph originals survive</b> in the Kassel-retained convolute HStAM Best. 3 II, Nr. 1070 (former 4a.31.14) at Marburg — several letters holograph — and Tycho <i>cut and revised</i> the letters for print, making the convolute the primary collation source against this edition. Re-issued by Hülsius (Nuremberg 1601, new title-quire only — ANNO MDCI, 'allerede samme Aar' as the heirs' sale, Nielsen 1921, p. 211) and Tampach (Frankfurt 1610).",
    "flags": [],
    "entry_class": "surviving",
    "author_class": "tycho",
@@ -413,7 +414,8 @@
     "S_NIELSEN_DB",
     "S_NIELSEN_BT",
     "S_TBOO",
-    "S_GIGAS_1900"
+    "S_GIGAS_1900",
+    "S_FRIIS_1868"
    ]
   },
   {
@@ -440,14 +442,14 @@
     }
    ],
    "gloss": "Volume I of Tycho's restoration of astronomy — begun at Uraniborg in 1592, printed-but-unfinished, completed posthumously at Prague in 1602.",
-   "survival": "Of the Uraniborg printing itself no copy is located: the Berlin copy (partial) and the Marburg title-leaf fragment are recorded but await re-verification, and Tycho's own working copy — given to Johannes Müller in March 1598, last at Königsberg — has been untraced since 1944–45. Every located copy is of the Prague completion of 1602, entered below, whose census includes the copies dated 1603 on the title. Quires M and DDDD of the Uraniborg printing exist in two settings.",
+   "survival": "Of the Uraniborg printing itself no copy is located: the Berlin copy (partial) and the Marburg title-quire fragment are recorded but await re-verification, and Tycho's own working copy — given to Johannes Müller in March 1598, last at Königsberg — has been untraced since 1944–45. Every located copy is of the Prague completion of 1602, entered below, whose census includes the copies dated 1603 on the title. Quires M and DDDD of the Uraniborg printing exist in two settings.",
    "diplomatic": "TYCHONIS BRAHE DANI | ASTRONOMIÆ | INSTAVRANDÆ | PROGYMNASMATA | LIBRIS TRIBVS: | Quorum | I. Post SOLIS & LVNÆ curriculi … restitutionem … De admiranda illa NOVA STELLA, Anno 1572 prodeunte, affatim & ex professo tractat. | … | VRANIBVRGI, CVM GRATIA ET PRIVILEGIO | Imperatoriae Maiest. & aliquot sereniss. Europæ Regum, | M. D XCII. |",
    "collation": "388 leaves (printed, with gaps). Signatures (with quires P–R 'not yet printed', and gaps): (:)⁴ B⁴–O⁴ [P–R blank] S⁴–Z⁴ AA⁴–II⁴ KK⁸ LL⁸ MM⁴–ZZ⁴ AAA⁴–ZZZ⁴ AAAA⁴–ZZZZ⁴ AAAAA⁴–FFFFF⁴. Paginated [8] 9–112 [113–136 not yet printed] 137–256 (next 16 leaves foliated 257–272) 273–786 (pagination errors; 497–498 skipped). 29 and 40 lines. Type-area: 184 × 122 mm. Roman and italic. Initials and vignette. Woodcuts.",
-   "contents": "Bl. 1a the collective title-leaf (for the projected three-volume work + correspondence); 1b a woodcut portrait of Tycho with inscription; Bl. 2 commendatory poems (Chytraeus, Mylius, Jonas Jacobi Huenensis); Bl. 3–4 Rudolf II's privilege; Bl. 5a (sign. B, p. 9) Caput Primum on the solar course. The text breaks off unfinished — the Moon section (quires P–R) was never printed at Uraniborg.",
+   "contents": "Bl. 1a the collective title-leaf (for the projected three-volume work + correspondence); 1b a woodcut portrait of Tycho with inscription; Bl. 2 commendatory poems (Chytraeus, Mylius, Jonas Jacobi Huenensis); Bl. 3–4 Rudolf II's privilege; Bl. 5a (sign. B, p. 9) Caput Primum on the solar course. The text breaks off unfinished — the Moon section (quires P–R) was never printed at Uraniborg. In the Königsberg copy pp. 3–4 were blank and the privilege ended with the catchword 'PRIVILEG-', meant for a privilege from James VI of Scotland that Tycho did not yet have — it is dated August 1593 (Nielsen 1921, p. 199).",
    "references": "L. Nielsen, in Nord. tidskr. f. bok- och biblioteksväsen VIII, pp. 195–99. Facsimiles: T. Brahe, Opera omnia VIII p. 439 (reduced); Nord. tidskr. VIII pp. 196–97 (reduced).",
-   "nielsen_census": "*Berlin, Staatsbibl.; Königsberg, Staats- u. Univ. Bibl.; Marburg, Staatsarchiv (fragment, title-leaf only).",
+   "nielsen_census": "*Berlin, Staatsbibl.; Königsberg, Staats- u. Univ. Bibl.; Marburg, Staatsarchiv (fragment, title-quire only).",
    "production": "Printed by the lacuna method: unfinished sections were skipped, a fixed run of sheets left blank, and printing carried on — so the book was years in the press and finished only after Tycho's death. The 1592 collective title-leaf went out as advance copies (3 to the Landgrave of Hesse on 20 Feb, 3 to Hugo Blotius on 20 Mar, 6 to Hagecius on 22 Mar 1592). The Königsberg copy — Tycho's own working copy, given to the assistant Johannes Müller in March 1598, with twelve blank leaves bound where the Moon-section was pending and his autograph corrections throughout — showed exactly what was printed on Hven against what was completed at Prague; it has been untraced since the dispersal of the Königsberg collections in 1944–45, and is known now only from Nielsen's description (§433).",
-   "note_html": "The 1592 title-leaf was an <b>advance/collective title</b>; Tycho sent advance copies (collective title + portrait + Rudolf II's privilege) to scholarly contacts, and three went to the Landgrave of Hesse in February 1592; of that consignment what survives at Marburg is a single title-leaf fragment. Completed posthumously at the Schumann press (Prague 1602) under Kepler's oversight; re-issued by Tampach (Frankfurt 1610) with quires B, C, Kk and Ll reset in many copies.",
+   "note_html": "The 1592 title-leaf was an <b>advance/collective title</b>; Tycho sent advance copies (collective title + portrait + Rudolf II's privilege) to scholarly contacts, and three went to the Landgrave of Hesse in February 1592; of that consignment what survives at Marburg is the advance title-quire (DB 433: 'Fragm., kun Titelark') — how many of the three quires survive is open. Completed posthumously at the Schumann press (Prague 1602) under Kepler's oversight; re-issued by Tampach (Frankfurt 1610) with quires B, C, Kk and Ll reset in many copies.",
    "flags": [
     "unfinished"
    ],
@@ -484,7 +486,7 @@
    "contents": "Bl. 1a title; 2–3 dedication to Emperor Rudolf II (dated pridie Calend. Jan. 1598 [= 31 Dec 1597]); 4a a poem by Holger Rosenkrantz; 4b an engraving; Bl. 5a (sign. A) 'Explicatio fabricae et usus' — the instrument descriptions; Bl. 25b a brief notice of further instruments not yet engraved; Bl. 27b on what Tycho has so far achieved and what remains; Bl. 32–35a letters to the author (Curtius, Magini); Bl. 37a (sign. H) the appendix on the architecture of the observatory; Bl. 42b the colophon: 'IMPRESSVM WANDESBVRGI IN ARCE RANZOVIANA … PROPRIA AVTHORIS TYPOGRAPHIA opera Philippi de Ohr Chalcographi Hamburgensis Ineunte ANNO M.D.IIC.' In most copies a portrait of Tycho is pasted onto Bl. 1b.",
    "references": "Facsimile: ed. B. Hasselberg (Holmiæ 1901). T. Brahe, Opera omnia V, pp. 1–162, 317–27. Dreyer, Astronomiæ instauratæ mechanica, 260–64 (German trans. 274–78); Gigas, in Bogvennen 1900, 31–34; L. Nielsen, in Nord. tidskr. VIII, 191–201 and 205–06; Delisle, in Journal des savants 1901, 79–87; Studnička, Prager Tychoniana, 44–48; and a long apparatus of further studies (Richter & Hofmeister; Hasselberg, Friis & Ehwald; Leboyer; Mortensen; Schömer; Deetjen).",
    "nielsen_census": "Berlin (Staatsbibl., 3 copies); Breslau; Cambrai; Danzig; Dessau; Dresden (2 copies); Florence (Bibl. nazion.); Frauenfeld (Kantonsbibl., title-leaf missing); Gotha (2 copies); Göttingen; Kalocsa; Kiel; *Copenhagen, Kgl. Bibl. (3 copies), Univ. Bibl.; Leiden; Leningrad; Liège; London (BM); Lund; München; Oslo (Deichman, Univ. Bibl. defective); Oxford (Bodleian); Paris (BnF 3 copies, Obs.); Prague (Strahov); Rostock; Stockholm (Academy); Weimar; Venice (Bibl. nazion.); Vienna (Nat. Bibl., 2 copies).",
-   "production": "Printed at Wandsbek early in 1598 by the Hamburg printer Philip de Ohr (who from 1597 used the Binder family's material). Nielsen's type-analysis shows the body-type, initials, friezes, vignettes and flower-borders are de Ohr's or Binder's; of Tycho's own material only the instrument-woodblocks and his printer's marks are in the book — the press itself, however, was his, carried from Hven. Hasselberg's census (Vierteljahrsschrift der Astronomischen Gesellschaft 39, 1904) lists 33 copies, to which Nielsen added two more, at Danzig and Kiel; most of the surviving copies are illuminated, and most have Gheyn's engraved portrait pasted onto the title-verso.",
+   "production": "Printed at Wandsbek early in 1598 by the Hamburg printer Philip de Ohr (who from 1597 used the Binder family's material). Nielsen's type-analysis shows the body-type, initials, friezes, vignettes and flower-borders are de Ohr's or Binder's; of Tycho's own material only the instrument-woodblocks and his printer's marks are in the book ('ingen af disse Skrifter tilhører Tycho Brahe', Nielsen 1921, p. 206) — the press itself, Nielsen supposes ('vel ogsaa'), was his, carried from Hven; the Scultetus letter of 7 January 1600, with its press 'efterladt i Magdeburg', is the best independent witness (p. 208). Hasselberg's census (Vierteljahrsschrift der Astronomischen Gesellschaft 39, 1904) lists 33 copies, to which Nielsen added two more, at Danzig and Kiel; most of the surviving copies are illuminated, and most have Gheyn's engraved portrait pasted onto the title-verso.",
    "note_html": "Dedicated to Rudolf II, dated 31 December 1597. 18 of the 22 instrument-plates are printed from the existing Uraniborg woodblocks; the 4 new ones (including the great mural quadrant with Tycho's portrait, and the great celestial globe) are <b>copperplate engravings cut in Germany</b>. The colophon's <i>propria authoris typographia</i> is true as far as it goes — the press was Tycho's own — and it names Philip de Ohr on its face; what it obscures is how much of the finished book is Hamburg work. Re-issued as a complete new reprint by Hülsius (Nuremberg 1602, printed by Christoph Lochner; = Norman 320), which is catalogued as '1598' where its title-leaf is lost.",
    "flags": [
     "hybrid-press"
@@ -550,7 +552,7 @@
    "lost": true,
    "thesaurus_work": "W_LANGE",
    "gloss": "A lost printed poem to Erik Lange, the alchemist who would marry Tycho's sister Sophie; the text survives in manuscript.",
-   "survival": "No printed copy survives. The text survives in manuscript and was first printed in the Opera Omnia, vol. XV (1929), p. 6, where Dreyer notes that this poem too appears to have been printed at Tycho's press and that every printed copy perished.",
+   "survival": "No printed copy survives. Tycho's own protocol dates the printing: on 27 November 1584 he printed 'omnium primum carmen ad Ericum Lange' on his new press (Opera omnia X, p. 302; Friis 1868–69, p. 253) — the first thing the Uraniborg press produced. The text survives in manuscript and was first printed in the Opera Omnia, vol. XV (1929), p. 6, where Dreyer notes that this poem too appears to have been printed at Tycho's press and that every printed copy perished.",
    "note_html": "Named, together with the Gjøe poem, in the surviving Carmen ad Ulfeldium (LN 426) as a companion piece sent the same season (late 1584). Erik Lange later married Tycho's sister Sophie Brahe. No copy survives.",
    "flags": [
     "lost"
@@ -567,7 +569,8 @@
    "title_short": "Carmen ad Erik Lange (1584)",
    "sources": [
     "S_NIELSEN_BT",
-    "S_TBOO"
+    "S_TBOO",
+    "S_FRIIS_1868"
    ]
   },
   {
@@ -599,13 +602,13 @@
    "period": "II",
    "lost": false,
    "thesaurus_work": "W_CARMEN_PTOLEMAEO",
-   "gloss": "An elegy in praise of Claudius Ptolemy, dated 1 October 1584, attributed to the Uraniborg press by conjecture: no printing is attested, and the text is known only from a 1644 reprint recovered in 1962.",
-   "survival": "No Uraniborg printing is attested. The text survives in a single witness, the last leaf of G. L. Frobenius's 1644 Almagest proof-sheet at Kungliga biblioteket, Stockholm (a microfilm at the Royal Danish Library).",
-   "collation": "16 elegiac distichs (32 lines), composed as a verse inscription to stand beneath a portrait of Ptolemy. The original Uraniborg setting (if it was printed there) is described in no source; only Frobenius's 1644 single-page reprint is known.",
-   "contents": "An elegy 'on the likeness of Claudius Ptolemy', dated 1 October 1584, setting Ptolemy's bloodless intellectual conquest of earth and heaven against the bloody, partial conquests of Rome. Brøndsted reads it as one of the occasional poems Tycho printed in autumn–winter 1584–85 to advertise his new Uraniborg press (cf. the lost Gjøe and Lange pieces); Frobenius's 1644 print is an ‘eftertryk’ (reprint) detached from its original portrait context.",
-   "references": "First published, with facsimile (p. 73): Mogens Brøndsted, 'Et ukendt digt af Tycho Brahe', ‘Fund og Forskning’ 9 (1962), 71–78. Not in Dreyer's ‘Opera Omnia’ — a 20th-century addition to the Tycho corpus.",
-   "nielsen_census": "No Nielsen number — unknown to Nielsen 1931, recovered 1962. Sole witness: Stockholm, Kungliga biblioteket (the Frobenius 1644 ‘Almagest’ proof-sheet; Brøndsted gives no precise shelfmark). Stockholm survival probably via Jørgen Seefeld's library and the 1645 Swedish war-loot.",
-   "note_html": "<b>Recovered 1962.</b> A hitherto-unknown Latin elegy by Tycho on a portrait of Claudius Ptolemy, headed <i>'In effigiem Cl. Ptolemæi Alexandrini. Elegia Tychonis Brahe, scripta A.C. 1584. Kal. VIIIbr.'</i> Mogens Brøndsted found it on the last leaf of Georg Ludwig Frobenius's folio proof-sheet for a planned new Latin <i>Almagest</i> (Hamburg, 1644) — the same Frobenius who had spent six weeks in Tycho's <i>familia</i> on Hven in 1591 (see the Bibliotheca; the same scholar's printer's-manuscript is KB GKS 320). The 1584 date places the poem beside the occasional pieces Tycho printed to occupy his new press, and on that parallel alone a Uraniborg printing has been conjectured: nothing attests it, and the elegy survives only because Frobenius printed it sixty years later.",
+   "gloss": "An elegy in praise of Claudius Ptolemy, dated 1 October 1584 — the verses Tycho set beneath the painted Ptolemy in the Uraniborg Museum and printed himself in the Epistolae (1596), p. 239; no separate printing is attested.",
+   "survival": "No separate Uraniborg print is attested, and none need be supposed: the text is part of LN 430 (Epistolae astronomicae, Uraniborg 1596, p. 239 = Opera omnia VI, 269–270), so every copy of the Epistolae carries it. Reprinted by Resen, Inscriptiones Hafnienses (1668), p. 338, and on the last leaf of G. L. Frobenius's 1644 Almagest proof-sheet at Kungliga biblioteket, Stockholm (a microfilm at the Royal Danish Library) — a reprint from the published Epistolae, identical in wording in all 32 lines.",
+   "collation": "16 elegiac distichs (32 lines), composed as a verse inscription beneath the painted Ptolemy on the Museum wall and printed in the Museum description of the Epistolae (1596), p. 239; the Copernicus verses of 2 October 1584 follow on p. 240. Frobenius's 1644 sheet reprints all 32 lines with spelling variants only (exsuperare / exuperare, umquam / vnquam).",
+   "contents": "An elegy 'on the likeness of Claudius Ptolemy', dated 1 October 1584, setting Ptolemy's bloodless intellectual conquest of earth and heaven against the bloody, partial conquests of Rome. Brøndsted (1962) read it as one of the occasional poems printed at Uraniborg in 1584–85 and Frobenius's 1644 print as an 'eftertryk' detached from its portrait; the portrait is the painted board in the Uraniborg Museum, and the printed source is the Epistolae — the correction was made in print by the Efterslæt in Fund og Forskning XII (1965), p. 156, from Norlind.",
+   "references": "Epistolarum astronomicarum liber primus (Uraniborg 1596), p. 239 (the Copernicus verses p. 240); T. Brahe, Opera omnia VI, pp. 269–270 (index XV, p. 16); Resen, Inscriptiones Hafnienses (1668), p. 338. Frobenius's 1644 sheet first published, with facsimile (p. 73), by Mogens Brøndsted, 'Et ukendt digt af Tycho Brahe', Fund og Forskning 9 (1962), 71–78; corrected in Fund og Forskning 12 (1965), p. 156.",
+   "nielsen_census": "No Nielsen number — no separate printing; the text stands in every copy of LN 430 (Epistolae 1596). The single-sheet reprint of 1644: Stockholm, Kungliga biblioteket (the Frobenius Almagest proof-sheet; Brøndsted gives no precise shelfmark), probably via Jørgen Seefeld's library, which went to Sweden in 1658 (the Seefeld path is Brøndsted's inference).",
+   "note_html": "<b>Printed by Tycho himself.</b> The Latin elegy <i>In Cl. Ptolemaei Alexandrini effigiem</i>, dated <i>Anno Domini 1584. Kal. Octob.</i>, stands in Tycho's own description of the Uraniborg Museum in the <i>Epistolae astronomicae</i> (1596), p. 239, beneath the painted effigy of Ptolemy, with the verses on Copernicus (2 October 1584) on p. 240; Dreyer printed both with the Epistolae (Opera omnia VI, 269–271) and therefore not among the <i>Carmina</i>. Mogens Brøndsted found the Ptolemy verses in 1962 on the last leaf of Georg Ludwig Frobenius's folio proof-sheet for a planned Latin <i>Almagest</i> (Hamburg 1644) — the same Frobenius who had spent six weeks in Tycho's <i>familia</i> on Hven in 1591 (see the Bibliotheca; his printer's manuscript is KB GKS 320) — and published them as a hitherto unknown poem; the 1965 <i>Efterslæt</i> corrected him. Frobenius's sheet is a reprint from the published Epistolae, not a witness to a Hven or Wandsbek transmission, and no separate Uraniborg broadside is attested: the 1584 date is the date of a verse composed for a painting.",
    "flags": [
     "conjectured"
    ],
@@ -614,11 +617,15 @@
    "nielsen_1921_pages": "",
    "scripta": [],
    "conjectured": true,
-   "text_witness_heading": "IN EFFIGIEM CL. PTOLEMÆI | ALEXANDRINI. | Elegia Tychonis Brahe, scripta A.C. 1584. Kal. VIIIbr. | (H)ic oculos, faciem, barbam, sic membra gerebat / Claudius, is nomen cui Ptolemæus erat. | … |",
+   "text_witness_heading": "IN EFFIGIEM CL. PTOLEMÆI | ALEXANDRINI. | Elegia Tychonis Brahe, scripta A.C. 1584. Kal. VIIIbr. | Sic oculos, faciem, barbam, sic membra gerebat / Claudius is, nomen cui Ptolemæus erat. | … | (the 1644 sheet; the Epistolae heading: IN CL. PTOLEMÆI ALEXANDRINI EFFIGIEM … TYCHO BRAHE F. Anno Domini 1584. Kal. Octob.)",
    "title_short": "In effigiem Ptolemaei (1584)",
    "title_full": "In effigiem Cl. Ptolemæi Alexandrini, elegia",
    "sources": [
-    "S_BRONDSTED_1962"
+    "S_BRONDSTED_1962",
+    "S_TBOO",
+    "S_RESEN_1668",
+    "S_TEKSTNET",
+    "S_FOF_1965"
    ]
   },
   {
@@ -1065,8 +1072,8 @@
    "S_NIELSEN_BT"
   ]
  },
- "version": "2.1",
- "edition_date": "2026-09-28",
+ "version": "2.2",
+ "edition_date": "2026-10-06",
  "period_vocabulary": [
   {
    "id": "I",
@@ -1281,9 +1288,9 @@
   "M_ELEGIA_PTOL_1584": {
    "nielsen": "",
    "n1921": "",
-   "kind": "conjectured printing",
+   "kind": "conjectured printing — unattested",
    "period": "II",
-   "basis": "the parallel with the occasional verse of 1584–85 alone; the text from Frobenius's 1644 proof-sheet (Brøndsted 1962)"
+   "basis": "Brøndsted 1962's conjecture of a 1584–85 Uraniborg occasional sheet, superseded: the text is printed in the Epistolae (1596), p. 239 = Opera omnia VI, 269–270, and the 1644 Frobenius sheet reprints it (Fund og Forskning XII, 1965, p. 156)"
   },
   "M_DIARIUM_1586": {
    "nielsen": "LN 1170",
@@ -1345,7 +1352,7 @@
    "n1921": "211–212",
    "kind": "re-issue",
    "period": "posthumous",
-   "description": "Immediately after Tycho's death the heirs sold the stock of the Epistolae to the Nuremberg bookseller Levinus Hülsius, who had a new title-quire printed — the title with Noribergae apud Levinum Hulsium … anno MDCI (a misprint for 1602), the rest of the quire a reprint of the old — and issued the book the same year; the old colophon retained. The material is Christoph Lochner's (Nielsen 1921, pp. 211–212).",
+   "description": "Immediately after Tycho's death the heirs sold the stock of the Epistolae to the Nuremberg bookseller Levinus Hülsius, who had a new title-quire printed — the title with Noribergae apud Levinum Hulsium … anno MDCI, the rest of the quire a reprint of the old — and issued the book 'allerede samme Aar', in 1601, the year of Tycho's death; the old colophon retained. The material is Christoph Lochner's, whose Mechanica reprint followed in 1602 (Nielsen 1921, pp. 211–212). The manifestation keeps the key under which the issue was long catalogued; MDCI is Nielsen's date, not a misprint.",
    "census_inclusion": "counted in the Epistolae census as an issue-state of the one impression"
   },
   "M_MECH_1602": {
@@ -1510,14 +1517,14 @@
    "shop": "Christoph Lochner, for the publisher Levinus Hülsius",
    "place": "Nuremberg",
    "place_id": "place-nuremberg",
-   "years": "1602",
+   "years": "1601–1602",
    "agent": "LOCHNER",
    "publisher": "HULSIUS",
    "printed": [
     "M_EPIST_1602",
     "M_MECH_1602"
    ],
-   "basis": "the material of the Mechanica reprint and of the Epistolae title-quire, assigned by Nielsen to Lochner; Hülsius, though reputed a printer, had all his books printed by others (Nielsen 1921, pp. 211–212)"
+   "basis": "the material of the Epistolae title-quire of 1601 (ANNO MDCI) and of the Mechanica reprint of 1602, assigned by Nielsen to Lochner; Hülsius, though reputed a printer, had all his books printed by others (Nielsen 1921, pp. 211–212)"
   },
   {
    "id": "press-tampach",
@@ -1579,21 +1586,27 @@
  ],
  "chronology_events": [
   {
-   "date": "1584-02-16",
-   "event": "Tycho to Anders Sørensen Vedel: he will set up a small press at Uraniborg and buy type at the coming Frankfurt fair.",
-   "pages": "177",
-   "place_id": "site-printing-house"
-  },
-  {
    "date": "1584",
    "event": "The printer Joachim engaged and sent to Wittenberg for presses and type; further type brokered through Heinrich Brucaeus and the Rostock printer Stephan Möllmann, December 1584 to April 1585.",
    "pages": "177–178",
    "place_id": ""
   },
   {
+   "date": "1584-02-16",
+   "event": "Tycho to Anders Sørensen Vedel: he will set up a small press at Uraniborg and buy type at the coming Frankfurt fair.",
+   "pages": "177",
+   "place_id": "site-printing-house"
+  },
+  {
    "date": "1584-11-25",
-   "event": "The Ulfeldt poem dated at Uraniborg (7 Kal. Decemb.); with the Pratensis epitaph the earliest prints of the press, followed the same season by the poems to Gjøe and Lange.",
+   "event": "The Ulfeldt poem dated at Uraniborg (7 Kal. Decemb.) — the earliest printed date; with the Pratensis epitaph the earliest surviving prints of the press, followed the same season by the poems to Gjøe and Lange.",
    "pages": "179",
+   "place_id": "site-printing-house"
+  },
+  {
+   "date": "1584-11-27",
+   "event": "Tycho's observation protocol: 'omnium primum carmen ad Ericum Lange' printed on the new press — the first thing it produced (Opera omnia X, p. 302; Friis 1868–69, p. 253).",
+   "pages": "—",
    "place_id": "site-printing-house"
   },
   {
@@ -1601,6 +1614,12 @@
    "event": "Tycho's letter announcing the little astrological calendar for the year — the Diarium — planned in 2,000 copies.",
    "pages": "186",
    "place_id": ""
+  },
+  {
+   "date": "1585-01-08",
+   "event": "Tycho to Rantzau: the press 'set up the previous summer' (1584); Gerhard Rantzau had seen it at Uraniborg.",
+   "pages": "178, 186",
+   "place_id": "site-printing-house"
   },
   {
    "date": "1585-03-01",
@@ -1613,6 +1632,12 @@
    "event": "Tycho to Hagecius: the manuscript of the astronomical work ready for the press, paper awaited from abroad; an imperial privilege requested.",
    "pages": "188",
    "place_id": ""
+  },
+  {
+   "date": "1585-12-13",
+   "event": "Hagecius sends an astronomical work for Tycho to print, as Tycho had offered; on 1 July 1586 Tycho declines — the paper just bought at the last Frankfurt fair is needed for his own swelling work, and paper is hard to get 'paa Grund af de urolige Forhold i Udlandet'.",
+   "pages": "187",
+   "place_id": "site-printing-house"
   },
   {
    "date": "1586",
@@ -1636,6 +1661,24 @@
    "date": "1589",
    "event": "The paper mill on Hven working from 1589/90; its two watermarks identify island paper.",
    "pages": "185–186, 191",
+   "place_id": "site-paper-mill"
+  },
+  {
+   "date": "1590-01-25",
+   "event": "A papermaker engaged 'til sin nye Papirmølle'; the printer lost at Lübeck with two alphabets of the first volume and two presses.",
+   "pages": "191",
+   "place_id": "site-paper-mill"
+  },
+  {
+   "date": "1590-02-23",
+   "event": "Tycho to Hagecius and Rothmann, hopeful of finishing the first volume soon.",
+   "pages": "191",
+   "place_id": ""
+  },
+  {
+   "date": "1590-08-03",
+   "event": "Both papermakers gone; the gaps in the De mundi printing named.",
+   "pages": "191",
    "place_id": "site-paper-mill"
   },
   {
@@ -1675,15 +1718,15 @@
    "place_id": "place-wandsbek"
   },
   {
-   "date": "1598-01",
-   "event": "The Mechanica issued, its dedication to Rudolf II dated 31 December 1597.",
-   "pages": "205",
-   "place_id": "place-wandsbek"
-  },
-  {
    "date": "1598",
    "event": "Tycho leaves Wandsbek in the autumn; the Moon section printed at Hamburg under Longomontanus's eye is scrapped.",
    "pages": "207",
+   "place_id": "place-wandsbek"
+  },
+  {
+   "date": "1598-01",
+   "event": "The Mechanica issued, its dedication to Rudolf II dated 31 December 1597.",
+   "pages": "205",
    "place_id": "place-wandsbek"
   },
   {
@@ -1693,16 +1736,34 @@
    "place_id": "place-wittenberg"
   },
   {
-   "date": "1600-01-07",
-   "event": "Tycho to Scultetus from Prague: the first quire and the Conclusio unprinted, the Moon section wanting, the press still at Magdeburg; the state of every book set out.",
-   "pages": "208–209",
-   "place_id": "place-prague"
+   "date": "1599-01",
+   "event": "The lunar eclipse halts the Wittenberg printing of the Moon section.",
+   "pages": "208",
+   "place_id": ""
   },
   {
    "date": "1600",
    "event": "The press reaches Prague.",
    "pages": "209",
    "place_id": "place-prague"
+  },
+  {
+   "date": "1600-01",
+   "event": "The Görlitz enquiry: a royal-format quarto sheet wanted in 1,500 copies.",
+   "pages": "209",
+   "place_id": ""
+  },
+  {
+   "date": "1600-01-07",
+   "event": "Tycho to Scultetus from Prague: the first quire and the Conclusio unprinted, the Moon section wanting, the press still at Magdeburg; the state of every book set out.",
+   "pages": "208–209",
+   "place_id": "place-prague"
+  },
+  {
+   "date": "1601",
+   "event": "After 24 October: the heirs sell the Epistolae stock to Hülsius, who issues it under a Nuremberg title-quire dated MDCI the same year.",
+   "pages": "211",
+   "place_id": "place-nuremberg"
   },
   {
    "date": "1601-10-24",
@@ -1712,7 +1773,7 @@
   },
   {
    "date": "1602",
-   "event": "The Progymnasmata completed at Prague (the heirs' dedication of 31 July); the Epistolae stock sold to Hülsius and re-issued at Nuremberg; the Mechanica reprinted there by Lochner.",
+   "event": "The Progymnasmata completed at Prague (the heirs' dedication of 31 July); the Mechanica reprinted at Nuremberg by Lochner for Hülsius.",
    "pages": "209–212",
    "place_id": "place-nuremberg"
   },
@@ -1790,7 +1851,7 @@
   {
    "id": "des-icones-states",
    "title": "The Icones states copy by copy",
-   "text": "The Vienna copy of the 1596 album has a reset title-leaf and a printed afterword not printed at Uraniborg (Nielsen: most likely by de Ohr at Hamburg, early 1598); the Wrocław copy has the afterword copied in by hand on Bl. 11a. The census records the states in prose; a state field per copy would let the table show them.",
+   "text": "The Vienna copy of the 1596 album has a reset title-leaf and a printed afterword not printed at Uraniborg (Nielsen 1921, p. 204; the attribution to de Ohr at Hamburg, early 1598, is this apparatus's inference); the Wrocław copy has the afterword copied in by hand on Bl. 11a. The census records the states in prose; a state field per copy would let the table show them.",
    "sources": [
     "S_NIELSEN_DB",
     "S_NIELSEN_BT"
@@ -1798,10 +1859,12 @@
   },
   {
    "id": "des-lange-first-print",
-   "title": "Was the Lange poem the first thing printed at Uraniborg?",
-   "text": "A note in the shared thesaurus claimed that Tycho's diary records the Lange poem as the first print of the press (27 November 1584). The printed Diarium carries no such entry, Nielsen names the Pratensis epitaph as probably the earliest print, and the Ulfeldt poem carries the earliest date (25 November 1584). The claim is marked unverified until a source is produced.",
+   "title": "Was the Lange poem the first thing printed at Uraniborg? — resolved",
+   "text": "RESOLVED (October 2026). Tycho's own observation protocol for 27 November 1584 records that he printed 'omnium primum carmen ad Ericum Lange' on his new press that day (Opera omnia X, p. 302; the leaf quoted by Friis 1868–69, p. 253, from the Vienna volume for 1584: 'nouis typis omnium primo Carmen ad Ericum Lange', and by Norlind 1970 and Zeeberg 1993). Nielsen (1921, pp. 178–179) took the Pratensis epitaph, with reservation, for the first print: it is the earliest print of which a copy survives, and the Ulfeldt poem carries the earliest printed date (25 November 1584). The printed Diarium carries no entry because the entry is in the observation protocol, not the meteorological diary.",
    "sources": [
-    "S_NIELSEN_BT"
+    "S_NIELSEN_BT",
+    "S_TBOO",
+    "S_FRIIS_1868"
    ]
   },
   {
@@ -2031,10 +2094,16 @@
    "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. — the English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a Czech translation).",
    "contributes": "the edition's afterlife in print (Hasselberg 1901/1904, Ræder 1946, the KLP set); the Prologue's census of the Bohemian copies of 1598 and the Czech copies of 1602 and 1611; the colophon translated and the printer dated; the preface's date",
    "url": ""
+  },
+  {
+   "id": "S_FOF_1965",
+   "label": "Fund og Forskning XII (1965), Efterslæt",
+   "full": "'Efterslæt til tidligere årgange', Fund og Forskning i Det kongelige Biblioteks Samlinger XII (1965), p. 156 — the editorial note, from W. Norlind, correcting Brøndsted 1962: Tycho's description of Ptolemy's appearance is borrowed from the preface of the Venice 1515 Almagest he owned (Opera omnia VI, 95), and 'selve digtet' already stands in the printed correspondence (a. st. 269), which is why the Opera omnia editors did not print it among the carmina.",
+   "url": "https://tidsskrift.dk/fundogforskning/article/view/41045"
   }
  ],
  "edition": {
-  "date": "2026-09-28",
+  "date": "2026-10-06",
   "title": "Typographica Tychonis — The Printed Works of Tycho Brahe"
  },
  "figures": {
@@ -2222,10 +2291,10 @@
    "id": "M_ELEGIA_PTOL_1584",
    "entry_id": "lost-ptolemaeus",
    "title_short": "In effigiem Ptolemaei (1584)",
-   "label": "Uraniborg 1584? (lost as issued)",
+   "label": "Uraniborg 1584? (conjectured separate print — unattested; the text is in the Epistolae 1596)",
    "year": 1584,
    "period": "II",
-   "kind": "conjectured printing",
+   "kind": "conjectured printing — unattested",
    "census_key": "brahe-elegia-ptolemaeus-1584",
    "counts": {
     "records": 2,

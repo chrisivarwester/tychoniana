@@ -6,7 +6,7 @@ stay-vordingborg-1552,1552,1557,range-uncertain,1552 – 1557 (bounds uncertain)
 stay-nykobing-falster-1557,1557,1559-04,range-uncertain,1557 – April 1559 (bounds uncertain),Nykøbing Falster,Danish realm (other),Denmark,54.7691,11.8743,Childhood in Scania and Zealand,family,C,2,1,yes
 stay-copenhagen-1559,1559-04-19,1562-02-14,day,19 April 1559 – 14 February 1562,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,Student at Copenhagen,"education, observation, books & printing",A,8,14,yes
 stay-wittenberg-1562,1562-02,1562-03,month,February 1562 – March 1562,Wittenberg,German lands,Germany,51.8662,12.6471,Leipzig with Vedel,in transit,B,1,2,no
-stay-leipzig-1562,1562-03-24,1565-05-17,day,24 March 1562 – 17 May 1565,Leipzig,German lands,Germany,51.3397,12.3731,Leipzig with Vedel,"education, observation, instruments, books & printing",A,9,12,yes
+stay-leipzig-1562,1562-03-24,1565-05-17,day,24 March 1562 – 17 May 1565,Leipzig,German lands,Germany,51.3397,12.3731,Leipzig with Vedel,"education, observation, instruments, books & printing",A,9,13,yes
 stay-copenhagen-1565,1565-05,1565-06,circa,c. May 1565 – June 1565,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,The Wanderjahre,"in transit, family",B,2,3,yes
 stay-wittenberg-1565,1565-05,1565-05,month,May 1565,Wittenberg,German lands,Germany,51.8662,12.6471,The Wanderjahre,"in transit, social visit",B,3,5,yes
 stay-rostock-1565,1565-05-25,1565-05,day,25 May 1565 (departure within the month),Rostock,German lands,Germany,54.0889,12.1400,The Wanderjahre,in transit,A,1,6,no
@@ -128,14 +128,14 @@ stay-lysa-1599,1599,1599,circa,c. 1599,Lysá nad Labem,Bohemia,Czech Republic,50
 stay-prague-1599,1599-06,1599-08,month,June 1599 – August 1599,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"court & patronage, exile, observation, instruments",A,13,11,yes
 stay-pretzsch-1599,1599-06-14,1599-06-15,day,14 June 1599 – 15 June 1599,Pretzsch,German lands,Germany,51.7150,12.8040,Bohemia,"in transit, social visit",A,1,5,yes
 stay-dresden-1599,1599-06-16,1599-06,day,16 June 1599 (departure within the month),Dresden,German lands,Germany,51.0502,13.7376,Bohemia,"in transit, family",A,5,6,yes
-stay-benatky-1599,1599-08-20,1600-06,range-uncertain,20 August 1599 – June 1600 (bounds uncertain),Benátky nad Jizerou,Bohemia,Czech Republic,50.2909,14.8230,Bohemia,"observation, instruments, alchemy & medicine, court & patronage, family, property",A,22,12,yes
+stay-benatky-1599,1599-08-20,1600-06,range-uncertain,20 August 1599 – June 1600 (bounds uncertain),Benátky nad Jizerou,Bohemia,Czech Republic,50.2909,14.8230,Bohemia,"observation, instruments, alchemy & medicine, court & patronage, family, property",A,22,13,yes
 stay-brandys-1599,1599-08-20,1599-08-21,day,20 August 1599 – 21 August 1599,Brandýs nad Labem,Bohemia,Czech Republic,50.1868,14.6646,Bohemia,"in transit, property",A,2,3,yes
 stay-girsitz-1599,1599-11,1600-01,month,November 1599 – January 1600,Girsitz (Jičice?),Bohemia,Czech Republic,,,Bohemia,"other, observation, in transit",B,2,4,yes
 stay-prague-1600a,1600-02,1600-03,circa,c. February 1600 – March 1600,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"court & patronage, social visit",B,3,2,yes
 stay-prague-1600b,1600-04,1600-04,circa,c. April 1600,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"social visit, in transit",B,3,2,no
 stay-prague-1600c,1600-05-01,1600-05-01,circa,c. 1 May 1600,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,social visit,A,3,3,no
-stay-prague-1600,1600-06,1601-10-24,range-uncertain,June 1600 – 24 October 1601 (bounds uncertain),Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"court & patronage, observation, books & printing, family, instruments, death & burial",A,24,12,yes
+stay-prague-1600,1600-06,1601-10-24,range-uncertain,June 1600 – 24 October 1601 (bounds uncertain),Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"court & patronage, observation, books & printing, family, instruments, death & burial",A,24,13,yes
 stay-prague-1600d,1600-12-02,1601-02,range-uncertain,2 December 1600 – February 1601 (bounds uncertain),Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"observation, instruments",B,1,4,yes
-stay-prague-1601,1601-02-25,1601-10-24,day,25 February 1601 – 24 October 1601,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"court & patronage, observation, family, death & burial",A,9,7,yes
+stay-prague-1601,1601-02-25,1601-10-24,day,25 February 1601 – 24 October 1601,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,"court & patronage, observation, family, death & burial",A,9,8,yes
 stay-prague-1601b,1601-10-13,1601-10-13,day,13 October 1601,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,social visit,A,2,8,yes
 stay-prague-1601c,1601-11-04,1601-11-04,day,4 November 1601,Prague,Bohemia,Czech Republic,50.0875,14.4213,Bohemia,death & burial,A,8,10,yes

@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.5",
- "edition_date": "2026-09-28",
+ "version": "1.6",
+ "edition_date": "2026-10-06",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
   {
@@ -2104,10 +2104,16 @@
     {
      "source": "S_LOCI_VERDEN",
      "pages": "scan p. 10"
+    },
+    {
+     "source": "S_LOCI_MAGASIN1987",
+     "pages": "p. 31",
+     "quote": "If. immatrikulationslisten for Leipzigs universitet blev Tycho Brahe sammen med Anders Sørensen Vedel og et par andre danske indskrevet St. Galli dag, 16. oktober 1561",
+     "note": "Against the 24 March 1562 of the biographies; recorded as a dispute, not adopted."
     }
    ],
    "grade": "A",
-   "disputes": "First recorded observation: Dreyer (p. 19) has 17 August 1563; Christianson 2020 (pp. 25–26) has first entry 18 August — Christianson followed (modern), Dreyer's day noted; Thoren gives only August 1563. Cross-staff origin: Thoren (pp. 18–19; his n. 27 hedges whether the two references are to one instrument) has Tycho ordering an Arscenius cross-staff from Louvain; Dreyer, Norlind and Christianson 2020 have a radius built at Leipzig after Gemma Frisius's instructions with Scultetus's transversal scale — both accounts preserved, not conflated. Norlind (p. 20) rejects Dreyer's inference of a second Leipzig sojourn in November 1565 as a copyist's misreading of the observation journal ('En andra resa till Leipzig kan det naturligtvis ej vara tal om') — no such stay created. Christianson 2000 gives no dates for Leipzig; its 1562–1565 span is this chapter's approximation, not that source's assertion."
+   "disputes": "First recorded observation: Dreyer (p. 19) has 17 August 1563; Christianson 2020 (pp. 25–26) has first entry 18 August — Christianson followed (modern), Dreyer's day noted; Thoren gives only August 1563. Cross-staff origin: Thoren (pp. 18–19; his n. 27 hedges whether the two references are to one instrument) has Tycho ordering an Arscenius cross-staff from Louvain; Dreyer, Norlind and Christianson 2020 have a radius built at Leipzig after Gemma Frisius's instructions with Scultetus's transversal scale — both accounts preserved, not conflated. Norlind (p. 20) rejects Dreyer's inference of a second Leipzig sojourn in November 1565 as a copyist's misreading of the observation journal ('En andra resa till Leipzig kan det naturligtvis ej vara tal om') — no such stay created. Christianson 2000 gives no dates for Leipzig; its 1562–1565 span is this chapter's approximation, not that source's assertion. Matriculation day: the Kronik of Magasin fra Det Kongelige Bibliotek 2:1 (1987), p. 31, reports that the Leipzig matriculation list enters Tycho, Vedel 'og et par andre danske' on St Gall's day, 16 October 1561; Stephanius put the matriculation in 1562, and Becker (who excerpted the list in 1844 and published it in 1862) treated the entry as a later insertion 'fejlskrevet for 1562'. The day followed here, 24 March 1562, rests on Thoren and the biographies, which may themselves follow Stephanius and Becker; the album decides, and the grade stands until it is read."
   },
   {
    "id": "stay-copenhagen-1565",
@@ -9193,10 +9199,16 @@
      "source": "S_LOCI_GRAPHONOMICON",
      "pages": "Graphonomicon specimen letter-hamburg-senate-1599",
      "note": "German administrative letter to the Hamburg senate on the transported household and instruments; archival endorsement 21 April 1600"
+    },
+    {
+     "source": "S_LOCI_MORTENSEN1942",
+     "pages": "pp. 14–15",
+     "quote": "circ. 38 Kil. N.O. for Prag",
+     "note": "Nothing of Tycho's buildings survives at Benátky; the iron north–south rod in the second-floor room, Dreyer's 'Sonnenuhr' (1894, p. 303), is not Tycho's; a sgraffito of a hunter and dog was uncovered about 1940."
     }
    ],
    "grade": "A",
-   "disputes": "Departure for Prague: observations end at the end of June 1600 (Studnicka; Christianson 2020 has the household leave after Rudolf's 10 June return) vs early July (Norlind) vs c. August on Barvitius's advice (Dreyer); June followed as the modern consensus, with Friis's dateline gap (15 May 1600 Benátky — 26 September 1600 Prague) bracketing it. Kepler's arrival: 3 February 1600 (Dreyer, McEvoy in Crossroads) vs 4 February summons (Christianson 2020) vs 'January to Prague' (Jönsson, outlier) — 3 February followed. Longomontanus's discharge: 18 July 1600 at Benátky (Christianson 2000) vs 4 August / August 1600 (Christianson 2020, Friis, Norlind, Dreyer). The Hamburg-senate letter's two internal datings (29 September 1599 slug vs '27 jan. n.s. Benatky') disagree; both place Tycho at Benátky in 1599–1600. Jönsson places Benátky 'southwest' of Prague — a geographical error; the castle lies northeast."
+   "disputes": "Departure for Prague: observations end at the end of June 1600 (Studnicka; Christianson 2020 has the household leave after Rudolf's 10 June return) vs early July (Norlind) vs c. August on Barvitius's advice (Dreyer); June followed as the modern consensus, with Friis's dateline gap (15 May 1600 Benátky — 26 September 1600 Prague) bracketing it. Kepler's arrival: 3 February 1600 (Dreyer, McEvoy in Crossroads) vs 4 February summons (Christianson 2020) vs 'January to Prague' (Jönsson, outlier) — 3 February followed. Longomontanus's discharge: 18 July 1600 at Benátky (Christianson 2000) vs 4 August / August 1600 (Christianson 2020, Friis, Norlind, Dreyer). The Hamburg-senate letter's two internal datings (29 September 1599 slug vs '27 jan. n.s. Benatky') disagree; both place Tycho at Benátky in 1599–1600. Jönsson places Benátky 'southwest' of Prague — a geographical error; the castle lies northeast. Distance from Prague: c. 35 km northeast (this record) against Mortensen's 'circ. 38 Kil. N.O. for Prag' (1942, p. 14) — both recorded."
   },
   {
    "id": "stay-brandys-1599",
@@ -9628,10 +9640,15 @@
      "source": "S_LOCI_KB_BREVBOGER",
      "pages": "Danske Magazin II (1746), pp. 353–354",
      "quote": "i Staden Prag, hvor han d. 24. Octob. 1601. ved Døden afgik"
+    },
+    {
+     "source": "S_LOCI_MORTENSEN1942",
+     "pages": "p. 16",
+     "note": "The Capuchin legend's witnesses: Mädler via a Strahov note, the Capuchins' arrival 1600, the Loreto protocol 1600, Heiberg's Urania 1846, p. 136; Tycho silent."
     }
    ],
    "grade": "A",
-   "disputes": "Start of the permanent Prague residence: June 1600 on Rudolf's 10 June return (Thoren, Christianson 2000/2020, Jönsson) vs 'about the beginning of July' (Norlind, from the 3 August postscript 'called a month ago') vs 'about August' (Dreyer) — June followed (modern consensus); Friis's datelines bracket it 15 May – 26 September 1600, his 26 July 'In eil, Prag' letter possibly the move itself. Death date: 24 October 1601 unanimous against Kepler's '24 November' slip (Gassendi's refutation) and the older '13 October old style' (Studnicka's correction: 13 October n.s. is the banquet). Time of death: 'around nine that evening' (Christianson 2020) vs 'between nine and ten in the forenoon' (Jönsson) vs morning (Friis, Dreyer) — morning better attested. Elisabeth's wedding: 17 June 1601 (Thoren, Jönsson, Christianson) vs Friis's 'between Easter and Pentecost 1601'. Cause of death: uraemia from prostatic hypertrophy (Norlind; modern opinion per Thoren; Christianson via Jessenius) vs the contemporary stone attribution (Wittich; no stones found at exhumation); mercury poisoning is excluded by the 2010 exhumation and uraemia is consistent but unproven — Christianson 2000's 'body heavy with quicksilver from Paracelsian elixirs' is not carried as fact. Norlind judges the Capuchin-protocol account of Tycho's court role 'extremely tendentious and certainly historically false in most points'."
+   "disputes": "Start of the permanent Prague residence: June 1600 on Rudolf's 10 June return (Thoren, Christianson 2000/2020, Jönsson) vs 'about the beginning of July' (Norlind, from the 3 August postscript 'called a month ago') vs 'about August' (Dreyer) — June followed (modern consensus); Friis's datelines bracket it 15 May – 26 September 1600, his 26 July 'In eil, Prag' letter possibly the move itself. Death date: 24 October 1601 unanimous against Kepler's '24 November' slip (Gassendi's refutation) and the older '13 October old style' (Studnicka's correction: 13 October n.s. is the banquet). Time of death: 'around nine that evening' (Christianson 2020) vs 'between nine and ten in the forenoon' (Jönsson) vs morning (Friis, Dreyer) — morning better attested. Elisabeth's wedding: 17 June 1601 (Thoren, Jönsson, Christianson) vs Friis's 'between Easter and Pentecost 1601'. Cause of death: uraemia from prostatic hypertrophy (Norlind; modern opinion per Thoren; Christianson via Jessenius) vs the contemporary stone attribution (Wittich; no stones found at exhumation); mercury poisoning is excluded by the 2010 exhumation and uraemia is consistent but unproven — Christianson 2000's 'body heavy with quicksilver from Paracelsian elixirs' is not carried as fact. Norlind judges the Capuchin-protocol account of Tycho's court role 'extremely tendentious and certainly historically false in most points'. The legend of the Capuchins' night-singing and Tycho's complaint, with the witnesses Mortensen lists (1942, p. 16): Mädler, from a note at Strahov; the Capuchins' arrival in Prague in 1600; the Loreto protocol for 1600; Heiberg, Urania 1846, p. 136 — and Tycho himself silent on it."
   },
   {
    "id": "stay-prague-1600d",
@@ -9788,10 +9805,16 @@
      "source": "S_LOCI_GRAPHONOMICON",
      "pages": "the site record (§5); Graphonomicon, specimen prague-nm-krivoklat-pruskowski",
      "quote": "Tycho's principal Prague residence for most of his Bohemian years ... the house in which he died on 24 October 1601"
+    },
+    {
+     "source": "S_LOCI_MORTENSEN1942",
+     "pages": "p. 16",
+     "quote": "Den 10 April 1601 var alle Instrumenterne fra Belvedere overflyttet til Curtius's Hus og de astronomiske Observationer blev nu genoptaget.",
+     "note": "Recorded beside the stored dates, not over them; the hour of death as he prints it, 'mellem 9 og 10 Form.'"
     }
    ],
    "grade": "A",
-   "disputes": "Move-in date: 25 February 1601 (Dreyer, Friis, Christianson 2020) vs 23 February at dawn (Norlind) — 25 February followed as better attested. The Crossroads/Studnicka sources call the house his 'last workplace' and say he died at his Prague 'home' without one sentence uniting the two; that he died in the Curtius house is standard (so the site record) but partly inferential in those witnesses."
+   "disputes": "Move-in date: 25 February 1601 (Dreyer, Friis, Christianson 2020) vs 23 February at dawn (Norlind) — 25 February followed as better attested. The Crossroads/Studnicka sources call the house his 'last workplace' and say he died at his Prague 'home' without one sentence uniting the two; that he died in the Curtius house is standard (so the site record) but partly inferential in those witnesses. Mortensen 1942, p. 16, gives 10 April 1601 as the day by which all the instruments had been moved from the Belvedere to the Curtius house and observing resumed — against the 25 February move-in, the 28 February culmination and the resumption of 3 March followed here from the observations; and he prints the hour of death as 'mellem 9 og 10 Form.', a reading not verified against the protocol."
   },
   {
    "id": "stay-prague-1601b",
@@ -11212,7 +11235,7 @@
    "lon": 8.6821,
    "claim": "Tycho attended the Frankfurt book fairs in person as buyer and distributor.",
    "verdict": "debunked",
-   "narrative": "From Hven, Tycho worked the fairs entirely at arm's length: marked-up fair catalogues sent via Vedel to a Copenhagen intermediary (May 1579), merchant-couriers and Copenhagen dealers; type fonts were obtained at the fair through agents, and Hans Aalborg distributed the Uraniborg broadsides at the 1585 fair. No source places Tycho at a fair. Distinct from the 1575 pass-through visit to Frankfurt, which is attested and kept as a stay.",
+   "narrative": "From Hven, Tycho worked the fairs entirely at arm's length: marked-up fair catalogues sent via Vedel to a Copenhagen intermediary (May 1579), merchant-couriers and Copenhagen dealers; type fonts were obtained at the fair through agents, and Hans Aalborg distributed the Uraniborg broadsides at a Frankfurt fair — 1585 on Christianson's account, 1587 on Rothmann's letter of that September. No source places Tycho at a fair. Distinct from the 1575 pass-through visit to Frankfurt, which is attested and kept as a stay.",
    "evidence": [
     {
      "source": "S_LOCI_MOSLEY",
@@ -11223,9 +11246,15 @@
      "source": "S_LOCI_CHRISTIANSON2020",
      "pages": "pp. 123, 136",
      "note": "Agents went: printer Joachim (1584), Hans Aalborg (1585)."
+    },
+    {
+     "source": "S_LOCI_NIELSEN",
+     "pages": "p. 179",
+     "note": "Rothmann's letter of 21 September 1587 (Opera omnia VI, 117): the poems distributed by Hans Aalborg 'paa sidste Frankfurter-Messe' — a 1587 fair rather than 1585."
     }
    ],
-   "grade": "A"
+   "grade": "A",
+   "disputes": "Which fair Hans Aalborg distributed the Uraniborg poems at: 1585 (Christianson 2020, pp. 123, 136) against Rothmann's letter of 21 September 1587 (Opera omnia VI, 117), which reports the distribution at 'sidste Frankfurter-Messe' and so points to a 1587 fair (Nielsen 1921, p. 179) — open until the letter is re-read against Christianson's basis."
   },
   {
    "id": "nv-frauenburg-1584",
@@ -12299,7 +12328,7 @@
    "lat": 55.9076,
    "lon": 12.6959,
    "fate": "lost with Uraniborg",
-   "description": "Uraniborg's library, which among its treasures held the great brass globe (globus magnus orichalcicus) onto which Tycho engraved his measured star positions.",
+   "description": "Uraniborg's library, which among its treasures held the great brass globe (globus magnus orichalcicus) onto which Tycho engraved his measured star positions. On the wall between the windows hung painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus, to which Tycho appended verses — the Ptolemy and Copernicus verses, dated 1 and 2 October 1584, are printed in the Epistolae (1596), pp. 239–240; the round room measured, by Mortensen's reckoning, 5 m in diameter (1955, p. 31).",
    "edges": [
     [
      "housed",
@@ -12308,7 +12337,9 @@
    ],
    "sources": [
     "S_LOCI_CHRISTIANSON",
-    "S_LOCI_DREYER"
+    "S_LOCI_DREYER",
+    "S_LOCI_EPISTOLAE1596",
+    "S_LOCI_MORTENSEN1955"
    ],
    "place": "place-hven",
    "attested_by": "Described in Tycho's own published account of Uraniborg (Mechanica, 1598), which places the great brass globe in the library (Dreyer 1890)."
@@ -12324,7 +12355,7 @@
    "lat": 55.9071,
    "lon": 12.6958,
    "fate": "lost; the press and types dispersed after Tycho left Hven",
-   "description": "Tycho's own printing house, established on Hven in 1584 so that he controlled his own means of publication and distribution. Its earliest known imprint is the memorial broadsheet Epitaphium Johannis Pratensis (1584); the earliest DATED piece is the occasional pøm Carmen ad Jacobum Ulfeldium, inscribed 'Uraniburgi, 7 Kal. Decemb.' = 25 November 1584 (Nielsen, Bogtrykkeri paa Hveen, p. 176 — correcting the sometimes-cited 27 November 1584, which conflates the date and the piece). The first true book was Elias Olsen Morsing's Diarium astrologicum et meteorologicum / Calendarium (calendar set late 1585, issued 1586). The press went on to produce De mundi (1588), the Danish-language Flemløs Astrologia (1591), the Epistolae (1596) and the advance sheets of the Progymnasmata (1592) — a work only completed at Prague in 1602.",
+   "description": "Tycho's own printing house, established on Hven in 1584 so that he controlled his own means of publication and distribution. The first thing printed was the poem to Erik Lange, on 27 November 1584, by Tycho's own protocol entry in the 1584 observation volume — 'omnium primo Carmen ad Ericum Lange' in his hand (Opera omnia X, 302; Friis 1868–69, p. 253) — of which no copy survives; the memorial broadsheet Epitaphium Johannis Pratensis (1584) is the earliest print of which a copy survives, and the occasional poem Carmen ad Jacobum Ulfeldium, inscribed 'Uraniburgi, 7 Kal. Decemb.' = 25 November 1584, carries the earliest printed date (Nielsen 1921, pp. 178–179). The first true book was Elias Olsen Morsing's Diarium astrologicum et meteorologicum / Calendarium (calendar set late 1585, issued 1586). The press went on to produce De mundi (1588), the Danish-language Flemløs Astrologia (1591), the Epistolae (1596) and the advance sheets of the Progymnasmata (1592) — a work only completed at Prague in 1602.",
    "edges": [
     [
      "printed",
@@ -12346,7 +12377,8 @@
    "sources": [
     "S_LOCI_CHRISTIANSON",
     "S_LOCI_DREYER",
-    "S_LOCI_NIELSEN"
+    "S_LOCI_NIELSEN",
+    "S_LOCI_FRIIS1868"
    ],
    "place": "place-hven",
    "attested_by": "Attested by the surviving Uraniborg imprints themselves and by Tycho's correspondence; documented in Nielsen, Tyge Brahes Bogtrykkeri paa Hveen (1921)."
@@ -12362,12 +12394,14 @@
    "lat": 55.905,
    "lon": 12.699,
    "fate": "lost; derelict by 1602 and demolished for salvage on royal order (26 June 1602, to lensmand Cort Barleben; KB 1596–1602 p. 751); site rediscovered and excavated 1933–34",
-   "description": "The paper mill on Hven that fed Tycho's press — its production a recurring concern in the correspondence (the two papermakers who absconded delayed the Progymnasmata, as Tycho complained to Hájek). Royal chancery records fix the mill's economics and fate: a privilege of 2 March 1592 ordered all inhabitants of Nørrejylland to sell their old linen rags (Lumper) to Tycho before anyone else, since he 'har anlagt en Papirmølle paa Hveen' and needed them to make paper (KB 1588–92 p. 750). A demolition order of 26 June 1602 to the new lensmand Cort Barleben locates the works 'syd for Uraniborg' and calls it a 'Stampemølle eller Papirmølle,' by then wholly derelict, to be torn down and its usable timber and stone re-used (KB 1596–1602 p. 751). The mill dam was built by Valentin von Spangenberg (also written 'Valenthin'), a hydraulic engineer previously employed by Frederick II at Kronborg (1578–88), who arrived on Hven in 1589. The Meteorological Diary records on 26 June 1589 that Valentin promised to complete the mølledæmning (mill dam) within four weeks, and on 22 July 1590: 'Abijt Valentinus opere aggeris apud molendinum confecto' — Valentin departed after completing the dam work (Vellev 2017, from TBOO IX). Tycho named the paper mill's purpose explicitly in a letter to Christoph Rothmann of 24 November 1589 (TBOO VI); Christian IV ordered oak timber felled for the stamp press in a letter to Kirsten Lindenov (Steen Bille's widow, Tycho's aunt) dated 19 March 1590 (Kancelliets Brevbøger 1588–1592, 360). Its ruined site was rediscovered by the amateur astronomer N. A. Møller Nicolaisen (1874–1954), who on a 1929 visit to Hven noticed a man-made mound and identified it as the fallen paper mill; the Scandinavian Tycho Brahe Foundation funded his excavations of 1933–34, an archæological sensation of the period (Vellev 2002). Vellev's account of the excavation (2002) fills in the site. Tycho wrote to a correspondent in Germany in 1589 that the mill was already finished — a high, wide embankment regulating the water, a wheel of about seven metres driven by the least possible water and powering two other works besides the paper-making, fishponds laid out to feed it — but the monument he set on the embankment dates the work 'begun 1590, completed 1592', and Vellev reads the letter as ahead of the fact. The stone, moved to Knutstorp probably in 1740 and still on the outer wall of the main building there, is split from top to bottom with its back half lost, the inscription badly worn; it was re-examined in 1996. Earlier writers had put the mill at the stream's present outfall into the Sound; Møller Nicolaisen placed it about eighty metres further north, at the five-metre contour below the dam whose crest reaches thirteen metres (surveyed by G. Wilske, 1932–33). Digging began on 24 July 1933 with Torsten Mårtensson of the Helsingborg museum attached for the measurements: roof tiles and glazed flagstones on the first day, vertical posts and fieldstones a couple of metres down, then a stone-built wheel-race full of mud, and on 1 August, at its bottom, a 2.5-metre fragment of the wheel — an oak rim 26 cm wide with its grooves cut out, bucket-boards of pine, the diameter computed at 6.94 metres; conserved at the National Museum in Copenhagen, it is shown in the museum by Uraniborg. A shaft four metres down from the dam's crest found the wood-and-iron launder that had carried water from the last pond over the top of the wheel. The Swedish crown prince and princess were shown the site on 22 July 1934; when the second season closed the cleared area was covered over and marked with four concrete posts. The finds are divided between the museum on Hven and the Museum of Cultural History in Lund, the Swedish participants' negatives between Helsingborg and Stockholm; Møller Nicolaisen's reconstructions of the ground plan (water wheel, rag beater, hammer mill for hides, grindstone, parchment room, forming room, a room of Tycho's own) and of the north-west front are, in Vellev's words, attempts of which almost every solution can be questioned. He published in Nordisk Astronomisk Tidsskrift (1930–38) and in Tycho Brahes Papirmølle paa Hven (Gyldendal, 1946); his archive — measurements, photographs, correspondence and the slide series of his lectures — passed to Vellev in 1996. Of the mill's paper three watermarks are known: Uraniborg with the legend VRANIBVRGVM, and two with the Brahe arms, the first two on book paper and the third on writing paper.",
+   "description": "The paper mill on Hven that fed Tycho's press — its production a recurring concern in the correspondence (the two papermakers who absconded delayed the Progymnasmata, as Tycho complained to Hájek). Royal chancery records fix the mill's economics and fate: a privilege of 2 March 1592 ordered all inhabitants of Nørrejylland to sell their old linen rags (Lumper) to Tycho before anyone else, since he 'har anlagt en Papirmølle paa Hveen' and needed them to make paper (KB 1588–92 p. 750). A demolition order of 26 June 1602 to the new lensmand Cort Barleben locates the works 'syd for Uraniborg' and calls it a 'Stampemølle eller Papirmølle,' by then wholly derelict, to be torn down and its usable timber and stone re-used (KB 1596–1602 p. 751). The mill dam was built by Valentin von Spangenberg (also written 'Valenthin'), a hydraulic engineer previously employed by Frederick II at Kronborg (1578–88), who arrived on Hven in 1589. The Meteorological Diary records on 26 June 1589 that Valentin promised to complete the mølledæmning (mill dam) within four weeks, and on 22 July 1590: 'Abijt Valentinus opere aggeris apud molendinum confecto' — Valentin departed after completing the dam work (Vellev 2017, from TBOO IX). Tycho named the paper mill's purpose explicitly in a letter to Christoph Rothmann of 24 November 1589 (TBOO VI); Christian IV ordered oak timber felled for the stamp press in a letter to Kirsten Lindenov (Steen Bille's widow, Tycho's aunt) dated 19 March 1590 (Kancelliets Brevbøger 1588–1592, 360). Its ruined site was rediscovered by the amateur astronomer N. A. Møller Nicolaisen (1874–1954), who on a 1929 visit to Hven noticed a man-made mound and identified it as the fallen paper mill; the Scandinavian Tycho Brahe Foundation funded his excavations of 1933–34, an archæological sensation of the period (Vellev 2002). Vellev's account of the excavation (2002) fills in the site. Tycho wrote to a correspondent in Germany in 1589 that the mill was already finished — a high, wide embankment regulating the water, a wheel of about seven metres driven by the least possible water and powering two other works besides the paper-making, fishponds laid out to feed it — but the monument he set on the embankment dates the work 'begun 1590, completed 1592', and Vellev reads the letter as ahead of the fact. The stone, moved to Knutstorp probably in 1740 and still on the outer wall of the main building there, is split from top to bottom with its back half lost, the inscription badly worn; it was re-examined in 1996. Earlier writers had put the mill at the stream's present outfall into the Sound; Møller Nicolaisen placed it about eighty metres further north, at the five-metre contour below the dam whose crest reaches thirteen metres (surveyed by G. Wilske, 1932–33). Digging began on 24 July 1933 with Torsten Mårtensson of the Helsingborg museum attached for the measurements: roof tiles and glazed flagstones on the first day, vertical posts and fieldstones a couple of metres down, then a stone-built wheel-race full of mud, and on 1 August, at its bottom, a 2.5-metre fragment of the wheel — an oak rim 26 cm wide with its grooves cut out, bucket-boards of pine, the diameter computed at 6.94 metres; conserved at the National Museum in Copenhagen, it is shown in the museum by Uraniborg. A shaft four metres down from the dam's crest found the wood-and-iron launder that had carried water from the last pond over the top of the wheel. The Swedish crown prince and princess were shown the site on 22 July 1934; when the second season closed the cleared area was covered over and marked with four concrete posts. The finds are divided between the museum on Hven and the Museum of Cultural History in Lund, the Swedish participants' negatives between Helsingborg and Stockholm; Møller Nicolaisen's reconstructions of the ground plan (water wheel, rag beater, hammer mill for hides, grindstone, parchment room, forming room, a room of Tycho's own) and of the north-west front are, in Vellev's words, attempts of which almost every solution can be questioned. He published in Nordisk Astronomisk Tidsskrift (1930–38) and in Tycho Brahes Papirmølle paa Hven (Gyldendal, 1946); his archive — measurements, photographs, correspondence and the slide series of his lectures — passed to Vellev in 1996. Of the mill's paper three watermarks are known: Uraniborg with the legend VRANIBVRGVM, and two with the Brahe arms, the first two on book paper and the third on writing paper. Nielsen's dated bounds for the mill: by 25 January 1590 Tycho had engaged a papermaker 'til sin nye Papirmølle' and sent him to Lübeck, where he went missing, and by 3 August 1590 both papermakers were gone (Nielsen 1921, p. 191); the preface to Flemløs's Astrologia of June 1591 attests the mill at work — 'hand lader nu paa sin Papyr Mølle … berede Papyr vdi forraad til samme Opera' (p. 192). Nielsen knew the mill's paper by two watermarks; Vellev counts three. An object to check: Paulli and Dal (1959, p. 13) record in Harald Mortensen's collection at the Royal Library 'et dejligt stykke gammel eg, som har været hjulskovl i Uraniborgs papirmølle', excavated in 1933 and given by forvalter Gösta Alm on Hven — a paddle-wheel blade distinct from, or part of, the wheel fragment conserved at the National Museum.",
    "edges": [],
    "sources": [
     "S_LOCI_CHRISTIANSON",
     "S_LOCI_VELLEV",
-    "S_LOCI_VELLEV2017"
+    "S_LOCI_VELLEV2017",
+    "S_LOCI_NIELSEN",
+    "S_LOCI_PAULLI1959"
    ],
    "place": "place-hven",
    "links": [
@@ -12455,6 +12489,27 @@
    "place": "place-benatky"
   },
   {
+   "id": "site-golden-griffin",
+   "label": "The Golden Griffin inn (U Zlatého noha), Nový Svět — Tycho's first Prague lodging of 1600",
+   "date": "1600",
+   "year_start": 1600,
+   "year_end": 1600,
+   "status": "extant",
+   "grade": "B",
+   "lat": 50.092,
+   "lon": 14.392,
+   "fate": "the house stands — the present two-storey building of 15 × 9 m on Nový Svět, cadastral number 76/IV, with a memorial plaque of 1901",
+   "description": "The inn 'at the Golden Griffin' on Nový Svět, the lane below the castle on the north side of Hradčany, where Tycho and his household were put up when the Emperor's summons brought them from Benátky in June 1600 — 'Eram adhuc in publico hospitio apud Insigne aurei Gryphei', he wrote to Kepler in August 1600 (Opera omnia VIII, 341), before he rented a house near Baron Hoffmann's. The identification with the present house, cadastral number 76/IV, which carries a plaque of 1901, was doubted by Jansa and Herain in 1902; Kølln gives the building as two storeys of 15 × 9 m (Kølln 1995, pp. 67, 69). Norlind dates the move to about the beginning of July 1600, the modern biographies to June; the lodging lasted weeks, not months. Grade B: the lodging is Tycho's own statement, the house's identification a local tradition questioned in print.",
+   "edges": [],
+   "sources": [
+    "S_LOCI_KOLLN1995",
+    "S_LOCI_THOREN",
+    "S_LOCI_NORLIND"
+   ],
+   "place": "place-prague",
+   "attested_by": "Tycho's own letter to Kepler of August 1600, 'apud Insigne aurei Gryphei' (Opera omnia VIII, 341); the house's identification by the 1901 plaque and the local tradition (Kølln 1995)."
+  },
+  {
    "id": "site-curtius-house",
    "label": "The Curtius (Kurtz) house — Tycho's Prague residence and place of death",
    "date": "1600–1601",
@@ -12464,8 +12519,8 @@
    "grade": "B",
    "lat": 50.088,
    "lon": 14.39,
-   "fate": "demolished; only a 7×16 m foundation remnant survives by a later school; statues of Tycho and Kepler stand on the site (since 1984)",
-   "description": "The summer home built by the imperial vice-chancellor Jacob Kurtz (Curtius), a few minutes' walk west of the Imperial Castle on the Hradčany hill — Tycho's principal Prague residence for most of his Bohemian years (the 20,000-gulden edifice he described) and the house in which he died on 24 October 1601. After his death the imperial-purchased instruments were vaulted under this very house before passing to the Belvedere garden (Dreyer, p. 365; cf. site-belvedere). Only a 7×16 m foundation remnant survives by a later school (Thoren, Appendix 5). Kurtz did not live to see the letter he had written to Tycho printed in the Mechanica: he died in 1594 at the age of forty, 'as can be read on his gravestone in the St. Thomas' church in the Lesser Town of Prague', and the house he had built on Pohořelec, to which he had once invited Tycho, was bought from his widow by the Emperor — the house in which Tycho and later Kepler found their common lodging (Hadravová, Hadrava & Shackelford 1996, Prologue p. viii).",
+   "fate": "demolished — the observation tower was still standing in 1804, when Alois David measured it (Trigonometrische Vermessungen, Prague 1805); the foundations were excavated in 1902 and again in 1930–31 when the school was built, with an official report and measurements by R. Hlubinka (Zprávy Památkového Sboru hlav. města Prahy, 1931, p. 131); a 7×16 m remnant is fenced in the park before the school; a plinth was unveiled in 1971 after that year's statue competition, and Josef Vajce's statue of Tycho and Kepler was placed on it in 1983 (Kølln 1995, p. 67) or 1984 (this record's earlier figure, uncited) — both recorded until settled",
+   "description": "The summer home built by the imperial vice-chancellor Jacob Kurtz (Curtius), a few minutes' walk west of the Imperial Castle on the Hradčany hill — Tycho's principal Prague residence for most of his Bohemian years (the 20,000-gulden edifice he described) and the house in which he died on 24 October 1601. After his death the imperial-purchased instruments were vaulted under this very house before passing to the Belvedere garden (Dreyer, p. 365; cf. site-belvedere). Only a 7×16 m foundation remnant survives by a later school (Thoren, Appendix 5). Kurtz did not live to see the letter he had written to Tycho printed in the Mechanica: he died in 1594 at the age of forty, 'as can be read on his gravestone in the St. Thomas' church in the Lesser Town of Prague', and the house he had built on Pohořelec, to which he had once invited Tycho, was bought from his widow by the Emperor — the house in which Tycho and later Kepler found their common lodging (Hadravová, Hadrava & Shackelford 1996, Prologue p. viii). Mortensen, visiting in the 1930s, gives the excavated ground plan as 'cir. 17 M. i □', describes from the excavation reports walls painted in fresco, door frames of red marble and sandstone windows with gilded palmettes, and notes the tower still on David's survey of 1804 (Mortensen 1942, pp. 17–18); Kølln adds the excavations of 1902 and 1931 under R. Hlubinka's report, the plaque at the school entrance, Antonín Lhoták's bust inside, and the 1971 competition whose third-prize winner, Josef Vajce, made the statue placed in 1983 (Kølln 1995, p. 67).",
    "edges": [
     [
      "site_of",
@@ -12475,7 +12530,9 @@
    "sources": [
     "S_LOCI_THOREN",
     "S_LOCI_DREYER",
-    "S_LOCI_AIM1996"
+    "S_LOCI_AIM1996",
+    "S_LOCI_MORTENSEN1942",
+    "S_LOCI_KOLLN1995"
    ],
    "place": "place-prague",
    "attested_by": "Described in Tycho's own letters from Prague; contemporary records place his death there on 24 October 1601 (Dreyer 1890; Thoren, The Lord of Uraniborg, 1990)."
@@ -12597,9 +12654,11 @@
    "instruments": [
     "inst-globe"
    ],
-   "description": " Tycho's own inventory of the museum (Opera omnia VI, 268, as quoted by Hadravová, Hadrava & Shackelford 1996, n. 263, pp. 148–149): the great globe in the middle of the round room, six or eight other globes celestial and terrestrial, smaller instruments, and on the wall between the windows painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus, a portrait of Landgrave Wilhelm of Hesse, a likeness of the Scottish poet George Buchanan given by 'Peter Iunius' during a visit — which James VI, entering the study in 1590, recognised at once as his former tutor and applauded — and seven Italian philosophers on one board; Plato's Epinomis on the way to wisdom through 'the one and true science of numbers and celestial motions' in gold letters on a porphyry stone.",
+   "description": " Tycho's own inventory of the museum (Opera omnia VI, 268, as quoted by Hadravová, Hadrava & Shackelford 1996, n. 263, pp. 148–149): the great globe in the middle of the round room, six or eight other globes celestial and terrestrial, smaller instruments, and on the wall between the windows painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus, a portrait of Landgrave Wilhelm of Hesse, a likeness of the Scottish poet George Buchanan given by 'Peter Iunius' during a visit — which James VI, entering the study in 1590, recognised at once as his former tutor and applauded — and seven Italian philosophers on one board; Plato's Epinomis on the way to wisdom through 'the one and true science of numbers and celestial motions' in gold letters on a porphyry stone. Tycho appended verses to the portrait boards; those for Ptolemy and Copernicus are printed in the Epistolae (1596), pp. 239–240 (= Opera omnia VI, 269–271), dated 1 and 2 October 1584 — a terminus ante quem for those two boards — and the Copernicus board carried a likeness 'quam ipsemet sua manu e speculo depinxisse dicitur', said to have been painted by Copernicus himself from a mirror. Mortensen gives the round room's diameter as 5 m (1955, p. 31).",
    "sources": [
-    "S_LOCI_AIM1996"
+    "S_LOCI_AIM1996",
+    "S_LOCI_EPISTOLAE1596",
+    "S_LOCI_MORTENSEN1955"
    ]
   },
   {
@@ -13014,6 +13073,52 @@
    "label": "Hadravová, Hadrava & Shackelford, Instruments of the Renewed Astronomy (1996)",
    "full": "Alena Hadravová, Petr Hadrava & Jole R. Shackelford (eds.), Tycho Brahe: Instruments of the Renewed Astronomy. English translation (Raeder et al. 1946) revised and commented (Praha: KLP – Koniasch Latin Press, 1996; Clavis monumentorum litterarum, Regnum Bohemiae 2, Facsimilia – Translationes 1), xv + 175 pp. The English volume of the 450th-anniversary set (with a colour facsimile of the Křivoklát copy and a complete Czech translation): Ræder's 1946 translation revised for fidelity to the Latin, the preface to Rudolf II translated for the first time, and 301 notes — philological, astronomical (Hadrava), biographical and classical — cross-referred to Opera omnia.",
    "contributes": "The English Mechanica with its commentary: the Uraniborg foundation stone's inscription and its date discrepancy, the 1988 excavations and the 1992 garden, the museum's portraits from Opera omnia VI, Kurtz's death and the purchase of his house, and the metric distances and size of Hven."
+  },
+  {
+   "id": "S_LOCI_MORTENSEN1942",
+   "label": "Mortensen, 'Tycho Brahe Minder i Prag' (1942)",
+   "full": "Harald Mortensen, 'Tycho Brahe Minder i Prag', Astronomiska Sällskapet Tycho Brahe, Årsbok 1942 (Lund, 1942), pp. 13–27 (offprint).",
+   "contributes": "The Prague topography as a Danish visitor of the 1930s found it: the Curtius house and its excavations, the Capuchin legend's witnesses, his 10 April 1601 for the instruments' transfer, Benátky's distance and what survives there.",
+   "url": "https://slaegtsbibliotek.dk/2024/946436.pdf",
+   "url_label": "digitised (Danskernes Historie Online)"
+  },
+  {
+   "id": "S_LOCI_FRIIS1868",
+   "label": "Friis, 'Tyge Brahes Haandskrifter i Wien og Prag' (1868–69)",
+   "full": "F. R. Friis, 'Tyge Brahes Haandskrifter i Wien og Prag', Danske Samlinger for Historie, Topographi, Personal- og Literaturhistorie IV (Copenhagen, 1868–69), pp. 250–268.",
+   "contributes": "Tycho's own protocol entry of 27 November 1584 on the first thing printed at Uraniborg, quoted from the 1584 Vienna volume (p. 253)."
+  },
+  {
+   "id": "S_LOCI_KOLLN1995",
+   "label": "Kølln, 'Danskere i Prag omkring år 1600' (1995)",
+   "full": "Herman Kølln, 'Danskere i Prag omkring år 1600', Magasin fra Det Kongelige Bibliotek 9:4 (1995), pp. 64–75.",
+   "contributes": "The Prague sites as a resident Dane described them in the 1990s: the Golden Griffin inn with its cadastral number and plaque, the Curtius-house excavations, the 1971 competition and the 1983 statue."
+  },
+  {
+   "id": "S_LOCI_MAGASIN1987",
+   "label": "Magasin fra Det Kongelige Bibliotek 2:1 (1987), Kronik",
+   "full": "'Kronik', Magasin fra Det Kongelige Bibliotek 2:1 (1987), pp. 31–33 — the notice of the Handels- og Søfartsmuseet's deposit of Tycho's 1561 Sammelband in the Royal Library's manuscript department, with the Leipzig matriculation entry.",
+   "contributes": "The Leipzig matriculation list's entry of St Gall's day, 16 October 1561, against Stephanius's 1562 and Becker's reading of the entry as a later insertion."
+  },
+  {
+   "id": "S_LOCI_PAULLI1959",
+   "label": "Paulli & Dal, 'Harald Mortensen og hans bogsamling' (Fund og Forskning V–VI, 1959)",
+   "full": "R. Paulli and Erik Dal, 'Harald Mortensen og hans bogsamling', Fund og Forskning i Det kongelige Biblioteks Samlinger V–VI (1958–59), pp. 7–18.",
+   "contributes": "The oak paddle-wheel blade from the paper mill, excavated 1933 and given by forvalter Gösta Alm, in Mortensen's collection at the Royal Library (p. 13)."
+  },
+  {
+   "id": "S_LOCI_MORTENSEN1955",
+   "label": "Mortensen, 'Fra Tycho Brahes Bogsamling' (Fund og Forskning 2, 1955)",
+   "full": "Harald Mortensen, 'Fra Tycho Brahes Bogsamling', Fund og Forskning i Det kongelige Biblioteks Samlinger 2 (1955), pp. 25–32.",
+   "contributes": "The round library room's diameter, 5 m (p. 31).",
+   "url": "https://tidsskrift.dk/fundogforskning/article/view/41107",
+   "url_label": "open access (tidsskrift.dk)"
+  },
+  {
+   "id": "S_LOCI_EPISTOLAE1596",
+   "label": "Tycho Brahe, Epistolae astronomicae (Uraniborg, 1596)",
+   "full": "Tycho Brahe, Epistolarum astronomicarum libri (Uraniborg, 1596), pp. 238–240 = Opera omnia VI, 268–271: Tycho's own description of the Museum at Uraniborg, with the verses he appended to the painted boards of Ptolemy (dated Kal. Octob. 1584) and Copernicus (2 October 1584).",
+   "contributes": "The Museum's painted boards and the dated verses beneath them — a terminus ante quem of October 1584 for the Ptolemy and Copernicus boards."
   }
  ]
 }

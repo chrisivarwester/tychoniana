@@ -963,7 +963,7 @@
    "year": "1584",
    "author": "TYCHO",
    "nielsen": "",
-   "note": "Tycho's Latin elegy in praise of Claudius Ptolemy, dated 1 Oct 1584, 16 elegiac distichs; published (with facsimile) by M. Brøndsted, 'Et ukendt digt af Tycho Brahe', Fund og Forskning 9 (1962) 71–78. Survives only in G. L. Frobenius's 1644 Almagest proof-sheet at KB Stockholm (O_STOCKHOLM_FROBENIUS_CARMEN). Not in Dreyer's Opera Omnia — a corpus addition; plausibly one of the lost 1584–85 Uraniborg-press occasional poems (cf. Q_LOST_POEMS).",
+   "note": "Tycho's Latin elegy in praise of Claudius Ptolemy, dated 1 Oct 1584, 16 elegiac distichs; published (with facsimile) by M. Brøndsted, 'Et ukendt digt af Tycho Brahe', Fund og Forskning 9 (1962) 71–78. Printed by Tycho himself in the Epistolae astronomicae (1596), p. 239 = Opera omnia VI 269–270, as the verses beneath the painted Ptolemy of the Uraniborg Museum (the Copernicus verses of 2 Oct 1584 on p. 240); reprinted Resen 1668, p. 338, and in G. L. Frobenius's 1644 Almagest proof-sheet at KB Stockholm (O_STOCKHOLM_FROBENIUS_CARMEN), which Brøndsted took for the sole witness — corrected in Fund og Forskning 12 (1965), p. 156. No separate 1584 print is attested.",
    "crit_edition": ""
   },
   {
@@ -2181,7 +2181,7 @@
   {
    "id": "M_ELEGIA_PTOL_1584",
    "work": "W_CARMEN_PTOLEMAEO",
-   "label": "Uraniborg 1584? (lost as issued)",
+   "label": "Uraniborg 1584? (conjectured separate print — unattested; the text is in the Epistolae 1596)",
    "year": "1584",
    "place": "Uraniborg (Hven)",
    "format": "",
@@ -2189,7 +2189,7 @@
    "publisher": "",
    "reissue_of": "",
    "nielsen": "",
-   "note": "The elegy on Ptolemy; no original issue located — the text survives in G. L. Frobenius's 1644 Almagest proof-sheet (Stockholm KB).",
+   "note": "The elegy on Ptolemy; no separate issue attested — the text is printed in the Epistolae (1596), p. 239, and reprinted in G. L. Frobenius's 1644 Almagest proof-sheet (Stockholm KB).",
    "federation": {
     "census_key": "brahe-elegia-ptolemaeus-1584",
     "explorer": "../census/brahe-elegia-ptolemaeus-1584/explorer.html",
