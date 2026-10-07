@@ -15319,12 +15319,12 @@
     {
      "siglum": "B",
      "raw": "B Pulkovo (Nu i Sankt Petersborg?).",
-     "city": "Pulkovo",
+     "city": "St Petersburg",
      "repository": "pulkovo",
-     "institution": "",
-     "shelfmark": "",
+     "institution": "St Petersburg Branch of the Archive of the Russian Academy of Sciences",
+     "shelfmark": "F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 87r–99r",
      "kind": "unmarked",
-     "note": "",
+     "note": "the edition's 'Pulkovo (now in St Petersburg?)'; Friis's codex Pulcoviensis (Opera Omnia VII, p. 196 lemma); the closing passage from p. 218 line 7 is transmitted in this witness alone (VII, p. 411); the leaves after Boockmann 2010, p. 29",
      "object": null
     }
    ],
@@ -52324,9 +52324,20 @@
      "kind": "copy",
      "note": "Afskrift",
      "object": null
+    },
+    {
+     "siglum": "B",
+     "raw": "B St Petersburg, Archive of the Russian Academy of Sciences, F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 101r–102v. Not in the edition's witness line; from Boockmann 2010, p. 29.",
+     "city": "St Petersburg",
+     "repository": "pulkovo",
+     "institution": "St Petersburg Branch of the Archive of the Russian Academy of Sciences",
+     "shelfmark": "F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 101r–102v",
+     "kind": "unmarked",
+     "note": "not in the edition; Boockmann 2010, p. 29: 'Letter from Tycho to Cosmo Concino (fol. 101r–102v; ed. Dreyer, Epist. 3 (8), pp. 309f.)'",
+     "object": null
     }
    ],
-   "witness_class": "copies-only",
+   "witness_class": "mixed",
    "object": null,
    "reply_to": null,
    "reply_by": null,
@@ -52441,6 +52452,17 @@
      "shelfmark": "Codd. Galil. Part. 6, Tom. 7",
      "kind": "unmarked",
      "note": "",
+     "object": null
+    },
+    {
+     "siglum": "B",
+     "raw": "B St Petersburg, Archive of the Russian Academy of Sciences, F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 100. Not in the edition's witness line; from Boockmann 2010, p. 29.",
+     "city": "St Petersburg",
+     "repository": "pulkovo",
+     "institution": "St Petersburg Branch of the Archive of the Russian Academy of Sciences",
+     "shelfmark": "F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 100",
+     "kind": "unmarked",
+     "note": "not in the edition; Boockmann 2010, p. 29: 'Letter from Tycho to Galileo (fol. 100, ed. Dreyer, Epist. 3 (8), pp. 311f.)'",
      "object": null
     }
    ],

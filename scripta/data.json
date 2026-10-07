@@ -1,8 +1,8 @@
 {
  "pillar": "scripta",
  "subject": "brahe-tycho",
- "version": "1.2",
- "edition_date": "2026-10-06",
+ "version": "1.3",
+ "edition_date": "2026-10-07",
  "title": "Scripta Tychonis — the writings of Tycho Brahe in the edition of 2019: a catalogue, with the texts",
  "dsl": {
   "editors": "Peter Zeeberg and Finn Gredal Jensen",
@@ -5017,7 +5017,7 @@
    "summary": "A long polemical treatise-in-address (some sixty printed pages in TBOO; Mosley calls it 'a forty-page document'), cast as a continuous reply to a named opponent and answering, point by point, the objections John Craig had raised in three letters against Tycho's De mundi aetherei recentioribus phaenomenis (1588). It opens with elaborate courtesy — 'Pergratus mihi fuit tuus ille eruditus labor... Doctissime CRAIGE' — thanking Craig for having examined the book so closely, since truth 'shines out more clearly only when what can be adduced against it has been weighed in a just balance', and then registers Tycho's astonishment that a man so skilled in mathematics should be so enslaved to Aristotle's authority. The substance is a defence of the two claims Craig had attacked: that the comet of 1577 showed no sensible parallax and therefore stood far beyond the Moon in the ether (Craig held that the comet's own proper motion vitiated Tycho's parallax determinations), and that there are no solid celestial orbs — the planets move freely through a fluid heaven, the Earth resting immobile at the centre. It closes by defending the Tychonic hypotheses (Mars at acronychal rising nearer the Earth than the Sun), by referring to the circelli Tycho had explained to Duncan Liddel ('Dunchanus'), and by inviting Craig to weigh the whole 'per otium justa ingenii et judicii trutina'.",
    "occasion": "Fully recoverable. In 1588 a Scottish soldier-diplomat of James VI, William Stewart of Houston, visited Uraniborg; when he sailed home he carried a presentation copy of Tycho's De mundi aetherei recentioribus phaenomenis (1588) inscribed by Tycho to John Craig, physician in Edinburgh, 'Vraniburgi anno 1588 Nouemb. 2.' — the copy still in Edinburgh University Library (Dreyer, TBOO IV, pp. 515–516). Craig thanked Tycho and, in three letters of May-July 1589, raised Aristotelian objections: comets are sublunary phenomena of the air, and Tycho's parallax argument is invalid because it fails to allow for the comet's own motion; the abolition of the solid spheres is also rejected. Tycho answered at once with this Apologia and despatched it with a (deliberately genial) covering letter of 25 October 1589. Dreyer's judgement of the whole affair: 'this gift gave occasion to the contest between Tycho and Craig on the nature of comets; had it not existed, Craig's name would scarcely have been handed down to posterity' (TBOO IV, p. 516). Almost immediately Tycho conceived a further, editorial occasion for the piece: he decided to print it, together with Craig's letters, as an appendix to De mundi liber secundus, and told Hagecius (25 Jan and 23 Feb 1590), Peucer (1590 or 1591) and Craig himself (14 Nov 1591) so (TBOO IV, p. 517).",
    "addressee_note": "John Craig (Joannes Craigius, d. 1620), Scottish physician and mathematician, at the time of the dispute practising medicine in Edinburgh; later physician to James VI and, after 1603, a member of the London Royal College of Physicians (1604) and incorporated M.D. at Oxford (1605). He had taught mathematics and logic at the University of Frankfurt an der Oder — Duncan Liddel was his pupil there before going to Wrocław to learn mathematics from Paul Wittich — and returned to Scotland in 1584; he never visited Denmark. He was the younger brother of the jurist Thomas Craig, who in 1594 wrote to Tycho to apologise for him. (Dreyer, TBOO IV, pp. 516–517; Mosley, 'Tycho Brahe and John Craig', 2002, p. 75 and n. 22; Familia, s.v. John Craig, where he is one of Westman's four Tycho disputants — Ursus, Wittich, Rothmann, Craig — and the man whose transcription of a Wittich note supplied the key to the Wittich hand.) A secondary addressee is the learned public: the Praefatio Tycho later drafted for the projected printed edition speaks past Craig to the 'optime et benevole Lector' (TBOO IX, p. 156).",
-   "transmission": "The words survive in manuscript, not in the print. Dreyer's source-lemma (TBOO IV, p. 416) states the position exactly: the Apologetica Responsio, 'written in 1589 and printed at Uraniborg in 1591, since not even one printed exemplar appears to survive, we edit from the Copenhagen codex Nov. Coll. Reg. 93b in folio; we have also collated a manuscript fragment appended to the Berlin exemplar of the first book of the Progymnasmata and of De mundi aetherei recentioribus phaenomenis.' The Copenhagen manuscript (Kongelige Bibliotek, Ny kgl. Samling 93b fol.) is a fair copy 'written apparently not long after Tycho's time', reasonably accurate; the Berlin witness — the Tycho convolute in the Staatsbibliothek — carries, after the printed De mundi, Craig's three letters entire (nowhere else transmitted) and the FIRST PAGES ONLY of the Apologia (to TBOO IV, p. 421,10). Nielsen argues that this Berlin fragment was copied from the lost printed edition and therefore shows how that edition was made up: Craig's three letters first, then the Apologia (Nielsen 1921, pp. 194–195). Tycho also circulated the piece in manuscript to friends (Hagecius, Peucer, and William Fuller, who read it at Uraniborg). Its first appearance in public print is therefore Dreyer's — 'quae nunc primum in publicum emittitur' (TBOO IV, p. 517) — in Tychonis Brahe Dani Opera Omnia, tom. IV (Copenhagen, 1922), pp. 415–476, with the editor's notes at pp. 515–521. Directly attached to it are three further texts, all edited by Dreyer: Craig's three letters and Tycho's covering letter of 25 Oct 1589 (TBOO VII); Craig's counter-attack, the Capnuraniae restinctionis fragmentum (TBOO IV, pp. 477–488), never published by Craig; and the paratexts Tycho drafted for the projected printed edition — the 'Praefatio in Apologiam sequentem', an epilogue on the Capnurania and even a German instruction to the compositor — first printed by Dreyer & Raeder from cod. Vindobonensis lat. 9737f as 'Additamenta ad Apologeticam responsionem ad Craigum Scotum de cometis', TBOO IX (1927), pp. 151–157 (a separate record here: brahe-t_apologetica-responsio-additamenta).",
+   "transmission": "The words survive in manuscript, not in the print. Dreyer's source-lemma (TBOO IV, p. 416) states the position exactly: the Apologetica Responsio, 'written in 1589 and printed at Uraniborg in 1591, since not even one printed exemplar appears to survive, we edit from the Copenhagen codex Nov. Coll. Reg. 93b in folio; we have also collated a manuscript fragment appended to the Berlin exemplar of the first book of the Progymnasmata and of De mundi aetherei recentioribus phaenomenis.' The Copenhagen manuscript (Kongelige Bibliotek, Ny kgl. Samling 93b fol.) is a fair copy 'written apparently not long after Tycho's time', reasonably accurate; the Berlin witness — the Tycho convolute in the Staatsbibliothek — carries, after the printed De mundi, Craig's three letters entire (nowhere else transmitted) and the FIRST PAGES ONLY of the Apologia (to TBOO IV, p. 421,10). Nielsen argues that this Berlin fragment was copied from the lost printed edition and therefore shows how that edition was made up: Craig's three letters first, then the Apologia (Nielsen 1921, pp. 194–195). Tycho also circulated the piece in manuscript to friends (Hagecius, Peucer, and William Fuller, who read it at Uraniborg). Its first appearance in public print is therefore Dreyer's — 'quae nunc primum in publicum emittitur' (TBOO IV, p. 517) — in Tychonis Brahe Dani Opera Omnia, tom. IV (Copenhagen, 1922), pp. 415–476, with the editor's notes at pp. 515–521. Directly attached to it are three further texts, all edited by Dreyer: Craig's three letters and Tycho's covering letter of 25 Oct 1589 (TBOO VII); Craig's counter-attack, the Capnuraniae restinctionis fragmentum (TBOO IV, pp. 477–488), never published by Craig; and the paratexts Tycho drafted for the projected printed edition — the 'Praefatio in Apologiam sequentem', an epilogue on the Capnurania and even a German instruction to the compositor — first printed by Dreyer & Raeder from cod. Vindobonensis lat. 9737f as 'Additamenta ad Apologeticam responsionem ad Craigum Scotum de cometis', TBOO IX (1927), pp. 151–157 (a separate record here: brahe-t_apologetica-responsio-additamenta). A THIRD MANUSCRIPT, unknown to Dreyer, lies among Kepler's papers in St Petersburg: Archive of the Russian Academy of Sciences, F 285 op. 1 No. 15 (the former Pulkovo volume 19), fol. 115r–150v. Norlind found it in the Munich copy of the Kepler papers (Norlind 1970, p. 138: 'Ett hittills obeaktat manuskriptexemplar finnes bland Keplers papper'): a scribal copy of 36 leaves, lacking its first and last leaf (it begins at TBOO IV 418,25 and ends at 475,26), which Tycho read through from beginning to end, correcting and adding ('genomlästs från början till slut av Tycho, som därvid gjort ändringar och tillägg'). It is in Kepler's estate because Kepler, in Tycho's last year, was himself writing a defence of Tycho against Craig, never finished. Boockmann's inventory of the volume lists it as 'Apologia Tychonis Brahe. Ad Craigum Scotum de cometis (by a foreign hand)' (Boockmann 2010, p. 29). The papers reached St Petersburg on 18 June 1774, bought by Catherine II, went to the Pulkovo Observatory in August 1839 and to the Academy's archive in Leningrad in June 1938 (Dilanyan 2021, pp. 41–42); the Munich copies at the Kepler-Kommission of the Bayerische Akademie der Wissenschaften, made 1918–1934, are the way to read the copy without St Petersburg. It has not been collated for this chapter.",
    "channel": "separate",
    "channel_basis": "the Uraniborg print of 1591, no copy known (Nielsen 1921, pp. 193–195)",
    "printed": {
@@ -5108,6 +5108,30 @@
      "locus": "the record",
      "supports": "Identification of the addressee as one of Westman's four Tycho disputants, and the Aristotelian (not priority) character of the dispute",
      "source_ids": []
+    },
+    {
+     "source": "Norlind, Tycho Brahe: En levnadsteckning (Lund, 1970)",
+     "locus": "p. 138",
+     "supports": "the third manuscript witness: 'Ett hittills obeaktat manuskriptexemplar finnes bland Keplers papper (Pulk. MSS. Bd 19, fol. 115–150)'; that Kepler, in Tycho's last year, was writing a defence of Tycho against Craig, never finished; that the manuscript 'genomlästs från början till slut av Tycho, som därvid gjort ändringar och tillägg'; its extent (first and last leaf wanting; TBOO IV 418,25–475,26) and the Munich photostat Norlind used",
+     "source_ids": [
+      "S_NORLIND1970"
+     ]
+    },
+    {
+     "source": "Boockmann, 'Johannes Kepler's Horoscope Collection', Culture and Cosmos 14 (2010)",
+     "locus": "p. 29 (Appendix, the former Pulkovo volume 19, section VI); p. 4 n. 12 (the shelfmarks)",
+     "supports": "the present shelfmark, F 285 op. 1 No. 15, of the former Pulkovo volume 19; the inventory entry 'Apologia Tychonis Brahe. Ad Craigum Scotum de cometis (by a foreign hand) (fol. 115r–150v; ed. Dreyer, 4, pp. 418–475)'",
+     "source_ids": [
+      "S_BOOCKMANN2010"
+     ]
+    },
+    {
+     "source": "Dilanian, 'Kepler's Research in Astrology and his Horoscope Collection', Culture and Cosmos 25 (2021)",
+     "locus": "pp. 41–42",
+     "supports": "the route of Kepler's papers: St Petersburg 18 June 1774, the Academy's library; to the Pulkovo Observatory August 1839 at Struve's request; copied for Munich 1918–1934; to the Archive of the Academy of Sciences in Leningrad June 1938, renumbered as fond 285",
+     "source_ids": [
+      "S_DILANYAN2021"
+     ]
     }
    ],
    "open_questions": [
@@ -5116,7 +5140,8 @@
     "Who commended Craig to Tycho? Dreyer (TBOO IV, p. 515) says William Stewart of Houston 'seems to have' done so; Mosley (2002, p. 75 n. 21) says Craig's own first letter makes clear that Stewart merely carried the book, and that it was Duncan Liddel who named Craig to Tycho. Mosley's reading rests on the primary letter and should be preferred, but the disagreement stands in the literature.",
     "The relation of the Berlin manuscript fragment to the lost print. Nielsen infers that the Berlin fragment (Craig's three letters + the opening pages of the Apologia, bound after the printed De mundi) was transcribed FROM the printed edition, and uses this to reconstruct that edition's make-up. Dreyer merely uses the fragment as a textual witness and does not endorse the inference. The Berlin shelfmark is not recorded in the sources consulted here.",
     "The exact extent and title of the printed edition are unrecoverable. Dreyer's title 'Apologetica Responsio' is a reconstruction ('illa esse videtur, si Bartholino et Resenio credimus, quam exhibuit editio typis descripta'); the two surviving manuscripts give different headings, and Tycho in his letters sometimes says simply 'Apologia'.",
-    "Nothing establishes how far the printed 1591 text differed from the Copenhagen codex Dreyer printed. Bartholin's four quotations are all found in the codex, which is reassuring but not decisive; and the Additamenta (TBOO IX) show Tycho drafting paratexts for the print that the manuscript tradition does not carry."
+    "Nothing establishes how far the printed 1591 text differed from the Copenhagen codex Dreyer printed. Bartholin's four quotations are all found in the codex, which is reassuring but not decisive; and the Additamenta (TBOO IX) show Tycho drafting paratexts for the print that the manuscript tradition does not carry.",
+    "The St Petersburg copy (F 285 op. 1 No. 15, fol. 115r–150v) has not been collated with the Copenhagen codex. Norlind reports Tycho's own corrections and additions throughout; whether they carry the text beyond the Copenhagen reading, and whether the copy descends from the 1591 print or from the Hven exemplar, is untested. The Munich copy at the Kepler-Kommission is the way to read it."
    ],
    "resolved_questions": [],
    "editorial_notes": [],
@@ -11968,7 +11993,7 @@
    "contributes": "The base text and the editorial notes for the 1573 book, the almanac, the Additiones, the Oration, the three nativities and the trigonometry.",
    "url": null,
    "url_status": null,
-   "cited_by": 40
+   "cited_by": 41
   },
   {
    "id": "S_TBOO_II",
@@ -12031,7 +12056,7 @@
    "contributes": "The base text of the poems, inscriptions, recipes and prefaces; the conspectus of the verse outside the Carmina; the identifications of Lauge Beck, James VI's poem, the chronograms and the Urania Titani authorship.",
    "url": null,
    "url_status": null,
-   "cited_by": 36
+   "cited_by": 38
   },
   {
    "id": "S_TBOO_X",
@@ -12202,7 +12227,7 @@
    "contributes": "The Brasch contact and the exile chronology.",
    "url": null,
    "url_status": null,
-   "cited_by": 2
+   "cited_by": 3
   },
   {
    "id": "S_ZEEBERG1993",
@@ -12417,6 +12442,24 @@
    "full": "František Josef Studnička, Bericht über die astrologischen Studien des Reformators der beobachtenden Astronomie Tycho Brahe (Prague: Königlich Böhmische Gesellschaft der Wissenschaften, 1901), 54 pp. The Tychoniana found in the Prague University Library after his Prager Tychoniana, with facsimiles of manuscript notes in the books.",
    "contributes": "The facsimile (p. 44) of the draft of Quamvis mortalis on the flyleaf of the Reinhold of 1551, and the description of that volume (pp. 41–45).",
    "url": "https://archive.org/details/berichtberdieas00studgoog",
+   "url_status": null,
+   "cited_by": 1
+  },
+  {
+   "id": "S_BOOCKMANN2010",
+   "short": "Boockmann 2010",
+   "full": "Friederike Boockmann, 'Johannes Kepler's Horoscope Collection', trans. Patrick J. Boner, additional editing Dorian Greenbaum, Culture and Cosmos 14, nos 1–2 (2010), pp. 1–32; the Appendix 'Survey of the Handwritten Records of Kepler's Astrologica', pp. 28–32.",
+   "contributes": "The leaf-by-leaf inventory of the Kepler papers at St Petersburg (fond 285) and the concordance of the old Pulkovo volume numbers to the present shelfmarks; the leaves of the Apologia copy.",
+   "url": "https://www.cultureandcosmos.org/pdfs/14/Vol-14_boockmann_keplers_horoscopes.pdf",
+   "url_status": null,
+   "cited_by": 1
+  },
+  {
+   "id": "S_DILANYAN2021",
+   "short": "Dilanian 2021",
+   "full": "Karine Dilanian, 'Kepler's Research in Astrology and his Horoscope Collection', Culture and Cosmos 25, nos 1–2 (2021), pp. 27–56.",
+   "contributes": "The Russian history of the Kepler papers from the Russian literature: the arrival of 1774, Pulkovo 1839, the copying for Munich 1918–1934, the Academy's archive 1938 and fond 285.",
+   "url": "https://www.cultureandcosmos.org/pdfs/25/25_Dilanian_Kepler_Astrology_Horoscopes.pdf",
    "url_status": null,
    "cited_by": 1
   }

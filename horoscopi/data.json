@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.1",
- "edition_date": "2026-10-06",
+ "version": "2.2",
+ "edition_date": "2026-10-07",
  "generated": "2026-09-05",
  "title": "Horoscopi — the astrological manuscripts of Tycho Brahe",
  "description": "The astrological documents of Tycho Brahe whose primary form is a manuscript — the texts he wrote or had written for an astrological purpose and never sent to press — with every manuscript that carries them, the hand per witness with its authority, Dreyer's edition and the readable text where one exists; and the documents the sources attest but no one has located. The printed astrology, the weather diary, the Hven almanacs and the poem Urania Titani are bridged to their own pillars.",
@@ -84,6 +84,12 @@
    "city": "Vienna",
    "country": "Austria",
    "note": "The Austrian National Library. Codices 10686, 10688 and 10689 are the three bundles of Tycho's own papers that came to the Hofbibliothek with his effects; each is bound as numbered fascicles, catalogued in the Tabulae codicum (1864–1893) and in the library's online records."
+  },
+  "SPbARAN": {
+   "label": "St Petersburg Branch of the Archive of the Russian Academy of Sciences",
+   "city": "St Petersburg",
+   "country": "Russia",
+   "note": "Санкт-Петербургский филиал Архива Российской академии наук (SPbF ARAN). Fond 285 holds Kepler's papers: the eighteen volumes bought by Catherine II, in St Petersburg from 18 June 1774, at the Pulkovo Observatory from August 1839 and in the Academy's archive in Leningrad from June 1938 (Dilanyan 2021, pp. 41–42). The old Pulkovo volume numbers of the Kepler edition (Gesammelte Werke) do not equal the present numbers: the former volumes 18, 19, 21 and 22 are opis 1, nos 14, 15, 17 and 18 (Boockmann 2010, p. 4 n. 12). Tycho's leaves lie in the former volume 19, no. 15. The archive publishes a fond list online and no record-level catalogue; complete copies of all volumes, made 1918–1934, are at the Kepler-Kommission of the Bayerische Akademie der Wissenschaften, Munich."
   }
  },
  "date_bases": [
@@ -264,6 +270,30 @@
    "contributes": "The three presentation copies of the 1600 star catalogue described binding by binding in 1868, under their then shelfmarks Cod. philos. 42, 47 and 48 (pp. 262–263).",
    "url": "",
    "url_label": ""
+  },
+  {
+   "id": "S_BOOCKMANN2010",
+   "label": "Boockmann 2010",
+   "full": "Friederike Boockmann, 'Johannes Kepler's Horoscope Collection', trans. Patrick J. Boner, additional editing Dorian Greenbaum, Culture and Cosmos 14, nos 1–2 (2010), pp. 1–32; the Appendix 'Survey of the Handwritten Records of Kepler's Astrologica', pp. 28–32.",
+   "contributes": "The leaf-by-leaf inventory of the astrologica in Kepler's papers at St Petersburg, with the concordance of the old Pulkovo volume numbers to the present shelfmarks (p. 4 n. 12). For this register: the Tycho section of the former volume 19, fol. 150a–233v, headed 'Horoscopes with commentary by Tycho (written in his own hand)' — the drafts of the Hans and Ulrik nativities and the unnamed nativity of 25 August 1573 (pp. 29–30).",
+   "url": "https://www.cultureandcosmos.org/pdfs/14/Vol-14_boockmann_keplers_horoscopes.pdf",
+   "url_label": "the article as published online by Culture and Cosmos"
+  },
+  {
+   "id": "S_LIST1961",
+   "label": "List 1961",
+   "full": "Martha List, Der handschriftliche Nachlaß der Astronomen Johannes Kepler und Tycho Brahe (Deutsche Geodätische Kommission bei der Bayerischen Akademie der Wissenschaften; Munich, 1961), 37 pp.",
+   "contributes": "The inventory of record of Kepler's papers and of the Tycho material among them; print only, not read for this register — cited through Boockmann 2010 (p. 4 n. 10).",
+   "url": "",
+   "url_label": ""
+  },
+  {
+   "id": "S_DILANYAN2021",
+   "label": "Dilanyan 2021",
+   "full": "Karine Dilanian, 'Kepler's Research in Astrology and his Horoscope Collection', Culture and Cosmos 25, nos 1–2 (2021), pp. 27–56.",
+   "contributes": "The Russian history of the Kepler papers, from the Russian literature (Kopelevich, Bazilevskaya, Shenkel, Nevskaya): arrival in St Petersburg on 18 June 1774, the move to Pulkovo in August 1839, the copying for Munich 1918–1934, the move to the Academy's archive in June 1938 and the renumbering as fond 285 (pp. 41–42).",
+   "url": "https://www.cultureandcosmos.org/pdfs/25/25_Dilanian_Kepler_Astrology_Horoscopes.pdf",
+   "url_label": "the article as published online by Culture and Cosmos"
   }
  ],
  "items": [
@@ -703,13 +733,13 @@
     "Latin",
     "German (the interpretation)"
    ],
-   "description": "The nativity of the king's second son, born on 30 December 1578, worked out by royal command and presented in May 1579 — in the very volume handed to the king: a small quarto of some three hundred pages in green velvet with gilt edges, wholly in Tycho's hand. Its plan is that of the Christian nativity: the astronomical section, then the judgment on body, mind and fortune, then the German interpretation.",
+   "description": "The nativity of the king's second son, born on 30 December 1578, worked out by royal command and presented in May 1579 — in the very volume handed to the king: a small quarto of some three hundred pages in green velvet with gilt edges, wholly in Tycho's hand. Its plan is that of the Christian nativity: the astronomical section, then the judgment on body, mind and fortune, then the German interpretation. A draft of the detailed analysis in Tycho's hand, unknown to Dreyer, lies among Kepler's papers in St Petersburg, in the former Pulkovo volume 19 (Boockmann 2010, pp. 29–30).",
    "edition": {
     "tboo_volume": "I",
     "headnote_page": "211",
     "pages": "211–250",
     "annotationes_page": "314",
-    "base_witness": "GKS 1822 kvart, the sole witness"
+    "base_witness": "GKS 1822 kvart, Dreyer's sole witness; the St Petersburg draft of the analysis was not among his sources"
    },
    "text": {
     "scripta_key": "brahe-t_horoscopus-principis-huldarici",
@@ -751,6 +781,40 @@
        "result": "not digitised"
       }
      ]
+    },
+    {
+     "shelfmark": "F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 174r–202v",
+     "label": "St Petersburg F 285 op. 1 No. 15, fol. 174r–202v — his own draft of the analysis",
+     "institution": "SPbARAN",
+     "city": "St Petersburg",
+     "codex": "SPbARAN F 285 op. 1 No. 15",
+     "unit": "codex",
+     "locus": "fol. 174r–202v",
+     "part": "analysis_draft",
+     "role": "working draft of the detailed analysis; headed 'U. FR. D. Filius', 'Ulricus' added later",
+     "hand": "autograph_draft",
+     "hand_basis": [
+      "boockmann:Boockmann 2010, pp. 29–30 — section VII of the former volume 19, 'Horoscopes with commentary by Tycho (written in his own hand)'; the leaves not examined by this chapter"
+     ],
+     "status": "extant",
+     "leaves": "29 leaves",
+     "binding": "",
+     "acquisition": "with Kepler's papers: bound in 22 volumes by Michael Gottlieb Hansch, who bought them in 1707 (Boockmann 2010, pp. 3–4); bought for the St Petersburg Academy of Sciences by Catherine II, arriving on 18 June 1774, and kept in the Academy's library; to the Pulkovo Observatory in August 1839 at F. G. W. Struve's request; to the Academy's archive in Leningrad in June 1938, where the volumes are fond 285, opis 1 (Dilanyan 2021, pp. 41–42, after Bazilevskaya and Nevskaya; the present numbers: Boockmann 2010, p. 4 n. 12)",
+     "catalogue_url": "",
+     "catalogue_id": "",
+     "catalogue_verified": "",
+     "catalogue_title": "",
+     "facsimile_url": "",
+     "iiif_manifest": "",
+     "graphonomicon_specimen": "",
+     "thesaurus_object": "",
+     "dating_note": "",
+     "checks": [
+      {
+       "date": "October 2026",
+       "result": "known from Boockmann's inventory; the archive's online fond list (ranar.spb.ru/funds) carries no record of the volume; the Munich copy not consulted"
+      }
+     ]
     }
    ],
    "links": [],
@@ -763,7 +827,10 @@
     "S_KB",
     "S_GIGAS1900",
     "S_MANUS",
-    "S_TEKSTNET"
+    "S_TEKSTNET",
+    "S_BOOCKMANN2010",
+    "S_LIST1961",
+    "S_DILANYAN2021"
    ],
    "references": [
     {
@@ -780,6 +847,11 @@
      "source": "S_GIGAS1900",
      "locus": "no. 10",
      "note": ""
+    },
+    {
+     "source": "S_BOOCKMANN2010",
+     "locus": "pp. 29–30",
+     "note": "'Horoscope for \"U[lricus] FR[iderici] D[omini] Filius\" … date of birth 30 December 1578, geographical latitude 55.30°, detailed analysis, draft (fol. 174r–202v; ed. Dreyer, 1, pp. 211–249 …)'"
     }
    ]
   },
@@ -815,13 +887,13 @@
     "Latin",
     "German (the interpretation)"
    ],
-   "description": "The nativity of the king's third son, prepared at the royal command in 1583, with a Latin preface that defends astrological prediction as physically grounded conjecture leaving free will intact. It survives in the presentation volume itself, in green velvet like its companion for Prince Ulrik. Which part is in Tycho's hand is contested between the two authorities this chapter has: Dreyer, who had the volume in hand, says only the German interpretation is his; the facsimile autopsy of the Graphonomicon finds the Latin chart, directions and judgment in his italic and leaves the German Kurrent open. Both are printed; neither is resolved here.",
+   "description": "The nativity of the king's third son, prepared at the royal command in 1583, with a Latin preface that defends astrological prediction as physically grounded conjecture leaving free will intact. It survives in the presentation volume itself, in green velvet like its companion for Prince Ulrik. Which part is in Tycho's hand is contested between the two authorities this chapter has: Dreyer, who had the volume in hand, says only the German interpretation is his; the facsimile autopsy of the Graphonomicon finds the Latin chart, directions and judgment in his italic and leaves the German Kurrent open. Both are printed; neither is resolved here. A second witness, unknown to Dreyer, lies among Kepler's papers in St Petersburg: Tycho's own draft of the directions and of the analysis, dated September 1600, in the former Pulkovo volume 19 (Boockmann 2010, p. 29).",
    "edition": {
     "tboo_volume": "I",
     "headnote_page": "251",
     "pages": "251–280",
     "annotationes_page": "314",
-    "base_witness": "GKS 1823 kvart, the sole witness"
+    "base_witness": "GKS 1823 kvart, Dreyer's sole witness (Opera Omnia I, p. 251: 'nunc primum edimus e codice Hauniensi'); the St Petersburg draft was not among his sources"
    },
    "text": {
     "scripta_key": "brahe-t_horoscopus-principis-johannis",
@@ -861,13 +933,48 @@
       "dreyer": "only the German interpretation is in Tycho's hand (TBOO I p. 314; Dreyer 1890 p. 153)",
       "graphonomicon": "the Latin chart, the directions and the judgment prose are in Tycho's humanist italic; the German translation is in a Kurrent hand whose author is left open (facsimile autopsy, June 2026, confidence B)"
      }
+    },
+    {
+     "shelfmark": "F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 151r–173v",
+     "label": "St Petersburg F 285 op. 1 No. 15, fol. 151r–173v — his own draft of September 1600",
+     "institution": "SPbARAN",
+     "city": "St Petersburg",
+     "codex": "SPbARAN F 285 op. 1 No. 15",
+     "unit": "codex",
+     "locus": "fol. 151r–173v",
+     "part": "directions_and_analysis_draft",
+     "role": "working draft: the directions in draft and copy (fol. 151r–160v), the analysis in draft (fol. 161r–173v)",
+     "hand": "autograph_draft",
+     "hand_basis": [
+      "boockmann:Boockmann 2010, p. 29 — section VII of the former volume 19, 'Horoscopes with commentary by Tycho (written in his own hand)'; the leaves not examined by this chapter"
+     ],
+     "status": "extant",
+     "leaves": "23 leaves",
+     "binding": "",
+     "acquisition": "with Kepler's papers: bound in 22 volumes by Michael Gottlieb Hansch, who bought them in 1707 (Boockmann 2010, pp. 3–4); bought for the St Petersburg Academy of Sciences by Catherine II, arriving on 18 June 1774, and kept in the Academy's library; to the Pulkovo Observatory in August 1839 at F. G. W. Struve's request; to the Academy's archive in Leningrad in June 1938, where the volumes are fond 285, opis 1 (Dilanyan 2021, pp. 41–42, after Bazilevskaya and Nevskaya; the present numbers: Boockmann 2010, p. 4 n. 12)",
+     "catalogue_url": "",
+     "catalogue_id": "",
+     "catalogue_verified": "",
+     "catalogue_title": "",
+     "facsimile_url": "",
+     "iiif_manifest": "",
+     "graphonomicon_specimen": "",
+     "thesaurus_object": "",
+     "dating_note": "'Anno 1600 Mense Septembris' on the analysis draft (Boockmann 2010, p. 29): seventeen years after the presentation volume, in Tycho's first Bohemian year",
+     "checks": [
+      {
+       "date": "October 2026",
+       "result": "known from Boockmann's inventory; the archive's online fond list (ranar.spb.ru/funds) carries no record of the volume; the Munich copy not consulted"
+      }
+     ]
     }
    ],
    "links": [],
    "grade": "A",
    "grade_basis": "Dreyer's edition; the catalogue record read",
    "open_questions": [
-    "The division of hands: Dreyer against the facsimile autopsy. A reading-room comparison of the German section against the wholly autograph GKS 1822 would settle it."
+    "The division of hands: Dreyer against the facsimile autopsy. A reading-room comparison of the German section against the wholly autograph GKS 1822 would settle it.",
+    "The St Petersburg draft of September 1600 against the presentation volume of 1583: whether the directions were recomputed in Bohemia for the prince's seventeenth year, and whether its analysis differs from the text Dreyer printed. Known from Boockmann's inventory alone; the Munich copy at the Kepler-Kommission would show it."
    ],
    "sources": [
     "S_TBOO_I",
@@ -875,7 +982,10 @@
     "S_KB",
     "S_GIGAS1900",
     "S_MANUS",
-    "S_TEKSTNET"
+    "S_TEKSTNET",
+    "S_BOOCKMANN2010",
+    "S_LIST1961",
+    "S_DILANYAN2021"
    ],
    "references": [
     {
@@ -892,6 +1002,11 @@
      "source": "S_GIGAS1900",
      "locus": "no. 11",
      "note": ""
+    },
+    {
+     "source": "S_BOOCKMANN2010",
+     "locus": "p. 29; p. 4 n. 12 (the shelfmark)",
+     "note": "'Horoscope for Johannes of Denmark, third son of Friedrich II (no name mentioned), date of birth 26 July 1583 … directiones in draft and copy (fol. 151r–160v) and detailed analysis, draft (fol. 161r–173v); date: \"Anno 1600 Mense Septembris\"'"
     }
    ]
   },
@@ -1807,6 +1922,98 @@
      "note": ""
     }
    ]
+  },
+  {
+   "id": "HORO_PULKOVO_1573",
+   "kind": "nativity",
+   "status": "extant",
+   "title": "Nativity for a birth of 25 August 1573, with directions and analyses",
+   "title_as_given": "untitled; Kepler's note on the chart: 'Ex Th[emate], 1573, 25 Aug.' (Boockmann 2010, p. 30)",
+   "date": {
+    "value": "after 1573",
+    "sort": 1573.7,
+    "precision": "year",
+    "basis": "bracket",
+    "basis_note": "undated; the birth of 25 August 1573 is the floor. The neighbouring Tycho drafts in the volume are of 1600, and the leaves came to Kepler with Tycho's papers after October 1601."
+   },
+   "subject": {
+    "name": "unidentified; born 25 August 1573",
+    "familia": null,
+    "role": "",
+    "birth": {
+     "value": "25 August 1573",
+     "basis": "Kepler's note on the chart (Boockmann 2010, p. 30)"
+    }
+   },
+   "parties": [],
+   "languages": [],
+   "description": "A nativity without name or title among Tycho's papers in Kepler's estate: the chart, directions and analyses for a birth of 25 August 1573, the date read off the figure by Kepler and noted on the leaf. Boockmann's inventory places it in the section of the volume written in Tycho's own hand, after his drafts for the Hans and Ulrik nativities. The subject is not identified; neither the leaves nor the Munich copy have been read for this register.",
+   "edition": {
+    "tboo_volume": "",
+    "headnote_page": "",
+    "pages": "",
+    "annotationes_page": "",
+    "base_witness": ""
+   },
+   "text": {
+    "scripta_key": "",
+    "tekstnet_url": ""
+   },
+   "witnesses": [
+    {
+     "shelfmark": "F 285 op. 1 No. 15 (the former Pulkovo MSS vol. 19), fol. 207r–231v",
+     "label": "St Petersburg F 285 op. 1 No. 15, fol. 207r–231v — the only witness",
+     "institution": "SPbARAN",
+     "city": "St Petersburg",
+     "codex": "SPbARAN F 285 op. 1 No. 15",
+     "unit": "codex",
+     "locus": "fol. 207r–231v",
+     "part": "whole",
+     "role": "the only witness",
+     "hand": "unknown",
+     "hand_basis": [
+      "boockmann:Boockmann 2010, pp. 29–30, lists the leaves under 'Horoscopes with commentary by Tycho (written in his own hand)', but marks one item of the same section (fol. 203r–206v) as not his; the leaves not examined by this chapter"
+     ],
+     "status": "extant",
+     "leaves": "25 leaves",
+     "binding": "",
+     "acquisition": "with Kepler's papers: bound in 22 volumes by Michael Gottlieb Hansch, who bought them in 1707 (Boockmann 2010, pp. 3–4); bought for the St Petersburg Academy of Sciences by Catherine II, arriving on 18 June 1774, and kept in the Academy's library; to the Pulkovo Observatory in August 1839 at F. G. W. Struve's request; to the Academy's archive in Leningrad in June 1938, where the volumes are fond 285, opis 1 (Dilanyan 2021, pp. 41–42, after Bazilevskaya and Nevskaya; the present numbers: Boockmann 2010, p. 4 n. 12)",
+     "catalogue_url": "",
+     "catalogue_id": "",
+     "catalogue_verified": "",
+     "catalogue_title": "",
+     "facsimile_url": "",
+     "iiif_manifest": "",
+     "graphonomicon_specimen": "",
+     "thesaurus_object": "",
+     "dating_note": "",
+     "checks": [
+      {
+       "date": "October 2026",
+       "result": "known from Boockmann's inventory; the archive's online fond list (ranar.spb.ru/funds) carries no record of the volume; the Munich copy not consulted"
+      }
+     ]
+    }
+   ],
+   "links": [],
+   "grade": "B",
+   "grade_basis": "rests on Boockmann's inventory alone: no edition, no catalogue record, the subject unidentified",
+   "open_questions": [
+    "Who was born on 25 August 1573, and is the nativity Tycho's own work or a pupil's?",
+    "Whether the leaves are in Tycho's hand: Boockmann's heading says so for the section as a whole, and excepts one item in it."
+   ],
+   "sources": [
+    "S_BOOCKMANN2010",
+    "S_LIST1961",
+    "S_DILANYAN2021"
+   ],
+   "references": [
+    {
+     "source": "S_BOOCKMANN2010",
+     "locus": "p. 30",
+     "note": "'Horoscope with no mention of name or date of birth (note by Kepler, \"Ex Th[emate], 1573, 25 Aug.\"), directiones and analyses (fol. 207r–231v)'"
+    }
+   ]
   }
  ],
  "bridges": [
@@ -2312,7 +2519,8 @@
   "The German tract on the comet of 1577 has no modern edition or translation and is not in the Danish critical edition; it cannot be read here beyond Dreyer's text.",
   "No photograph of GKS 1822, of the velvet bindings or of any horoscope leaf is in Iconographia.",
   "Cod. 10688/17, 'Calculi miscelli, observationes, pericula' (1600), holds astrological directions in a hand the Graphonomicon grades possible; it has not been examined for a prose document and is not a record.",
-  "The Latin letter of 28 January 1612 on Tycho's prediction for Rudolf II: that the stars acted on the emperor as on his favourite lion, whose fate he should therefore watch — the lion died two weeks before the emperor. It is known only from a communication of František Dvorský, director of the Bohemian provincial archive, in the newspaper Politik (1901, no. 262), quoted by Studnička (Bericht über die astrologischen Studien …, Prague 1901, p. 14); the writer, the addressee and the present place of the letter are not stated."
+  "The Latin letter of 28 January 1612 on Tycho's prediction for Rudolf II: that the stars acted on the emperor as on his favourite lion, whose fate he should therefore watch — the lion died two weeks before the emperor. It is known only from a communication of František Dvorský, director of the Bohemian provincial archive, in the newspaper Politik (1901, no. 262), quoted by Studnička (Bericht über die astrologischen Studien …, Prague 1901, p. 14); the writer, the addressee and the present place of the letter are not stated.",
+  "The St Petersburg leaves of the former Pulkovo volume 19 (F 285 op. 1 No. 15): Tycho's drafts of September 1600 for the Hans nativity, his draft analysis of the Ulrik nativity and the unnamed nativity of 25 August 1573 (fol. 151–231), known only from Boockmann's inventory. The copies at the Kepler-Kommission of the Bayerische Akademie der Wissenschaften, Munich, are the way to read them without St Petersburg; Martha List's inventory of 1961 is the printed source still unread."
  ],
  "glossary": [
   {
