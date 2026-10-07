@@ -2242,11 +2242,11 @@
    "city": "Copenhagen",
    "country": "DK",
    "shelfmark": "GKS 306 folio",
-   "catalogue_url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122876056805763",
+   "catalogue_url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122876049305763",
    "iiif": "",
    "surrogates": [
     {
-     "url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122876056805763",
+     "url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122876049305763",
      "label": "KB catalogue record — GKS 306 folio (Stellarum octavi orbis inerrantium accurata restitutio, Wandsbek 1598)",
      "kind": "viewer"
     }

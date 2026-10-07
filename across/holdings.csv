@@ -2,7 +2,7 @@ city,country,kind,count
 Copenhagen,DK,census copies,24
 Copenhagen,DK,library volumes,5
 Copenhagen,DK,likenesses,9
-Copenhagen,DK,observation codices,17
+Copenhagen,DK,observation codices,18
 Copenhagen,DK,hand specimens,27
 Prague,CZ,census copies,3
 Prague,CZ,library volumes,57
@@ -13,10 +13,11 @@ Vienna,AT,census copies,3
 Vienna,AT,library volumes,2
 Vienna,AT,observation codices,20
 Vienna,AT,hand specimens,6
+Paris,FR,census copies,7
+Paris,FR,observation codices,3
+Paris,FR,hand specimens,2
 Marburg,DE,census copies,4
 Marburg,DE,hand specimens,6
-Paris,FR,census copies,7
-Paris,FR,hand specimens,2
 London,GB,census copies,5
 London,GB,likenesses,1
 London,GB,hand specimens,1

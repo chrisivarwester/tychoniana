@@ -1,12 +1,12 @@
 {
  "edition": {
   "title": "Observationes — The Observation Archive of Tycho Brahe, and the Printed Catalogue of Stars",
-  "date": "2026-10-06"
+  "date": "2026-10-07"
  },
  "codices": {
   "id": "brahe-tycho",
-  "version": "2.1",
-  "edition_date": "2026-10-06",
+  "version": "2.2",
+  "edition_date": "2026-10-07",
   "generated": "2026-09-05",
   "title": "Observationes — the observation archive of Tycho Brahe, and the printed catalogue of stars",
   "description": "The manuscript volumes in which Tycho Brahe's observations survive — the archetypes and transcripts at the Royal Danish Library, the nineteen annual fair copies and the working star catalogue at the Austrian National Library, and the lost octavo — with Dreyer's description of each, the hand, what it was copied from, the pages of the Opera Omnia set from it, and the events of its custody 1601–1929.",
@@ -31,8 +31,8 @@
    "hand_grade": "B–D: the documentary-prior grade of the scribe attribution — B one primary candidate, C several, D unattributed or the named candidate excluded; not a palaeographic grade"
   },
   "facsimile_probe": {
-   "date": "2026-09-05",
-   "method": "Royal Danish Library and Austrian National Library Alma SRU (856 fields) and direct HTTP on the two known viewers; the ÖNB catalogue records no digital copy of Cod. 10657–10675 or 10709; the KB catalogue shows a link only for GKS 1824"
+   "date": "2026-10-07",
+   "method": "Royal Danish Library: Alma SRU (856 fields) on every GKS record plus the Digital Collections catalogue API (digitalesamlinger.kb.dk/catalog, JSON) searched by author and by shelfmark; GKS 1824, GKS 316 and GKS 306 resolve (HTTP 200), the catalogue records of all three carry no link. Austrian National Library: Alma SRU on AC13948895 and on every shelfmark form ('Cod. 10657', '10.657'), the digitised-manuscripts list of manuscripta.at, and the ÖNB digital-object resolver — no digital copy of Cod. 10657–10675 or 10709; Cod. 10686/80 resolves to viewer.onb.ac.at/100232BE and Cod. 10686/17 is listed as fully digitised. Paris: bibnum.obspm.fr (two sample pages of B 4/15–20), Bigourdan 1895 on Gallica, the Institut's Calames finding aids (no Tycho record reachable without JavaScript)."
   },
   "federates_with": [
    "brahe-progymnasmata-1602",
@@ -273,6 +273,53 @@
     "url": "",
     "contributes": "the bindings of GKS 311 and GKS 1825",
     "cited_by": "Codices B and C"
+   },
+   {
+    "id": "S_FRIEDRICHSEN2006",
+    "label": "Friedrichsen, 'Tycho Brahes observationer — Jean Picards version' (2006)",
+    "full": "Per Friedrichsen, 'Tycho Brahes observationer — Jean Picards version', Meddelelser fra Ole Rømers Venner 14.1 (2006), pp. 51–55 (with Frederik III's rescript of 9 October 1666, p. 55, from Rigsarkivet, Danske Kancelli, Sjællandske Missiver, indlæg nr. 579): reports Kurt Møller Pedersen's location of Bartholin's and Rømer's copy of the observations at the Bibliothèque de l'Institut de France — four volumes, bound at La Caille's instance, about a hundred pages of the first in Rømer's hand — and of Picard's printed quires (six sheets, 96 pages) at the Bibliothèque nationale, with Lalande's note of 2 March 1793 translated.",
+    "url": "",
+    "contributes": "the Paris survival of Bartholin's copy and of Picard's quires, which Dreyer believed lost"
+   },
+   {
+    "id": "S_BIGOURDAN1895",
+    "label": "Bigourdan, Inventaire des manuscrits de l'Observatoire de Paris (1895)",
+    "full": "G. Bigourdan, 'Inventaire général et sommaire des manuscrits de la Bibliothèque de l'Observatoire de Paris', Annales de l'Observatoire de Paris, Mémoires XXI (1895), pp. F.1–F.60: the Delisle collection's route to the Observatoire (F.2–3), the correction of the 'Manuscrit Érasme Bartholin' label on B 4/14 (F.6), and the entries B 4/14 (Pingré's Annales célestes) and B 4/15–20 (Tycho Brahe, Observations, 6 vol. in-fol., 'copie faite par les soins de Delisle sur le manuscrit de Bartholin') (F.24).",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6323033s/f456.item",
+    "url_label": "Gallica (p. F.24)",
+    "contributes": "the Observatoire's own description of the two Paris manuscripts and the history of the mislabel"
+   },
+   {
+    "id": "S_BIBNUM",
+    "label": "Observatoire de Paris, bibnum — Delisle's copy, two sample pages",
+    "full": "Bibliothèque de l'Observatoire de Paris, bibnum digital library, 'Observations de Tycho Brahé, page de titre, page 248 recto/verso' (B 4/15–20; 'Copie faite par les soins de Delisle sur le manuscrit de Bartholin'), ark:/11287/1zMrV — two images from the six volumes, not a facsimile.",
+    "url": "https://bibnum.obspm.fr/ark:/11287/1zMrV",
+    "url_label": "bibnum.obspm.fr",
+    "contributes": "the only images of Delisle's copy online, and the library's own statement of what the copy is"
+   },
+   {
+    "id": "S_DEHERAIN1929",
+    "label": "Dehérain, 'Les manuscrits des Bibliothèques de l'Institut' (1929)",
+    "full": "Henri Dehérain, 'Les manuscrits des Bibliothèques de l'Institut', Journal des Savants (1929), pp. 29–37, reviewing M. Bouteron & J. Tremblot, Catalogue général des manuscrits des bibliothèques publiques de France, Paris: Bibliothèque de l'Institut, ancien et nouveau fonds (Paris, 1928): names 'le Recueil des Observations de Tycho Brahé' among the papers of the Académie royale des sciences held by the Institut.",
+    "url": "https://www.persee.fr/doc/jds_0021-8103_1929_num_9_1_2334",
+    "url_label": "Persée",
+    "contributes": "an independent 1929 witness that a Tycho observations volume set lies in the Institut's Académie papers"
+   },
+   {
+    "id": "S_MANUSCRIPTA",
+    "label": "manuscripta.at — the digitised pieces of Cod. 10686 and 10688",
+    "full": "manuscripta.at (Austrian Academy of Sciences), the ÖNB Handschriftenliste entries for Cod. 10686/17 (Tycho Brahe, 21 leaves: the treatise 'De eclipsi lunae anni 1573 mense Decembri', ff. 1r–14v; 'Primae lineae genethliaci Friderici II', ff. 15r–17v; 'In Vraniam Idyllion', ff. 18r–21r), Cod. 10686/67 (a 31-leaf miscellany), Cod. 10686/80 (Christoph Rothmann, 'Tabula observationum stellarum fixarum … a. 1586', 5 leaves) and Cod. 10688/15 (Ps.-Methodius, 5 leaves), each marked 'Volldigitalisat via ÖNB'.",
+    "url": "https://manuscripta.at/?ID=41617",
+    "url_label": "manuscripta.at (Cod. 10686/17)",
+    "contributes": "the leaf-level description and digitisation status of the pieces of the Vienna bundles that are online"
+   },
+   {
+    "id": "S_AHES2024",
+    "label": "'When genius met data: Kepler's first exploration of Tycho's observations' (2024)",
+    "full": "'When genius met data: Kepler's first exploration of Tycho's observations', Archive for History of Exact Sciences (2024), doi:10.1007/s00407-024-00344-2 — Kepler's work on Tycho's Mars observations at Benátky, February–June 1600, from St Petersburg, Archive of the Russian Academy of Sciences, F 285 op. 1 No. 10 (olim Pulkovo, Mss. Band XIV), ff. 68r–149r; edited in Kepler, Gesammelte Werke 20.2.",
+    "url": "https://doi.org/10.1007/s00407-024-00344-2",
+    "url_label": "doi",
+    "contributes": "the manuscript locus of Kepler's 1600 extracts from the observations, outside Dreyer's census of witnesses"
    }
   ],
   "volumes": [
@@ -708,7 +755,7 @@
     "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object856355/en/",
     "facsimile": {
      "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object856355/en/",
-     "basis": "Royal Danish Library, Digital Collections, object 856355; resolves (the KB catalogue record carries no link to it)"
+     "basis": "Royal Danish Library, Digital Collections, object 856355; resolves (the KB catalogue record carries no link to it); re-verified 7 October 2026"
     },
     "notes": "Codex G (Opera Omnia X); Hven and Wandsbek. 1597 begins on fol. 93; Tycho appended David Fabricius's autograph observations. Kepler's declaration to Tycho's heirs pasted inside the front cover. Digitised: KB Digital Collections object856355.",
     "confidence": "A",
@@ -1109,7 +1156,7 @@
     "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object77724/en/",
     "facsimile": {
      "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object77724/en/",
-     "basis": "Royal Danish Library, Digital Collections, object 77724 (466 pages); resolves"
+     "basis": "Royal Danish Library, Digital Collections, object 77724 (466 pages); resolves; re-verified 7 October 2026"
     },
     "notes": "Codex A (Opera Omnia X); Leipzig, Rostock, Copenhagen, Hven; the 1563 Jupiter–Saturn conjunction note. Digitised: KB Digital Collections object77724.",
     "confidence": "A",
@@ -2785,6 +2832,232 @@
       "role": "base text"
      }
     ]
+   },
+   {
+    "id": "O_GKS306",
+    "label": "Stellarum octavi orbis inerrantium accurata restitutio — the presentation catalogue of 1598 (Christian IV's copy)",
+    "shelfmark": "GKS 306 folio",
+    "year_str": "1598",
+    "year_start": 1598,
+    "year_end": 1598,
+    "status": "extant",
+    "inst": "KB",
+    "inst_full": "Royal Library, Copenhagen",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "last_documented_inst": null,
+    "genre": "star-catalogue",
+    "originality": "contemporary-copy",
+    "dreyer_codex": null,
+    "dreyer_codex_confirmed": false,
+    "dreyer_codex_note": "",
+    "dreyer_page": null,
+    "dreyer_hand_statement": "Not among the observation codices of the Prolegomena. Dreyer's Annotationes to TBOO III (pp. 411–417) list the manuscript witnesses of the 1,004-star catalogue; the Copenhagen presentation copy is the manuscript the house catalogue table and Verbunt & van Gent 2010 take as the base text of TBOO III pp. 333–373.",
+    "copied_from": null,
+    "copied_note": "",
+    "leaves_dreyer": null,
+    "leaves_catalogue": {
+     "count": 67,
+     "unit": "images",
+     "source": "S_GRAPH_BRAHE",
+     "note": "67 images in the KB surrogate used for the 2026 hand-triage; parchment, in a velvet binding"
+    },
+    "catalogue_title": "Stellarum octavi orbis inerrantium accurata restitutio, Uandesburgi 1598, cum epistola nuncupatoria ad Rudolphum II Rom. Imp. et effigie autoris coloribus picta, in membrana eleganti, rubris miniatis. (Fol. 10 verso hoc exemplar litteris aureis a Tychone consecratum est Christiano IV, Dan. Regi.)",
+    "catalogue_title_source": "S_KB",
+    "autograph": "",
+    "scribe_attribution": null,
+    "url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122876049305763",
+    "facsimile": {
+     "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object884658/en/",
+     "basis": "Royal Danish Library, Digital Collections, object 884658; resolves (the KB catalogue record carries no link to it; found 7 October 2026)"
+    },
+    "notes": "The deluxe parchment presentation manuscript of the catalogue of the 1,000 fixed stars restored to the year 1600, written at Wandsbek in 1598 and dedicated to Christian IV, with the preface to Rudolf II in Tycho's own hand (the Graphonomicon grades the preface autograph A; the tables and display pages are a scribe's). Registered here because it is the Copenhagen manuscript behind the 1,004-star catalogue of TBOO III, the finished product of the observations the other codices record; sibling presentation copies went to other patrons (TBOO III pp. 411–417) — the Royal Library also holds the paper copy inscribed to Johann Adolf, Bishop of Lübeck (GKS 307 folio), which is not digitised. Digitised: KB Digital Collections object 884658.",
+    "confidence": "A",
+    "sources": [
+     "S_KB",
+     "S_TBOO_III",
+     "S_GRAPH_BRAHE",
+     "S_VERBUNT2010"
+    ],
+    "questions": [],
+    "graphonomicon": "kb-gks-306",
+    "receptio": [
+     "recep-observations-opera-omnia"
+    ],
+    "work": "W_STARCAT",
+    "tboo": [
+     {
+      "vol": "III",
+      "pages": [
+       333,
+       373
+      ],
+      "years": "the catalogue of 1,004 stars (manuscript, 1598)",
+      "role": "base text"
+     }
+    ]
+   },
+   {
+    "id": "O_BIF_BARTHOLIN",
+    "label": "Bartholin's copy of the observations, 1664–68 — the exemplar Picard took to Paris",
+    "shelfmark": "[Institut de France, shelfmark not established]",
+    "year_str": "1563-1601",
+    "year_start": 1563,
+    "year_end": 1601,
+    "status": "extant",
+    "inst": "BIF",
+    "inst_full": "Bibliothèque de l'Institut de France, Paris",
+    "city": "Paris",
+    "country": "France",
+    "last_documented_inst": null,
+    "genre": "compilation",
+    "originality": "posthumous-copy",
+    "dreyer_codex": null,
+    "dreyer_codex_confirmed": false,
+    "dreyer_codex_note": "",
+    "dreyer_page": "VI–XI",
+    "dreyer_hand_statement": "The complete copy Erasmus Bartholin had made and collated against the archetypes after 1664 ('Bartholini exemplum'), by six students paid from church funds, one of them Ole Rømer; carried to Paris by Picard in 1672 for the Louvre printing, used by Lalande and Jeaurat in 1757–63 and bound at La Caille's instance; Dreyer, told by Bigourdan in July 1914 that it was in neither the Observatoire nor the Académie, pronounced its fate wholly unknown (TBOO X pp. VI–X).",
+    "copied_from": [
+     "O_LOST_8VO",
+     "O_GKS1824",
+     "O_GKS1825",
+     "O_GKS311",
+     "O_GKS312",
+     "O_GKS313",
+     "O_GKS314",
+     "O_GKS316",
+     "O_GKS317",
+     "O_GKS318",
+     "O_GKS1826",
+     "O_GKS315"
+    ],
+    "copied_note": "Made from the archetypes in Copenhagen, 1664–68, and read against them; the Copenhagen codices listed are the archetypes Bartholin held on his receipt of 20 June 1664 (the octavo of 1563–74 among them).",
+    "leaves_dreyer": "four volumes (as bound for La Caille)",
+    "leaves_catalogue": null,
+    "catalogue_title": null,
+    "catalogue_title_source": null,
+    "autograph": "",
+    "scribe_attribution": null,
+    "url": null,
+    "facsimile": null,
+    "notes": "Located by Kurt Møller Pedersen at the Bibliothèque de l'Institut de France: the loose sheets of Bartholin's copy, bound in four volumes at La Caille's instance (his undated note is pasted into the first), about a hundred pages of the first volume in Rømer's hand — the first page of Rømer's fair copy of the 1581 observations is reproduced by Friedrichsen (2006, p. 54). It is the exemplar Picard printed from (six sheets, 96 pages, to 3 December 1582) and the one Rostgaard saw in La Hire's room in 1697 and was told was Picard's own copy; after the archetypes went home in 1707 it stayed with the Académie's papers, which passed to the Institut. Dehérain in 1929 already named 'le Recueil des Observations de Tycho Brahé' among the Académie's papers there. Its shelfmark, extent and collation remain to be taken from Bouteron & Tremblot's 1928 catalogue or the Institut's Calames records; no facsimile.",
+    "confidence": "B",
+    "sources": [
+     "S_TBOO_X_PROL",
+     "S_FRIEDRICHSEN2006",
+     "S_DEHERAIN1929"
+    ],
+    "questions": [],
+    "graphonomicon": null,
+    "receptio": [
+     "recep-observations-opera-omnia",
+     "recep-historia-coelestis-1666"
+    ],
+    "work": "W_OBSERVATIONES",
+    "tboo": []
+   },
+   {
+    "id": "O_OBSPM_B4_15_20",
+    "label": "Delisle's transcript of Bartholin's copy, six volumes (Observatoire B 4/15–20)",
+    "shelfmark": "B 4/15–20",
+    "year_str": "1563-1601",
+    "year_start": 1563,
+    "year_end": 1601,
+    "status": "extant",
+    "inst": "OBSPM",
+    "inst_full": "Bibliothèque de l'Observatoire de Paris",
+    "city": "Paris",
+    "country": "France",
+    "last_documented_inst": null,
+    "genre": "compilation",
+    "originality": "posthumous-copy",
+    "dreyer_codex": null,
+    "dreyer_codex_confirmed": false,
+    "dreyer_codex_note": "",
+    "dreyer_page": "IX, XI",
+    "dreyer_hand_statement": "'Totum transscripsit J. N. De l'Isle in sex maximae formae tomos nitide exaratos, qui nunc in specula Parisiensi asservantur' — Dreyer borrowed it first of all the witnesses in 1908, collated it with the Historia Coelestis and the Copenhagen codices, and found it made with the greatest care, 'paucissimi tantum lapsus calami' (TBOO X pp. IX, XI).",
+    "copied_from": [
+     "O_BIF_BARTHOLIN"
+    ],
+    "copied_note": "Transcribed from Bartholin's copy at the Académie after Delisle's election in 1714 (Bigourdan 1895, F.2).",
+    "leaves_dreyer": "6 vol. in-fol.",
+    "leaves_catalogue": {
+     "count": 6,
+     "unit": "volumes",
+     "source": "S_BIGOURDAN1895",
+     "note": "'6 vol. in-f°. — Copie faite par les soins de Delisle sur le manuscrit de Bartholin' (F.24)"
+    },
+    "catalogue_title": "TYCHO-BRAHÉ, Observations. 6 vol. in-f°. — Copie faite par les soins de Delisle sur le manuscrit de Bartholin.",
+    "catalogue_title_source": "S_BIGOURDAN1895",
+    "autograph": "",
+    "scribe_attribution": null,
+    "url": "https://bibnum.obspm.fr/ark:/11287/1zMrV",
+    "facsimile": null,
+    "notes": "Joseph-Nicolas Delisle's copy of Bartholin's exemplar, made for the Traité complet d'astronomie he never finished; with his collections it passed to the Dépôt de la Marine about 1750 and, by the Comité de salut public's decision, to the Bureau des longitudes for the Observatoire in the 1790s (Bigourdan F.2–3). Pingré excerpted the comet observations from it for the Cométographie. Dreyer's first witness in 1908; the record link above is the Observatoire's digital library item, which reproduces only the title page and p. 248 — no facsimile of the six volumes exists.",
+    "confidence": "A",
+    "sources": [
+     "S_TBOO_X_PROL",
+     "S_BIGOURDAN1895",
+     "S_BIBNUM"
+    ],
+    "questions": [],
+    "graphonomicon": null,
+    "receptio": [
+     "recep-observations-opera-omnia",
+     "recep-historia-coelestis-1666"
+    ],
+    "work": "W_OBSERVATIONES",
+    "tboo": []
+   },
+   {
+    "id": "O_OBSPM_B4_14",
+    "label": "The 'Manuscrit Érasme Bartholin' that is Pingré's Annales célestes (Observatoire B 4/14)",
+    "shelfmark": "B 4/14",
+    "year_str": "1677-1700",
+    "year_start": 1677,
+    "year_end": 1700,
+    "status": "extant",
+    "inst": "OBSPM",
+    "inst_full": "Bibliothèque de l'Observatoire de Paris",
+    "city": "Paris",
+    "country": "France",
+    "last_documented_inst": null,
+    "genre": "compilation",
+    "originality": "posthumous-copy",
+    "dreyer_codex": null,
+    "dreyer_codex_confirmed": false,
+    "dreyer_codex_note": "",
+    "dreyer_page": "IX–X",
+    "dreyer_hand_statement": "'Per errorem usque ad nostram aetatem creditum est, codicem in specula Parisiensi asservatum, qui inscriptus est Manuscrit Erasme Bartholin, illum esse, quem circa annum 1669 ille confecisset' — on examination it held Pingré's French translation of observations omitted from the Historia Coelestis and the later part of his Annales célestes, all in Pingré's hand (TBOO X pp. IX–X, after Bigourdan).",
+    "copied_from": null,
+    "copied_note": "",
+    "leaves_dreyer": null,
+    "leaves_catalogue": {
+     "count": 9,
+     "unit": "cahiers",
+     "source": "S_BIGOURDAN1895",
+     "note": "'1 portef. in-4°. — Manuscrit formé de 9 cahiers séparés, écrits en entier par Pingré' (F.24)"
+    },
+    "catalogue_title": "PINGRÉ, Annales célestes du 17e siècle. 1 portef. in-4°.",
+    "catalogue_title_source": "S_BIGOURDAN1895",
+    "autograph": "",
+    "scribe_attribution": null,
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k6323033s/f456.item",
+    "facsimile": null,
+    "notes": "Registered as a witness only in the negative: a folded folio wrapper carries the note 'Manuscrit Érasme Bartholin. Copie des observations de Tycho-Brahé', written about 1840, on whose faith Paris believed until 1895 that it held Bartholin's copy (Bigourdan F.6, F.24; Dreyer's own biography of 1890, p. 375, repeated the error, as he admits at TBOO X p. X). The portfolio is Pingré's autograph Annales célestes for 1677–1700 and his French rendering of observations the Historia Coelestis omits. The record link is Bigourdan's printed entry on Gallica; the Observatoire's Calames catalogue cannot be linked at record level.",
+    "confidence": "B",
+    "sources": [
+     "S_TBOO_X_PROL",
+     "S_BIGOURDAN1895"
+    ],
+    "questions": [],
+    "graphonomicon": null,
+    "receptio": [
+     "recep-observations-opera-omnia",
+     "recep-historia-coelestis-1666"
+    ],
+    "work": "W_OBSERVATIONES",
+    "tboo": []
    }
   ],
   "transmission": [
@@ -2973,6 +3246,16 @@
     ]
    },
    {
+    "date": "1666-10-09",
+    "event": "Frederik III's rescript to Bartholin: to see Tycho's writings, already delivered to him, through the press 'saa oprigtige oc correcte' and without delay, and to pay from church funds the students copying them (Rigsarkivet, Danske Kancelli, Sjællandske Missiver, indlæg nr. 579).",
+    "sources": [
+     [
+      "S_FRIEDRICHSEN2006",
+      "p. 55"
+     ]
+    ]
+   },
+   {
     "date": "1666",
     "event": "The Historia Coelestis (Augsburg), Curtz's edition from the Vienna fair copies: 124 + 977 pages, without the years before 1582 and without 1593 — 'so incomplete and so carelessly compiled that it is almost useless'.",
     "sources": [
@@ -3004,11 +3287,15 @@
    },
    {
     "date": "1680–1682",
-    "event": "The Paris printing reaches the year 1582 (23 quires in quarto) and stops.",
+    "event": "The Paris printing, decreed by the Académie on 7 December 1680 and set in Picard's charge, reaches the observations of 3 December 1582 (23 quires in quarto, 96 pages) and stops; the quires survive at the Bibliothèque nationale (V. 1804) with Lalande's note of 2 March 1793 bound in.",
     "sources": [
      [
       "S_TBOO_X_PROL",
       "p. VII"
+     ],
+     [
+      "S_FRIEDRICHSEN2006",
+      "pp. 51–52"
      ]
     ]
    },
@@ -3033,12 +3320,60 @@
     ]
    },
    {
+    "date": "1714",
+    "event": "Joseph-Nicolas Delisle, newly elected to the Académie, has the observations kept in its archives copied — Tycho's among them; his transcript of Bartholin's copy fills six folio volumes.",
+    "sources": [
+     [
+      "S_BIGOURDAN1895",
+      "pp. F.2, F.24"
+     ],
+     [
+      "S_TBOO_X_PROL",
+      "p. IX"
+     ]
+    ]
+   },
+   {
+    "date": "c. 1750",
+    "event": "Delisle, home from Russia, exchanges his collections for a pension and the title of astronome de la Marine; his books and manuscripts, the Tycho transcript among them, pass to the Dépôt de la Marine.",
+    "sources": [
+     [
+      "S_BIGOURDAN1895",
+      "pp. F.2–3"
+     ]
+    ]
+   },
+   {
+    "date": "c. 1750–1762",
+    "event": "La Caille has the loose sheets of Bartholin's copy bound in four volumes and pastes an undated note into the first; Jeaurat records in 1763 that 'M. de la Caille a pris le soin de faire relier la copie de Bartholin'.",
+    "sources": [
+     [
+      "S_TBOO_X_PROL",
+      "p. IX"
+     ],
+     [
+      "S_FRIEDRICHSEN2006",
+      "p. 53"
+     ]
+    ]
+   },
+   {
     "date": "1757–1763",
     "event": "Lalande and Jeaurat publish the 1593 observations of Mars, Jupiter and Saturn from Bartholin's copy.",
     "sources": [
      [
       "S_TBOO_X_PROL",
       "p. IX"
+     ]
+    ]
+   },
+   {
+    "date": "1795",
+    "event": "The Comité de salut public assigns the astronomical part of Delisle's collection to the new Bureau des longitudes, whence it comes to the Observatoire; the Tycho transcript is later shelved as B 4/15–20.",
+    "sources": [
+     [
+      "S_BIGOURDAN1895",
+      "pp. F.3, F.24"
      ]
     ]
    },
@@ -3083,6 +3418,30 @@
     ]
    },
    {
+    "date": "1908",
+    "event": "Dreyer, beginning the edition at Armagh, borrows the six Paris volumes first of all — believing them Bartholin's copy — and collates them with the Historia Coelestis before the Copenhagen codices; he finds Delisle's transcript almost faultless.",
+    "sources": [
+     [
+      "S_TBOO_X_PROL",
+      "p. XI"
+     ]
+    ]
+   },
+   {
+    "date": "1914-07",
+    "event": "Bigourdan assures Dreyer that Bartholin's copy is in neither the Observatoire nor the Académie des sciences; the Observatoire's 'Manuscrit Érasme Bartholin' (B 4/14) is Pingré's autograph.",
+    "sources": [
+     [
+      "S_TBOO_X_PROL",
+      "pp. IX–X"
+     ],
+     [
+      "S_BIGOURDAN1895",
+      "pp. F.6, F.24"
+     ]
+    ]
+   },
+   {
     "date": "1913–1916",
     "event": "Printing of the observations for the Opera Omnia begins (October 1913) and stops in the summer of 1916 at the end of 1583.",
     "sources": [
@@ -3111,6 +3470,16 @@
       ""
      ]
     ]
+   },
+   {
+    "date": "before 2006",
+    "event": "Kurt Møller Pedersen finds Bartholin's copy at the Bibliothèque de l'Institut de France — the four volumes La Caille had bound, about a hundred pages of the first in Rømer's hand — and Picard's printed quires at the Bibliothèque nationale; Friedrichsen publishes the finding with the first page of Rømer's fair copy of 1581.",
+    "sources": [
+     [
+      "S_FRIEDRICHSEN2006",
+      "pp. 51–54"
+     ]
+    ]
    }
   ],
   "desiderata": [
@@ -3125,10 +3494,12 @@
    {
     "id": "des-vienna-bundles",
     "title": "The three Vienna paper bundles (Cod. 10686, 10688, 10689)",
-    "text": "Dreyer used three large bundles of letters and papers at Vienna that carry copies of some observations (TBOO XIII p. 98 note: 'Apographum harum observationum in cod. Vindob. lat. 10689 f 26r sqq'). They are not registered here; a leaf-level description would settle which observations they witness. Friis listed the contents of Cod. 10686 in the summer of 1868 and pencilled numbers on the pieces, which had been pasted in 'uden at man tog synderligt Hensyn til, om de bleve anbragte paa rette Sted': among them, inside a wrapper of Kepler's Mars papers, the binding waste 'Jorde Bogenn Thill Knudstrup Aar 1580 Thyge Brades'; a folio quire prepared for the press with the Pratensis epitaph; Urania Titani with autograph corrections (his item 12); Elias Olsen Morsing's preface to his Calendarium, dated Uraniborg 1 January 1586; and a star catalogue sent by Rothmann in 1586 (Friis 1868–69, pp. 253–259). In Cod. 10688 he found, beside the book-lists, maps of part of Norway, 'Nordfjords Lehn' dated 1594, Hven after Braun, and Copenhagen (p. 259).",
+    "text": "Dreyer used three large bundles of letters and papers at Vienna that carry copies of some observations (TBOO XIII p. 98 note: 'Apographum harum observationum in cod. Vindob. lat. 10689 f 26r sqq'). They are not registered here; a leaf-level description would settle which observations they witness. Friis listed the contents of Cod. 10686 in the summer of 1868 and pencilled numbers on the pieces, which had been pasted in 'uden at man tog synderligt Hensyn til, om de bleve anbragte paa rette Sted': among them, inside a wrapper of Kepler's Mars papers, the binding waste 'Jorde Bogenn Thill Knudstrup Aar 1580 Thyge Brades'; a folio quire prepared for the press with the Pratensis epitaph; Urania Titani with autograph corrections (his item 12); Elias Olsen Morsing's preface to his Calendarium, dated Uraniborg 1 January 1586; and a star catalogue sent by Rothmann in 1586 (Friis 1868–69, pp. 253–259). In Cod. 10688 he found, beside the book-lists, maps of part of Norway, 'Nordfjords Lehn' dated 1594, Hven after Braun, and Copenhagen (p. 259). The ÖNB holds a nineteenth-century 'Verzeichnis der verschiedenen Stücke, welche in Ms. Nr. 10.686/9, 10.688 u. 10.689 sich befinden' (catalogue record AC13944458), which would be the first thing to read. Four pieces are now digitised in full (manuscripta.at): Cod. 10686/17, 21 leaves in Tycho's name — the treatise 'De eclipsi lunae anni 1573 mense Decembri' with its corrections (ff. 1r–14v, whence Dreyer printed the eclipse among the observations of 1573, TBOO X pp. 38–39), the first lines of a nativity of Frederik II (ff. 15r–17v) and the 'In Vraniam Idyllion' (ff. 18r–21r); Cod. 10686/67, a 31-leaf miscellany; Cod. 10686/80, Rothmann's 'Tabula observationum stellarum fixarum' of 1586 — the catalogue Friis saw — at viewer.onb.ac.at/100232BE; and Cod. 10688/15. The ÖNB picture archive has single images of Cod. 10686/7 f. 11v (letters of Pratensis, Dançay, Bille and Hainzel to Tycho) and of the Norwegian maps in Cod. 10688.",
     "sources": [
      "S_TBOO_X_PROL",
-     "S_FRIIS1868"
+     "S_FRIIS1868",
+     "S_MANUSCRIPTA",
+     "S_ONB"
     ]
    },
    {
@@ -3177,11 +3548,13 @@
    },
    {
     "id": "des-facsimiles",
-    "title": "Facsimiles of the thirty-six volumes without one",
-    "text": "Two volumes have a public facsimile (GKS 1824, GKS 316). The Austrian National Library's catalogue records no digital copy of any of the nineteen fair copies or of Cod. 10709; the Royal Danish Library's catalogue shows no online link for the other fifteen Copenhagen volumes (probed 5 September 2026). The autograph protocols GKS 311–318 and GKS 1825–1826 are the obvious targets.",
+    "title": "Facsimiles of the volumes without one",
+    "text": "Three Copenhagen volumes have a public facsimile (GKS 1824, GKS 316, GKS 306), none of them linked from its catalogue record — the Digital Collections must be searched directly. The Austrian National Library's catalogue records no digital copy of any of the nineteen fair copies or of Cod. 10709 (re-probed 7 October 2026), though two pieces of the Cod. 10686 bundle are digitised in full (Rothmann's table of 1586 and Tycho's treatise on the eclipse of December 1573). Neither Paris copy is digitised; the Observatoire's digital library shows the title page and one page of Delisle's. The autograph protocols GKS 311–318 and GKS 1825–1826 are the obvious targets, then the Vienna fair copies, then Bartholin's copy at the Institut.",
     "sources": [
      "S_KB",
-     "S_ONB"
+     "S_ONB",
+     "S_MANUSCRIPTA",
+     "S_BIBNUM"
     ]
    },
    {
@@ -3223,6 +3596,26 @@
     "text": "The tail measurements (16 November 1577: 17° long, 6°30′ across at its widest) and Tycho's discussion of the tail's direction are quoted from a copy of the 1588 print in a private collection; their pages in TBOO IV have not yet been located and read.",
     "sources": [
      "S_TBOO_IV"
+    ]
+   },
+   {
+    "id": "des-paris-copies",
+    "title": "Bartholin's copy at the Institut de France: shelfmark, extent, collation",
+    "text": "Dreyer gave up Bartholin's copy as lost; it survives at the Bibliothèque de l'Institut de France in the four volumes La Caille had bound, and Picard's printed quires survive at the Bibliothèque nationale (Friedrichsen 2006, after Kurt Møller Pedersen). The register carries the Institut volume without a shelfmark: Bouteron & Tremblot's catalogue of 1928 (Catalogue général des manuscrits, Bibliothèque de l'Institut, ancien et nouveau fonds) or the Institut's Calames records would supply the number, the leaf count and the date of La Caille's note. The copy matters beyond its history — made from the archetypes while the octavo of 1563–74 still existed and read against them, it is, with Codex A and GKS 310, a third witness of the lost octavo, and the hand of the hundred pages Rømer wrote is a dated specimen of a young Rømer. Delisle's six volumes (B 4/15–20) descend from it and Dreyer found them almost faultless; neither set is digitised.",
+    "sources": [
+     "S_FRIEDRICHSEN2006",
+     "S_DEHERAIN1929",
+     "S_BIGOURDAN1895",
+     "S_TBOO_X_PROL"
+    ]
+   },
+   {
+    "id": "des-kepler-extracts",
+    "title": "Kepler's working extracts from the observations (St Petersburg, olim Pulkovo XIV)",
+    "text": "Kepler had the observation books in his keeping from 1601 to his death, and his papers in the Archive of the Russian Academy of Sciences (F 285 op. 1 No. 10, olim Pulkovo, Mss. Band XIV, ff. 68r–149r, edited in Gesammelte Werke 20.2) carry his reductions of Tycho's Mars observations from Benátky, February–June 1600. They are a user's extracts, not a witness of the archive in Dreyer's sense, and are not registered as a codex; whether any reading there differs from the Copenhagen and Vienna codices — or preserves 1593 observations lost with the Vienna volume — has not been asked.",
+    "sources": [
+     "S_AHES2024",
+     "S_TBOO_X_PROL"
     ]
    }
   ]

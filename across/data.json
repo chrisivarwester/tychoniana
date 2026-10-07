@@ -31,7 +31,7 @@
   "inst_lost": 5,
   "sites": 15,
   "sites_lost": 5,
-  "volumes": 38,
+  "volumes": 42,
   "vol_lost": 1,
   "images": 33,
   "img_extant": 22,
@@ -115,6 +115,15 @@
   },
   {
    "kind": "volume",
+   "key": "O_BIF_BARTHOLIN",
+   "label": "Bartholin's copy of the observations, 1664–68 — the exemplar Picard took to Paris",
+   "year_start": 1563,
+   "year_end": 1601,
+   "edition": "Observationes",
+   "link": "../observationes/index.html#vc-O_BIF_BARTHOLIN"
+  },
+  {
+   "kind": "volume",
    "key": "O_GKS1824",
    "label": "Earliest observations 1563–1582",
    "year_start": 1563,
@@ -139,6 +148,15 @@
    "year_end": 1574,
    "edition": "Observationes",
    "link": "../observationes/index.html#vc-O_LOST_8VO"
+  },
+  {
+   "kind": "volume",
+   "key": "O_OBSPM_B4_15_20",
+   "label": "Delisle's transcript of Bartholin's copy, six volumes (Observatoire B 4/15–20)",
+   "year_start": 1563,
+   "year_end": 1601,
+   "edition": "Observationes",
+   "link": "../observationes/index.html#vc-O_OBSPM_B4_15_20"
   },
   {
    "kind": "instrument",
@@ -1753,6 +1771,15 @@
   },
   {
    "kind": "volume",
+   "key": "O_GKS306",
+   "label": "Stellarum octavi orbis inerrantium accurata restitutio — the presentation catalogue of 1598 (Christian IV's copy)",
+   "year_start": 1598,
+   "year_end": 1598,
+   "edition": "Observationes",
+   "link": "../observationes/index.html#vc-O_GKS306"
+  },
+  {
+   "kind": "volume",
    "key": "O_GKS317",
    "label": "Wittenberg & Benátky observations 1598–1600",
    "year_start": 1598,
@@ -2245,6 +2272,15 @@
    "year_end": 1672,
    "edition": "Instrumenta",
    "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "volume",
+   "key": "O_OBSPM_B4_14",
+   "label": "The 'Manuscrit Érasme Bartholin' that is Pingré's Annales célestes (Observatoire B 4/14)",
+   "year_start": 1677,
+   "year_end": 1700,
+   "edition": "Observationes",
+   "link": "../observationes/index.html#vc-O_OBSPM_B4_14"
   },
   {
    "kind": "instrument-fate",
@@ -2976,7 +3012,7 @@
    "city": "Copenhagen",
    "country": "DK",
    "kind": "observation codices",
-   "count": 17
+   "count": 18
   },
   {
    "city": "Copenhagen",
@@ -3039,6 +3075,24 @@
    "count": 6
   },
   {
+   "city": "Paris",
+   "country": "FR",
+   "kind": "census copies",
+   "count": 7
+  },
+  {
+   "city": "Paris",
+   "country": "FR",
+   "kind": "observation codices",
+   "count": 3
+  },
+  {
+   "city": "Paris",
+   "country": "FR",
+   "kind": "hand specimens",
+   "count": 2
+  },
+  {
    "city": "Marburg",
    "country": "DE",
    "kind": "census copies",
@@ -3049,18 +3103,6 @@
    "country": "DE",
    "kind": "hand specimens",
    "count": 6
-  },
-  {
-   "city": "Paris",
-   "country": "FR",
-   "kind": "census copies",
-   "count": 7
-  },
-  {
-   "city": "Paris",
-   "country": "FR",
-   "kind": "hand specimens",
-   "count": 2
   },
   {
    "city": "London",

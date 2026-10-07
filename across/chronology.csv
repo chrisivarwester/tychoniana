@@ -4,9 +4,11 @@ period,per-1,Childhood in Scania and Zealand,1546,1559,Loca,../loca/index.html#p
 period,per-2,Student at Copenhagen,1559,1562,Loca,../loca/index.html#per-2
 journey,journey-copenhagen-leipzig-1562,"First study journey: Copenhagen to Leipzig, February–March 1562",1562,1562,Loca,../loca/index.html#journey-copenhagen-leipzig-1562
 period,per-3,Leipzig with Vedel,1562,1565,Loca,../loca/index.html#per-3
+volume,O_BIF_BARTHOLIN,"Bartholin's copy of the observations, 1664–68 — the exemplar Picard took to Paris",1563,1601,Observationes,../observationes/index.html#vc-O_BIF_BARTHOLIN
 volume,O_GKS1824,Earliest observations 1563–1582,1563,1582,Observationes,../observationes/index.html#vc-O_GKS1824
 volume,O_GKS310,Collectio observationum (Bartholin),1563,,Observationes,../observationes/index.html#vc-O_GKS310
 volume,O_LOST_8VO,Lost 8vo observation volume 1563–74,1563,1574,Observationes,../observationes/index.html#vc-O_LOST_8VO
+volume,O_OBSPM_B4_15_20,"Delisle's transcript of Bartholin's copy, six volumes (Observatoire B 4/15–20)",1563,1601,Observationes,../observationes/index.html#vc-O_OBSPM_B4_15_20
 instrument,inst-radius-1564,Radius astronomicus (cross-staff) — the student instrument,1564,1570,Instrumenta,../instrumenta/index.html#inst-radius-1564
 journey,journey-leipzig-home-1565,"Return from Leipzig to wartime Denmark, May–June 1565",1565,1565,Loca,../loca/index.html#journey-leipzig-home-1565
 period,per-4,The Wanderjahre,1565,1570,Loca,../loca/index.html#per-4
@@ -186,6 +188,7 @@ likeness,icon-mechanica-watercolours,The painted portraits in the finest Mechani
 likeness,icon-progymnasmata-watercolour,The full-figure watercolour at Strahov — the standing Tycho with a sextant,1598,1666,Iconographia,../iconographia/index.html#icon-progymnasmata-watercolour
 reception,recep-stygge-1598,A contemporary Danish verdict — Tycho's pomp at Wandsbek (1598),1598,1598,Receptio,../receptio/index.html#recep-stygge-1598
 volume,O_COD10672,Fair-copy observations 1598 (apographum),1598,1598,Observationes,../observationes/index.html#vc-O_COD10672
+volume,O_GKS306,Stellarum octavi orbis inerrantium accurata restitutio — the presentation catalogue of 1598 (Christian IV's copy),1598,1598,Observationes,../observationes/index.html#vc-O_GKS306
 volume,O_GKS317,Wittenberg & Benátky observations 1598–1600,1598,1600,Observationes,../observationes/index.html#vc-O_GKS317
 instrument-fate,"transmission-1599, summer",Tycho arrives in Prague and lodges in the Curtius house; at his audience the Emperor asks him to send for the instruments still on their way.,1599,1599,Instrumenta,../instrumenta/index.html#sec-transmission
 journey,journey-benatky-girsitz-1599,"Plague flight to Girsitz and back, November 1599 – January 1600",1599,1600,Loca,../loca/index.html#journey-benatky-girsitz-1599
@@ -241,6 +244,7 @@ likeness,icon-kilian-standing,Kilian's standing Tycho (1666) — a whole body in
 reception,recep-blaeu-atlas-1664,Joan Blaeu’s Grooten Atlas — Tycho’s instruments in colour for a vernacular public (1664),1664,1664,Receptio,../receptio/index.html#recep-blaeu-atlas-1664
 reception,recep-historia-coelestis-1666,Historia Coelestis (Augsburg 1666) — the observations first in print,1666,1666,Receptio,../receptio/index.html#recep-historia-coelestis-1666
 instrument-fate,"transmission-1672, 18 May",The English legation secretary Henshaw reports that 'Tycho Brahe's instruments were long ago sold to brass-founders'.,1672,1672,Instrumenta,../instrumenta/index.html#sec-transmission
+volume,O_OBSPM_B4_14,The 'Manuscrit Érasme Bartholin' that is Pingré's Annales célestes (Observatoire B 4/14),1677,1700,Observationes,../observationes/index.html#vc-O_OBSPM_B4_14
 instrument-fate,transmission-1728,"The globe burns in the Round Tower fire; the wooden body is consumed and the brass melts, leaving some lumps, the meridian ring, iron rings and the axle, since lost.",1728,1728,Instrumenta,../instrumenta/index.html#sec-transmission
 reception,recep-hven-cellar-1747,"The cellar under the plough, and the cellar that was not beneath it (1747–1824)",1747,1824,Receptio,../receptio/index.html#recep-hven-cellar-1747
 instrument-fate,transmission-c. 1780,"The Prague observatory's earliest inventory lists 'No. 4, a large sextant of Tycho Brahe, made in the year 1600 by Erasmus Habermel' and 'No. 5, a smaller sextant of Tycho Brahe, which he brought with him to Prague'.",1780,1780,Instrumenta,../instrumenta/index.html#sec-transmission
