@@ -1,12 +1,12 @@
 {
  "edition": {
   "title": "Observationes — The Observation Archive of Tycho Brahe, and the Printed Catalogue of Stars",
-  "date": "2026-10-07"
+  "date": "2026-10-08"
  },
  "codices": {
   "id": "brahe-tycho",
-  "version": "2.2",
-  "edition_date": "2026-10-07",
+  "version": "2.3",
+  "edition_date": "2026-10-08",
   "generated": "2026-09-05",
   "title": "Observationes — the observation archive of Tycho Brahe, and the printed catalogue of stars",
   "description": "The manuscript volumes in which Tycho Brahe's observations survive — the archetypes and transcripts at the Royal Danish Library, the nineteen annual fair copies and the working star catalogue at the Austrian National Library, and the lost octavo — with Dreyer's description of each, the hand, what it was copied from, the pages of the Opera Omnia set from it, and the events of its custody 1601–1929.",
@@ -31,8 +31,8 @@
    "hand_grade": "B–D: the documentary-prior grade of the scribe attribution — B one primary candidate, C several, D unattributed or the named candidate excluded; not a palaeographic grade"
   },
   "facsimile_probe": {
-   "date": "2026-10-07",
-   "method": "Royal Danish Library: Alma SRU (856 fields) on every GKS record plus the Digital Collections catalogue API (digitalesamlinger.kb.dk/catalog, JSON) searched by author and by shelfmark; GKS 1824, GKS 316 and GKS 306 resolve (HTTP 200), the catalogue records of all three carry no link. Austrian National Library: Alma SRU on AC13948895 and on every shelfmark form ('Cod. 10657', '10.657'), the digitised-manuscripts list of manuscripta.at, and the ÖNB digital-object resolver — no digital copy of Cod. 10657–10675 or 10709; Cod. 10686/80 resolves to viewer.onb.ac.at/100232BE and Cod. 10686/17 is listed as fully digitised. Paris: bibnum.obspm.fr (two sample pages of B 4/15–20), Bigourdan 1895 on Gallica, the Institut's Calames finding aids (no Tycho record reachable without JavaScript)."
+   "date": "2026-10-08",
+   "method": "Royal Danish Library: Alma SRU (856 fields) on every GKS record plus the Digital Collections catalogue API (digitalesamlinger.kb.dk/catalog, JSON) searched by author and by shelfmark; GKS 1824, GKS 316 and GKS 306 resolve (HTTP 200), the catalogue records of all three carry no link. Austrian National Library: Alma SRU on AC13948895 and on every shelfmark form ('Cod. 10657', '10.657'), the digitised-manuscripts list of manuscripta.at, and the ÖNB digital-object resolver — no digital copy of Cod. 10657–10675 or 10709; Cod. 10686/80 resolves to viewer.onb.ac.at/100232BE and Cod. 10686/17 is listed as fully digitised. Paris: bibnum.obspm.fr (two sample pages of B 4/15–20), Bigourdan 1895 on Gallica, the Institut's Calames finding aids (no Tycho record reachable without JavaScript). Institut de France (8 October 2026): Calames record IF2B12068 read in the house browser, no digital copy; the Institut's digital library (bibnum.institutdefrance.fr) searched for Brahe — one 1638 Dutch almanac, no manuscript."
   },
   "federates_with": [
    "brahe-progymnasmata-1602",
@@ -320,6 +320,14 @@
     "url": "https://doi.org/10.1007/s00407-024-00344-2",
     "url_label": "doi",
     "contributes": "the manuscript locus of Kepler's 1600 extracts from the observations, outside Dreyer's census of witnesses"
+   },
+   {
+    "id": "S_CALAMES_IF",
+    "label": "Calames — Bibliothèque de l'Institut de France, Ms 1489–1493",
+    "full": "Calames (Catalogue en ligne des archives et des manuscrits de l'enseignement supérieur), Bibliothèque de l'Institut de France, record IF2B12068: « Tychonis Brahe thesaurus observationum astronomicarum », Ms 1489–1493, XVIIe siècle, Latin, paper, 316, 304, 307, 302 and 393 leaves, 340 × 220 mm, marbled calf; 'Copie due à Bartholin, médecin danois'; provenance Mss. 398–402 of the Bibliothèque de l'Académie des sciences. Read 8 October 2026.",
+    "url": "https://calames.abes.fr/pub/ms/IF2B12068",
+    "url_label": "Calames (Institut de France)",
+    "contributes": "the holding library's own record of Bartholin's copy: shelfmark, extent, binding and provenance"
    }
   ],
   "volumes": [
@@ -2899,8 +2907,8 @@
    },
    {
     "id": "O_BIF_BARTHOLIN",
-    "label": "Bartholin's copy of the observations, 1664–68 — the exemplar Picard took to Paris",
-    "shelfmark": "[Institut de France, shelfmark not established]",
+    "label": "Bartholin's copy of the observations, 1664–68 — the exemplar Picard took to Paris (Ms 1489–1493)",
+    "shelfmark": "Ms 1489–1493",
     "year_str": "1563-1601",
     "year_start": 1563,
     "year_end": 1601,
@@ -2932,18 +2940,24 @@
      "O_GKS315"
     ],
     "copied_note": "Made from the archetypes in Copenhagen, 1664–68, and read against them; the Copenhagen codices listed are the archetypes Bartholin held on his receipt of 20 June 1664 (the octavo of 1563–74 among them).",
-    "leaves_dreyer": "four volumes (as bound for La Caille)",
-    "leaves_catalogue": null,
-    "catalogue_title": null,
-    "catalogue_title_source": null,
+    "leaves_dreyer": null,
+    "leaves_catalogue": {
+     "count": 1622,
+     "unit": "leaves",
+     "source": "S_CALAMES_IF",
+     "note": "five volumes of 316, 304, 307, 302 and 393 leaves; paper, 340 × 220 mm, marbled calf (Calames)"
+    },
+    "catalogue_title": "« Tychonis Brahe thesaurus observationum astronomicarum ». Copie due à Bartholin, médecin danois.",
+    "catalogue_title_source": "S_CALAMES_IF",
     "autograph": "",
     "scribe_attribution": null,
-    "url": null,
+    "url": "https://calames.abes.fr/pub/ms/IF2B12068",
     "facsimile": null,
-    "notes": "Located by Kurt Møller Pedersen at the Bibliothèque de l'Institut de France: the loose sheets of Bartholin's copy, bound in four volumes at La Caille's instance (his undated note is pasted into the first), about a hundred pages of the first volume in Rømer's hand — the first page of Rømer's fair copy of the 1581 observations is reproduced by Friedrichsen (2006, p. 54). It is the exemplar Picard printed from (six sheets, 96 pages, to 3 December 1582) and the one Rostgaard saw in La Hire's room in 1697 and was told was Picard's own copy; after the archetypes went home in 1707 it stayed with the Académie's papers, which passed to the Institut. Dehérain in 1929 already named 'le Recueil des Observations de Tycho Brahé' among the Académie's papers there. Its shelfmark, extent and collation remain to be taken from Bouteron & Tremblot's 1928 catalogue or the Institut's Calames records; no facsimile.",
-    "confidence": "B",
+    "notes": "Bibliothèque de l'Institut de France, Ms 1489–1493: five paper volumes in marbled calf, 316, 304, 307, 302 and 393 leaves, 340 × 220 mm, catalogued as 'Copie due à Bartholin, médecin danois', formerly Mss. 398–402 of the library of the Académie des sciences (Calames, record IF2B12068). This is the exemplar Picard printed from (six sheets, 96 pages, to 3 December 1582) and the one Rostgaard saw in La Hire's room in 1697 and was told was Picard's own copy; after the archetypes went home in 1707 it stayed with the Académie's papers, which passed to the Institut, where Dehérain in 1929 already named 'le Recueil des Observations de Tycho Brahé' among them. Dreyer, assured by Bigourdan in 1914 that it was in neither the Observatoire nor the Académie, gave it up as lost; Kurt Møller Pedersen found it, and Friedrichsen (2006) reports four volumes bound at La Caille's instance (his undated note pasted into the first) with about a hundred pages of the first volume in Rømer's hand — the first page of Rømer's fair copy of 1581 is reproduced there. The library counts five volumes; whether the fifth is a later binding or Friedrichsen's count is short is not settled. Consultation is reserved to readers accredited by the academies. Not digitised: the Institut's digital library holds no Brahe manuscript (searched 8 October 2026).",
+    "confidence": "A",
     "sources": [
      "S_TBOO_X_PROL",
+     "S_CALAMES_IF",
      "S_FRIEDRICHSEN2006",
      "S_DEHERAIN1929"
     ],
@@ -3600,9 +3614,10 @@
    },
    {
     "id": "des-paris-copies",
-    "title": "Bartholin's copy at the Institut de France: shelfmark, extent, collation",
-    "text": "Dreyer gave up Bartholin's copy as lost; it survives at the Bibliothèque de l'Institut de France in the four volumes La Caille had bound, and Picard's printed quires survive at the Bibliothèque nationale (Friedrichsen 2006, after Kurt Møller Pedersen). The register carries the Institut volume without a shelfmark: Bouteron & Tremblot's catalogue of 1928 (Catalogue général des manuscrits, Bibliothèque de l'Institut, ancien et nouveau fonds) or the Institut's Calames records would supply the number, the leaf count and the date of La Caille's note. The copy matters beyond its history — made from the archetypes while the octavo of 1563–74 still existed and read against them, it is, with Codex A and GKS 310, a third witness of the lost octavo, and the hand of the hundred pages Rømer wrote is a dated specimen of a young Rømer. Delisle's six volumes (B 4/15–20) descend from it and Dreyer found them almost faultless; neither set is digitised.",
+    "title": "Bartholin's copy at the Institut de France: the four-or-five volumes, Rømer's pages, the lost octavo",
+    "text": "Bartholin's copy, which Dreyer gave up as lost, is Bibliothèque de l'Institut de France Ms 1489–1493 — five volumes, 1,622 leaves, catalogued as his copy and formerly Mss. 398–402 of the Académie des sciences (Calames, 8 October 2026); Picard's printed quires survive at the Bibliothèque nationale (Friedrichsen 2006, after Kurt Møller Pedersen). What remains: Friedrichsen counts four volumes bound for La Caille against the library's five; the date of La Caille's note and the hundred pages in Rømer's hand have not been examined; and the copy's value as a witness has never been drawn on — made from the archetypes while the octavo of 1563–74 still existed and read against them, it is, with Codex A and GKS 310, a third witness of the lost octavo. Delisle's six volumes (B 4/15–20) descend from it and Dreyer found them almost faultless; neither set is digitised, and the Institut admits only readers accredited by the academies.",
     "sources": [
+     "S_CALAMES_IF",
      "S_FRIEDRICHSEN2006",
      "S_DEHERAIN1929",
      "S_BIGOURDAN1895",
