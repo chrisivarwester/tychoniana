@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.15",
- "edition_date": "2026-10-06",
+ "version": "1.16",
+ "edition_date": "2026-10-08",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -2209,8 +2209,8 @@
     "city": "Prague, Czech Republic",
     "inv": "",
     "url": "",
-    "tier": "attested — Friis and the Vierteljahrsschrift der Astronomischen Gesellschaft (1881), the latter now read and filed at source; the Strahov catalogue's Brahe provenance search (8 September 2026) returns no Progymnasmata",
-    "note": "Distinct from the Strahov Mechanica. Both were presented by Tycho to Jan Zbyněk Zajíc z Házmburka, so the same recipient holds two Tycho presentation volumes, each carrying a watercolour portrait — and the two portraits are of different types. Status is 'untraced', not 'extant': the object's survival rests on the 1881 report and nothing later. A third independent silence has since been added: Boldan & Vackářová, Bibliotheca astronomica (Národní knihovna ČR, 2024), pp. 88–91 — a Strahov-focused Tycho chapter — illustrates only the Mechanica and returns no trace of this Progymnasmata volume, the strongest of the three silences, 143 years after the report. The same source gives the sibling Mechanica's current shelfmark, AG XI 56. The Strahov catalogue was reached on 8 September 2026: its provenance field for Brahe returns twelve records — five volumes from his library, the Mechanica AG XI 56, two Keplers and three peripheral items — and no Progymnasmata; a Progymnasmata could still be catalogued without a Brahe provenance note, so the check is negative rather than conclusive. Against the silences stands one positive hint: Pařez (2009), listing Strahov's Tycho books, speaks of volumes Tycho ‘used as gifts to other persons’ in the plural, and only the Mechanica is named — his 1996 survey (Tychoniana ve Strahovské knihovně), which predates the catalogue, is the place the volume would be listed. Manuscriptorium remains unqueried. Friis's imprint for the Kilian engraving, 'Vienna 1657', is refuted — see the Kilian record."
+    "tier": "attested — Friis and the Vierteljahrsschrift der Astronomischen Gesellschaft (1881); the Strahov catalogue's Brahe provenance search (8 September 2026) returns no Progymnasmata, but a title search (18 September 2026) finds a 1603 copy at AG XIV 17 with a Žďár provenance — a candidate host volume, unexamined",
+    "note": "Distinct from the Strahov Mechanica. Both were presented by Tycho to Jan Zbyněk Zajíc z Házmburka, so the same recipient holds two Tycho presentation volumes, each carrying a watercolour portrait — and the two portraits are of different types. Status is 'untraced', not 'extant': the object's survival rests on the 1881 report and nothing later. A third independent silence has since been added: Boldan & Vackářová, Bibliotheca astronomica (Národní knihovna ČR, 2024), pp. 88–91 — a Strahov-focused Tycho chapter — illustrates only the Mechanica and returns no trace of this Progymnasmata volume, the strongest of the three silences, 143 years after the report. The same source gives the sibling Mechanica's current shelfmark, AG XI 56. The Strahov catalogue was reached on 8 September 2026: its provenance field for Brahe returns twelve records — five volumes from his library, the Mechanica AG XI 56, two Keplers and three peripheral items — and no Progymnasmata; a Progymnasmata could still be catalogued without a Brahe provenance note, so the check is negative rather than conclusive. Against the silences stands one positive hint: Pařez (2009), listing Strahov's Tycho books, speaks of volumes Tycho ‘used as gifts to other persons’ in the plural, and only the Mechanica is named — his 1996 survey (Tychoniana ve Strahovské knihovně), which predates the catalogue, is the place the volume would be listed. Manuscriptorium remains unqueried. Friis's imprint for the Kilian engraving, 'Vienna 1657', is refuted — see the Kilian record. The catalogue was searched by title on 18 September 2026 and does list a Progymnasmata: AG XIV 17 (record 982709), catalogued ‘S.l., s.n., 1603’, with the provenance note ‘cisterciáci Žďár’ — the Cistercian abbey of Žďár nad Sázavou, dissolved in 1784 — and no note of Tycho, Házmburk, a dedication or a bound-in leaf; the added creator ‘Jakub I. (VI.)’ is the printed privilege of James VI in the 1602/03 preliminaries, not a copy-specific mark. It matches the Progymnasmata ‘1603, at Strahov’ from which Studnička borrowed an illustration in 1901. It is therefore a candidate for the volume Šafařík saw, not an identification: a Žďár provenance is a different route from a Házmburk gift, and a 1603 title state in a copy Tycho is said to have presented before his death in October 1601 would need explaining. The volume was not examined on 18 September 2026."
    },
    "conflicts": [
     {
@@ -2227,7 +2227,7 @@
    "open_questions": [
     "Is Studnička's wrapper a print from Šafařík's 1881 plate, or a fresh 1901 reproduction of the same original? Studnička's text is silent.",
     "Studnička's catalogue documents the Strahov Mechanica copy in detail but never mentions this Progymnasmata volume or the 1881 episode. The silence is now partially explained: his item C.I footnote borrows an illustration from a Progymnasmata, 1603, at Strahov, so a copy was accessible to him in 1900–01 — which weakens any inference that the volume had left Strahov by 1901 — and his catalogue's scope (ownership-relics of Tycho's own library) plausibly excludes a presentation gift, though that genre explanation is a candidate reading, not established. Whether the accessible copy is the same volume is unknown.",
-    "No sighting of the Progymnasmata volume after 1881 has been located; Boldan & Vackářová's Strahov-focused Tycho chapter (2024) adds a third independent silence. Whether it is still at Strahov is unverified — the live-record check against Katalog Tritius and Manuscriptorium remains unexecuted, not negative.",
+    "No sighting of the Progymnasmata volume after 1881 has been located; Boldan & Vackářová's Strahov-focused Tycho chapter (2024) adds a third independent silence. The live-record check is now executed: the Strahov catalogue holds a Progymnasmata of 1603 at AG XIV 17 with a Žďár Cistercian provenance and no Brahe note (record 982709), and Manuscriptorium has no digitisation of it. Whether AG XIV 17 carries the dedication to Házmburk and the parchment watercolour — the test of identity — can only be settled on the object.",
     "A comparison of the wrapper against Kilian's plate at higher resolution than a 1901 halftone allows: the direction of dependence is still open, and the halftone is too coarse to settle it."
    ],
    "edges": [
@@ -2250,7 +2250,8 @@
     "S_ICON_BOLDAN2024",
     "S_ICON_MEDDELELSER2006",
     "S_ICON_PAREZ2009",
-    "S_ICON_KROUPA2001"
+    "S_ICON_KROUPA2001",
+    "S_ICON_TRITIUS"
    ],
    "image": "plates/icon-progymnasmata-watercolour.jpg",
    "image_thumb": "plates/icon-progymnasmata-watercolour_thumb.jpg",
@@ -2836,6 +2837,12 @@
    "label": "Brøndsted, 'Et ukendt digt af Tycho Brahe' (Fund og Forskning IX, 1962)",
    "full": "Mogens Brøndsted, 'Et ukendt digt af Tycho Brahe', Fund og Forskning i Det kongelige Biblioteks Samlinger IX (1962), pp. 71–78 — publishes the Ptolemy effigy-verses of 1 October 1584 from Georg Ludwig Frobenius's Almagest proof-sheet of 1644 (Stockholm) as a hitherto unknown poem; the verses had in fact been printed by Tycho himself in the Epistolae astronomicae (1596), p. 239, as the editors' Efterslæt (Fund og Forskning XII, 1965, p. 156, after Norlind) pointed out. Cited here for the sheet and for the error.",
    "url": "https://tidsskrift.dk/fundogforskning/article/view/41172"
+  },
+  {
+   "id": "S_ICON_TRITIUS",
+   "label": "Strahov Katalog Tritius",
+   "full": "Knihovna Královské kanonie premonstrátů na Strahově, Katalog Tritius (strahovskyklaster.tritius.cz): record 982709 — a Progymnasmata catalogued ‘S.l., s.n., 1603’ at AG XIV 17, with the provenance note ‘cisterciáci Žďár’ (the Cistercians of Žďár nad Sázavou) and no note of Tycho or Házmburk (read 18 September 2026); record 982704 — the Mechanica AG XI 56 (trezor II 56), with the link to its Manuscriptorium facsimile.",
+   "url": "https://strahovskyklaster.tritius.cz/detail/982709"
   }
  ],
  "rejected": [

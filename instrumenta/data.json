@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "2.2",
- "edition_date": "2026-10-06",
+ "version": "2.3",
+ "edition_date": "2026-10-08",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
   {
@@ -1108,7 +1108,7 @@
    "grade": "B",
    "tycho_relation": "acquired",
    "place": "P_HVEN",
-   "description": "The mechanical clocks kept for timing observations — unreliable in the period, which is why Tycho cross-checked time by his Mechanical-Equator method rather than trusting the clocks alone. They went with the rest of the apparatus to Bohemia and were among the instruments the Emperor purchased after Tycho's death: Kepler used one of Tycho's clocks to observe the lunar eclipses of December 1601 and May 1603 (Dreyer, p. 365). Not extant. In his own words: “We have at our disposal four such clocks. One of these, the largest, manages the whole business with the aid of three wheels, of which the largest, cast from solid pure brass, has 1200 teeth. The diameter of this wheel is two cubits [≈78 cm]. The three other clocks are smaller, and need more wheels.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 30). The 1996 edition (p. 32, n. 57) refers the clocks to Opera omnia II, 156–157 and VI, 68 f.; its n. 148 credits Bürgi with the pendulum clocks of Kassel, against which Tycho's wheel-clocks are to be judged.",
+   "description": "The mechanical clocks kept for timing observations — unreliable in the period, which is why Tycho cross-checked time by his Mechanical-Equator method rather than trusting the clocks alone. They went with the rest of the apparatus to Bohemia and were among the instruments the Emperor purchased after Tycho's death: Kepler used one of Tycho's clocks to observe the lunar eclipses of December 1601 and May 1603 (Dreyer, p. 365). Not extant. In his own words: “We have at our disposal four such clocks. One of these, the largest, manages the whole business with the aid of three wheels, of which the largest, cast from solid pure brass, has 1200 teeth. The diameter of this wheel is two cubits [≈78 cm]. The three other clocks are smaller, and need more wheels.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 30). The 1996 edition (p. 32, n. 57) refers the clocks to Opera omnia II, 156–157 and VI, 68 f.; its n. 148 credits Bürgi with the pendulum clocks of Kassel, against which Tycho's wheel-clocks are to be judged. A clock under his name was shown in Prague in the eighteenth century: Antonín Strnad's inventory of the Clementinum's Mathematical Museum (1781) lists ‘Tycho Brahe's clock’ (D 3) in the middle room beside ‘Tycho's sextant’ (D 8), and in the cabinet of astronomical instruments ‘three copper plates for Tycho's automatic clock’ (C 69) (Seydl 1951, reprinted in Hyklová 2017, pp. 56–57). Whether any of these was one of the four Hven clocks is undocumented — the Museum's Tycho attributions are the tradition that also hangs the two surviving sextants on his name — and no clock so labelled is known to survive.",
    "edges": [
     [
      "described_in",
@@ -1124,7 +1124,8 @@
     "S_DREYER_BIO",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_HYKLOVA2017"
    ],
    "location": "observatories at Uraniborg and Stjerneborg",
    "location_group": "uraniborg",
@@ -1152,7 +1153,7 @@
    "institution": "Národní technické muzeum (National Technical Museum), Prague",
    "maker": "Jost Bürgi (1552–1632) per Šíma 1993 / Wolfschmidt 2002; or Pater Johann Klein (18th c.) per Weinek 1901 / Mortensen",
    "dimensions": "iron; radius 1.11 m",
-   "description": "The smaller ('Nr. 5') of the two iron sextants in the Národní technické muzeum, Prague — radius 1.11 m. Its maker is genuinely disputed. Modern scholarship (Šíma 1993; Wolfschmidt 2002) attributes it to the clockmaker and instrument-maker Jost Bürgi (1552–1632) of the Prague years, grouping it with the Habermel sextant as the only surviving instruments associated with Tycho. The older Weinek 1901 / Mortensen reading instead held it 'probably made by Pater Johann Klein', director of Prague's Mathematical Chamber 1732–82 — i.e. an 18th-century instrument, not Tychonic at all (the c.1780 inventory's claim that it was 'a smaller sextant of Tycho Brahe, which he brought to Prague' notwithstanding). A sextant of the same size and very similar form survives at the Kremsmünster observatory in Austria, described by Rankl 1946 as 'Der Tychonische Sextant (von Bürgi)'. That Tycho's own Hven instruments are all lost makes any Prague-period survivor precious; the Bürgi attribution is the current consensus but graded B for the open dispute. For the shared Belvedere → Kunstkammer → 1648-Armoury → Herget (1782) → NTM Prague provenance of both surviving sextants, see Fučíková 2002 (detailed under the Habermel sextant).",
+   "description": "The smaller ('Nr. 5') of the two iron sextants in the Národní technické muzeum, Prague — radius 1.11 m. Its maker is genuinely disputed. Modern scholarship (Šíma 1993; Wolfschmidt 2002) attributes it to the clockmaker and instrument-maker Jost Bürgi (1552–1632) of the Prague years, grouping it with the Habermel sextant as the only surviving instruments associated with Tycho. The older Weinek 1901 / Mortensen reading instead held it 'probably made by Pater Johann Klein', director of Prague's Mathematical Chamber 1732–82 — i.e. an 18th-century instrument, not Tychonic at all (the c.1780 inventory's claim that it was 'a smaller sextant of Tycho Brahe, which he brought to Prague' notwithstanding). A sextant of the same size and very similar form survives at the Kremsmünster observatory in Austria, described by Rankl 1946 as 'Der Tychonische Sextant (von Bürgi)'. That Tycho's own Hven instruments are all lost makes any Prague-period survivor precious; the Bürgi attribution is the current consensus but graded B for the open dispute. For the shared Belvedere → Kunstkammer → 1648-Armoury → Herget (1782) → NTM Prague provenance of both surviving sextants, see Fučíková 2002 (detailed under the Habermel sextant). Strnad's inventory of 1781 lists a single ‘Tycho's sextant’ (D 8) and, among the armillary spheres, a model of ‘the Jupiter system according to Tycho's opinion’ (C 18) (Hyklová 2017, pp. 55, 57).",
    "edges": [
     [
      "located_at",
@@ -1166,7 +1167,8 @@
     "S_MORTENSEN",
     "S_WEINEK1901",
     "S_RANKL46",
-    "S_FUCIKOVA"
+    "S_FUCIKOVA",
+    "S_HYKLOVA2017"
    ],
    "location_group": "prague",
    "principle": "A 60° iron star-distance sextant of the Prague years.",
@@ -1206,7 +1208,7 @@
    "maker": "Erasmus Habermel (b. Nuremberg c.1538, d. Prague 1606)",
    "dimensions": "iron; radius 1.295 m (to the middle of the graduated arc)",
    "inscription": "on the alidade: 'Pragae fecit Erasm. Habermel 1600'",
-   "description": "An iron sextant of 1.295 m radius (measured to the middle of the graduated arc), its alidade signed 'Pragae fecit Erasm. Habermel 1600', made by Erasmus Habermel (b. Nuremberg c.1538, d. Prague 1606), the leading instrument-maker at Rudolf II's court. It survives in the Národní technické muzeum, Prague, the larger ('Nr. 4') of the two iron sextants the Prague observatory has long shown as Tycho's (the c.1780 inventory: 'Ein grosser Sextant von Tycho Brahe, der im Jahre 1600 von Erasmus Habermel verfertigt wurde'). Modern scholarship (Šíma 1993; Wolfschmidt 2002) groups it among the only surviving instruments associated with Tycho's working life — everything from Hven is lost. Whether Tycho himself owned or used it is, however, contested: Wolfschmidt calls the two survivors 'so-called Tychonic sextants (but actually made by Bürgi and Habermel)', and the older Weinek 1901 / Mortensen reading thought it 'hardly probable' that Tycho owned this sextant — its construction stands well behind the Mechanica instruments — suggesting instead a Hoffmann→Kepler provenance (one of the instruments Baron Hoffmann lent Kepler when use of the Tychonic instruments was denied him). Hence: existence and maker A (inscription-certain); the attribution to Tycho's own observatory graded B. Later provenance is now traceable (Fučíková 2002): both sextants stood among Rudolf II's instruments at the Prague Belvedere / Kunstkammer (a large instrument there was valued at 600 in the 1619 catalogue, vs 40–80 × three-score groschen for the rest); they proved too large for the Swedish removal of 1648 and were left in the Castle Armoury (1650 inventory), sold at Joseph II's 1782 auction to Franz Leonard Herget (public teacher of mechanics/hydraulics), and eventually passed to the Národní technické muzeum — Fučíková argues they never left Prague.",
+   "description": "An iron sextant of 1.295 m radius (measured to the middle of the graduated arc), its alidade signed 'Pragae fecit Erasm. Habermel 1600', made by Erasmus Habermel (b. Nuremberg c.1538, d. Prague 1606), the leading instrument-maker at Rudolf II's court. It survives in the Národní technické muzeum, Prague, the larger ('Nr. 4') of the two iron sextants the Prague observatory has long shown as Tycho's (the c.1780 inventory: 'Ein grosser Sextant von Tycho Brahe, der im Jahre 1600 von Erasmus Habermel verfertigt wurde'). Modern scholarship (Šíma 1993; Wolfschmidt 2002) groups it among the only surviving instruments associated with Tycho's working life — everything from Hven is lost. Whether Tycho himself owned or used it is, however, contested: Wolfschmidt calls the two survivors 'so-called Tychonic sextants (but actually made by Bürgi and Habermel)', and the older Weinek 1901 / Mortensen reading thought it 'hardly probable' that Tycho owned this sextant — its construction stands well behind the Mechanica instruments — suggesting instead a Hoffmann→Kepler provenance (one of the instruments Baron Hoffmann lent Kepler when use of the Tychonic instruments was denied him). Hence: existence and maker A (inscription-certain); the attribution to Tycho's own observatory graded B. Later provenance is now traceable (Fučíková 2002): both sextants stood among Rudolf II's instruments at the Prague Belvedere / Kunstkammer (a large instrument there was valued at 600 in the 1619 catalogue, vs 40–80 × three-score groschen for the rest); they proved too large for the Swedish removal of 1648 and were left in the Castle Armoury (1650 inventory), sold at Joseph II's 1782 auction to Franz Leonard Herget (public teacher of mechanics/hydraulics), and eventually passed to the Národní technické muzeum — Fučíková argues they never left Prague. Strnad's inventory of the Museum of 1781, in Seydl's edition, lists in the cabinet of astronomical instruments ‘an instrument made by Erasmus Habermel in Prague for Tycho’ (C 51) with ‘a fragment of the same’ (C 53) and an instrument for drawing sundials made by Habermel in Prague in 1598 (C 19), and in the middle room ‘Tycho's sextant’ (D 8) (Hyklová 2017, pp. 55–57) — the same tradition the German inventory of c. 1780 records, a year or two apart.",
    "edges": [
     [
      "located_at",
@@ -1219,7 +1221,8 @@
     "S_SIMA93",
     "S_MORTENSEN",
     "S_WEINEK1901",
-    "S_FUCIKOVA"
+    "S_FUCIKOVA",
+    "S_HYKLOVA2017"
    ],
    "location_group": "prague",
    "principle": "A 60° iron star-distance sextant; the alidade signed by Habermel, 1600.",
@@ -1864,6 +1867,15 @@
    "full": "F. R. Friis, 'Tyge Brahes Haandskrifter i Wien og Prag', Danske Samlinger for Historie, Topographi, Personal- og Literaturhistorie IV (Copenhagen, 1868–69), pp. 250–268.",
    "kind": "secondary",
    "contributes": "Tycho's own dated entries in the 1584 and 1585 Vienna volumes, quoted in 1868: the foundation stone of the great subterranean armillae laid at noon on 11 December 1584, and the column of the revolving quadrant 'in turricula orientali' set on 14 December 1585 about 7 p.m. (p. 253)."
+  },
+  {
+   "id": "S_HYKLOVA2017",
+   "label": "Hyklová, ‘Dědictví klementinských exaktních věd’ (2017)",
+   "full": "Petra Hyklová, ‘Dědictví klementinských exaktních věd a druhý život „Matematického muzea“ v 19. a 20. století’, Acta Universitatis Carolinae – Historia Universitatis Carolinae Pragensis 57/2 (2017), pp. 45–62; appendix pp. 53–57: Antonín Strnad's inventory of the Clementinum's Mathematical Museum of 1781 in the Czech translation of Jaroslava Hemerková, reprinted from Otto Seydl, ‘Dějiny jesuitského „Musea matematického“ v koleji sv. Klimenta na Starém městě v Praze’, Věstník Královské české společnosti nauk, třída matematicko-přírodovědná, 1951, č. VII.",
+   "url": "https://doi.org/10.14712/23365730.2018.49",
+   "url_label": "open access (Karolinum)",
+   "kind": "secondary",
+   "contributes": "The Mathematical Museum's own inventory of 1781 as Strnad drew it up: ‘Tycho Brahe's clock’ (D 3), ‘Tycho's sextant’ (D 8), an instrument ‘made by Erasmus Habermel in Prague for Tycho’ (C 51) with a fragment of the same (C 53), ‘three copper plates for Tycho's automatic clock’ (C 69) and a model of ‘the Jupiter system according to Tycho's opinion’ (C 18) — the eighteenth-century Prague tradition behind the two surviving sextants, and a clock tradition the extant record does not corroborate."
   }
  ],
  "federates_with": [

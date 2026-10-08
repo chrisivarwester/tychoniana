@@ -1,11 +1,11 @@
 {
  "title": "Across All Twelve — the apparatus of the Tychoniana editions",
  "registry": {
-  "registry_rows": 251,
+  "registry_rows": 252,
   "placeholders": 5,
-  "documented": 246,
-  "located": 124,
-  "extant": 123,
+  "documented": 247,
+  "located": 125,
+  "extant": 124,
   "damaged": 1,
   "untraced": 36,
   "market": 26,
@@ -2972,8 +2972,8 @@
    "short": "Progymnasmata",
    "year": 1602,
    "place": "Uraniborg / Prague",
-   "documented": 11,
-   "located": 11,
+   "documented": 12,
+   "located": 12,
    "untraced": 0,
    "attested": 0,
    "cd_c": 2,
@@ -2981,6 +2981,7 @@
    "provisional": true,
    "unreached": [
     "e-rara.ch",
+    "CASLIN / Souborný katalog ČR",
     "K10plus",
     "B3Kat",
     "HeBIS",
@@ -3024,7 +3025,7 @@
    "city": "Prague",
    "country": "CZ",
    "kind": "census copies",
-   "count": 3
+   "count": 4
   },
   {
    "city": "Prague",

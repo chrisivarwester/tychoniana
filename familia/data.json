@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.3",
- "edition_date": "2026-10-06",
+ "version": "2.4",
+ "edition_date": "2026-10-08",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
  "description": "A prosopography of the documented circle of Tycho Brahe: the assistants and craftsmen of Uraniborg, the printers and publishers of his works, the patrons and dedicatees, the kin and friends, every party to the surviving correspondence, and the later owners, editors and scholars through whom his books and papers passed. Each record carries its roles, dates, documented seat, biography with sources, and the letters, visits, stays, printed works, presentation copies and manuscripts in which the person appears elsewhere in Tychoniana.",
@@ -185,6 +185,12 @@
    "label": "Kølln, 'Danskere i Prag omkring år 1600' (1995)",
    "full": "Herman Kølln, 'Danskere i Prag omkring år 1600', Magasin fra Det Kongelige Bibliotek 9:4 (1995), pp. 64–75.",
    "contributes": "Jessenius's dates and offices (p. 75)."
+  },
+  {
+   "id": "S_KLEINSCHNITZOVA1933",
+   "label": "Kleinschnitzová, ‘Ex Bibliotheca Tychoniana’ (1933)",
+   "full": "Flora Kleinschnitzová, ‘Ex Bibliotheca Tychoniana Collegii soc. Jesu Pragae ad s. Clementem’, Nordisk Tidskrift för Bok- och Biblioteksväsen 20 (1933), pp. 73–97.",
+   "contributes": "Gabriel Crusius's gift of two Tycho volumes to the Chomutov Jesuits in 1654 (p. 76) and his formula ‘G. Crusio inservio’ on 5 G 92 (p. 89)."
   }
  ],
  "category_colours": {
@@ -5449,6 +5455,37 @@
     "lat": 50.111,
     "lon": 8.682,
     "basis": "printer for Tampach, Frankfurt 1610"
+   }
+  },
+  {
+   "id": "CRUSIUS_GABRIEL",
+   "name": "Gabriel Crusius",
+   "sort_name": "Crusius, Gabriel",
+   "name_latin": "Gabriel Crusius",
+   "name_variants": [
+    "G. Crusius",
+    "Kraus"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "owner"
+   ],
+   "connection": "‘Nobilis ac doctissimus Dominus Gabriel Crusius’ — a lay nobleman and the earliest named private collector of books from Tycho's library after the heirs: on 5 August 1654 he gave two volumes in Tycho's own bindings (the Synesius Sammelband 5 G 92 and the Apollonius Rhodius 5 J 103, now in the National Library of the Czech Republic) to the Jesuit college at Chomutov, where they were catalogued in 1673, and his ownership formula ‘G. Crusio inservio’ — the book speaking — stands on 5 G 92 beside the year 1673 and, in the same flourished Baroque hand, on the titles of two further Tycho volumes at Strahov, the Euclid of 1558 (AV II 2) and Ramus's Arithmeticae of 1580 (AG XIV 7), neither of which ever carried a Jesuit inscription. At least four books from the library passed through his hands, and they scattered by more than one route. His identity is not established: a Gabriel is named among the sons of the physician Daniel Kraus z Krausenbergu (1579–1637) of Jirkov in the Chomutov district, who Latinised his name as Crusius, but no document names the son as a book-owner. (Kleinschnitzová 1933, pp. 76, 89–90; Prandtl 1932; the Strahov volumes, read 18 September 2026)",
+   "sources": [
+    "S_KLEINSCHNITZOVA1933"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Chomutov",
+    "lat": 50.4605,
+    "lon": 13.4178,
+    "basis": "donor to the Jesuit college at Chomutov, 1654"
    }
   }
  ]

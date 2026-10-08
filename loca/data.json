@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
  "version": "1.6",
- "edition_date": "2026-10-06",
+ "edition_date": "2026-10-08",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
   {
@@ -12520,7 +12520,7 @@
    "lat": 50.088,
    "lon": 14.39,
    "fate": "demolished — the observation tower was still standing in 1804, when Alois David measured it (Trigonometrische Vermessungen, Prague 1805); the foundations were excavated in 1902 and again in 1930–31 when the school was built, with an official report and measurements by R. Hlubinka (Zprávy Památkového Sboru hlav. města Prahy, 1931, p. 131); a 7×16 m remnant is fenced in the park before the school; a plinth was unveiled in 1971 after that year's statue competition, and Josef Vajce's statue of Tycho and Kepler was placed on it in 1983 (Kølln 1995, p. 67) or 1984 (this record's earlier figure, uncited) — both recorded until settled",
-   "description": "The summer home built by the imperial vice-chancellor Jacob Kurtz (Curtius), a few minutes' walk west of the Imperial Castle on the Hradčany hill — Tycho's principal Prague residence for most of his Bohemian years (the 20,000-gulden edifice he described) and the house in which he died on 24 October 1601. After his death the imperial-purchased instruments were vaulted under this very house before passing to the Belvedere garden (Dreyer, p. 365; cf. site-belvedere). Only a 7×16 m foundation remnant survives by a later school (Thoren, Appendix 5). Kurtz did not live to see the letter he had written to Tycho printed in the Mechanica: he died in 1594 at the age of forty, 'as can be read on his gravestone in the St. Thomas' church in the Lesser Town of Prague', and the house he had built on Pohořelec, to which he had once invited Tycho, was bought from his widow by the Emperor — the house in which Tycho and later Kepler found their common lodging (Hadravová, Hadrava & Shackelford 1996, Prologue p. viii). Mortensen, visiting in the 1930s, gives the excavated ground plan as 'cir. 17 M. i □', describes from the excavation reports walls painted in fresco, door frames of red marble and sandstone windows with gilded palmettes, and notes the tower still on David's survey of 1804 (Mortensen 1942, pp. 17–18); Kølln adds the excavations of 1902 and 1931 under R. Hlubinka's report, the plaque at the school entrance, Antonín Lhoták's bust inside, and the 1971 competition whose third-prize winner, Josef Vajce, made the statue placed in 1983 (Kølln 1995, p. 67).",
+   "description": "The summer home built by the imperial vice-chancellor Jacob Kurtz (Curtius), a few minutes' walk west of the Imperial Castle on the Hradčany hill — Tycho's principal Prague residence for most of his Bohemian years (the 20,000-gulden edifice he described) and the house in which he died on 24 October 1601. After his death the imperial-purchased instruments were vaulted under this very house before passing to the Belvedere garden (Dreyer, p. 365; cf. site-belvedere). Only a 7×16 m foundation remnant survives by a later school (Thoren, Appendix 5). Kurtz did not live to see the letter he had written to Tycho printed in the Mechanica: he died in 1594 at the age of forty, 'as can be read on his gravestone in the St. Thomas' church in the Lesser Town of Prague', and the house he had built on Pohořelec, to which he had once invited Tycho, was bought from his widow by the Emperor — the house in which Tycho and later Kepler found their common lodging (Hadravová, Hadrava & Shackelford 1996, Prologue p. viii). Mortensen, visiting in the 1930s, gives the excavated ground plan as 'cir. 17 M. i □', describes from the excavation reports walls painted in fresco, door frames of red marble and sandstone windows with gilded palmettes, and notes the tower still on David's survey of 1804 (Mortensen 1942, pp. 17–18); Kølln adds the excavations of 1902 and 1931 under R. Hlubinka's report, the plaque at the school entrance, Antonín Lhoták's bust inside, and the 1971 competition whose third-prize winner, Josef Vajce, made the statue placed in 1983 (Kølln 1995, p. 67). The house stood, as the Strahov curator Jan Pařez notes, in the immediate neighbourhood of the Strahov monastery and within its separate jurisdiction (postranní právo) at Pohořelec — so that the five volumes from Tycho's library now in the Strahov library are kept a few hundred metres from where he died (Pařez 2009, p. 26).",
    "edges": [
     [
      "site_of",
@@ -12532,7 +12532,8 @@
     "S_LOCI_DREYER",
     "S_LOCI_AIM1996",
     "S_LOCI_MORTENSEN1942",
-    "S_LOCI_KOLLN1995"
+    "S_LOCI_KOLLN1995",
+    "S_LOCI_PAREZ2009"
    ],
    "place": "place-prague",
    "attested_by": "Described in Tycho's own letters from Prague; contemporary records place his death there on 24 October 1601 (Dreyer 1890; Thoren, The Lord of Uraniborg, 1990)."
@@ -13119,6 +13120,12 @@
    "label": "Tycho Brahe, Epistolae astronomicae (Uraniborg, 1596)",
    "full": "Tycho Brahe, Epistolarum astronomicarum libri (Uraniborg, 1596), pp. 238–240 = Opera omnia VI, 268–271: Tycho's own description of the Museum at Uraniborg, with the verses he appended to the painted boards of Ptolemy (dated Kal. Octob. 1584) and Copernicus (2 October 1584).",
    "contributes": "The Museum's painted boards and the dated verses beneath them — a terminus ante quem of October 1584 for the Ptolemy and Copernicus boards."
+  },
+  {
+   "id": "S_LOCI_PAREZ2009",
+   "label": "Pařez, ‘Supralibros dánského astronoma Tycha Brahe ve Strahovské knihovně’ (2009)",
+   "full": "Jan Pařez, ‘Supralibros dánského astronoma Tycha Brahe ve Strahovské knihovně’, Sborník pro exlibris a drobnou grafiku 2009 (Spolek sběratelů a přátel exlibris, Praha), pp. 24–26.",
+   "contributes": "The Curtius house placed by the Strahov curator in the monastery's immediate neighbourhood and within its own jurisdiction at Pohořelec — why the five volumes from Tycho's library at Strahov stand a few hundred metres from the house in which he died."
   }
  ]
 }

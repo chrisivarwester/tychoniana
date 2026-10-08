@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28",
+ "generated": "2026-10-08",
  "institutions": [
   {
    "id": "KB",
@@ -1520,14 +1520,14 @@
     "census_key": "brahe-progymnasmata-1602",
     "explorer": "../census/brahe-progymnasmata-1602/explorer.html",
     "published": true,
-    "total": 11,
-    "located": 11,
+    "total": 12,
+    "located": 12,
     "inferred": 0,
     "lost": 0,
     "attested": 0,
     "market": 0,
-    "n_institutions": 6,
-    "n_countries": 3,
+    "n_institutions": 7,
+    "n_countries": 4,
     "top_institutions": [
      [
       "Det Kongelige Bibliotek (Royal Danish Library)",
@@ -1565,6 +1565,10 @@
      ],
      [
       "CH",
+      1
+     ],
+     [
+      "CZ",
       1
      ]
     ]

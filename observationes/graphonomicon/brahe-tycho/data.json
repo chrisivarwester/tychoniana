@@ -23,10 +23,10 @@
   "stages": 3,
   "variants": 10,
   "allographs": 16,
-  "discriminators": 10,
-  "discriminating_features": 15,
+  "discriminators": 11,
+  "discriminating_features": 18,
   "features_uncharacterised": 3,
-  "shared_features": 16,
+  "shared_features": 18,
   "misattributions": 4,
   "external": 11,
   "with_catalogue_record": 41,
@@ -34,7 +34,7 @@
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 102,
+  "open_questions": 104,
   "without_record_or_surrogate": 41,
   "anchors": 14,
   "undated": 2
@@ -270,6 +270,12 @@
      "name": "dossier",
      "href": "",
      "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Kleinschnitzová 1933",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "",
@@ -277,7 +283,8 @@
     ": photograph every note with its page at pillar scale and the whole opening for context; record their language and content; photograph the 1567 stamp with a rule in raking light.",
     "The date test: a 1567 hand should sit beside the ‘Tycho Brade 1561’ and ‘Ty Brad 1563’ student volumes and the Wittenberg/Rostock letters, not beside the Hven pillars — the formative-stage cell of the grid is nearly empty and this is its candidate.",
     "Mainx test closed on the mark: the plaque Mortensen describes for all eight Mainx books is the gilt portrait; this is a blind-stamped name.",
-    ": the volume examined; ONE annotated opening found — Book I, prop. 4 (Theon's exposition, ‘Si duo triangula duo latera duobus lateribus aequalia habuerint …’), marginal and head-of-page notes with a lettered triangle — plus a short jotting in the Campanus section (19 frames; the house's reading-room photographs (Canon EOS R8, RF 35 mm macro; 99 frames, private research archive under the library's reader's waiver — not for publication)). Assessed on the photographs in docs/research/-crusius-signature-strahov-tycho-the record: NOT ESTABLISHED as Tycho's — the closed-loop g and the ascender-deep descenders lean against the mature hand; a fair test needs a formative-stage control (GKS 1824, pending per-section hand identification). Pařez's attribution stands unrefuted and uncorroborated."
+    ": the volume examined; ONE annotated opening found — Book I, prop. 4 (Theon's exposition, ‘Si duo triangula duo latera duobus lateribus aequalia habuerint …’), marginal and head-of-page notes with a lettered triangle — plus a short jotting in the Campanus section (19 frames; the house's reading-room photographs (Canon EOS R8, RF 35 mm macro; 99 frames, private research archive under the library's reader's waiver — not for publication)). Assessed on the photographs in docs/research/-crusius-signature-strahov-tycho-the record: NOT ESTABLISHED as Tycho's — the closed-loop g and the ascender-deep descenders lean against the mature hand; a fair test needs a formative-stage control (GKS 1824, pending per-section hand identification). Pařez's attribution stands unrefuted and uncorroborated.",
+    "The large graphite ‘G. Crusio ‹K›’ on the title is Gabriel Crusius's (see the discriminator gabriel-crusius): a mid-seventeenth-century owner's mark in a Baroque display hand unlike the fine humanist hand of the notes; it does not bear on the notes' authorship, but it puts the book in a named collector's hands before Klauser, and the faint effaced inscription beneath it is where an earlier owner's name would be found."
    ],
    "variants": []
   },
@@ -4193,11 +4200,11 @@
    "stage": "exile-late",
    "stage_label": "Exile / late",
    "date": "undated; if Tycho's, between his acquisition of the volume and 1601 — the volume was in the Jesuit Clementinum by 1642",
-   "date_basis": "the note is undated (Straka 1913); Boldan 2025 leaves open whether Tycho acquired the volume before or after coming to Bohemia",
+   "date_basis": "the note is undated (Straka 1913); Boldan 2025 leaves open whether Tycho acquired the volume before or after coming to Bohemia; Munzar & Pařez 2002 read the content as a reconstruction of a winter a century earlier, so it dates the writing to no particular year",
    "date_conf": "D",
    "autograph": "disputed",
    "verdict": "possible",
-   "basis": "Straka 1913: ‘po srovnání jeho s jinými rukopisy slavného hvězdáře nebylo pochybnosti, že zápis psán byl Tychonem samým’ — an undocumented comparison by eye, the method Šíma & Valeška discredited for Studnička's claimed holographs. Munzar & Pařez 2002 re-read the note as Tycho's entry on the winter of 1495/96 (content argument). Boldan 2025 calls it ‘vlastnoruční’ without argument. Pařez himself calls the case hypothetical. The strongest internal pointer is the plague sentence: ‘Germanis et Danis ante ea tempora non solum incognita’ — a Danish frame of reference. Never compared with the pillars.",
+   "basis": "Straka 1913: ‘po srovnání jeho s jinými rukopisy slavného hvězdáře nebylo pochybnosti, že zápis psán byl Tychonem samým’ — an undocumented comparison by eye, the method Šíma & Valeška discredited for Studnička's claimed holographs. Munzar & Pařez 2002 (pp. 372–373) compared the letters by eye with the DG IV 25 motto and the AG XI 56 dedication (the Triangulorum praxis set aside as probably not autograph) and found ‘very close similarity’ in a, b, c, i, l, m, n, o, p, r, s, t, u (with the mark over u) and in the ductus — ‘written with a high probability by the hand of Tycho Brahe’, and at the least by ‘a person from Tycho Brahe's immediate milieu’ — while conceding that two small inscriptions written with different quills ‘don't offer enough material’. Boldan 2025 calls it ‘vlastnoruční’ without argument; Pařez himself calls the case hypothetical. The strongest internal pointer is the plague sentence, ‘Germanis et Danis ante ea tempora non solum incognita’ — a Danish frame of reference, which also fits any Danish reader of the almanac before 1642. Never examined against the secure specimens with the discriminator roster.",
    "att_conf": "C",
    "established_by": "Straka 1913 (attribution); this store (status)",
    "scribe": "",
@@ -4211,7 +4218,7 @@
    "catalogue_url": "https://strahovskyklaster.tritius.cz/detail/1064031",
    "iiif": "",
    "surrogates": [],
-   "content": "‘haec hiems tanta frigoris in Bruma asperitate referta erat tantaeque nivium moles passim conglomeratae, ut Agrestium casarum culmina superantes desuper Homines in redis iter expedientissime facerent at sequuta est insequente aestate maxima lues, vulgo Gallica scabies dicta, Germanis et Danis ante ea tempora non solum incognita, sed prorsus inaudita, quae multa hominum milia infecit. Ratio est, quod omnes planete sint in frigidis et humidis signis, praesertim introeunte ☉ in initia solstitii Hiberni. Ex quibus certissimum inditium frigoris et copiosae nivis sumi poterat.’ [table: ☉ Capricorn cold-dry; ☽ Scorpio cold-wet; ♄ Pisces; ♃ Scorpio; ♂ Pisces; ♀ Aquarius/Capricorn wet; ☿ Capricorn cold-dry] — Straka's transcription, 1913. Written on the blank verso of the leaf carrying the December 1495 positions (misprinted ‘1955’); the next leaf opens the almanac for 1496.",
+   "content": "Munzar & Pařez's transcription (2002, p. 372; abbreviations resolved in brackets): ‘Haec hiems tanta frigoris in Bruma asperitate referta erat tantaeq(ue) nivium moles passim conglomoratae [sic], ut agrestium casarum culmina superantes desup(er) homines in redis iter expeditissime facerent at sequuta est in sequente aestate maxima lues wulgo gallica scabies dicta Germanis & Danis ante ea tempora non solum incognita sed pro(r)sus inaudita q(uod) multa hominum milia infecit. Ratio e(st) quod omnes planete sint in frigidis & humidis signis praesertim introeunte ☉ in initia solstitii hiberni. Ex quibus certissimum inditium frigoris & copiosae nivis sumi poterat. Rarum exemplum.’ — then a table of the seven planets' signs and qualities: ☉ Capricorn (Straka: cold and dry; Munzar & Pařez: humid and dry), ☽ Scorpio (cold, humid), ♄ Pisces (cold, humid), ♃ Scorpio (cold, humid), ♂ Pisces (cold, humid), ♀ Aquarius and Capricorn (Straka: humid; Munzar & Pařez: cold, humid), ☿ Capricorn (cold, dry). Straka 1913 printed about twelve lines of the Latin and paraphrased the rest in Czech; his ‘(Tabulka.)’ is the table. Written on the blank verso of the leaf carrying the December 1495 positions (misprinted ‘1955’); the next leaf opens the almanac for 1496. Munzar & Pařez read it as a retrospective astrometeorological reconstruction of the winter of 1495/96 from historical reports and the printed planetary positions — not a weather record — and refute Brázdil & Kotyza's reading of it as Bohemian weather of 21 December 1495.",
    "extent": "Latin prose plus a table of the seven planets' zodiacal signs; Straka prints about twelve lines of the Latin and paraphrases the rest in Czech. A large specimen by the discipline's standards — larger than any secure marginalia specimen in this store.",
    "references": [
     {
@@ -4224,21 +4231,28 @@
      "kind": "scholarly work",
      "name": "Munzar & Pařez 2002",
      "href": "",
-     "loc": "pp. 360–375 — not held; the corpus copy of the volume ends at p. 333"
+     "loc": ""
     },
     {
      "kind": "institutional catalogue",
      "name": "Boldan 2025",
      "href": "",
      "loc": ""
+    },
+    {
+     "kind": "institutional catalogue",
+     "name": "Strahov Katalog Tritius 1064031",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "",
    "open_questions": [
-    "Photograph the whole note and overlapping details at pillar scale, with the same lighting as the secure pillars,; then run the discriminator roster (looped-ascender uncial d; final s; T-capital; the Tÿcho/Tycho question does not arise — the note is unsigned).",
     "Content test: a note written by a Dane about a winter ‘unknown before to Germans and Danes’ fits Tycho; it also fits any Danish reader of the almanac before 1642. The paper, ink and the other ‘počtářské’ (computational) jottings on the blank leaves are the context to record.",
     "Which incunable carries the leaf: Boldan 2025 places it in the 1492 Augsburg Ephemerides (adl. 1); the catalogue's ‘e14b’ and Straka's old foliation must be reconciled on the object.",
-    ": the volume examined and its boards photographed, but the leaf carrying THIS note (fol. e4v) was NOT photographed — the leaf shot is the Tabula regionum with a different, shorter reference-meridian note (‘Nota hec Ephemerides sunt supputate ad longitudinem …’) in a hand that leans against Tycho (19 Sep dossier). The weather note remains untested; order the leaf by its foliation (‘e14b (75v)’) next time."
+    ": the volume examined and its boards photographed, but the leaf carrying THIS note (fol. e4v) was NOT photographed — the leaf shot is the Tabula regionum with a different, shorter reference-meridian note (‘Nota hec Ephemerides sunt supputate ad longitudinem …’) in a hand that leans against Tycho (19 Sep dossier). The weather note remains untested; order the leaf by its foliation (‘e14b (75v)’) next time.",
+    "The published halftone (Munzar & Pařez 2002, fig. 5) allows a first pass of the discriminator roster — the looped-ascender uncial d, the final s, the capital T, the non-closing g, the short descenders — against the 1583–1599 pillars; a photograph of fol. e4v at specimen scale (order it by the catalogue's ‘e14b (75v)’) is still wanted for measurement.",
+    "The two transcriptions disagree on two rows of the table (the Sun's and Venus's qualities) — to be settled on the leaf."
    ],
    "variants": []
   }
@@ -4774,6 +4788,38 @@
      "feature": "(to be characterised)",
      "subject_form": "Tycho interventions",
      "confounder_form": "Flemløse log engrossment 1577-88",
+     "reliability": "low"
+    }
+   ],
+   "misattributions": []
+  },
+  {
+   "id": "gabriel-crusius",
+   "name": "Gabriel Crusius (fl. 1654–1673), ‘nobilis ac doctissimus Dominus’ — a mid-seventeenth-century Bohemian owner of at least four volumes from Tycho's library",
+   "relationship": "later_annotator",
+   "confidence": "B",
+   "why": "His flourished ownership formula ‘G. Crusio inservio’, with a trailing K-glyph, stands on the title leaves of four Tycho volumes — Prague, NK ČR 5 G 92 and 5 J 103 (his gifts to the Chomutov Jesuits of 5 August 1654) and Strahov AG XIV 7 and AV II 2 (the latter in graphite) — so any title-leaf or endleaf mark in those books, and any annotation in a book he owned, must first be tested against his hand before it is given to Tycho. A later annotator, not a contemporary: the script is a Baroque display hand of c. 1620–1700, and the 5 G 92 instance stands beside the year 1673.",
+   "shared_features": [
+    "Latin ownership formulae on the title leaves of Tycho's own books",
+    "co-located with Tycho's bindings and, on AV II 2, with marginalia attributed to Tycho"
+   ],
+   "discriminating_features": [
+    {
+     "feature": "script generation",
+     "subject_form": "late-sixteenth-century humanist italic cursive with plain capitals",
+     "confounder_form": "Baroque display hand: a double-loop capital G with a nested abbreviation, extreme capital-to-minuscule contrast, two-lobed flourishes",
+     "reliability": "high"
+    },
+    {
+     "feature": "the ownership formula",
+     "subject_form": "Tycho marks ownership on the binding (the name-stamp, T.B.O., the plaques) and dates his inscriptions by place and year",
+     "confounder_form": "the book speaks — ‘G. Crusio inservio’ — followed by a trailing K-glyph of unresolved meaning",
+     "reliability": "high"
+    },
+    {
+     "feature": "medium",
+     "subject_form": "ink",
+     "confounder_form": "ink on AG XIV 7, 5 G 92 and 5 J 103; graphite on AV II 2",
      "reliability": "low"
     }
    ],

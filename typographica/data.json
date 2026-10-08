@@ -2127,22 +2127,22 @@
   "editions_and_issues": 29,
   "printed_works": 19,
   "censused": 24,
-  "copy_records": 245,
+  "copy_records": 246,
   "placeholders": 6,
-  "located": 124,
+  "located": 125,
   "in_trade": 26,
   "recorded_untraced": 78,
   "lost": 9,
   "inferred": 8,
   "located_grades": {
    "A": 73,
-   "B": 44,
+   "B": 45,
    "C": 7
   },
   "located_by_class": {
    "tycho": 78,
    "other": 16,
-   "posthumous": 30
+   "posthumous": 31
   },
   "register_entries": 21
  },
@@ -2655,8 +2655,8 @@
    "kind": "completion",
    "census_key": "brahe-progymnasmata-1602",
    "counts": {
-    "records": 11,
-    "located": 11,
+    "records": 12,
+    "located": 12,
     "trade": 0,
     "untraced": 0,
     "lost": 0,
@@ -2664,7 +2664,7 @@
     "stubs": 0,
     "grades": {
      "A": 5,
-     "B": 4,
+     "B": 5,
      "C": 2
     }
    }
