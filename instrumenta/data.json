@@ -176,7 +176,8 @@
     "S_THOREN_LORD",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "radius_cm": 194,
    "location": "south-west ground-floor room, Uraniborg (fixed on the meridian wall)",
@@ -218,6 +219,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-24a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's plate of the mural quadrant, hand-coloured, framed (46 × 29.7 cm) — M/S Museet for Søfart 1949:0109",
+     "url": "https://samlinger.slks.dk/samlinger/77c8ee57-ac36-4104-ba06-983ba0df28ed",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -226,7 +232,8 @@
     "basis": "by name"
    },
    "attested_by": "Described and depicted in the Mechanica (1598) — the engraving that also records the mural portrait painted within its arc.",
-   "aim1996_pages": "30–35"
+   "aim1996_pages": "30–35",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-brass-azimuthal-quadrant",
@@ -323,7 +330,8 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_FRIIS1868"
+    "S_FRIIS1868",
+    "S_INST_SLKS"
    ],
    "radius_cm": 155,
    "location": "north-east crypt, Stjerneborg",
@@ -364,6 +372,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-27a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's 'Qvadrans volubilis azimuthalis' in its little house, hand-coloured, framed — M/S Museet for Søfart 1949:0112",
+     "url": "https://samlinger.slks.dk/samlinger/263e9683-2262-41e1-a5a7-f407bff39f3c",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -372,7 +385,8 @@
     "basis": "by name"
    },
    "attested_by": "Described and depicted in Tycho's Astronomiae instauratae mechanica (Wandsbek 1598).",
-   "aim1996_pages": "36–39"
+   "aim1996_pages": "36–39",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-revolving-steel-quadrant",
@@ -405,7 +419,8 @@
     "S_THOREN_LORD",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "radius_cm": 194,
    "location": "south-west crypt, Stjerneborg",
@@ -449,6 +464,11 @@
      "label": "The earlier mounting (Fig. 21) in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-72a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's 'Qvadrans magnus chalibeus …', hand-coloured, framed (47 × 30.3 cm) — M/S Museet for Søfart 1958:0138",
+     "url": "https://samlinger.slks.dk/samlinger/4388455c-e731-4b9f-aa4f-fa87b68e3cef",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -457,7 +477,8 @@
     "basis": "Thoren p. 177: the steel quadrant of 1588 'was actually the old Q. max' of 1581 recycled; the Mechanica's Fig. 21 shows the earlier mounting"
    },
    "attested_by": "Described and depicted in Tycho's Astronomiae instauratae mechanica (Wandsbek 1598).",
-   "aim1996_pages": "40–43 and 100–102"
+   "aim1996_pages": "40–43 and 100–102",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-great-equatorial-armillary",
@@ -492,7 +513,8 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_FRIIS1868"
+    "S_FRIIS1868",
+    "S_INST_SLKS"
    ],
    "radius_cm": 136,
    "location": "south (largest) crypt, Stjerneborg",
@@ -530,6 +552,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-51a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's 'Armillæ æqvatoriæ maximæ', hand-coloured, framed — M/S Museet for Søfart 1958:0139",
+     "url": "https://samlinger.slks.dk/samlinger/cca7d56e-d92f-4d52-959c-123736e1839c",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -538,7 +565,8 @@
     "basis": "by name"
    },
    "attested_by": "Described and depicted in Tycho's Astronomiae instauratae mechanica (Wandsbek 1598).",
-   "aim1996_pages": "71–74"
+   "aim1996_pages": "71–74",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-zodiacal-armillary",
@@ -633,7 +661,8 @@
     "S_WOLFSCHMIDT",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "location": "Uraniborg",
    "location_group": "uraniborg",
@@ -669,6 +698,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-57a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's 'Sextans astronomicus trigonicus pro distantiis rimandis', hand-coloured, framed — M/S Museet for Søfart 1958:0140",
+     "url": "https://samlinger.slks.dk/samlinger/ad48abf2-d177-4b61-b1e3-ab430efd1b43",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -677,7 +711,8 @@
     "basis": "by name"
    },
    "attested_by": "Described and depicted in Tycho's Astronomiae instauratae mechanica (Wandsbek 1598).",
-   "aim1996_pages": "79–82"
+   "aim1996_pages": "79–82",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-astronomical-sextant",
@@ -713,7 +748,8 @@
     "S_MOSLEY",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "radius_cm": 155,
    "location": "south-east crypt, Stjerneborg (ball-and-socket globe mount)",
@@ -754,6 +790,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-21a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's 'Sextans astronomicus prout altitudinibus inservit', hand-coloured, framed — M/S Museet for Søfart 1949:0113",
+     "url": "https://samlinger.slks.dk/samlinger/f5e28ed1-b349-42f3-9f14-623035f22929",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -763,7 +804,8 @@
    },
    "date_basis": "Thoren 1990, Table 5.1 (p. 172) and p. 177 n. 61: the 'portable sextant' of 1584 is TBOO V, 24–27, this instrument's chapter",
    "attested_by": "Described and depicted in Tycho's Astronomiae instauratae mechanica (Wandsbek 1598).",
-   "aim1996_pages": "25–29"
+   "aim1996_pages": "25–29",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-semicircle",
@@ -915,7 +957,8 @@
     "S_WOLFSCHMIDT",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "dimensions": "three equal rulers, each four cubits — Tycho's own figure, ≈155 cm (Mechanica 1946, Fig. 9, p. 45).",
    "location": "larger northern observatory, Uraniborg",
@@ -957,6 +1000,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-36a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's dual plate, Copernicus's and Tycho's parallactic instruments, hand-coloured, framed — M/S Museet for Søfart 1958:0141",
+     "url": "https://samlinger.slks.dk/samlinger/01feabcf-030a-4193-af00-a5e9a54dc49e",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -966,7 +1014,8 @@
    },
    "date_basis": "Thoren 1990, Table 5.1: 'small rulers' 1585; the earlier figure of 1580 was a placeholder",
    "attested_by": "Described and depicted in Tycho's Astronomiae instauratae mechanica (Wandsbek 1598).",
-   "aim1996_pages": "48–52"
+   "aim1996_pages": "48–52",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-copernicus-triquetrum",
@@ -1001,7 +1050,8 @@
     "S_THOREN_LORD",
     "S_MECH_OO5",
     "S_DREYER_BIO",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "location": "North Observatory, Uraniborg (on permanent display)",
    "location_group": "uraniborg",
@@ -1024,7 +1074,15 @@
    "room": "obs-ura-north-large",
    "mechanica_engraved": false,
    "attested_by": "Described in the Mechanica (1598); Tycho's commemorative poem on receiving the relic from Frauenburg is printed in TBOO V, 44–47.",
-   "aim1996_pages": "48–50"
+   "aim1996_pages": "48–50",
+   "links": [
+    {
+     "label": "Blaeu's dual plate, Copernicus's and Tycho's parallactic instruments, hand-coloured, framed — M/S Museet for Søfart 1958:0141",
+     "url": "https://samlinger.slks.dk/samlinger/01feabcf-030a-4193-af00-a5e9a54dc49e",
+     "kind": "record"
+    }
+   ],
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-globe",
@@ -1125,7 +1183,8 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_HYKLOVA2017"
+    "S_HYKLOVA2017",
+    "S_INST_SLKS"
    ],
    "location": "observatories at Uraniborg and Stjerneborg",
    "location_group": "uraniborg",
@@ -1136,7 +1195,15 @@
    "physical_objects": 4,
    "mechanica_engraved": false,
    "attested_by": "Described in the Mechanica (1598; trans. Raeder, Strömgren & Strömgren 1946, p. 30 — four clocks, the largest with a brass wheel of 1,200 teeth).",
-   "aim1996_pages": "32"
+   "aim1996_pages": "32",
+   "museum_record_note": "An object under his name, a century too late: the Designmuseum Danmark's pocket watch no. 478, silver-gilt, by 'I. Henric Petri' (engraved on the top plate and in the dial's cartouches), which the museum dates to 1690, carries on the inner case back, engraved before the gilding, the inscription 'TYCHO BRAHE MDLXXXXI'. The museum's dating of the watch excludes Tycho's ownership; the inscription is a later attribution, of the kind that hung his name on the Clementinum's clock. Record read 11 October 2026.",
+   "links": [
+    {
+     "label": "A pocket watch of c. 1690 by Henric Petri, engraved 'TYCHO BRAHE MDLXXXXI' — Designmuseum Danmark 478",
+     "url": "https://samlinger.slks.dk/samlinger/be2a591e-f128-4421-9c2a-4b1d247be0bf",
+     "kind": "record"
+    }
+   ]
   },
   {
    "id": "inst-sextant-burgi",
@@ -1452,7 +1519,8 @@
     "S_WENNBERG",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "image": "plates/inst-north-equatorial-armillary.jpg",
    "image_thumb": "plates/inst-north-equatorial-armillary_thumb.jpg",
@@ -1470,6 +1538,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-45a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's 'Armillæ æqvatoriæ', hand-coloured, framed — M/S Museet for Søfart 1949:0110 (the cataloguer reads the pedestal reliefs as Copernicus 1520 and Tycho 1580)",
+     "url": "https://samlinger.slks.dk/samlinger/35cfe2a9-0a41-4012-8da3-fde605fcc7f1",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -1477,7 +1550,8 @@
     "table_year": 1584,
     "basis": "by name"
    },
-   "aim1996_pages": "62–66"
+   "aim1996_pages": "62–66",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-south-equatorial-armillary",
@@ -1512,7 +1586,8 @@
     "S_WENNBERG",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_INST_SLKS"
    ],
    "image": "plates/inst-south-equatorial-armillary.jpg",
    "image_thumb": "plates/inst-south-equatorial-armillary_thumb.jpg",
@@ -1530,6 +1605,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/sil4-3-48a.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Blaeu's second 'Armillæ æqvatoriæ' plate ('af samme konstruktion som 110:49, dog forøget med en ring'), hand-coloured, framed — M/S Museet for Søfart 1949:0111",
+     "url": "https://samlinger.slks.dk/samlinger/42897e95-e65d-47ba-ba54-d358cb5f0225",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -1537,7 +1617,8 @@
     "table_year": 1584,
     "basis": "by name"
    },
-   "aim1996_pages": "67–70"
+   "aim1996_pages": "67–70",
+   "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
   },
   {
    "id": "inst-steel-sextant-1obs",
@@ -1876,6 +1957,14 @@
    "url_label": "open access (Karolinum)",
    "kind": "secondary",
    "contributes": "The Mathematical Museum's own inventory of 1781 as Strnad drew it up: ‘Tycho Brahe's clock’ (D 3), ‘Tycho's sextant’ (D 8), an instrument ‘made by Erasmus Habermel in Prague for Tycho’ (C 51) with a fragment of the same (C 53), ‘three copper plates for Tycho's automatic clock’ (C 69) and a model of ‘the Jupiter system according to Tycho's opinion’ (C 18) — the eighteenth-century Prague tradition behind the two surviving sextants, and a clock tradition the extant record does not corroborate."
+  },
+  {
+   "id": "S_INST_SLKS",
+   "label": "Museernes Samlinger (samlinger.slks.dk)",
+   "full": "Slots- og Kulturstyrelsen, Museernes Samlinger: the collections database of the Danish state and state-recognised museums, read 11 October 2026. The Maritime Museum's records of its framed, hand-coloured impressions of Blaeu's instrument plates (Atlas maior, c. 1650–1662), cut from a dismembered copy, and the Designmuseum's record of a watch engraved with Tycho's name. Cited by museum and inventory number with the record's address.",
+   "url": "https://samlinger.slks.dk/",
+   "url_label": "samlinger.slks.dk — the public portal",
+   "kind": "catalogue"
   }
  ],
  "federates_with": [

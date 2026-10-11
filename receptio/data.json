@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.10",
- "edition_date": "2026-10-06",
+ "version": "1.11",
+ "edition_date": "2026-10-11",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -132,7 +132,7 @@
    "year_end": 1700,
    "status": "",
    "grade": "B",
-   "description": "The Tychonic world-system's chief textbook vehicle was Longomontanus's Astronomia Danica (1622; see the Astronomia Danica episode); among the Jesuits it found its great champion in G. B. Riccioli, whose Almagestum Novum (1651) — the same work that fixed the name of the lunar crater Tycho — argued at length for a semi-Tychonic variant.",
+   "description": "The Tychonic world-system's chief textbook vehicle was Longomontanus's Astronomia Danica (1622; see the Astronomia Danica episode); among the Jesuits it found its great champion in G. B. Riccioli, whose Almagestum Novum (1651) — the same work that fixed the name of the lunar crater Tycho — argued at length for a semi-Tychonic variant. The system's eighteenth-century diffusion can be seen in Danish museum impressions: Homann's 'Systema Mundi Tychonicum' after Doppelmayr (Nuremberg, first 1712, printed 1742; Maritime Museum 1996:0561) and the 1742 Atlas coelestis plate with the three systems in a corner (1996:0564), a French 'Sisteme de Ticho Brahé' among the systems of the world on a Dutch-privileged sheet (1958:0143), and, earlier, the woodcut 'Sphera Tychonis Brahæ' in Frederik Bolling's Oost-Indiske Reise-bog of 1678 (1950:0311).",
    "edges": [
     [
      "documented_in",
@@ -146,7 +146,8 @@
    "sources": [
     "S_RECEP_CHRISTIANSON",
     "S_RECEP_BIOGENC",
-    "S_RECEP_RICCIOLI"
+    "S_RECEP_RICCIOLI",
+    "S_RECEP_SLKS"
    ],
    "category": "Science",
    "links": [
@@ -154,6 +155,16 @@
      "label": "Longomontanus in the Familia",
      "href": "../familia/index.html#LONGO",
      "kind": "tychoniana"
+    },
+    {
+     "label": "Homann, Systema Mundi Tychonicum (1712/1742) — M/S Museet for Søfart 1996:0561",
+     "href": "https://samlinger.slks.dk/samlinger/e3b5b2ac-64c6-44ff-a77b-6e6e24fede50",
+     "kind": "record"
+    },
+    {
+     "label": "Homann, Systema solare et planetarium (1742), with the three systems — M/S Museet for Søfart 1996:0564",
+     "href": "https://samlinger.slks.dk/samlinger/f7b9c5ca-4c1d-43f0-b854-cc57e312ad98",
+     "kind": "record"
     }
    ]
   },
@@ -457,7 +468,7 @@
    "year_end": 1728,
    "status": "extant",
    "grade": "A",
-   "description": "The Rundetårn, the university observatory tower begun in Copenhagen by order of King Christian IV in 1637 and completed in 1642, where Longomontanus inaugurated a programme to fix precise positions for the 777 stars of Tycho's printed catalogue (the select catalogue of the Progymnasmata) — the Tychonic enterprise re-rooted in Denmark a generation after Hven (it was sometimes styled the 'Royal Stjerneborg of Copenhagen'). The tower still stands; it was also where Tycho's great brass globe finally came to rest, until tower and contents burned in 1728 (see the great brass globe in Instrumenta).",
+   "description": "The Rundetårn, the university observatory tower begun in Copenhagen by order of King Christian IV in 1637 and completed in 1642, where Longomontanus inaugurated a programme to fix precise positions for the 777 stars of Tycho's printed catalogue (the select catalogue of the Progymnasmata) — the Tychonic enterprise re-rooted in Denmark a generation after Hven (it was sometimes styled the 'Royal Stjerneborg of Copenhagen'). The tower still stands; it was also where Tycho's great brass globe finally came to rest, until tower and contents burned in 1728 (see the great brass globe in Instrumenta). Longomontanus's Copenhagen afterlife has one object: the sundial of St Nicolai's church, an oak board of 57 × 55 cm painted in 1670 by C. P. Getreuer and renewed with the church by the magistrate in 1738–42, whose verse calls Longomontanus 'en Mester for den Skive' and 'den ærlig Rømer' its restorer (Københavns Museum 1918:048X0001).",
    "edges": [
     [
      "about",
@@ -473,7 +484,8 @@
     ]
    ],
    "sources": [
-    "S_RECEP_BIOGENC"
+    "S_RECEP_BIOGENC",
+    "S_RECEP_SLKS"
    ],
    "category": "Legacy",
    "links": [
@@ -486,6 +498,11 @@
      "label": "The great brass globe in Instrumenta",
      "href": "../instrumenta/index.html#inst-globe",
      "kind": "tychoniana"
+    },
+    {
+     "label": "St Nicolai's sundial, 'Longomontanus … Rømer', 1670/1738–42 — Københavns Museum 1918:048X0001",
+     "href": "https://samlinger.slks.dk/samlinger/cb14c267-7181-4d4c-b009-222a32f28c8e",
+     "kind": "record"
     }
    ]
   },
@@ -497,7 +514,7 @@
    "year_end": 1957,
    "status": "extant",
    "grade": "B",
-   "description": "The Danish commemoration of Tycho between the wars was largely one man's work. Harald Mortensen (1878–1957), kustode at the Royal Library, founded and ran the astronomical-historical collection at Rundetaarn, and on his initiative Siegfried Wagner's bust of Tycho in grey syenite was raised there and unveiled on 8 August 1932, modelled on the watercolour portrait in the Strahov Mechanica (Mortensen 1942, p. 25). He had Sophie Brahe's grave at Torrlösa marked with a stone and set a memorial stone to Longomontanus in his birthplace, Lomborg; he arranged the local Tycho Brahe museum on Hven; and his obituarists credit him with rescuing the grave relics in Prague when they were perishing from neglect in the 1930s. His collection of Tycho literature, some four or five hundred numbers, passed to the Royal Library in 1957, five objects having gone to Frederiksborg as his gift of 1950 (Paulli & Dal 1959, pp. 9–10, 15). Grade B: the memorials rest on Mortensen's own article and on his obituarists; no inventory of the Rundetaarn collection or of the stones has been read.",
+   "description": "The Danish commemoration of Tycho between the wars was largely one man's work. Harald Mortensen (1878–1957), kustode at the Royal Library, founded and ran the astronomical-historical collection at Rundetaarn, and on his initiative Siegfried Wagner's bust of Tycho in grey syenite was raised there and unveiled on 8 August 1932, modelled on the watercolour portrait in the Strahov Mechanica (Mortensen 1942, p. 25). He had Sophie Brahe's grave at Torrlösa marked with a stone and set a memorial stone to Longomontanus in his birthplace, Lomborg; he arranged the local Tycho Brahe museum on Hven; and his obituarists credit him with rescuing the grave relics in Prague when they were perishing from neglect in the 1930s. His collection of Tycho literature, some four or five hundred numbers, passed to the Royal Library in 1957, five objects having gone to Frederiksborg as his gift of 1950 (Paulli & Dal 1959, pp. 9–10, 15). Grade B: the memorials rest on Mortensen's own article and on his obituarists; no inventory of the Rundetaarn collection or of the stones has been read. The gift of the collection to the state in 1957 was marked by a printed piece, 'Enestående Tycho Brahe samling skænket staten' (De grafiske fag, 1957; Museum Odense DMM/00104x024865). Mortensen's own hand reaches the museums elsewhere: his 1909 pamphlet 'Uraniborg og Stjerneborg Ruiner' inscribed to the poet Thøger Larsen (Lemvig Museum 0135X2453), a photographic enlargement of the SMK drawing sent to Th. Køhl in 1914 (Moesgaard OM0648X0003), and two framed photographs after the Mechanica plates given to Den Gamle By in 1952 (00132:52, 00136:52).",
    "edges": [
     [
      "about",
@@ -510,7 +527,8 @@
    ],
    "sources": [
     "S_RECEP_MORTENSEN1942",
-    "S_RECEP_PAULLI1959"
+    "S_RECEP_PAULLI1959",
+    "S_RECEP_SLKS"
    ],
    "category": "Legacy",
    "links": [
@@ -523,6 +541,16 @@
      "label": "Rundetaarn — the tower today",
      "href": "https://www.rundetaarn.dk/",
      "kind": "object"
+    },
+    {
+     "label": "'Enestående Tycho Brahe samling skænket staten' (1957) — Museum Odense DMM/00104x024865",
+     "href": "https://samlinger.slks.dk/samlinger/70b4c47f-dca5-4b75-a47b-1be5a5044f43",
+     "kind": "record"
+    },
+    {
+     "label": "Mortensen, Uraniborg og Stjerneborg Ruiner (1909), inscribed to Thøger Larsen — Lemvig Museum 0135X2453",
+     "href": "https://samlinger.slks.dk/samlinger/131cb282-014d-4741-9c16-7f0db8eb2901",
+     "kind": "record"
     }
    ]
   },
@@ -1365,6 +1393,389 @@
      "kind": "tychoniana"
     }
    ]
+  },
+  {
+   "id": "recep-danish-monuments-1779-1946",
+   "label": "The monuments in Denmark before Mortensen — Wiedewelt's column, Bissen's statue, the Library relief (1779–1946)",
+   "date": "1779–1946",
+   "year_start": 1779,
+   "year_end": 1946,
+   "status": "extant",
+   "grade": "B",
+   "category": "Legacy",
+   "description": "The first Danish memorial to Tycho is a design by Johannes Wiedewelt engraved by J. F. Clemens in 1779–81: a plain column bearing a globe lettered TYGE BRAHE (Statens Museum for Kunst KKS10872/27) — the form of the memorial columns Wiedewelt raised in the Mindelund at Jægerspris in those years. The statue came with the tercentenary of his birth. H. W. Bissen's four fired-clay sketches of 1846 in the Ny Carlsberg Glyptotek (MIN 0115, 0116, 0117, 2028) are, in the museum's words, sketches 'til et monument for Tycho Brahe, der i første omgang blev opgivet'; the bronze was later set before the Copenhagen Observatory ('fra 1859', Rostrup 1945 no. 510), MIN 0115 answering best to the figure as executed, MIN 2028 with folded arms 'som skulptur … den mest vellykkede' but a portrait of 'en stridslysten og selvsikker person' unfit for an official monument. The same year the Skandinavisk Selskab gave St Ib's church on Hven a plaster bust of Tycho after Bissen (an example at the Maritime Museum, 1949:0114, 77 cm, bronzed); in 1855 Otto Evens modelled the astronomer seated in a chair with a star-globe at his side and a dog beneath, signed and dated on the plinth (Statens Museum for Kunst KMS5024, 82 × 60 × 76.5 cm); and the Glyptotek's record of Bissen's Heiberg bust notes that the Tycho commission brought the sculptor into contact with the astronomically-minded J. L. Heiberg. A lithograph in Nordisk Billed-Magazin shows the statue behind its railing at the Observatory with onlookers (Maritime Museum 1950:2919); Nationalmuseet keeps negatives and a printing block of it (dnt-110401, dnt-110403, dnt-111164). Vilhelm Bissen followed his father in 1904 with the relief of Tycho seated with globe and dividers over a door of the Royal Library — the plaster model, c. 167 × 121 cm, is at the Maritime Museum (1951:1534). Two further public commissions are attested by their studies: Ejnar Nielsen's sketch of 1929 for a gable field with Tycho in the festsal of Copenhagen Town Hall (Vejen Kunstmuseum 03749 a), and Andreas Friis's study in dry pigment on masonite, 1940s, for the decoration of the University Library (Museum Nordsjælland NFHN 00963X0070). Grade B: every object stands on its museum's record; the monuments themselves and Rostrup's catalogue have not been examined, and the Jægerspris identification of the Wiedewelt print is this chapter's reading of the print, not the museum's statement.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ],
+    [
+     "about",
+     "recep-danish-memorials-1930s"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_SLKS"
+   ],
+   "links": [
+    {
+     "label": "Wiedewelt and Clemens, 'Tyge Brahe' (1779–81) — Statens Museum for Kunst KKS10872/27",
+     "href": "https://samlinger.slks.dk/samlinger/e0927cea-6b3d-471d-8853-0705698e6549",
+     "kind": "record"
+    },
+    {
+     "label": "H. W. Bissen, Tycho Brahe, fired-clay sketch 1846 — Ny Carlsberg Glyptotek MIN 0115",
+     "href": "https://samlinger.slks.dk/samlinger/ffd1dc37-8890-42c3-8aa1-84dba1a64e4b",
+     "kind": "record"
+    },
+    {
+     "label": "H. W. Bissen, Tycho Brahe with folded arms, 1846 — Ny Carlsberg Glyptotek MIN 2028",
+     "href": "https://samlinger.slks.dk/samlinger/0be8ba22-8c61-4d71-81dd-4a1624804dc2",
+     "kind": "record"
+    },
+    {
+     "label": "Bust of Tycho after Bissen, the St Ib example recorded — M/S Museet for Søfart 1949:0114",
+     "href": "https://samlinger.slks.dk/samlinger/9d66da7e-6b8b-4ba9-ae65-d74ba6e8821f",
+     "kind": "record"
+    },
+    {
+     "label": "Otto Evens, Tycho Brahe seated with a star-globe and a dog, 1855 — Statens Museum for Kunst KMS5024",
+     "href": "https://samlinger.slks.dk/samlinger/ddfaee00-baea-4297-8d78-4da563089989",
+     "kind": "record"
+    },
+    {
+     "label": "'Tyge Brahes Statue' at the Observatory, lithograph — M/S Museet for Søfart 1950:2919",
+     "href": "https://samlinger.slks.dk/samlinger/6d8c2cd9-b8dd-41a1-8858-a45ecfb40072",
+     "kind": "record"
+    },
+    {
+     "label": "V. Bissen, model for the Royal Library relief, 1904 — M/S Museet for Søfart 1951:1534",
+     "href": "https://samlinger.slks.dk/samlinger/911ad1ad-ace3-4c75-b787-d9465bfaac1e",
+     "kind": "record"
+    },
+    {
+     "label": "Ejnar Nielsen, sketch for the Town Hall gable field, 1929 — Vejen Kunstmuseum 03749 a",
+     "href": "https://samlinger.slks.dk/samlinger/fa8c741f-902e-4903-8d03-5a70c0975b1e",
+     "kind": "record"
+    },
+    {
+     "label": "Andreas Friis, study for the University Library decoration — Museum Nordsjælland NFHN 00963X0070",
+     "href": "https://samlinger.slks.dk/samlinger/97288770-9054-4024-a656-a8214972a2e3",
+     "kind": "record"
+    },
+    {
+     "label": "The Danish memorials of the 1930s",
+     "href": "#recep-danish-memorials-1930s",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-schoolroom",
+   "label": "Tycho in the Danish schoolroom — the wall charts and the photogravure (c. 1890–1984)",
+   "date": "c. 1890–1984",
+   "year_start": 1890,
+   "year_end": 1984,
+   "status": "extant",
+   "grade": "B",
+   "category": "Biography",
+   "description": "Two images taught Tycho to Danish schoolchildren for most of a century, and the museums hold them by the dozen. One is a scene: 'Tyge Brahe modtager Jacob den Sjette paa Uranienborg', no. XXXVI of Alfred Jacobsen's colour-lithographed series Danmarks Historie i Billeder (c. 1896), issued on stiff card with hanging holes — and, as the photogravure of Carl Bloch's painting of the same visit, series 4 no. 4 of Hjemmets Forlag's 'Danske Kunstneres historiske Malerier i gravuretryk til skolebrug' (ed. Jakob V. Pedersen), which one Herning school used until the spring of 1984. The other is a face: Dansk Skolemuseum's portrait chart 'Thyge Brahe 1546–1601' in Alfred Jacobsen's series of famous Danes, the beret-and-ruff likeness of the second engraving. Both hang in the records of a dozen museums from Vendsyssel to Lolland-Falster, often among a school's whole set and sometimes marked 'kasseret'. James VI's visit of March 1590 is the one episode of the life the schools chose; the king at Uraniborg, not the instruments, was the Tycho a Dane remembered. Grade B: the series and their publishers are the museums' statements.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ],
+    [
+     "about",
+     "site-uraniborg"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_SLKS"
+   ],
+   "links": [
+    {
+     "label": "'Tyge Brahe modtager Jacob den Sjette paa Uranienborg' — Danmarks Historie i Billeder XXXVI, Vendsyssel Historiske Museum 1976/0644+",
+     "href": "https://samlinger.slks.dk/samlinger/695569d0-4705-4a1e-abed-b14f50b3f097",
+     "kind": "record"
+    },
+    {
+     "label": "The same chart in a school's series — Vardemuseerne Ø05574 (47 charts)",
+     "href": "https://samlinger.slks.dk/samlinger/22fd2bcc-9fd4-4f9b-b287-d541c731b714",
+     "kind": "record"
+    },
+    {
+     "label": "Bloch's painting as a photogravure for schools, series 4 no. 4 — Museum Midtjylland 02644X00026",
+     "href": "https://samlinger.slks.dk/samlinger/dbdf6cfe-66e9-4018-ae43-98a16fdfea80",
+     "kind": "record"
+    },
+    {
+     "label": "'Thyge Brahe 1546–1601', Dansk Skolemuseum's portrait chart — Vesthimmerlands Museum 00295x00104",
+     "href": "https://samlinger.slks.dk/samlinger/9dccb76e-c346-4e33-b886-1c6b5bdfdb01",
+     "kind": "record"
+    },
+    {
+     "label": "Bloch's painting in the Iconographia",
+     "href": "../iconographia/index.html#icon-bloch-james-vi",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-commemoration-after-1946",
+   "label": "Commemoration after 1946 — the stamp, the planetarium, the 450th year",
+   "date": "1946–1999",
+   "year_start": 1946,
+   "year_end": 1999,
+   "status": "extant",
+   "grade": "B",
+   "category": "Legacy",
+   "description": "The quatercentenary of 1946 brought a postage stamp — Museum Odense holds the zinc proof copy of 'nyt frimærke (Tycho Brahe)' (DMM/00101x003112) — and Laurits Nielsen's study of the Uraniborg press, issued for the same anniversary. The four hundredth year of Uraniborg's foundation was marked by Barry Wilmont's relief, 'Uranienborg på halvglobus' with the legend 'T B 1576 Uranienborg 1976', whose working studies are at the Museum of Art in Public Spaces (KØS0131); the University of Copenhagen's 500th anniversary in 1979 by Harald Salomon's plaquette with Tycho's portrait in silver on bronze, one of ten (Museum Sønderjylland 07175X00105; Rasmussen, Harald Salomon, no. 121); and the Queen's tapestries for Christiansborg (1988–92) by Bjørn Nørgaard's border with Tycho's portrait and his instruments beside the Golden Horns (KØS0342) — Nørgaard had already made a sculpture titled 'Uranienborg' in 1974 (Kunsten, Aalborg, NK 1974). The Tycho Brahe Planetarium opened in Copenhagen in 1989 — Des Asmussen's poster of the lit building over the lakes (Den Gamle By 0250X1234), Ole Broager's sculpture Kødet of 1995 (KØS0593), a bronze statuette of Tycho there of which Kroppedal keeps a plaster cast (H2003X0037), and the eclipse glasses of 11 August 1999 that only the planetarium could still supply (Københavns Museum KBM002126X0001). The 450th year of his birth, 1996, was Copenhagen's year as European cultural capital — the 'Tycho Brahe 450 år' posters (Den Gamle By 0279X1842, 0279X1850) — and the Ole Rømer Museum's exhibition 'Tycho Brahe 450 år — den nye stjerne' (1 October 1996 – 13 April 1997, with the Steno Museum; poster 1191X0013, Eckersberg's picture on it), at whose opening the photograph of the Knutstorp miniature was given. His name on ships belongs here too: the Greenland survey vessel M/S Tycho Brahe of 1951 (its radio and Loran sets at the Maritime Museum, 1994:0119–0120) and the DSB ferry Tycho Brahe put on the Helsingør–Helsingborg crossing in 1991. Grade B.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ],
+    [
+     "about",
+     "recep-danish-memorials-1930s"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_SLKS"
+   ],
+   "links": [
+    {
+     "label": "The 1946 stamp, zinc proof — Museum Odense DMM/00101x003112",
+     "href": "https://samlinger.slks.dk/samlinger/4d9a011c-d4df-41ef-9315-e5c3031f1632",
+     "kind": "record"
+    },
+    {
+     "label": "Barry Wilmont, study for the relief 'T B 1576 Uranienborg 1976' — MAPS KØS0131-003",
+     "href": "https://samlinger.slks.dk/samlinger/77db916e-7b1f-49ff-bcb5-6829989279cf",
+     "kind": "record"
+    },
+    {
+     "label": "Harald Salomon, University plaquette with Tycho's portrait, 1979 — Museum Sønderjylland 07175X00105",
+     "href": "https://samlinger.slks.dk/samlinger/2da034bc-9456-4243-8a5a-592f5a457c4d",
+     "kind": "record"
+    },
+    {
+     "label": "Bjørn Nørgaard, Tycho in the border of the Christiansborg tapestries — MAPS KØS0342.5.3-035(F)",
+     "href": "https://samlinger.slks.dk/samlinger/20b1ac7a-0b10-4c6b-bc26-de185fd19384",
+     "kind": "record"
+    },
+    {
+     "label": "Des Asmussen, poster for the Tycho Brahe Planetarium, 1989 — Den Gamle By 0250X1234",
+     "href": "https://samlinger.slks.dk/samlinger/9669d232-5bee-4ac0-9dc7-7a6aabe72423",
+     "kind": "record"
+    },
+    {
+     "label": "Ole Broager, study for 'Kødet', Tycho Brahe Planetarium, 1995 — MAPS KØS0593-002",
+     "href": "https://samlinger.slks.dk/samlinger/40496c49-df43-4f3f-b2b9-6aed52906d5b",
+     "kind": "record"
+    },
+    {
+     "label": "Plaster cast of the planetarium's bronze statuette — Kroppedal Museum H2003X0037",
+     "href": "https://samlinger.slks.dk/samlinger/496a8095-1fd9-47d5-b365-624210ff7f15",
+     "kind": "record"
+    },
+    {
+     "label": "'Tycho Brahe 450 år — den nye stjerne', exhibition poster 1996 — Den Gamle By 1191X0013",
+     "href": "https://samlinger.slks.dk/samlinger/0f1d8087-3d20-4c84-a207-b59e79c6e106",
+     "kind": "record"
+    },
+    {
+     "label": "The Knutstorp miniature in the Iconographia",
+     "href": "../iconographia/index.html#icon-knutstorp-enamel-miniature",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-tycho-brahes-dage",
+   "label": "'Tycho Brahes Dage' — the unlucky days under his name",
+   "date": "18th–20th centuries",
+   "year_start": 1700,
+   "year_end": 1960,
+   "status": "extant",
+   "grade": "B",
+   "category": "Biography",
+   "description": "For two centuries Danish almanacs and chapbooks listed the year's unlucky days as 'Tycho Brahes Dage' — thirty-two days on which nothing of weight should be begun — and hung on them a legend that the list had been found in a wall of Esrum Abbey in 1616 'efter velbyrdige Tychu Brahe'. The museums hold the tradition in every form: a hand-coloured broadsheet of the list with the Esrum legend, 'rigtig udskrevet efter originalen af P. A. Dahl' (Museum Nordsjælland NFHN 0135-1940); a manuscript of 1813 in two parts (Museum Lolland-Falster LFS12343); K. N. Goltz's printed account of 'Tycho Brahes Spaadomme om Aarets gode og onde Dage' (Copenhagen 1831; Vendsyssel Historiske Museum 07440); Daniel Heire's 'Tyge Brahes Drømme- og Spaabog' of 1872 (Lemvig Museum 0135X0758); a wall table of the days (Nationalmuseet dnt-167160) and a book of them (flm-16055; Museum Vestsjælland SVM0006; Museum Sydøstdanmark MMS 1914001X01221); and, as late as 1959, the Cyprianus dream-book from Schønberg's press with its 'fortegnelse over Tycho Brahes dage' (Museum Odense DMM/01485x094338). Henrik Hertz took the title for his drama 'Tycho Brahes Spaadom', whose revival at the Royal Theatre in 1866 Andersen heard had cost thousands without pleasing; the part-books are at Nationalmuseet (dnt-339697, dnt-339989). Tycho's own almanac-making — the horoscopes and the weather diary — gave the tradition its hook, nothing more: no list of days is his. Grade B: the objects are the museums' records; the tradition's literature (Feilberg's Ordbog, the Danske Folkeminder studies) has not been read for this entry.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_SLKS"
+   ],
+   "links": [
+    {
+     "label": "The list with the Esrum legend, hand-coloured sheet — Museum Nordsjælland NFHN 0135-1940",
+     "href": "https://samlinger.slks.dk/samlinger/9c30a448-4f16-4934-9c94-88c08686db04",
+     "kind": "record"
+    },
+    {
+     "label": "'Tycho Brahes dage', manuscript 1813 — Museum Lolland-Falster LFS12343",
+     "href": "https://samlinger.slks.dk/samlinger/1f50c75d-be4c-4f24-8a40-cda0200b9512",
+     "kind": "record"
+    },
+    {
+     "label": "K. N. Goltz, Tycho Brahes Spaadomme (1831) — Vendsyssel Historiske Museum 07440",
+     "href": "https://samlinger.slks.dk/samlinger/f1ad7cf1-7a7e-419f-ac3c-e38753a9cb1d",
+     "kind": "record"
+    },
+    {
+     "label": "Heire, Tyge Brahes Drømme- og Spaabog (1872) — Lemvig Museum 0135X0758",
+     "href": "https://samlinger.slks.dk/samlinger/f3e1ac27-3417-4fa1-a189-4ea81f009a0d",
+     "kind": "record"
+    },
+    {
+     "label": "Cyprianus drømme- og spåbog (1959), with the days — Museum Odense DMM/01485x094338",
+     "href": "https://samlinger.slks.dk/samlinger/6745e8c1-591b-4ac5-ac5d-fafcba70966b",
+     "kind": "record"
+    },
+    {
+     "label": "Part-book of Hertz's 'Tycho Brahes Spaadom' — Nationalmuseet dnt-339697",
+     "href": "https://samlinger.slks.dk/samlinger/36fc5486-6336-4ec3-837d-9a8a8e728d00",
+     "kind": "record"
+    },
+    {
+     "label": "The horoscopes (Horoscopi)",
+     "href": "../horoscopi/index.html",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-pharmacopoeia",
+   "label": "'Species Tychonis Brahe' — his name in the pharmacy",
+   "date": "20th century (the objects)",
+   "year_start": 1900,
+   "year_end": 1980,
+   "status": "extant",
+   "grade": "C",
+   "category": "Legacy",
+   "description": "Three objects carry his name into the chemist's shop. Among forty-two green-painted tin canisters from a Danish pharmacy, each labelled 'Ikke til medicinsk brug' and numbered under the pharmacy's control, Den Gamle By holds one lettered 'SPECIES TYCHO BRAHE' (01834:74); Østfyns Museer another, 'Species Tychonis Brahe K.A. 22' (06091X0159); and Museum Lolland-Falster a prescription for 'Tycho Brahes dråber' (LFS18070). A species is a dried herbal mixture; that one was sold under Tycho's name reflects the fame of his medicines — the elixir against plague he gave away on Hven and the pharmaceutical recipes that circulated after him — but which preparation these tins held, when it entered the Danish pharmacopoeia and what it claimed to owe him have not been examined. Grade C: entered on the museums' records alone, as a thread to be read.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_SLKS"
+   ],
+   "links": [
+    {
+     "label": "Tin canister 'Species Tycho Brahe' — Den Gamle By 01834:74",
+     "href": "https://samlinger.slks.dk/samlinger/baf2e78b-dcfe-4adf-afdf-dc3b5d9b5ea0",
+     "kind": "record"
+    },
+    {
+     "label": "Tin 'Species Tychonis Brahe K.A. 22' — Østfyns Museer 06091X0159",
+     "href": "https://samlinger.slks.dk/samlinger/5531226c-5c72-4015-8da2-bf4e4c8cd9fa",
+     "kind": "record"
+    },
+    {
+     "label": "Prescription 'Tycho Brahes dråber' — Museum Lolland-Falster LFS18070",
+     "href": "https://samlinger.slks.dk/samlinger/bdbb42e2-1766-4158-b061-55623aa5454a",
+     "kind": "record"
+    }
+   ]
+  },
+  {
+   "id": "recep-national-romantic-tycho",
+   "label": "The national-romantic Tycho — Eckersberg, Heiberg, Andersen, Hertz and the novelists (1831–1907)",
+   "date": "1831–1907",
+   "year_start": 1831,
+   "year_end": 1907,
+   "status": "extant",
+   "grade": "B",
+   "category": "Biography",
+   "description": "In the nineteenth century Tycho became a figure of Danish national feeling, and the museums hold the stages of it. Eckersberg's etching of May 1831, the young Christian IV received at Uraniborg (see the Iconographia), opens the sequence. Johan Ludvig Heiberg's song 'Tycho Brahe' was sung enough to be clipped into a scrapbook of 'Vore gamle Viser' (Frederiksbergmuseerne FRB-ALH 0007x0013); his poem 'Uranienborg' was illustrated by Johan Thomas Lundbye in a set of drawings of 1840 (Statens Museum for Kunst KKS1970-345/7–9, five parts), and three views of Uraniborg were lithographed for the ninth volume of his collected writings (Museum Odense DMM/01087T059787, 059789, 059800). Hans Christian Andersen visited the grave in the Týn church in 1834 and wrote of it from Sorø on 18 August, naming Brandeis too, 'hvor vor Landsmand Tycho Brahe som forviist opholdt sig nogen Tid' (Museum Odense HCA/1958/134-0007) — the Brandeis residence the Loca register refutes, here in an 1834 traveller's mouth; from Paris on 27 April 1843, stung by Copenhagen, he cursed 'de vaade, skimmelgrønne Øer, hvorfra Tycho Brahe blev forjaget' (HCA/A-123-0011); and on 27 November 1845 he wrote into Ida Bille Brahe's album the poem 'I Stjernerne Tycho skrev hvad han hed' (HCA/1947/46, the leaf; his diary notes it the same day). Bissen's statue of 1846 and Bloch's painting of 1878 belong to the same current (the monuments; the Iconographia), as do Henrik Hertz's drama 'Tycho Brahes Spaadom', whose costly revival of 1866 Andersen reported from Amsterdam (HCA/VI-113-0003), the anonymous 'Peter Tordenskjold og Tyge Brahes Elskov' of 1854 (Museum Odense DMM/00004x004272), Vilhelm Østergaard's novel 'Tyge Brahe. En Roman fra Slutningen af det 16. Aarhundrede' (1895, with Bloch's scene on the cover; the 1907 edition in pictorial cloth, Museum Odense DMM/01171x054169, 054325, 054386 and copies in four other museums), Thorald Læssøe's views of 'Tycho Brahes observatorium i Prag' (Statens Museum for Kunst KMS418, KMS4365), Heinrich Hansen's Uraniborg of 1882 — and, as a coda, Storm P.'s cartoon in Blæksprutten for 1930 on a Malmö newspaper's claim that Tycho was really Swedish (Frederiksbergmuseerne SPM05605). Grade B: Andersen's letters and the poem are read in the museum's transcriptions; the rest stands on the records.",
+   "edges": [
+    [
+     "about",
+     "TYCHO"
+    ],
+    [
+     "about",
+     "recep-grave-prague"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_SLKS"
+   ],
+   "links": [
+    {
+     "label": "Andersen to Mad. Iversen, Sorø 18 August 1834 — Museum Odense HCA/1958/134-0007",
+     "href": "https://samlinger.slks.dk/samlinger/49b549be-4a30-416c-b20b-b6f83c26a370",
+     "kind": "record"
+    },
+    {
+     "label": "Andersen to Henriette Wulff, Paris 27 April 1843 — Museum Odense HCA/A-123-0011",
+     "href": "https://samlinger.slks.dk/samlinger/6a7a572f-2f3f-4418-b897-c38836853103",
+     "kind": "record"
+    },
+    {
+     "label": "Andersen's album poem 'I Stjernerne Tycho skrev', 27 November 1845 — Museum Odense HCA/1947/46",
+     "href": "https://samlinger.slks.dk/samlinger/f949f2f6-f5e0-4f05-8501-139f221ee0bb",
+     "kind": "record"
+    },
+    {
+     "label": "Andersen to Kranold, Amsterdam 8 March 1866, on Hertz's play — Museum Odense HCA/VI-113-0003",
+     "href": "https://samlinger.slks.dk/samlinger/06dc985e-aea0-432c-a18e-d8a7711ec2fe",
+     "kind": "record"
+    },
+    {
+     "label": "Heiberg's song 'Tycho Brahe' in a scrapbook of old songs — Frederiksbergmuseerne FRB-ALH 0007x0013",
+     "href": "https://samlinger.slks.dk/samlinger/8bc215ce-fbc6-46f1-828b-c3d2b4b56606",
+     "kind": "record"
+    },
+    {
+     "label": "Lundbye, drawings to Heiberg's poem 'Uranienborg', 1840 — Statens Museum for Kunst KKS1970-345/7",
+     "href": "https://samlinger.slks.dk/samlinger/bd8abc96-de21-4225-80cf-a29ce5901cf5",
+     "kind": "record"
+    },
+    {
+     "label": "Uraniborg lithographed for Heiberg's Skrifter IX — Museum Odense DMM/01087T059800",
+     "href": "https://samlinger.slks.dk/samlinger/835e4d0a-45b2-4ad4-9c2b-8f15e32b6cba",
+     "kind": "record"
+    },
+    {
+     "label": "Østergaard, Tyge Brahe (1907), pictorial binding — Museum Odense DMM/01171x054169",
+     "href": "https://samlinger.slks.dk/samlinger/3efee768-44ed-4cc0-b45c-6e0c4a4578fb",
+     "kind": "record"
+    },
+    {
+     "label": "Storm P., Blæksprutten 1930 — Frederiksbergmuseerne SPM05605",
+     "href": "https://samlinger.slks.dk/samlinger/d926e62b-8e3c-41e8-9d37-f816176d28dc",
+     "kind": "record"
+    },
+    {
+     "label": "Eckersberg's etching of 1831 in the Iconographia",
+     "href": "../iconographia/index.html#icon-eckersberg-1831",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "Bloch's painting in the Iconographia",
+     "href": "../iconographia/index.html#icon-bloch-james-vi",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The Brandeis residence, refuted (Loca)",
+     "href": "../loca/index.html#nv-brandys-residence",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The monuments before Mortensen",
+     "href": "#recep-danish-monuments-1779-1946",
+     "kind": "tychoniana"
+    }
+   ]
   }
  ],
  "sources": [
@@ -1663,6 +2074,11 @@
    "label": "Paulli & Dal, 'Harald Mortensen og hans bogsamling' (Fund og Forskning V–VI, 1959)",
    "full": "R. Paulli and Erik Dal, 'Harald Mortensen og hans bogsamling', Fund og Forskning i Det kongelige Biblioteks Samlinger V–VI (1958–59), pp. 7–18.",
    "contributes": "Mortensen's life and works: the 1901 plaster of the facial fragment, the Rundetaarn collection, the Wagner bust, the stones for Sophie Brahe and Longomontanus, the Hven museum, the 1950 gift and the 1957 bequest (pp. 8–10, 15)."
+  },
+  {
+   "id": "S_RECEP_SLKS",
+   "label": "Museernes Samlinger (samlinger.slks.dk)",
+   "full": "Slots- og Kulturstyrelsen, Museernes Samlinger: the collections database of the Danish state and state-recognised museums, read 11 October 2026 for every record under Tycho's name. Each record is the holding museum's own description — its dates, attributions and inventory numbers are the museum's and are reported as such; cited by museum and inventory number with the record's address."
   }
  ],
  "threads": [
@@ -1698,7 +2114,7 @@
  "desiderata": [
   "Riccioli's Almagestum novum (1651) deserves its own record: it is cited here only inside the world-system and crater episodes.",
   "The semi-Tychonic variants — Ursus, Roslin, Riccioli's own — are not modelled as a cluster; the Tychonic-system record names them in passing.",
-  "The commemorative record after 1901 is entered only for the Danish memorials of the 1930s (the Rundetaarn bust and collection, the stones at Torrlösa and Lomborg, the museum on Hven); the quatercentenaries of 1946 and 2001 and the Prague monuments — the 1971 competition, the plinth and Vajce's statue of 1983 at the Curtius-house site, the Belvedere exhibition of 1971 — are not.",
+  "The commemorative record after 1901: the Danish memorials of the 1930s, the monuments before Mortensen (1779–1946) and the commemorations after 1946 are now entered from the Danish museums' records; the quatercentenaries' programmes themselves and the Prague monuments — the 1971 competition, the plinth and Vajce's statue of 1983 at the Curtius-house site, the Belvedere exhibition of 1971 — are not.",
   "Kepler's Harmonices mundi (1619) and the third law are not recorded as a separate use of the data; the Science thread jumps from 1609 to 1627.",
   "No online record could be verified for the Týn church's own tomb, for Riccioli's 1651 volumes, for Schjellerup's 1854 memoir, for Bricka's volume of Danske Magazin, or for Zeeberg's two studies; those records carry the citation and no link.",
   "Matiegka's own report of 1901 (Bericht über die Untersuchung der Gebeine Tycho Brahe's, Prague 1901) is known here through Šimůnek's summary of 2002; the report itself, and the material in the National Museum's archive that Šimůnek also used, have not been read.",

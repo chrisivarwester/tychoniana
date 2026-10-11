@@ -33,19 +33,19 @@
   "sites_lost": 5,
   "volumes": 42,
   "vol_lost": 1,
-  "images": 33,
-  "img_extant": 22,
+  "images": 35,
+  "img_extant": 23,
   "img_lost": 6,
   "img_untraced": 4,
-  "img_attested": 1,
+  "img_attested": 2,
   "specimens": 83,
   "spec_extant": 75,
   "spec_lost": 1,
   "spec_surrogate": 2,
   "spec_disputed": 5,
-  "bib_entries": 209,
-  "bib_located_works": 113,
-  "bib_volumes": 70,
+  "bib_entries": 210,
+  "bib_located_works": 114,
+  "bib_volumes": 71,
   "bib_missing": 88,
   "bib_findable": 54,
   "bib_retired": 32,
@@ -58,9 +58,9 @@
   "diary_years": 13,
   "letters": 509,
   "letters_dated": 509,
-  "episodes": 38,
+  "episodes": 44,
   "recep_before": 8,
-  "recep_from": 30,
+  "recep_from": 36,
   "recep_1601": 5,
   "transmission": 21,
   "questions": 30,
@@ -1986,6 +1986,15 @@
    "link": "../epistolarium/index.html"
   },
   {
+   "kind": "likeness",
+   "key": "icon-knutstorp-enamel-miniature",
+   "label": "The Knutstorp enamel miniature (17th century) — a likeness known only from a photograph",
+   "year_start": 1601,
+   "year_end": 1700,
+   "edition": "Iconographia",
+   "link": "../iconographia/index.html#icon-knutstorp-enamel-miniature"
+  },
+  {
    "kind": "reception",
    "key": "recep-grave-prague",
    "label": "The grave in the Týn Church, Prague",
@@ -2283,6 +2292,15 @@
    "link": "../observationes/index.html#vc-O_OBSPM_B4_14"
   },
   {
+   "kind": "reception",
+   "key": "recep-tycho-brahes-dage",
+   "label": "'Tycho Brahes Dage' — the unlucky days under his name",
+   "year_start": 1700,
+   "year_end": 1960,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-tycho-brahes-dage"
+  },
+  {
    "kind": "instrument-fate",
    "key": "transmission-1728",
    "label": "The globe burns in the Round Tower fire; the wooden body is consumed and the brass melts, leaving some lumps, the meridian ring, iron rings and the axle, since lost.",
@@ -2299,6 +2317,15 @@
    "year_end": 1824,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-hven-cellar-1747"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-danish-monuments-1779-1946",
+   "label": "The monuments in Denmark before Mortensen — Wiedewelt's column, Bissen's statue, the Library relief (1779–1946)",
+   "year_start": 1779,
+   "year_end": 1946,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-danish-monuments-1779-1946"
   },
   {
    "kind": "instrument-fate",
@@ -2365,6 +2392,15 @@
   },
   {
    "kind": "reception",
+   "key": "recep-national-romantic-tycho",
+   "label": "The national-romantic Tycho — Eckersberg, Heiberg, Andersen, Hertz and the novelists (1831–1907)",
+   "year_start": 1831,
+   "year_end": 1907,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-national-romantic-tycho"
+  },
+  {
+   "kind": "reception",
    "key": "recep-comet-recomputation-19c",
    "label": "Tycho's comets recomputed — the 19th-century orbit reductions (1854)",
    "year_start": 1844,
@@ -2392,6 +2428,15 @@
   },
   {
    "kind": "likeness",
+   "key": "icon-bloch-james-vi",
+   "label": "Carl Bloch, 1878 — James VI received at Uraniborg: the schoolroom Tycho",
+   "year_start": 1878,
+   "year_end": 1878,
+   "edition": "Iconographia",
+   "link": "../iconographia/index.html#icon-bloch-james-vi"
+  },
+  {
+   "kind": "likeness",
    "key": "icon-hansen-1882",
    "label": "Heinrich Hansen, 1882 — Tycho as national history painting",
    "year_start": 1882,
@@ -2407,6 +2452,24 @@
    "year_end": 1890,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-dreyer-biography-1890"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-schoolroom",
+   "label": "Tycho in the Danish schoolroom — the wall charts and the photogravure (c. 1890–1984)",
+   "year_start": 1890,
+   "year_end": 1984,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-schoolroom"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-pharmacopoeia",
+   "label": "'Species Tychonis Brahe' — his name in the pharmacy",
+   "year_start": 1900,
+   "year_end": 1980,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-pharmacopoeia"
   },
   {
    "kind": "instrument-fate",
@@ -2461,6 +2524,15 @@
    "year_end": 1957,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-danish-memorials-1930s"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-commemoration-after-1946",
+   "label": "Commemoration after 1946 — the stamp, the planetarium, the 450th year",
+   "year_start": 1946,
+   "year_end": 1999,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-commemoration-after-1946"
   },
   {
    "kind": "site",
@@ -3007,7 +3079,7 @@
    "city": "Copenhagen",
    "country": "DK",
    "kind": "likenesses",
-   "count": 9
+   "count": 10
   },
   {
    "city": "Copenhagen",
@@ -3031,7 +3103,7 @@
    "city": "Prague",
    "country": "CZ",
    "kind": "library volumes",
-   "count": 57
+   "count": 58
   },
   {
    "city": "Prague",
@@ -4080,6 +4152,14 @@
    "status": "untraced",
    "date": "c. 1598 – 1666; the drawing's date is open",
    "link": "../iconographia/index.html#icon-progymnasmata-watercolour"
+  },
+  {
+   "kind": "likeness",
+   "key": "icon-knutstorp-enamel-miniature",
+   "label": "The Knutstorp enamel miniature (17th century) — a likeness known only from a photograph",
+   "status": "attested",
+   "date": "17th century (the museum's dating of the original)",
+   "link": "../iconographia/index.html#icon-knutstorp-enamel-miniature"
   },
   {
    "kind": "observation volume",

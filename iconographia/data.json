@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.16",
- "edition_date": "2026-10-08",
+ "version": "1.17",
+ "edition_date": "2026-10-11",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -58,7 +58,8 @@
     "S_ICON_ICONES1596",
     "S_ICON_CROSSROADS2002",
     "S_BECKETT",
-    "S_ICON_DEMUNDI_1588"
+    "S_ICON_DEMUNDI_1588",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-armillary-pedestal.jpg",
    "image_thumb": "plates/icon-armillary-pedestal_thumb.jpg",
@@ -87,6 +88,16 @@
      "support": "copper re-engraving, with facing Dutch text ('Armillae S')",
      "verdict": "posthumous copy — pedestal programme intact; '1520' entire; entablature re-lettered 'T.B.N.D.'",
      "note": "Read in the Utrecht University exemplar's digitisation (images 198–199). Derivative of the woodcut, so it corroborates the tablet without being independent evidence for it."
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1949:0110",
+     "support": "hand-coloured engraving (the Blaeu plate), framed",
+     "size": "46.0 × 29.8 cm",
+     "verdict": "an impression of the Blaeu 'Armillæ æqvatoriæ' plate in which the museum's cataloguer reads the two pedestal reliefs as Copernicus ('N.C.T.G.', '1520') and Tycho ('T:B:N:D:', '1580')",
+     "note": "The one Danish museum record that transcribes the tablets. https://samlinger.slks.dk/samlinger/35cfe2a9-0a41-4012-8da3-fde605fcc7f1",
+     "source": "Museernes Samlinger, MFS 1949:0110 (record read 11 October 2026)"
     }
    ],
    "conflicts": [
@@ -372,7 +383,8 @@
     "S_ICON_BECKETT1897",
     "S_ICON_KARLSON1928",
     "S_ICON_BRUUNHANSEN2013",
-    "S_ICON_CHRISTIANSON2020"
+    "S_ICON_CHRISTIANSON2020",
+    "S_ICON_SLKS"
    ],
    "nature": "Original destroyed. The life-size half-length oil burned with Frederiksborg Castle on the night of 16–17 December 1859. It survives only through C. A. Jensen's exact copy of 1838, made for the Odense convent as a replacement when the original left for Frederiksborg.",
    "whereabouts": {
@@ -444,6 +456,26 @@
      "verdict": "Hilker's oil of 1856 — unconfirmed since 1946",
      "note": "Distinct from the Jensen copy at Roskilde Kloster. A recorded null, not a confirmation.",
      "source": "Mortensen 1946 p. 60"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1951:2256",
+     "support": "oil",
+     "size": "94.7 × 85.5 cm",
+     "verdict": "a painted copy of the type, 'vist moderne kopi', catalogued 'af Th. Gemperlein?' — the TB monogram and arms upper left, the eight-fold chain with medallion, cross-staff, dividers and armillary on the table at left",
+     "note": "Photographed in the record; unsigned, unframed. https://samlinger.slks.dk/samlinger/9b9c66e1-9b94-433b-9d91-cd27bc976882",
+     "source": "Museernes Samlinger, MFS 1951:2256 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Museum Odense (Danmarks Mediemuseum); Vardemuseerne",
+     "city": "Odense; Varde",
+     "inv": "DMM/01087T051054; V12531 P.O.00149",
+     "support": "lithograph",
+     "size": "",
+     "verdict": "Em. Bærentzen & Co.'s lithograph 'Tycho Brahe (Tyge Brahe) … Trykt Efter et Maleri paa Frederiksborg', the arms in the upper left corner",
+     "note": "Bærentzen's institute worked 1837–1874 and the original hung at Frederiksborg from 1838 until the fire of 1859: if the stone was drawn in those years it is a third independent pre-fire witness beside Jensen's copy and Bissen's drawing — the lithograph's date is not given. https://samlinger.slks.dk/samlinger/0aff3492-195c-4326-b2d5-a66b9fcb5788; https://samlinger.slks.dk/samlinger/c24990a1-7c80-4b79-b353-58c903a1e7fb",
+     "source": "Museernes Samlinger, Museum Odense DMM/01087T051054 and Vardemuseerne P.O.00149 (record read 11 October 2026)"
     }
    ],
    "conflicts": [
@@ -459,7 +491,8 @@
     }
    ],
    "open_questions": [
-    "H. D. Schepelern, Portrætsamlingen i Odense adelige Jomfrukloster (1959) — the dedicated catalogue of exactly this collection, cited by Bruun Hansen. Not yet consulted for this chapter. It is where a catalogue number, an exact measurement and a condition note would be found."
+    "H. D. Schepelern, Portrætsamlingen i Odense adelige Jomfrukloster (1959) — the dedicated catalogue of exactly this collection, cited by Bruun Hansen. Not yet consulted for this chapter. It is where a catalogue number, an exact measurement and a condition note would be found.",
+    "The date of Bærentzen's lithograph 'efter et Maleri paa Frederiksborg' (Museum Odense DMM/01087T051054): drawn before the fire of 1859, it would be a third pre-fire witness to the original."
    ]
   },
   {
@@ -494,7 +527,8 @@
     "S_ICON_NIELSEN1921",
     "S_ICON_NORLIND1970",
     "S_ICON_DOSSIER_2026",
-    "S_ICON_WESTERGAARD1930"
+    "S_ICON_WESTERGAARD1930",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-woodcut-1586.jpg",
    "image_thumb": "plates/icon-woodcut-1586_thumb.jpg",
@@ -507,7 +541,7 @@
     "inv": "",
     "url": "",
     "tier": "extant as impressions; the block untraced",
-    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592. (5) CANDIDATE — Hillerød, Det Nationalhistoriske Museum på Frederiksborg, print collection, P-10178: ‘et træsnit-portræt af Tycho’ from Harald Mortensen's collection, his gift of 1950, confirmed as held by the museum's collections department on 28 September 2026. Paulli & Dal (Fund og Forskning 5–6, 1959, p. 15) say Mortensen knew the woodcut in only two other impressions, both in Germany — which fits this block (Marburg, Berlin, with Königsberg destroyed) and no other Tycho woodcut, but the museum has not described the print and no image has been seen; whether it is a loose impression or a leaf cut from a prospectus is unknown. Not counted until examined."
+    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592. (5) CANDIDATE — Hillerød, Det Nationalhistoriske Museum på Frederiksborg, print collection, P-10178: ‘et træsnit-portræt af Tycho’ from Harald Mortensen's collection, his gift of 1950, confirmed as held by the museum's collections department on 28 September 2026. Paulli & Dal (Fund og Forskning 5–6, 1959, p. 15) say Mortensen knew the woodcut in only two other impressions, both in Germany — which fits this block (Marburg, Berlin, with Königsberg destroyed) and no other Tycho woodcut, but the museum has not described the print and no image has been seen; whether it is a loose impression or a leaf cut from a prospectus is unknown. Not counted until examined. Not an impression: the Maritime Museum's 'Facsimile af træsnit: portræt af Tycho Brahe 1586' (1949:2054, 30.6 × 23.5 cm, a brownish print on yellow paper, catalogued with the plate's inscription and 'Westergaard nr. 1376') is a facsimile and stays outside the census (https://samlinger.slks.dk/samlinger/e035c59d-31cb-4bf4-8920-199f47c9e3a0; record read 11 October 2026)."
    }
   },
   {
@@ -946,7 +980,8 @@
     "S_ICON_NOTES_2026_10",
     "S_ICON_WESTERGAARD1930",
     "S_ICON_NIELSEN1921",
-    "S_ICON_GIGAS"
+    "S_ICON_GIGAS",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-degheyn-v1.jpg",
    "image_thumb": "plates/icon-degheyn-v1_thumb.jpg",
@@ -959,7 +994,7 @@
     "inv": "KKS4530 (state I, no address); KKSgb7575 (state II, 'Marco Sadeler excudit')",
     "url": "https://open.smk.dk/artwork/image/KKS4530",
     "tier": "located (live SMK API records with IIIF images)",
-    "note": "KKS4530: 186 × 134 mm, signed 'J.d. Gheyn.Fe', purchased 1903 from C. G. Boerner, Leipzig. KKSgb7575: the structured dimensions read 187 × 142 mm; the record's note field repeats KKS4530's '186 × 134 mm' verbatim, probably an inherited copy-paste (187 × 142 preferred, unconfirmed by SMK). SMK dates both sheets 1588–1590, departing from New Hollstein's c. 1595 — a departure the museum's own notes source to a private communication of 31 January 2025; SMK's separate point estimate, 'ca. 1590', converges with the autumn-1590 date fixed by Tycho's letters. No institution publishes a plate-mark or arch-span measurement for any impression."
+    "note": "KKS4530: 186 × 134 mm, signed 'J.d. Gheyn.Fe', purchased 1903 from C. G. Boerner, Leipzig. KKSgb7575: the structured dimensions read 187 × 142 mm; the record's note field repeats KKS4530's '186 × 134 mm' verbatim, probably an inherited copy-paste (187 × 142 preferred, unconfirmed by SMK). SMK dates both sheets 1588–1590, departing from New Hollstein's c. 1595 — a departure the museum's own notes source to a private communication of 31 January 2025; SMK's separate point estimate, 'ca. 1590', converges with the autumn-1590 date fixed by Tycho's letters. No institution publishes a plate-mark or arch-span measurement for any impression. The national aggregator Museernes Samlinger carries the same two records (https://samlinger.slks.dk/samlinger/16cc0c7f-a717-4d8a-9d0e-8643f8af375c and https://samlinger.slks.dk/samlinger/2967b14f-cfcf-4dd1-b14e-60048efd6ebc); its structured dimensions give KKSgb7575 as 187 × 142 mm, which settles the preferred figure, and date both sheets 1588–1590 (record read 11 October 2026)."
    },
    "conflicts": [
     {
@@ -1011,7 +1046,8 @@
     "S_ICON_DIARIUM",
     "S_ICON_NEWHOLLSTEIN",
     "S_ICON_TBV2006",
-    "S_ICON_NOTES_2026_10"
+    "S_ICON_NOTES_2026_10",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-drawing-kksgb5254.jpg",
    "image_thumb": "plates/icon-drawing-kksgb5254_thumb.jpg",
@@ -1024,7 +1060,7 @@
     "inv": "KKSgb5254",
     "url": "https://open.smk.dk/artwork/image/KKSgb5254",
     "tier": "located (live SMK record)",
-    "note": "Pen and brown ink, 122 × 91 mm; bought in 1810 from the heirs of Lorenz Spengler (Lugt 1763). Mirror-reversed against the second engraving, needle-traced for transfer, the head at 1:1 with the engraved head. The verso red-chalk 'HG' monogram is recorded by SMK as probably a forgery."
+    "note": "Pen and brown ink, 122 × 91 mm; bought in 1810 from the heirs of Lorenz Spengler (Lugt 1763). Mirror-reversed against the second engraving, needle-traced for transfer, the head at 1:1 with the engraved head. The verso red-chalk 'HG' monogram is recorded by SMK as probably a forgery. The Museernes Samlinger record (https://samlinger.slks.dk/samlinger/941e207c-4f7b-4bec-bff5-b5e1af6df873) lists three names in its attribution field — de Gheyn, Gemperle and Goltzius — the museum's history of the sheet's attributions, not a verdict. A 1914 witness to the sheet's standing: on 22 December 1914 Harald Mortensen sent Th. Køhl 'en fotografisk forstørrelse af Emperlius (?) originaltegning af Tycho Brahe efter tegningen på Kobberstiksamlingen', calling it 'det eneste originalportræt af astronomen som findes i Danmark' (Moesgaard Museum OM0648X0003, the enlargement with his letter on the back; https://samlinger.slks.dk/samlinger/30d776a1-d9ad-45aa-aa3b-3ff9382bd304)."
    },
    "conflicts": [
     {
@@ -1090,7 +1126,8 @@
     "S_ICON_FRIIS",
     "S_ICON_NOTES_2026_10",
     "S_ICON_WESTERGAARD1930",
-    "S_ICON_GIGAS"
+    "S_ICON_GIGAS",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-degheyn-v2.jpg",
    "image_thumb": "plates/icon-degheyn-v2_thumb.jpg",
@@ -1103,7 +1140,7 @@
     "inv": "KKSgb7084",
     "url": "https://open.smk.dk/artwork/image/KKSgb7084",
     "tier": "located (live SMK record; the museum's own documentation block cites Grinder-Hansen 2006 and states that this sheet is the one reproduced as fig. 7)",
-    "note": "186 × 132 mm, signed 'IDGeyn. fe' (the I, D and G interlaced) in the field left of the sitter at chest height, beside the heraldic pilaster; the lower-right field is empty; pencil collector's mark 'MR.C.M.DOZY' lower left, acquisition 1787. New Hollstein 239; Westergaard 1394. SMK dates it 1594–95."
+    "note": "186 × 132 mm, signed 'IDGeyn. fe' (the I, D and G interlaced) in the field left of the sitter at chest height, beside the heraldic pilaster; the lower-right field is empty; pencil collector's mark 'MR.C.M.DOZY' lower left, acquisition 1787. New Hollstein 239; Westergaard 1394. SMK dates it 1594–95. The Museernes Samlinger record (https://samlinger.slks.dk/samlinger/38fb09c2-b891-404f-b3ad-0f2841998f96) repeats the inscription and the pencil mark 'MR.C.M.DOZY' and dates the sheet 1594–1595 (record read 11 October 2026)."
    },
    "conflicts": [
     {
@@ -1197,7 +1234,8 @@
     "S_ICON_FRIIS1871",
     "S_ICON_DANSKEMAG1746",
     "S_BECKETT",
-    "S_ICON_TBV2006"
+    "S_ICON_TBV2006",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-medal-1595.jpg",
    "image_thumb": "plates/icon-medal-1595_thumb.jpg",
@@ -1210,7 +1248,7 @@
     "inv": "",
     "url": "",
     "tier": "attested — not confirmed by a live record-level page",
-    "note": "Copenhagen holds the silver smaller variant and an old brass/bronze copy of the larger — Friis and Beckett (p. 116) convergent. The fine larger specimen was placed by Friis (Bidrag til dansk Kunsthistorie, printed p. 232) in the k.k. Mønt- og Medaillesamling, Vienna — probably silver, gilt, apparently chased. Dreyer's 'collection at Prague' (1890, p. 228 n. 1) is a citation ghost: his cited page, Friis 1871 p. 363 n. 126, names only the Prague-published 1852 Bohemian-medals catalogue (Beschreibung der bisher bekannten böhmischen Privatmünzen und Medaillen, p. 16, Tab. III no. 17) and states no location. No live record-level page has been reached at either institution. Nationalmuseet photographed its smaller-variant specimen for Tycho Brahes Verden (2006), fig. 3, printed p. 89."
+    "note": "Copenhagen holds the silver smaller variant and an old brass/bronze copy of the larger — Friis and Beckett (p. 116) convergent. The fine larger specimen was placed by Friis (Bidrag til dansk Kunsthistorie, printed p. 232) in the k.k. Mønt- og Medaillesamling, Vienna — probably silver, gilt, apparently chased. Dreyer's 'collection at Prague' (1890, p. 228 n. 1) is a citation ghost: his cited page, Friis 1871 p. 363 n. 126, names only the Prague-published 1852 Bohemian-medals catalogue (Beschreibung der bisher bekannten böhmischen Privatmünzen und Medaillen, p. 16, Tab. III no. 17) and states no location. No live record-level page has been reached at either institution. Nationalmuseet photographed its smaller-variant specimen for Tycho Brahes Verden (2006), fig. 3, printed p. 89. A record-level page with photographs now exists for a specimen outside the Royal Coin Cabinet: Museum Odense KMO/COINS/11914 (see the versions)."
    },
    "open_questions": [
     "Georg Galster, Danske og norske Medailler og Jetons (Copenhagen 1936), no. 53, p. 40, which carries an illustration, remains unread; it is not digitised.",
@@ -1218,6 +1256,18 @@
     "The 1852 Beschreibung der bisher bekannten böhmischen Privatmünzen und Medaillen (Prague, 1852), p. 16, Tab. III no. 17 — the last unseen primary source in the Prague/Vienna chain and the source of the rejected 'Opus Factum' reading of the obverse's O F.",
     "Whether the KHM Münzkabinett, Vienna, still holds the ex-k.k. larger specimen.",
     "Whether the reverse distich 'Arma, genus, fundi pereunt …' has a neo-Latin antecedent — unchecked, and prior to any claim about its authorship."
+   ],
+   "versions": [
+    {
+     "holder": "Museum Odense (Møntsamlingen)",
+     "city": "Odense",
+     "inv": "KMO/COINS/11914",
+     "support": "medal",
+     "size": "34.19 mm, 15.17 g",
+     "verdict": "the smaller motto variant — obverse EFFIGIES TYCHONIS BRAHE O F ÆTATIS 49, reverse ESSE POTIVS QVAM HABERI around the arms, dated 1595; photographed on both faces beside a scale",
+     "note": "The first open photographs of a specimen this chapter has reached; the museum states no metal and does not say whether it is a strike or a cast — the soft relief in the photographs is consistent with Mortensen's caution. https://samlinger.slks.dk/samlinger/ec1be511-4af5-4924-a245-add5da4367d7",
+     "source": "Museernes Samlinger, Museum Odense KMO/COINS/11914 (record read 11 October 2026)"
+    }
    ]
   },
   {
@@ -1532,7 +1582,8 @@
     "S_ICON_TBV2006",
     "S_ICON_RUNDETAARN1937",
     "S_ICON_FBORG_A155",
-    "S_ICON_DOSSIER_2026"
+    "S_ICON_DOSSIER_2026",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-teyn-epitaph.jpg",
    "image_thumb": "plates/icon-teyn-epitaph_thumb.jpg",
@@ -1552,6 +1603,11 @@
      "question": "Is the globe terrestrial or celestial?",
      "positions": "Celestial — Studnička 1901 ('Himmelsglobus', primary autopsy, German original verified); the Czech descriptions ('nebeská sféra') are unverified. Terrestrial — Vellev's Danish text in the 2006 volume ('symbolsk jordglobus', p. 230). The 2006 English summary (p. 275; printed 277) says only 'a globe', unqualified — it is not a witness to either side.",
      "status": "open: one verified witness each way (Studnička 1901 celestial; Vellev 2006 Danish text terrestrial); the 2006 English summary is neutral, so the volume does not contradict itself; no surrogate — including the 1894 pre-restoration engraving — shows surface markings on the globe; and Herain's 1901 grinding means the present surface cannot arbitrate the original"
+    },
+    {
+     "question": "Does the 1746 plate carry an engraver's signature?",
+     "positions": "This chapter, from a 600 dpi scan of the Danske Magazin page: no signature legible, the 1746 text names none. The Maritime Museum's cataloguer, describing its cut impression 1954:0495: 'Sign.: Bernigeroth sc.'",
+     "status": "open — the Helsingør impression should be examined; a signature in the plate's margin, cropped from the bound page, would reconcile the two readings and harden the Bernigeroth attribution"
     }
    ],
    "versions": [
@@ -1564,7 +1620,40 @@
      "verdict": "the earliest printed record of the monument, and the witness to its pre-1901 state",
      "note": "Attributed to Johann Martin Bernigeroth by the 2006 volume; the plate as printed carries no engraver's signature legible at 600 dpi and the 1746 text names none, so the attribution is not hardened here. The 1746 text documents the production chain: drawn in 1743 in Prague for Tycho de Hofman, the Danish Chancery secretary there for Maria Theresa's Bohemian coronation, and engraved for his Portraits historiques (The Hague, 1746), the plate then lent to Danske Magazin (bind 2, pp. 356–57) — naming the commissioner but no engraver. The Bernigeroth attribution traces to Vellev's fig.-3 caption alone, and his 'efter Danske Magazin' could even describe a later derivative. A collation trap: it is printed on the text page at the head of p. 353, not on an inserted leaf.",
      "source": "Grinder-Hansen ed. 2006, fig. 3; autopsy of the 1746 volume"
+    },
+    {
+     "holder": "Nationalmuseet",
+     "city": "Copenhagen (store at Ørholm)",
+     "inv": "dmr-398075",
+     "support": "plaster cast",
+     "size": "",
+     "verdict": "'Tycho Brahes gravsten, afstøbning i gips' — a plaster cast of the figure-stone in the museum's store at Ørholm (Ø-P-1-3)",
+     "note": "Either a third cast or the one this chapter records as transferred to the Round Tower; the record does not say. https://samlinger.slks.dk/samlinger/613ec97c-7b06-40c1-91f9-ac9fd9ee70e3",
+     "source": "Museernes Samlinger, Nationalmuseet dmr-398075 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0495",
+     "support": "engraving, cut from the 1746 page",
+     "size": "11.8 × 8.3 cm",
+     "verdict": "an impression of the Danske Magazin plate (Westergaard 1457), on which the museum's cataloguer reads the signature 'Bernigeroth sc.'",
+     "note": "https://samlinger.slks.dk/samlinger/6f8228d4-914a-4b35-b761-094d3fbe9b69",
+     "source": "Museernes Samlinger, MFS 1954:0495 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0496",
+     "support": "engraving within a letterpress frame",
+     "size": "34.8 × 19 cm",
+     "verdict": "Westergaard 1461 — a crude ('dilettantisk') print of the stone, with the epitaph's Latin and a German translation set in type around it, 'Lieber wirklich seyn, als dafür gehalten werden'",
+     "note": "A second printed witness to the monument, from an unidentified German publication. https://samlinger.slks.dk/samlinger/171a8df8-0833-4aa8-bc9a-65e99dc60655",
+     "source": "Museernes Samlinger, MFS 1954:0496 (record read 11 October 2026)"
     }
+   ],
+   "open_questions": [
+    "Whether Nationalmuseet's plaster cast in store at Ørholm (dmr-398075) is the Round Tower cast of c. 1867 or a third cast."
    ]
   },
   {
@@ -1768,7 +1857,8 @@
     "S_BECKETT",
     "S_ICON_NIELSEN1921",
     "S_ICON_FRIIS",
-    "S_ICON_HORACEK2021"
+    "S_ICON_HORACEK2021",
+    "S_ICON_SLKS"
    ],
    "image": "plates/icon-uraniborg-views.jpg",
    "image_thumb": "plates/icon-uraniborg-views_thumb.jpg",
@@ -1799,6 +1889,72 @@
      "positions": "The Epistolae (1596) east-facade woodcut (Beckett's Fig. 12) carries a monogram of the letters L and B on a pillar left of the gallery. Beckett (1921, p. 8 with its endnote) reads the year as presumably 1590 — his own hedge; Friis (Bidrag til dansk Kunsthistorie, p. 4) read the numerals as (15)96 and, in Beckett's view, misreproduced the monogram.",
      "status": "undecided on present evidence; the cutter is unidentified — Nagler and Hollstein have not been checked (an omission, not a researched negative), and Lambert Cornelisz does not fit on initials or floruit"
     }
+   ],
+   "versions": [
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb4883",
+     "support": "pen and ink drawing",
+     "size": "525 × 336 mm",
+     "verdict": "'Uranienborg; opstalt og grundplan' — a 17th-century drawn copy of the elevation and ground plan after the printed plates, inscribed 'Orthographia Arcis Uranienburgi in Insula Hvena circa annum 1580 a Tychone Brahe exædificatæ'",
+     "note": "Photographed in the record; the museum dates it to the 1600s. https://samlinger.slks.dk/samlinger/06b44a52-584d-4512-ad00-8237679db177",
+     "source": "Museernes Samlinger, SMK KKSgb4883 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb38481; KKSgb38482",
+     "support": "pen and ink drawings",
+     "size": "522 × 333 mm; 523 × 336 mm",
+     "verdict": "the companions of KKSgb4883, of the same sheet size: a drawn copy of Blaeu's map of Hven, inscribed 'Insulæ Hvennæ Topographia qua a Guilielmo Bleau cum [sub Tychone …]', and its key, 'Notarum Explicatio / A. Arx Oraniburgum. / B. Stelleburgum …' in black and red ink",
+     "note": "Three sheets of one 17th-century campaign of copying the Tycho plates — map, key, elevation and plan. https://samlinger.slks.dk/samlinger/b606dc7c-a902-4610-9abc-a4eb6f5f2472; https://samlinger.slks.dk/samlinger/8ba3e79d-89c2-4553-8a27-b9d8d82757f1",
+     "source": "Museernes Samlinger, SMK KKSgb38481–38482 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Museum Sønderjylland",
+     "city": "Sønderborg",
+     "inv": "07160X00007",
+     "support": "hand-coloured engraving",
+     "size": "",
+     "verdict": "a second impression of Braun & Hogenberg's map of Hven (1586), coloured, with the printed text on the verso, from a set of twelve Civitates plates of Danish and Schleswig towns given to the museum",
+     "note": "https://samlinger.slks.dk/samlinger/3b5b3b8d-4474-460b-8634-18d7ff292efe",
+     "source": "Museernes Samlinger, Museum Sønderjylland 07160X00007 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Kroppedal Museum",
+     "city": "Taastrup",
+     "inv": "H1999X0010",
+     "support": "two engraved copperplates",
+     "size": "14.8 × 10.9 cm; 16.7 × 10.9 cm",
+     "verdict": "the surviving printing plates of the plans — 'Les Plans d'Uranienbourg et de Stiernbourg', with French legends — which the museum records as used for Tycho de Hofman's Tycho Brahe biography ('fra 1772')",
+     "note": "Plate a: two ground plans and a view of Stjerneborg, 'STIERNBOURG'; plate b: the front of Uraniborg with parts of the interior shown, and the plan of the whole complex with garden, walls, towers and gates. The French captions point to the Portraits historiques des hommes illustres de Dannemark (The Hague, 1746); which printing they served is open. https://samlinger.slks.dk/samlinger/f67ead2b-c406-48e2-8d46-2e153a8110cd",
+     "source": "Museernes Samlinger, Kroppedal Museum H1999X0010 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1958:0142",
+     "support": "hand-coloured engraving, framed",
+     "size": "36.7 × 50.8 cm (sight)",
+     "verdict": "Braun & Hogenberg's 'Topographia Insulæ Huenæ … Effigiata Coloniæ 1586' — the island in bird's-eye view with Uraniborg, Stjerneborg, the printing house and the farm, the elevation and plan of the house at upper left and the garden view at upper right",
+     "note": "Printed double at the left side (a mishap in the press); the museum calls it probably the oldest map of Hven. https://samlinger.slks.dk/samlinger/d68837d0-4d53-4ec9-814a-17fd2956a84a",
+     "source": "Museernes Samlinger, MFS 1958:0142 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1949:0106–0113; 1958:0138–0141; 1996:0568–0570; 1950:2427",
+     "support": "hand-coloured engravings, framed",
+     "size": "c. 46 × 30 cm",
+     "verdict": "fifteen plates of Hven, Uraniborg, Stjerneborg and the instruments cut from a dismembered copy of Blaeu's Atlas maior ('Hvena 1650', the text leaves 63–64, 69–72, 77–80, 87–88 and 95–98 surviving as 1950:2427) and framed for display — the garden plan, the elevation, the house plan, the Stjerneborg view and plan, the mural quadrant, the equatorial armillaries, the sextants and the parallactic instruments",
+     "note": "The impressions are listed under the sites in Loca and under each instrument in Instrumenta. https://samlinger.slks.dk/samlinger/58aefd6b-5190-467f-9172-f7a491831f86",
+     "source": "Museernes Samlinger, MFS (the Blaeu plates) (record read 11 October 2026)"
+    }
+   ],
+   "open_questions": [
+    "SMK's 17th-century drawing KKSgb4883 (elevation and plan after the plates): for what it was drawn — a candidate is the preparation of Resen's Atlas Danicus — and whether its details follow the Epistolae or the Mechanica state.",
+    "Which printing Kroppedal's copperplates of the plans (H1999X0010) served: the Hague Portraits historiques of 1746, the Danish Historiske Efterretninger of 1777–79, or the '1772' the museum names."
    ]
   },
   {
@@ -1832,7 +1988,8 @@
     "S_ICON_GATTEI2009",
     "S_ICON_NEWHOLLSTEIN",
     "S_ICON_NIELSEN1921",
-    "S_ICON_GIGAS"
+    "S_ICON_GIGAS",
+    "S_ICON_SLKS"
    ],
    "nature": "The copy-stemma of the two engraved Amsterdam plates only; carved, painted, and instrument-borne likenesses are treated in their own records (icon-blaeu-globes, icon-console-clock-1642, icon-teyn-epitaph, icon-standing-type).",
    "whereabouts": {
@@ -1859,7 +2016,240 @@
     "Portrait-leaf mechanics of the Epistolarum issues (integral title-verso versus inserted plate leaf) — decides how absolute the titelauflage reading of the 1610 reissue is.",
     "Models of the two unattributed LWL Münster woodcuts and of the Freher 1688 Theatrum book-portrait — undetermined.",
     "Whether the 1654 Paris first printing of Gassendi's Vita carries any portrait — the van Meurs plate is documented only in Vlacq's Hague 1655 second edition, and this record's 1655 end-date and icon-gassendi-frontispiece must agree on that basis.",
-    "Nielsen 1921 (pp. 195, 210) identifies the copperplate pasted into some copies of the Prague 1602 Progymnasmata (Strunk 356) as a later copy of the 1592 Uraniborg woodcut, not of either Amsterdam plate — a third engraved lineage if right. Gigas 1900 (p. 36) describes the Royal Library's 1602 copy as carrying Strunk 356 'før M. Sadelers Navn', which reads as the first de Gheyn plate before its Sadeler address. Whether Strunk 356 is the first engraving or a copy after the woodcut is unresolved; the 2026 examination of the Copenhagen impression, which found the first plate, stands."
+    "Nielsen 1921 (pp. 195, 210) identifies the copperplate pasted into some copies of the Prague 1602 Progymnasmata (Strunk 356) as a later copy of the 1592 Uraniborg woodcut, not of either Amsterdam plate — a third engraved lineage if right. Gigas 1900 (p. 36) describes the Royal Library's 1602 copy as carrying Strunk 356 'før M. Sadelers Navn', which reads as the first de Gheyn plate before its Sadeler address. Whether Strunk 356 is the first engraving or a copy after the woodcut is unresolved; the 2026 examination of the Copenhagen impression, which found the first plate, stands.",
+    "Gammel Estrup's engraving catalogued 'Strunk 356' (0003X382), seen in the museum's photograph on 11 October 2026: the arch-and-arms composition with the 'Effigies Tychonis Brahe' tablet and a signature line at the foot that the photograph does not resolve. Which plate it is — the first Amsterdam engraving or a copy — would bear directly on the Strunk 356 question above; a photograph of the foot of the sheet at higher resolution, with the sheet's size, would settle it."
+   ],
+   "versions": [
+    {
+     "holder": "Statens Museum for Kunst, Den Kongelige Kobberstiksamling",
+     "city": "Copenhagen",
+     "inv": "KKS6133",
+     "support": "engraving",
+     "size": "155 × 115 mm",
+     "verdict": "a reduced plate of the de Gheyn type, catalogued to de Gheyn with the museum's own query '1600-tallet?'",
+     "note": "The attribution is the museum's; the size excludes both Amsterdam plates. https://samlinger.slks.dk/samlinger/2d0bcdd2-7257-4b47-9a0e-96bd3152d4d0",
+     "source": "Museernes Samlinger, SMK KKS6133 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb51208",
+     "support": "engraving",
+     "size": "128 × 90 mm",
+     "verdict": "Jérôme David after de Gheyn — a French copy-plate; the museum dates it 1600–62",
+     "note": "'Portræt af Tycho Brache (Ticho Brahe)'; the engraver's name in the plate. https://samlinger.slks.dk/samlinger/fd0f8fef-57ab-45ff-9d51-af1dbad257a2",
+     "source": "Museernes Samlinger, SMK KKSgb51208 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb51169",
+     "support": "engraving",
+     "size": "",
+     "verdict": "Nicolas de Larmessin I after de Gheyn (the museum's dates 1632–1694)",
+     "note": "https://samlinger.slks.dk/samlinger/8eee1117-1877-426b-81f9-1f6cb7a14e3d",
+     "source": "Museernes Samlinger, SMK KKSgb51169 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb53822",
+     "support": "engraving",
+     "size": "",
+     "verdict": "Jean-Charles François after de Gheyn, 1760s",
+     "note": "https://samlinger.slks.dk/samlinger/ae370d47-b066-4bab-9cb8-d5034fd62ae9",
+     "source": "Museernes Samlinger, SMK KKSgb53822 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb50882",
+     "support": "engraving",
+     "size": "309 × 195 mm",
+     "verdict": "Jeremias Falck, 1644 — 'Tycho Brahe (Non Haberi Sed Esse …)', the engraver's name in the plate",
+     "note": "The impression behind the Falck 1644 source already cited by this chapter. https://samlinger.slks.dk/samlinger/2d4ccc25-b9a3-4885-bcb5-2ee655098e98",
+     "source": "Museernes Samlinger, SMK KKSgb50882 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb47531",
+     "support": "engraving",
+     "size": "",
+     "verdict": "Johann Martin Bernigeroth, 1743 — the portrait plate of Tycho de Hofman's Portraits historiques (1746)",
+     "note": "With it belongs the allegorical 'Systema Tychonicvm' with Tycho seated, 'Bernigeroth fe.' after Hofman's own design ('TH inv.'), of which the Maritime Museum holds an impression (M/S Museet for Søfart 1954:0583, 16.2 × 17 cm; https://samlinger.slks.dk/samlinger/b9bbebec-24a4-480f-a8e1-1fe450bad7ac). https://samlinger.slks.dk/samlinger/b78f6874-61c3-4deb-8d44-6efb25fbffc8",
+     "source": "Museernes Samlinger, SMK KKSgb47531 and MFS 1954:0583 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb10461",
+     "support": "engraving",
+     "size": "",
+     "verdict": "Odvardt Helmoldt de Lode, 'Tyge Brahe' (the museum's dates 1726–1757) — a Danish 18th-century plate",
+     "note": "https://samlinger.slks.dk/samlinger/f90a9aa8-9b95-4ef6-a3d8-c9fe86413adf",
+     "source": "Museernes Samlinger, SMK KKSgb10461 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb5834",
+     "support": "etching",
+     "size": "",
+     "verdict": "C. W. Eckersberg, 'Tycho Brahe', 1837 — a portrait etching, distinct from his 1831 history etching",
+     "note": "https://samlinger.slks.dk/samlinger/485e6b56-1f31-49dd-bb7e-a8daf4382a5f",
+     "source": "Museernes Samlinger, SMK KKSgb5834 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb12193",
+     "support": "etching",
+     "size": "",
+     "verdict": "Jacob Kornerup, 1860",
+     "note": "https://samlinger.slks.dk/samlinger/7a2897e3-8f34-413e-80e8-8c1b7bf9e72b",
+     "source": "Museernes Samlinger, SMK KKSgb12193 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb12459",
+     "support": "wood engraving",
+     "size": "",
+     "verdict": "H. P. Hansen, 1871 (Westergaard 1448), cut for Friis's Tyge Brahe of 1871",
+     "note": "A second impression, framed, at the Maritime Museum (1954:0562, 18.8 × 12.7 cm, 'Westergaard 1448 (fra F. R. Friis: Tyge Brahe (1871))'; https://samlinger.slks.dk/samlinger/389d2ab7-4ade-436b-9583-67b094bcf11d). https://samlinger.slks.dk/samlinger/cc3fc2cc-832d-4b3b-9d9b-1e56f36088f3",
+     "source": "Museernes Samlinger, SMK KKSgb12459 and MFS 1954:0562 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Københavns Museum",
+     "city": "Copenhagen",
+     "inv": "C:029X0001",
+     "support": "engraving",
+     "size": "",
+     "verdict": "Jacob van Meurs ('I v. Meurs sculp.') — the plate of the 1655 Hague Gassendi; the museum's '1586' is the sitter's age-line, not a date",
+     "note": "https://samlinger.slks.dk/samlinger/ef7331d5-b9d8-4185-8f3c-5f70464e5ec5",
+     "source": "Museernes Samlinger, Københavns Museum C:029X0001 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Gammel Estrup, Danmarks Herregårdsmuseum",
+     "city": "Auning",
+     "inv": "0003X382",
+     "support": "engraving",
+     "size": "",
+     "verdict": "'Kobberstik Tyge Brahe (Strunk 356)' — an impression catalogued under the Strunk number on which this chapter's open question turns",
+     "note": "Photographed in the record; to be examined for which plate it is (the first Amsterdam plate before the Sadeler address, or Nielsen's copy after the woodcut). https://samlinger.slks.dk/samlinger/90016131-a51b-4602-a88f-b70b19b04c9f",
+     "source": "Museernes Samlinger, Gammel Estrup 0003X382 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1949:1460; 1954:0493",
+     "support": "roulette engraving",
+     "size": "15.5 × 10.1 cm; 19.6 × 12.9 cm",
+     "verdict": "R. Cooper, 'From a scarce Print' — Westergaard 1406, from Nash's Hudibras (London 1847); two impressions",
+     "note": "https://samlinger.slks.dk/samlinger/779d74a5-cf8c-466e-bcac-9514f865219d; https://samlinger.slks.dk/samlinger/741280bc-ba22-4062-b67a-85adf2e02d22",
+     "source": "Museernes Samlinger, MFS 1949:1460 and 1954:0493 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1950:2916",
+     "support": "wood engraving",
+     "size": "28.2 × 24 cm",
+     "verdict": "A. Bork, 'Tyge Brahe. Efter et samtidigt Stik af J. de Gheyn', Illustreret Familie-Journal 27 October 1901 — Westergaard 1386",
+     "note": "https://samlinger.slks.dk/samlinger/857f142c-6e5a-418b-b9c2-a0fe7e280a3b",
+     "source": "Museernes Samlinger, MFS 1950:2916 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0492; 1954:0494",
+     "support": "engraving",
+     "size": "12.7 × 9 cm; 7.5 × 4.3 cm",
+     "verdict": "two small plates after the de Gheyn/Gemperlin type: 'Thycho Brahe Geb. zu Kundstorp …' from the Allgemeine Geographische Ephemeriden XIII (1804), Westergaard 1417; and 'Thycho Brahe. Astronomiæ Restaurator'",
+     "note": "The museum's catalogue describes both as copies after de Gheyn after Gemperlin's drawing.",
+     "source": "Museernes Samlinger, MFS 1954:0492 and 1954:0494 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0581",
+     "support": "engraving",
+     "size": "20.3 × 15.6 cm (sight)",
+     "verdict": "the Paris plate 'A Paris chez Odieuvre' — Westergaard 1400, with the French caption dating the birth 19 December 1546",
+     "note": "https://samlinger.slks.dk/samlinger/8878419b-36d4-4ad0-9eda-55fa38b78725",
+     "source": "Museernes Samlinger, MFS 1954:0581 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0582",
+     "support": "etching",
+     "size": "21.3 × 14.3 cm (sight)",
+     "verdict": "L. Buchhorn, 'Zwickau, b. d. Gebrüd. Schumann' — the type in mirror image",
+     "note": "https://samlinger.slks.dk/samlinger/7fbebf79-c3b6-45b3-9a2e-67724b10d0af",
+     "source": "Museernes Samlinger, MFS 1954:0582 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0622",
+     "support": "steel engraving",
+     "size": "25.5 × 20.8 cm (sight)",
+     "verdict": "L. Appold, 'Nach gleichz: Stich v. L. Gheyn 1586', Kunst-Anstalt des Oestr. Lloyd, Trieste — Westergaard 1387",
+     "note": "https://samlinger.slks.dk/samlinger/2ec92de5-3fe0-4b7a-aba4-2fe0de89a115",
+     "source": "Museernes Samlinger, MFS 1954:0622 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1950:2904; 2011:0407",
+     "support": "steel engraving; engraving",
+     "size": "12.8 × 7.2 cm; —",
+     "verdict": "Weger's steel engraving with the facsimile signature 'Tÿcho Brahe'; and an undescribed copper engraving of the portrait",
+     "note": "https://samlinger.slks.dk/samlinger/b52ba4ca-0211-4ecf-9b5e-6ebf5a45a180; https://samlinger.slks.dk/samlinger/3e4df6a7-cd6b-4f26-a5d1-618b052d7d8e",
+     "source": "Museernes Samlinger, MFS 1950:2904 and 2011:0407 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Museum Kolding",
+     "city": "Kolding",
+     "inv": "01329X02975; 01329X02976; 01356X05632; 00804X00019",
+     "support": "engravings",
+     "size": "",
+     "verdict": "three copper engravings of the portrait (the gift of direktør Behrens), one of them deaccessioned in 1958, and a fourth among the museum's reproductions — undescribed",
+     "note": "https://samlinger.slks.dk/samlinger/f637f86f-298f-4241-863a-ec88b490d7e1; https://samlinger.slks.dk/samlinger/52de39b8-c89c-41b4-9e59-cdce7a5ccf25",
+     "source": "Museernes Samlinger, Museum Kolding (record read 11 October 2026)"
+    },
+    {
+     "holder": "ROMU (Roskilde Museum); Museum Vestsjælland",
+     "city": "Roskilde; Holbæk",
+     "inv": "1947-0123; OKM001653x0124",
+     "support": "engraving",
+     "size": "12.5 × 9.5 cm (image); 23 × 27.5 cm",
+     "verdict": "a half-length plate of c. 1840, 'Tyge Brahe, Danmarks Astronom', with the arms 'NON HABERE SED ESSE' and Grundtvig's quatrain 'Sank end Borgen Hoit Du bygde …' beneath — two impressions",
+     "note": "The Roskilde cataloguer suggests Eckersberg's portrait as the model. https://samlinger.slks.dk/samlinger/791250b9-350f-4500-ba3c-c9155daa8998; https://samlinger.slks.dk/samlinger/c8743844-71c0-4cbf-a02e-3ea13f54f063",
+     "source": "Museernes Samlinger, ROMU 1947-0123 and Museum Vestsjælland OKM001653x0124 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Skovgaard Museet",
+     "city": "Viborg",
+     "inv": "12.441",
+     "support": "drawing",
+     "size": "",
+     "verdict": "P. C. Skovgaard, 'Portræt af Tycho Brahe', 1828–1832, 'tegnet efter forlæg' — the young painter's copy after a print",
+     "note": "https://samlinger.slks.dk/samlinger/f889ab60-6c1c-427c-bf00-48772a2f6d60",
+     "source": "Museernes Samlinger, Skovgaard Museet 12.441 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Museum Odense (Danmarks Mediemuseum)",
+     "city": "Odense",
+     "inv": "DMM/00326T086030",
+     "support": "colour lithograph",
+     "size": "340 × 430 mm",
+     "verdict": "'Thyge Brahe 1546–1601', no. 120 of Dansk Skolemuseum's wall portraits, printed at Alfred Jacobsen's lithographic establishment (1908–1930) — the beret-and-ruff type of the second engraving as the schools received it",
+     "note": "https://samlinger.slks.dk/samlinger/2bb137a1-c9ea-476f-adb8-548bac44d822",
+     "source": "Museernes Samlinger, Museum Odense DMM/00326T086030 (record read 11 October 2026)"
+    }
    ]
   },
   {
@@ -2091,7 +2481,30 @@
    "sources": [
     "S_ICON_TBV2006",
     "S_ICON_ELLER1978",
-    "S_ICON_DOSSIER_2026"
+    "S_ICON_DOSSIER_2026",
+    "S_ICON_SLKS"
+   ],
+   "versions": [
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1949:1105",
+     "support": "colour print from a periodical",
+     "size": "29.1 × 24.6 cm",
+     "verdict": "'Farvetryk efter maleri af Heinrich Hansen: Uranienborg' — Tycho with guests in the garden, seen towards the entrance from the harbour",
+     "note": "https://samlinger.slks.dk/samlinger/1dd60a46-2e1c-4b6c-ba8d-58278b465769",
+     "source": "Museernes Samlinger, MFS 1949:1105 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart (deaccessioned; Steno Museet, Aarhus, since June 2016)",
+     "city": "Helsingør; Aarhus",
+     "inv": "1954:0619",
+     "support": "reproduction",
+     "size": "",
+     "verdict": "'Prospekt — Stjerneborg efter H. Hansens maleri' — a reproduction of the Stjerneborg nocturne A 154, transferred to the Steno Museum's archive in 2016",
+     "note": "https://samlinger.slks.dk/samlinger/7fe6f3fe-42c0-4947-b693-1e7b3bb72745",
+     "source": "Museernes Samlinger, MFS 1954:0619 (record read 11 October 2026)"
+    }
    ]
   },
   {
@@ -2118,14 +2531,15 @@
     "inv": "",
     "url": "",
     "tier": "attested — one 2006 credit line, no inventory number, no reproduction located online",
-    "note": "The reproduction is Fig. 2 on printed p. 247 — printed p. 245 carries Fig. 1, Heinrich Hansen's 1882 Vedel/Sophie painting, so prior citations of p. 245 for this sheet are wrong. The museum's public catalogue is a selection and does not publish its drawings (institutionally confirmed: the museum states its drawings and prints cannot be permanently exhibited)."
+    "note": "The reproduction is Fig. 2 on printed p. 247 — printed p. 245 carries Fig. 1, Heinrich Hansen's 1882 Vedel/Sophie painting, so prior citations of p. 245 for this sheet are wrong. The museum's public catalogue is a selection and does not publish its drawings (institutionally confirmed: the museum states its drawings and prints cannot be permanently exhibited). The etching's impressions are recorded above from the museums' own records (two states, Krohn 1363 and 1364); what remains absent from every record is the sketch."
    },
    "open_questions": [
     "The sheet's inventory number, accession history, medium and dimensions, which only Frederiksborg can supply — the one remaining route from attested to located.",
     "Is the sheet a preparatory drawing, or a transfer/derivative drawing of the print campaigns — including its relation to the 18 June 1842 block drawing for Flinch?",
     "Villadsen's 2009 edition of Eckersberg's diaries (print only) and Fischer 1983, Tegninger af C.W. Eckersberg, remain unconsulted.",
     "The 27 February 2018 auction of the 26 × 17 cm oil (probably Hannover no. 441) is unidentified; the auction house's record is not public.",
-    "Post-1992 whereabouts of the painting (Hannover no. 438) after Helge Pedersen."
+    "Post-1992 whereabouts of the painting (Hannover no. 438) after Helge Pedersen.",
+    "Fuglsang's cataloguing of its impression 'efter kunstnerens eget maleri' (after the artist's own painting) and the Steno Museum's 1996 poster crediting 'Eckersbergs maleri fra 1831' both presuppose a painting — whether that is the Frederiksborg sheet or a lost oil is unresolved."
    ],
    "edges": [
     [
@@ -2137,7 +2551,70 @@
     "S_ICON_TBV2006",
     "S_ICON_HANNOVER1898",
     "S_ICON_SMK_ECKERSBERG",
-    "S_ICON_FREDERIKSBORG_CAT"
+    "S_ICON_FREDERIKSBORG_CAT",
+    "S_ICON_SLKS"
+   ],
+   "versions": [
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKS2591",
+     "support": "etching",
+     "size": "225 × 246 mm (sheet), 193 × 244 mm (plate)",
+     "verdict": "the etching 'Christian 4. i besøg hos Tycho Brahe på Uranienborg', May 1831 — inscribed in pencil 'C. W. Eckersberg rad. / Mai 1831. / 10.'",
+     "note": "https://samlinger.slks.dk/samlinger/01920aa5-a558-4859-9447-5bd5bace0856",
+     "source": "Museernes Samlinger, SMK KKS2591 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb5837",
+     "support": "etching",
+     "size": "",
+     "verdict": "a second impression, the Kunstforeningen issue",
+     "note": "https://samlinger.slks.dk/samlinger/f0be0f43-affa-4f3d-8f17-f6c07ff94c1b",
+     "source": "Museernes Samlinger, SMK KKSgb5837 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0559",
+     "support": "etching",
+     "size": "19.3 × 21 cm (sheet)",
+     "verdict": "Krohn 1363 — numbered IX, 'C. W. Eckersberg pinx et fecit aqua forti', from Kunstforeningen i Kjøbenhavn, 2. hefte",
+     "note": "The museum's description names the armillary on its stand with 'N C T G 1520' and 'T B N D 1580' — the pedestal reliefs of the equatorial armillary. https://samlinger.slks.dk/samlinger/786f6b84-9e57-4876-846e-5410e796116e",
+     "source": "Museernes Samlinger, MFS 1954:0559 (record read 11 October 2026)"
+    },
+    {
+     "holder": "M/S Museet for Søfart",
+     "city": "Helsingør",
+     "inv": "1954:0618",
+     "support": "etching",
+     "size": "26.5 × 35.3 cm (sight)",
+     "verdict": "Krohn 1364 — the variant plate, unnumbered and unsigned (a signature apparently burnished out), 'ikke helt identisk' with 1363 at the right side",
+     "note": "https://samlinger.slks.dk/samlinger/f4a17d82-8620-4107-bafa-121763f4c373",
+     "source": "Museernes Samlinger, MFS 1954:0618 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Fuglsang Kunstmuseum; VejleMuseerne",
+     "city": "Toreby; Vejle",
+     "inv": "1982/53; 1899/498",
+     "support": "etching",
+     "size": "",
+     "verdict": "two further impressions, Fuglsang's catalogued 'Efter kunstnerens eget maleri', 1831",
+     "note": "https://samlinger.slks.dk/samlinger/d85d11aa-b79c-41c3-8993-6b7e072c1c6e; https://samlinger.slks.dk/samlinger/3ccbc287-ad83-4a1e-b2cf-9dec343659a5",
+     "source": "Museernes Samlinger, Fuglsang 1982/53 and Vejle 1899/498 (record read 11 October 2026)"
+    },
+    {
+     "holder": "Statens Museum for Kunst",
+     "city": "Copenhagen",
+     "inv": "KKSgb11465",
+     "support": "wood engraving",
+     "size": "159 × 111 mm",
+     "verdict": "Andreas Flinch's wood engraving after Eckersberg, signed 'Flinch.' and 'C.W.E.' — the print the block drawing of 18 June 1842 was made for",
+     "note": "The museum's date '1813' is a slip. https://samlinger.slks.dk/samlinger/cb5da2d7-673c-4758-b399-0a60c68c896d",
+     "source": "Museernes Samlinger, SMK KKSgb11465 (record read 11 October 2026)"
+    }
    ]
   },
   {
@@ -2322,6 +2799,93 @@
     "S_ICON_NORLIND1970",
     "S_ICON_PRANDTL1932"
    ]
+  },
+  {
+   "id": "icon-bloch-james-vi",
+   "section": "afterlife",
+   "label": "Carl Bloch, 1878 — James VI received at Uraniborg: the schoolroom Tycho",
+   "date": "1878 (the Fremtiden lithograph's caption)",
+   "year_start": 1878,
+   "year_end": 1878,
+   "status": "extant",
+   "grade": "B",
+   "maker": "Carl Bloch (1834–1890), per the captions of every reproduction; the painting itself has not been examined.",
+   "description": "'Thycho Brahe modtager Kong Jacob VI af Skotland paa Uranienborg' — James VI's visit to Hven of March 1590 as a history painting, which the reproductions place at the University of Copenhagen ('Maleriet findes paa Københavns Universitet'). It is the image through which most Danes of the twentieth century met Tycho: issued as a lithograph by the society Fremtiden ('Malet af G. Bloch 1878'), as Egmont H. Petersen's photogravure in Hjemmets Forlag's 'Danske Kunstneres historiske Malerier i gravuretryk til skolebrug' (series 4, no. 4), and on the cover of Vilhelm Østergaard's novel Tyge Brahe (1895), it hung in classrooms — one museum's set was in use at Studsgaard school until the spring of 1984 — beside Alfred Jacobsen's chart 'Tyge Brahe modtager Jacob den Sjette paa Uranienborg' (Danmarks Historie i Billeder XXXVI). Tycho's likeness in it descends from the engraved type; the scene is invention. The record stands on the museums' catalogues of the reproductions: the painting's own date, medium and inventory at the university have not been reached.",
+   "edges": [
+    [
+     "depicts",
+     "TYCHO"
+    ],
+    [
+     "depicts",
+     "site-uraniborg"
+    ]
+   ],
+   "sources": [
+    "S_ICON_SLKS"
+   ],
+   "image": null,
+   "image_thumb": null,
+   "image_credit": null,
+   "nature": "A history painting of 1878 and its reproductions; not a likeness with a descent of its own.",
+   "whereabouts": {
+    "summary": "The painting at the University of Copenhagen, on the reproductions' statement; its reproductions in a dozen Danish museums.",
+    "holder": "Københavns Universitet (per the captions)",
+    "city": "Copenhagen",
+    "inv": "",
+    "url": "https://samlinger.slks.dk/samlinger/f441175f-6673-4c04-a681-c834e5d035b7",
+    "tier": "attested — the painting under no live record; the link is to Museum Vestsjælland's record of the Fremtiden lithograph",
+    "note": "Reproductions with records: Museum Vestsjælland MHO 7087 (the Fremtiden lithograph, 'Kong Jakob den siette besøger Tycho Brahe paa Hveen', framed by Otto Lemming); the Hjemmets Forlag photogravure at Den Gamle By 00052:74, Det Grønne Museum 00567X092, Give-Egnens Museum 0382Ex1988, Museum Kolding 00325X00116, Moesgaard OM1210X72-0379, Museum Midtjylland 02644X00026 and Museum Østjylland KHM1156X0001; Østergaard's 1895 binding 'Efter Carl Bloch' at Museum Odense DMM/01171x054325."
+   },
+   "versions": null,
+   "conflicts": null,
+   "open_questions": [
+    "The painting itself: its date (1878 on the lithograph's caption), medium, size and inventory at the University of Copenhagen, and the room it hangs in.",
+    "Whether the Fremtiden lithograph (Museum Vestsjælland MHO 7087) is after the painting or after a replica."
+   ],
+   "resolved_questions": null
+  },
+  {
+   "id": "icon-knutstorp-enamel-miniature",
+   "section": "afterlife",
+   "label": "The Knutstorp enamel miniature (17th century) — a likeness known only from a photograph",
+   "date": "17th century (the museum's dating of the original)",
+   "year_start": 1601,
+   "year_end": 1700,
+   "status": "attested",
+   "grade": "C",
+   "maker": "Unrecorded.",
+   "description": "A miniature portrait of Tycho, enamel on copper, 4.5 × 5.5 cm, which Kroppedal Museum's record of a colour photograph (H2003X0044) says was found at Knutstorp, his birthplace, behind a panel during rebuilding, and dates to the 1600s. The photograph, framed (31.5 × 25.5 cm), was given to the Ole Rømer Museum at the opening of its Tycho Brahe exhibition on 1 October 1996. Nothing else is known here: not the finder, the date of the find, the type the miniature follows, nor where the original now is — presumably at Knutstorp. An enamel likeness of the seventeenth century would belong among the posthumous copies if it follows the engraved type; it is entered as attested until the photograph or the object is examined.",
+   "edges": [
+    [
+     "depicts",
+     "TYCHO"
+    ]
+   ],
+   "sources": [
+    "S_ICON_SLKS"
+   ],
+   "image": null,
+   "image_thumb": null,
+   "image_credit": null,
+   "nature": "Unexamined; the museum's photograph is not published in its record.",
+   "whereabouts": {
+    "summary": "The original presumably at Knutstorp (private); a photograph of it at Kroppedal Museum.",
+    "holder": "Knutstorp (the manor), per the museum's record; photograph at Kroppedal Museum",
+    "city": "Kågeröd, Skåne; Taastrup",
+    "inv": "H2003X0044 (the photograph)",
+    "url": "https://samlinger.slks.dk/samlinger/e6eaec09-5382-4846-900e-9d97444d1a4f",
+    "tier": "attested — a museum record of a photograph; the object itself unlocated by any record",
+    "note": "The record gives the original's technique and size (enamel on copper, 4.5 × 5.5 cm) and the find circumstances only."
+   },
+   "versions": null,
+   "conflicts": null,
+   "open_questions": [
+    "Who owns the miniature and when it was found; whether Knutstorp's present owners will allow it to be photographed.",
+    "Which likeness type it follows — the engraved beret type or the painted Frederiksborg type — and whether it is seventeenth-century work at all.",
+    "Whether Kroppedal's photograph can be obtained for examination."
+   ],
+   "resolved_questions": null
   }
  ],
  "sources": [
@@ -2843,6 +3407,13 @@
    "label": "Strahov Katalog Tritius",
    "full": "Knihovna Královské kanonie premonstrátů na Strahově, Katalog Tritius (strahovskyklaster.tritius.cz): record 982709 — a Progymnasmata catalogued ‘S.l., s.n., 1603’ at AG XIV 17, with the provenance note ‘cisterciáci Žďár’ (the Cistercians of Žďár nad Sázavou) and no note of Tycho or Házmburk (read 18 September 2026); record 982704 — the Mechanica AG XI 56 (trezor II 56), with the link to its Manuscriptorium facsimile.",
    "url": "https://strahovskyklaster.tritius.cz/detail/982709"
+  },
+  {
+   "id": "S_ICON_SLKS",
+   "label": "Museernes Samlinger (samlinger.slks.dk) — the Danish state museums' records",
+   "full": "Slots- og Kulturstyrelsen, Museernes Samlinger: the collections database of the Danish state and state-recognised museums (the SARA system), read through its public records on 11 October 2026 for every object the museums catalogue under Tycho's name, his buildings or his portrait plates. Each record is the holding museum's own description — its attributions, dates, measurements and inventory numbers are the museum's and are reported as such. Cited record by record, by museum and inventory number, with the record's address.",
+   "url": "https://samlinger.slks.dk/",
+   "url_label": "samlinger.slks.dk — the public portal"
   }
  ],
  "rejected": [
@@ -2856,7 +3427,7 @@
    "object": "The Kunstkammer ivory box with portrait medallions",
    "claim": "An 18th-century Kunstkammer tradition held that the two medallions showed Tycho Brahe and his wife.",
    "verdict": "Rejected — but on an undefended argument.",
-   "basis": "Grinder-Hansen 2006: 'det hele er en skrøne' — the whole thing is a fable — because the man's head 'har ikke den fjerneste lighed med kendte portrætter af Tycho Brahe'. That is iconographic comparison without stated working: he names no compared portraits and shows no reasoning. The rejection is very probably right, and is recorded here as a rejection rather than as a demonstration. The object itself is untraced."
+   "basis": "Grinder-Hansen 2006: 'det hele er en skrøne' — the whole thing is a fable — because the man's head 'har ikke den fjerneste lighed med kendte portrætter af Tycho Brahe'. That is iconographic comparison without stated working: he names no compared portraits and shows no reasoning. The rejection is very probably right, and is recorded here as a rejection rather than as a demonstration. The object is now traced: Nationalmuseet dmr-346765, 'Lågbæger af elfenben på glatte kuglefødder' — a plain ivory cup with lid, 7¼ inches high on three balls, two medallions with a male and a female bust carved inside the lid and on the base plate, 'De angiver at forestille Tycho brahe og hans hustru (?)' — the museum's record keeping the tradition with a query (https://samlinger.slks.dk/samlinger/c454d8c4-9001-44c4-9c20-3634238af4a0; record read 11 October 2026)."
   },
   {
    "object": "Langhans's photographs of the skull and upper body, Prague 1901",
@@ -2982,7 +3553,7 @@
   }
  ],
  "desiderata": [
-  "The 1595 medal: existence is now settled (Mortensen, Dreyer, Beckett; Galster 53) — what is still wanted is a photograph of an actual specimen and a check of the British Museum's holdings, which could not be checked. Public-cabinet specimens are often aftercasts.",
+  "The 1595 medal: existence is now settled (Mortensen, Dreyer, Beckett; Galster 53) — a specimen is now photographed on both faces (Museum Odense KMO/COINS/11914, the smaller motto variant); what is still wanted is a check of the British Museum's holdings, which could not be checked. Public-cabinet specimens are often aftercasts.",
   "The Cornelisz print's surviving impressions: the ÖNB Bildarchiv (the scanned mount suggests Vienna) and the Royal Library's print room are the two places to ask; Friis reportedly saw an impression in Vienna in 1868.",
   "The drawing's verso: microscopy of the compound corner mark (whether there is ink under the forged red-chalk HG), raking light for the needle incisions, and the date of the perimeter line — a single study-room session at SMK would answer all three.",
   "The Kronborg tapestry identification: Wanscher's conjecture has not been tested against the likeness family, and the companion figure's sphere — a globe? — deserves a focused look.",
