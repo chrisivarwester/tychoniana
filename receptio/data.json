@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.11",
- "edition_date": "2026-10-11",
+ "version": "1.12",
+ "edition_date": "2026-10-13",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -2109,7 +2109,8 @@
  ],
  "grades": {
   "A": "Verified against the cited source itself — the primary print or manuscript, or a scholarly study held in the compilation's own library and read at the cited page.",
-  "B": "Reported: the claim rests on a secondary summary, on a study the compilation has not itself inspected, on a single partisan witness, or is an interpretive reading — stated as the source states it, and not independently confirmed."
+  "B": "Reported: the claim rests on a secondary summary, on a study the compilation has not itself inspected, on a single partisan witness, or is an interpretive reading — stated as the source states it, and not independently confirmed.",
+  "C": "Entered on a record alone: the object or usage exists and the museum's or catalogue's record of it is cited, but what the claim rested on — which preparation, which occasion, what it owed him — has not been examined. A thread to be read, not a finding; the claim is stated as the record states it."
  },
  "desiderata": [
   "Riccioli's Almagestum novum (1651) deserves its own record: it is cited here only inside the world-system and crater episodes.",

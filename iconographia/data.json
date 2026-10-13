@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.17",
- "edition_date": "2026-10-11",
+ "version": "1.18",
+ "edition_date": "2026-10-12",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -528,7 +528,8 @@
     "S_ICON_NORLIND1970",
     "S_ICON_DOSSIER_2026",
     "S_ICON_WESTERGAARD1930",
-    "S_ICON_SLKS"
+    "S_ICON_SLKS",
+    "S_ICON_FREDERIKSBORG_2026"
    ],
    "image": "plates/icon-woodcut-1586.jpg",
    "image_thumb": "plates/icon-woodcut-1586_thumb.jpg",
@@ -541,7 +542,7 @@
     "inv": "",
     "url": "",
     "tier": "extant as impressions; the block untraced",
-    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592. (5) CANDIDATE — Hillerød, Det Nationalhistoriske Museum på Frederiksborg, print collection, P-10178: ‘et træsnit-portræt af Tycho’ from Harald Mortensen's collection, his gift of 1950, confirmed as held by the museum's collections department on 28 September 2026. Paulli & Dal (Fund og Forskning 5–6, 1959, p. 15) say Mortensen knew the woodcut in only two other impressions, both in Germany — which fits this block (Marburg, Berlin, with Königsberg destroyed) and no other Tycho woodcut, but the museum has not described the print and no image has been seen; whether it is a loose impression or a leaf cut from a prospectus is unknown. Not counted until examined. Not an impression: the Maritime Museum's 'Facsimile af træsnit: portræt af Tycho Brahe 1586' (1949:2054, 30.6 × 23.5 cm, a brownish print on yellow paper, catalogued with the plate's inscription and 'Westergaard nr. 1376') is a facsimile and stays outside the census (https://samlinger.slks.dk/samlinger/e035c59d-31cb-4bf4-8920-199f47c9e3a0; record read 11 October 2026)."
+    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592. (5) CANDIDATE — Hillerød, Det Nationalhistoriske Museum på Frederiksborg, print collection, P-10178: ‘et træsnit-portræt af Tycho’ from Harald Mortensen's collection, his gift of 1950, confirmed as held by the museum's collections department on 28 September 2026. Paulli & Dal (Fund og Forskning 5–6, 1959, p. 15) say Mortensen knew the woodcut in only two other impressions, both in Germany — which fits this block (Marburg, Berlin, with Königsberg destroyed) and no other Tycho woodcut; Mortensen himself, in 1946, counted the woodcut's known impressions as four (Nielsen's three and his own, as that count reads). The museum's register (answer of 12 October 2026) dates the print 1586 — the year inscribed in this block's tablet — and gives the paper as 22.5 × 14 cm (h × w): a sheet that holds the 18.5 × 13.5 cm image (Westergaard 1376) with scant margin at the sides, consistent with a leaf cut from the 1592 prospectus or a close-trimmed loose impression, and not the Maritime Museum's facsimile type. No image has been seen; a visitor's photography was declined on 12 October 2026 while the museum packs down its stores, photography of its own to be considered after the autumn holiday. Not counted until examined. Not an impression: the Maritime Museum's 'Facsimile af træsnit: portræt af Tycho Brahe 1586' (1949:2054, 30.6 × 23.5 cm, a brownish print on yellow paper, catalogued with the plate's inscription and 'Westergaard nr. 1376') is a facsimile and stays outside the census (https://samlinger.slks.dk/samlinger/e035c59d-31cb-4bf4-8920-199f47c9e3a0; record read 11 October 2026)."
    }
   },
   {
@@ -3414,6 +3415,11 @@
    "full": "Slots- og Kulturstyrelsen, Museernes Samlinger: the collections database of the Danish state and state-recognised museums (the SARA system), read through its public records on 11 October 2026 for every object the museums catalogue under Tycho's name, his buildings or his portrait plates. Each record is the holding museum's own description — its attributions, dates, measurements and inventory numbers are the museum's and are reported as such. Cited record by record, by museum and inventory number, with the record's address.",
    "url": "https://samlinger.slks.dk/",
    "url_label": "samlinger.slks.dk — the public portal"
+  },
+  {
+   "id": "S_ICON_FREDERIKSBORG_2026",
+   "label": "Det Nationalhistoriske Museum på Frederiksborg, the collections department (letters, 2026)",
+   "full": "Det Nationalhistoriske Museum på Frederiksborg, the collections department: written answers of 28 September and 12 October 2026 to an enquiry of 9 September 2026 about the objects Harald Mortensen gave the museum in 1950. The first lists them with inventory numbers and present keeping — among them ‘et træsnit-portræt af Tycho (P-10178, opmagasineret i vores grafiksamling, ikke udstillet)’; the second gives, from the register, the print's date 1586 and its paper 22.5 (h) × 14 (b) cm, and declines a visitor's photography while the stores are being packed down. Unpublished correspondence; the record of a holding, not an examination."
   }
  ],
  "rejected": [
@@ -3563,6 +3569,7 @@
   "The Steensgaard panel, original or copy — the one question in this chapter that a single technical test would close. Mortensen's own 'Den ældste Tycho Brahe-portræt' (Nordisk astronomisk tidsskrift, 1935), never consulted, is very likely where he argued the case; Frederiksborg's iconographic register and the 1938 auction catalogues would show where the panel went; and if it is found, dendrochronology would date the oak.",
   "Which engraving sits in a given 1596 Epistolae copy (insertion was loose): only a copy-by-copy check of digitised copies can tell.",
   "The Copenhagen drawing's place inside its window: soon after the order of December 1590, or after Hendrik van Langren's visit of April–May 1593? A calibrated registration of its head against the first engraving's head, a placement of its pen manner among de Gheyn's dated drawings, watermarks of the early impressions of the second plate, and first-generation photographs of the Frankfurt globe would decide it.",
-  "The painter brought to Hven from Helsingør on 6 March 1591, whose work was completed by 23 April (TBOO IX 97–98): who he was and what he painted — the only event on the Danish side that could have supplied a new model for the second engraving soon after the order."
+  "The painter brought to Hven from Helsingør on 6 March 1591, whose work was completed by 23 April (TBOO IX 97–98): who he was and what he painted — the only event on the Danish side that could have supplied a new model for the second engraving soon after the order.",
+  "The Frederiksborg woodcut P-10178 (Mortensen's gift of 1950): the register's date 1586 and sheet 22.5 × 14 cm fit the Effigies block (Westergaard 1376, 18.5 × 13.5 cm), but the print is unexamined — an image is wanted to confirm the block, to read whether it is a loose impression or a leaf cut from the 1592 prospectus (text on the verso?), and to collate the quarterings with the Marburg impression. The museum will consider photography of its own after the autumn holiday of 2026."
  ]
 }
