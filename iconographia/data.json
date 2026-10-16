@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.18",
- "edition_date": "2026-10-12",
+ "version": "1.20",
+ "edition_date": "2026-10-15",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -542,7 +542,7 @@
     "inv": "",
     "url": "",
     "tier": "extant as impressions; the block untraced",
-    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592. (5) CANDIDATE — Hillerød, Det Nationalhistoriske Museum på Frederiksborg, print collection, P-10178: ‘et træsnit-portræt af Tycho’ from Harald Mortensen's collection, his gift of 1950, confirmed as held by the museum's collections department on 28 September 2026. Paulli & Dal (Fund og Forskning 5–6, 1959, p. 15) say Mortensen knew the woodcut in only two other impressions, both in Germany — which fits this block (Marburg, Berlin, with Königsberg destroyed) and no other Tycho woodcut; Mortensen himself, in 1946, counted the woodcut's known impressions as four (Nielsen's three and his own, as that count reads). The museum's register (answer of 12 October 2026) dates the print 1586 — the year inscribed in this block's tablet — and gives the paper as 22.5 × 14 cm (h × w): a sheet that holds the 18.5 × 13.5 cm image (Westergaard 1376) with scant margin at the sides, consistent with a leaf cut from the 1592 prospectus or a close-trimmed loose impression, and not the Maritime Museum's facsimile type. No image has been seen; a visitor's photography was declined on 12 October 2026 while the museum packs down its stores, photography of its own to be considered after the autumn holiday. Not counted until examined. Not an impression: the Maritime Museum's 'Facsimile af træsnit: portræt af Tycho Brahe 1586' (1949:2054, 30.6 × 23.5 cm, a brownish print on yellow paper, catalogued with the plate's inscription and 'Westergaard nr. 1376') is a facsimile and stays outside the census (https://samlinger.slks.dk/samlinger/e035c59d-31cb-4bf4-8920-199f47c9e3a0; record read 11 October 2026)."
+    "note": "Census: (1) Copenhagen, KB, prospectus quaternion, barcode 130023736617 — woodcut verified; (2) Marburg, HStAM Best. 3 II Nr. 1070 (Arcinsys 10465709) — woodcut verified by direct image examination, July 2026; (3) Berlin, SBB, Sammelband Oi 1602 (K10plus PPN 354642936, record live July 2026) — carrier extant, woodcut leaf inferred from Nielsen 1921; (4) Königsberg, UB, Johannes Müller working copy — 'destroyed' per Norlind 1970 (p. 164), unverified since; successor collections (Toruń/Vilnius/Kaliningrad) unchecked. Design dated 1586 in the block; in use on the prospectus title verso distributed 20 Feb – 22 March 1592. (5) CANDIDATE — Hillerød, Det Nationalhistoriske Museum på Frederiksborg, print collection, P-10178: ‘et træsnit-portræt af Tycho’ from Harald Mortensen's collection, his gift of 1950, confirmed as held by the museum's collections department on 28 September 2026. Paulli & Dal (Fund og Forskning 5–6, 1959, p. 15) say Mortensen knew the woodcut in only two other impressions, both in Germany — which fits this block (Marburg, Berlin, with Königsberg destroyed) and no other Tycho woodcut; Mortensen himself, in 1946, counted the woodcut's known impressions as four (Nielsen's three and his own, as that count reads). The museum's register (answer of 12 October 2026) dates the print 1586 — the year inscribed in this block's tablet — and gives the paper as 22.5 × 14 cm (h × w): a sheet that holds the 18.5 × 13.5 cm image (Westergaard 1376) with scant margin at the sides, consistent with a leaf cut from the 1592 prospectus or a close-trimmed loose impression, and not the Maritime Museum's facsimile type. No image has been seen. Not counted until examined. Not an impression: the Maritime Museum's 'Facsimile af træsnit: portræt af Tycho Brahe 1586' (1949:2054, 30.6 × 23.5 cm, a brownish print on yellow paper, catalogued with the plate's inscription and 'Westergaard nr. 1376') is a facsimile and stays outside the census (https://samlinger.slks.dk/samlinger/e035c59d-31cb-4bf4-8920-199f47c9e3a0; record read 11 October 2026)."
    }
   },
   {
@@ -1859,7 +1859,9 @@
     "S_ICON_NIELSEN1921",
     "S_ICON_FRIIS",
     "S_ICON_HORACEK2021",
-    "S_ICON_SLKS"
+    "S_ICON_SLKS",
+    "S_ICON_SMK",
+    "S_ICON_SMK_2026"
    ],
    "image": "plates/icon-uraniborg-views.jpg",
    "image_thumb": "plates/icon-uraniborg-views_thumb.jpg",
@@ -1896,21 +1898,21 @@
      "holder": "Statens Museum for Kunst",
      "city": "Copenhagen",
      "inv": "KKSgb4883",
-     "support": "pen and ink drawing",
+     "support": "pen, black ink, brush and watercolour",
      "size": "525 × 336 mm",
-     "verdict": "'Uranienborg; opstalt og grundplan' — a 17th-century drawn copy of the elevation and ground plan after the printed plates, inscribed 'Orthographia Arcis Uranienburgi in Insula Hvena circa annum 1580 a Tychone Brahe exædificatæ'",
-     "note": "Photographed in the record; the museum dates it to the 1600s. https://samlinger.slks.dk/samlinger/06b44a52-584d-4512-ad00-8237679db177",
-     "source": "Museernes Samlinger, SMK KKSgb4883 (record read 11 October 2026)"
+     "verdict": "'Uranienborg; opstalt og grundplan' — a 17th-century drawn and coloured copy of the elevation and ground plan after the printed plates, inscribed 'Orthographia Arcis Uranienburgi in Insula Hvena circa annum 1580 a Tychone Brahe exædificatæ'. The museum's record places it in the Mechanica state: it 'fremstiller Uranienborg i den version, man kender det fra … Astronomiae instauratae mechanica … fra 1598, og er karakteriseret ved at kælderetagen er medtaget, hvilket ikke kendes fra andre tidligere fremstillinger', its colouring 'tæt på' that of the three hand-coloured copies of the work in the Royal Library",
+     "note": "Photographed in the record; the museum dates it to the 1600s, the maker 'Ubekendt dansk' ('Ubekendt, dansk kunstner? Historisk tilskrivning'), the acquisition 'Før 1887'. The museum answered on 14 October 2026 that its sheet catalogue holds little beyond the published record, that no further research has been done on the three sheets, and that their provenance before 1887 is unrecorded — the collection's earliest inventory protocols begin in 1887, and the sheets may have come with the part of the kings' collection that later became SMK's; 'Td 512b', the number under which the record groups them, is an internal SMK number given to separate the three from other unidentified Danish works of the 1600s, not an older one — the museum cites them by their inventory numbers alone. Unexamined. https://samlinger.slks.dk/samlinger/06b44a52-584d-4512-ad00-8237679db177; https://open.smk.dk/artwork/image/KKSgb4883",
+     "source": "Museernes Samlinger, SMK KKSgb4883 (record read 11 October 2026); SMK Open, KKSgb4883 (read 15 October 2026); the museum's answer of 14 October 2026"
     },
     {
      "holder": "Statens Museum for Kunst",
      "city": "Copenhagen",
      "inv": "KKSgb38481; KKSgb38482",
-     "support": "pen and ink drawings",
+     "support": "pen, black ink, brush and watercolour (the map); pen, black and red ink (the key)",
      "size": "522 × 333 mm; 523 × 336 mm",
-     "verdict": "the companions of KKSgb4883, of the same sheet size: a drawn copy of Blaeu's map of Hven, inscribed 'Insulæ Hvennæ Topographia qua a Guilielmo Bleau cum [sub Tychone …]', and its key, 'Notarum Explicatio / A. Arx Oraniburgum. / B. Stelleburgum …' in black and red ink",
-     "note": "Three sheets of one 17th-century campaign of copying the Tycho plates — map, key, elevation and plan. https://samlinger.slks.dk/samlinger/b606dc7c-a902-4610-9abc-a4eb6f5f2472; https://samlinger.slks.dk/samlinger/8ba3e79d-89c2-4553-8a27-b9d8d82757f1",
-     "source": "Museernes Samlinger, SMK KKSgb38481–38482 (record read 11 October 2026)"
+     "verdict": "the companions of KKSgb4883, of the same sheet size: a drawn and coloured copy of Blaeu's map of Hven, inscribed 'Insulæ Hvennæ Topographia qua a Guilielmo Bleau cum [sub Tychone …]', and its key, 'Notarum Explicatio / A. Arx Oraniburgum. / B. Stelleburgum …' in black and red ink. The three records share the series title 'Opstalt af Uranienborg og kort over Hven', and the record of KKSgb4883 adds that 'Td 512b, 2-3 fremstiller Hven og en forklarende tekst til kortet på latin'",
+     "note": "Three sheets of one 17th-century campaign of copying the Tycho plates — map, key, elevation and plan — the same maker ('Ubekendt dansk'), dating (1600s) and acquisition ('Før 1887') on all three records; what the museum could add on 14 October 2026 is under KKSgb4883. Unexamined. https://samlinger.slks.dk/samlinger/b606dc7c-a902-4610-9abc-a4eb6f5f2472; https://samlinger.slks.dk/samlinger/8ba3e79d-89c2-4553-8a27-b9d8d82757f1; https://open.smk.dk/artwork/image/KKSgb38481; https://open.smk.dk/artwork/image/KKSgb38482",
+     "source": "Museernes Samlinger, SMK KKSgb38481–38482 (record read 11 October 2026); SMK Open, KKSgb38481–38482 (read 15 October 2026); the museum's answer of 14 October 2026"
     },
     {
      "holder": "Museum Sønderjylland",
@@ -1954,7 +1956,7 @@
     }
    ],
    "open_questions": [
-    "SMK's 17th-century drawing KKSgb4883 (elevation and plan after the plates): for what it was drawn — a candidate is the preparation of Resen's Atlas Danicus — and whether its details follow the Epistolae or the Mechanica state.",
+    "SMK's three 17th-century drawn sheets KKSgb4883, 38481 and 38482 (elevation and plan, Blaeu's map, its key): for what they were drawn — a candidate is the preparation of Resen's Atlas Danicus — and by whose hand. The museum's record places the elevation in the Mechanica state (the cellar storey included) and its colouring close to the Royal Library's three hand-coloured copies; the museum answered on 14 October 2026 that nothing further is recorded — no research, no provenance before 1887, 'Td 512b' an internal number. Still open: the purpose, the hand and the date, which only the sheets themselves can answer; they are unexamined.",
     "Which printing Kroppedal's copperplates of the plans (H1999X0010) served: the Hague Portraits historiques of 1746, the Danish Historiske Efterretninger of 1777–79, or the '1772' the museum names."
    ]
   },
@@ -2941,8 +2943,8 @@
   },
   {
    "id": "S_ICON_SMK",
-   "label": "Statens Museum for Kunst, object record KKSgb5254",
-   "full": "SMK Open collection record for KKSgb5254 (api.smk.dk): pen and brown ink, 122 × 91 mm; bought 1810 from the heirs of Lorenz Spengler (Lugt 1763); the verso red-chalk 'HG' monogram 'formentlig forfalsket' (presumably forged); attribution history Goltzius → de Gheyn II (Altena) → 'Tilskrevet' Gemperle (the last untenable for the sheet itself — Gemperle died by 1587). The record's note, read 1 October 2026, takes the sheet as the model for the second engraving and 'muligvis også' for the first, dates it 'Værkdatering: ca. 1586?', and reads the '1586' on both plates as the year in which Gemperle finished his painting — three claims this chapter tests under the record for the drawing.",
+   "label": "Statens Museum for Kunst, object records (KKSgb5254; KKSgb4883, KKSgb38481, KKSgb38482)",
+   "full": "SMK Open collection record for KKSgb5254 (api.smk.dk): pen and brown ink, 122 × 91 mm; bought 1810 from the heirs of Lorenz Spengler (Lugt 1763); the verso red-chalk 'HG' monogram 'formentlig forfalsket' (presumably forged); attribution history Goltzius → de Gheyn II (Altena) → 'Tilskrevet' Gemperle (the last untenable for the sheet itself — Gemperle died by 1587). The record's note, read 1 October 2026, takes the sheet as the model for the second engraving and 'muligvis også' for the first, dates it 'Værkdatering: ca. 1586?', and reads the '1586' on both plates as the year in which Gemperle finished his painting — three claims this chapter tests under the record for the drawing. The SMK Open records for the three drawn sheets KKSgb4883, KKSgb38481 and KKSgb38482 (series 'Opstalt af Uranienborg og kort over Hven'), read 15 October 2026: 'Ubekendt dansk' ('Ubekendt, dansk kunstner? Historisk tilskrivning'), dated 1600–1700, 'Pen, sort blæk, pensel og vandfarve' (the key 'Pen, sort og rødt blæk'), sheets 525 × 336, 522 × 333 and 523 × 336 mm, acquired 'Før 1887'; the content description places the elevation in the Mechanica (1598) version with the cellar storey included, 'hvilket ikke kendes fra andre tidligere fremstillinger', and its colouring close to the three hand-coloured copies of the work in the Royal Library; the related-objects note of KKSgb4883 reads 'Td 512b, 2-3 fremstiller Hven og en forklarende tekst til kortet på latin'.",
    "url": "https://open.smk.dk/artwork/image/KKSgb5254"
   },
   {
@@ -3419,7 +3421,12 @@
   {
    "id": "S_ICON_FREDERIKSBORG_2026",
    "label": "Det Nationalhistoriske Museum på Frederiksborg, the collections department (letters, 2026)",
-   "full": "Det Nationalhistoriske Museum på Frederiksborg, the collections department: written answers of 28 September and 12 October 2026 to an enquiry of 9 September 2026 about the objects Harald Mortensen gave the museum in 1950. The first lists them with inventory numbers and present keeping — among them ‘et træsnit-portræt af Tycho (P-10178, opmagasineret i vores grafiksamling, ikke udstillet)’; the second gives, from the register, the print's date 1586 and its paper 22.5 (h) × 14 (b) cm, and declines a visitor's photography while the stores are being packed down. Unpublished correspondence; the record of a holding, not an examination."
+   "full": "Det Nationalhistoriske Museum på Frederiksborg, the collections department: written answers of 28 September and 12 October 2026 to an enquiry of 9 September 2026 about the objects Harald Mortensen gave the museum in 1950. The first lists them with inventory numbers and present keeping — among them ‘et træsnit-portræt af Tycho (P-10178, opmagasineret i vores grafiksamling, ikke udstillet)’; the second gives, from the register, the print's date 1586 and its paper 22.5 (h) × 14 (b) cm. Unpublished correspondence; the record of a holding, not an examination."
+  },
+  {
+   "id": "S_ICON_SMK_2026",
+   "label": "Statens Museum for Kunst, Den Kongelige Kobberstiksamling (letter, 2026)",
+   "full": "Statens Museum for Kunst, Den Kongelige Kobberstiksamling: written answer of 14 October 2026 (Johanna Nyman Hestbæk, for the collection) to an enquiry of 13 October 2026 about the three drawn sheets KKSgb4883, KKSgb38481 and KKSgb38482. The collection's sheet catalogue holds little beyond the published record; no further research has been done on the three sheets at the museum; how and whence they entered the collection cannot be said, the collection's earliest inventory protocols going back only to 1887 — they may have belonged to the part of the kings' collection that later became SMK's; and 'Td 512b' is not an older number but an internal one the museum gave them to separate the three from other unidentified Danish works of the 1600s, the sheets being cited by their inventory numbers. Unpublished correspondence; the record of a holding, not an examination."
   }
  ],
  "rejected": [
@@ -3570,6 +3577,6 @@
   "Which engraving sits in a given 1596 Epistolae copy (insertion was loose): only a copy-by-copy check of digitised copies can tell.",
   "The Copenhagen drawing's place inside its window: soon after the order of December 1590, or after Hendrik van Langren's visit of April–May 1593? A calibrated registration of its head against the first engraving's head, a placement of its pen manner among de Gheyn's dated drawings, watermarks of the early impressions of the second plate, and first-generation photographs of the Frankfurt globe would decide it.",
   "The painter brought to Hven from Helsingør on 6 March 1591, whose work was completed by 23 April (TBOO IX 97–98): who he was and what he painted — the only event on the Danish side that could have supplied a new model for the second engraving soon after the order.",
-  "The Frederiksborg woodcut P-10178 (Mortensen's gift of 1950): the register's date 1586 and sheet 22.5 × 14 cm fit the Effigies block (Westergaard 1376, 18.5 × 13.5 cm), but the print is unexamined — an image is wanted to confirm the block, to read whether it is a loose impression or a leaf cut from the 1592 prospectus (text on the verso?), and to collate the quarterings with the Marburg impression. The museum will consider photography of its own after the autumn holiday of 2026."
+  "The Frederiksborg woodcut P-10178 (Mortensen's gift of 1950): the register's date 1586 and sheet 22.5 × 14 cm fit the Effigies block (Westergaard 1376, 18.5 × 13.5 cm), but the print is unexamined — an image is wanted to confirm the block, to read whether it is a loose impression or a leaf cut from the 1592 prospectus (text on the verso?), and to collate the quarterings with the Marburg impression."
  ]
 }
