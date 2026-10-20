@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.22",
+ "version": "1.23",
  "edition_date": "2026-10-20",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
@@ -1587,7 +1587,8 @@
     "S_ICON_FBORG_A155",
     "S_ICON_DOSSIER_2026",
     "S_ICON_SLKS",
-    "S_ICON_MATIEGKA1901"
+    "S_ICON_MATIEGKA1901",
+    "S_ICON_MFS_EXAM_2026"
    ],
    "image": "plates/icon-teyn-epitaph.jpg",
    "image_thumb": "plates/icon-teyn-epitaph_thumb.jpg",
@@ -1610,8 +1611,8 @@
     },
     {
      "question": "Does the 1746 plate carry an engraver's signature?",
-     "positions": "This chapter, from a 600 dpi scan of the Danske Magazin page: no signature legible, the 1746 text names none. The Maritime Museum's cataloguer, describing its cut impression 1954:0495: 'Sign.: Bernigeroth sc.'",
-     "status": "open — the Helsingør impression should be examined; a signature in the plate's margin, cropped from the bound page, would reconcile the two readings and harden the Bernigeroth attribution"
+     "positions": "This chapter, from a 600 dpi scan of the Danske Magazin page: no signature legible, the 1746 text names none. The Maritime Museum's cataloguer, describing its cut impression 1954:0495: 'Sign.: Bernigeroth sc.' The Helsingør impression examined on 20 October 2026: ‘Bernigeroth sc.’ is engraved in the plate at the lower right beneath the frame, with letterpress ‘Esse potius qvam haberi.’ set above the plate and a cropped line ‘…TYCHO BRA…’ below.",
+     "status": "resolved for the impression: the museum's reading is right — the signature is in the plate, below the frame at the lower right, where the bound page's scan showed nothing legible; the attribution to Bernigeroth rests on the plate itself, no longer on Vellev's caption alone. What remains is which 1746 printing the Helsingør cutting comes from — the Danske Magazin page or Hofman's Portraits historiques, for which the plate was engraved — which the letterpress around it, set against both books, would decide"
     }
    ],
    "versions": [
@@ -1622,7 +1623,7 @@
      "support": "copper engraving, printed on the text page",
      "size": "",
      "verdict": "the earliest printed record of the monument, and the witness to its pre-1901 state",
-     "note": "Attributed to Johann Martin Bernigeroth by the 2006 volume; the plate as printed carries no engraver's signature legible at 600 dpi and the 1746 text names none, so the attribution is not hardened here. The 1746 text documents the production chain: drawn in 1743 in Prague for Tycho de Hofman, the Danish Chancery secretary there for Maria Theresa's Bohemian coronation, and engraved for his Portraits historiques (The Hague, 1746), the plate then lent to Danske Magazin (bind 2, pp. 356–57) — naming the commissioner but no engraver. The Bernigeroth attribution traces to Vellev's fig.-3 caption alone, and his 'efter Danske Magazin' could even describe a later derivative. A collation trap: it is printed on the text page at the head of p. 353, not on an inserted leaf.",
+     "note": "Attributed to Johann Martin Bernigeroth by the 2006 volume; the plate as printed carries no engraver's signature legible at 600 dpi and the 1746 text names none, so the attribution is not hardened here. The 1746 text documents the production chain: drawn in 1743 in Prague for Tycho de Hofman, the Danish Chancery secretary there for Maria Theresa's Bohemian coronation, and engraved for his Portraits historiques (The Hague, 1746), the plate then lent to Danske Magazin (bind 2, pp. 356–57) — naming the commissioner but no engraver. The Bernigeroth attribution traces to Vellev's fig.-3 caption alone, and his 'efter Danske Magazin' could even describe a later derivative. A collation trap: it is printed on the text page at the head of p. 353, not on an inserted leaf. The Helsingør cutting of the same plate (M/S Museet for Søfart 1954:0495, examined 20 October 2026) carries ‘Bernigeroth sc.’ engraved beneath the frame at the lower right, so the signature exists in the plate and the bound page's scan missed it; the attribution to Bernigeroth is thereby hardened from Vellev's caption to the plate.",
      "source": "Grinder-Hansen ed. 2006, fig. 3; autopsy of the 1746 volume"
     },
     {
@@ -1641,9 +1642,9 @@
      "inv": "1954:0495",
      "support": "engraving, cut from the 1746 page",
      "size": "11.8 × 8.3 cm",
-     "verdict": "an impression of the Danske Magazin plate (Westergaard 1457), on which the museum's cataloguer reads the signature 'Bernigeroth sc.'",
-     "note": "https://samlinger.slks.dk/samlinger/6f8228d4-914a-4b35-b761-094d3fbe9b69",
-     "source": "Museernes Samlinger, MFS 1954:0495 (record read 11 October 2026)"
+     "verdict": "an impression of the 1746 plate cut from a letterpress page — ‘Esse potius qvam haberi.’ set above it, a cropped ‘…TYCHO BRA…’ below — signed ‘Bernigeroth sc.’ in the plate at the lower right beneath the frame (examined 20 October 2026; the museum's cataloguer had read the signature rightly); Westergaard 1457",
+     "note": "https://samlinger.slks.dk/samlinger/6f8228d4-914a-4b35-b761-094d3fbe9b69 Mounted on a piece cut from a twentieth-century Danish printed sheet, pencilled ‘W. 1457 / SA-personalia’, with the museum's stamp and ‘495:54’; kept in an envelope marked ‘SA Personalia … 495:54’. Which 1746 printing the cutting comes from — the Danske Magazin page or Hofman's Portraits historiques — is not settled.",
+     "source": "Museernes Samlinger, MFS 1954:0495 (record read 11 October 2026); examined and photographed at the museum, 20 October 2026"
     },
     {
      "holder": "M/S Museet for Søfart",
@@ -3564,6 +3565,11 @@
    "id": "S_ICON_MATIEGKA1901",
    "label": "Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's (1901)",
    "full": "Heinrich Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's (Prag: Verlag der königl. böhmischen Gesellschaft der Wissenschaften, 1901), 14 pp., two halftone Textfiguren of the facial fragment (printed pp. 8–9) — the primary report of the 1901 opening; read at the page. Cited as printed p. N (scan N)."
+  },
+  {
+   "id": "S_ICON_MFS_EXAM_2026",
+   "label": "M/S Museet for Søfart, the sheet 1954:0495 examined (2026)",
+   "full": "M/S Museet for Søfart, Helsingør: the sheet 1954:0495 — the cut impression of the Týn epitaph plate on its mount — examined and photographed at the museum's study centre on 20 October 2026, by appointment with the curator, together with the volume 1957:0030: the impression with its letterpress above and below, the engraved signature at the lower right beneath the frame, the mount and its back. Unpublished; the photographs are kept with the edition's working papers."
   }
  ],
  "rejected": [
