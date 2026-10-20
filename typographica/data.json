@@ -2182,8 +2182,8 @@
   "placeholders": 6,
   "located": 125,
   "in_trade": 26,
-  "recorded_untraced": 79,
-  "lost": 9,
+  "recorded_untraced": 78,
+  "lost": 10,
   "inferred": 8,
   "located_grades": {
    "A": 73,
@@ -2573,8 +2573,8 @@
     "records": 3,
     "located": 1,
     "trade": 0,
-    "untraced": 2,
-    "lost": 0,
+    "untraced": 1,
+    "lost": 1,
     "inferred": 0,
     "stubs": 0,
     "grades": {

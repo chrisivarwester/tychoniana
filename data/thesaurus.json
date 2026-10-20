@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19",
+ "generated": "2026-10-20",
  "institutions": [
   {
    "id": "KB",
@@ -2125,8 +2125,8 @@
     "total": 3,
     "located": 1,
     "inferred": 0,
-    "lost": 0,
-    "attested": 2,
+    "lost": 1,
+    "attested": 1,
     "market": 0,
     "n_institutions": 1,
     "n_countries": 1,

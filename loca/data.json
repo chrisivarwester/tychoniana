@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.10",
+ "version": "1.11",
  "edition_date": "2026-10-20",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
@@ -1806,7 +1806,7 @@
     "observation",
     "books-printing"
    ],
-   "narrative": "Tycho arrived at the University of Copenhagen on 19 April 1559, aged twelve — the first of his family to begin university studies — under Jørgen Brahe's plan for a career in law and statecraft, lodging in the household of a professor (unnamed in Christianson 2020; Thoren suggests possibly Niels Hemmingsen). He worked through the Melanchthonian trivium while turning himself, from 1560, into an astronomer by purchase: Sacrobosco's De sphaera (used in Scavenius's lectures), the Basel 1551 Ptolemy folio bought the last day of November 1560 for two Joachimsthaler (signed and annotated, now Prague University Library, also bearing Johannes Pratensis's name), Apian's Cosmographia and Regiomontanus's De triangulis signed 'Tycho Brahe, Anno 1561' — the first appearance of the Latinised name — and the ephemerides of Carelli (bought with Jens Nilsson) and Stadius, compared for Ptolemaic against Copernican predictions. The tradition that the predicted partial solar eclipse of 21 August 1560 awakened his vocation begins with Gassendi; Norlind rejects it as aetiological myth. He left for Leipzig on 14 February 1562.",
+   "narrative": "Tycho arrived at the University of Copenhagen on 19 April 1559, aged twelve — the first of his family to begin university studies — under Jørgen Brahe's plan for a career in law and statecraft, lodging in the household of a professor (unnamed in Christianson 2020; Thoren suggests possibly Niels Hemmingsen). He worked through the Melanchthonian trivium while turning himself, from 1560, into an astronomer by purchase: Sacrobosco's De sphaera (used in Scavenius's lectures), the Basel 1551 Ptolemy folio bought the last day of November 1560 for two Joachimsthaler (signed and annotated, now Prague University Library, also bearing Johannes Pratensis's name), Apian's Cosmographia (Paris 1553) and Regiomontanus's Tabulae directionum (Tübingen 1550), bound together in the calf stamped 'Tycho Brade' and 'Anno 1561' with his purchase note of one thaler and four groschen (Prandtl's Band II, now at the M/S Museet for Søfart, Helsingør) — the first appearance of the Latinised name — and the ephemerides of Carelli (bought with Jens Nilsson) and Stadius, compared for Ptolemaic against Copernican predictions. The tradition that the predicted partial solar eclipse of 21 August 1560 awakened his vocation begins with Gassendi; Norlind rejects it as aetiological myth. He left for Leipzig on 14 February 1562.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -1849,10 +1849,10 @@
     "works": [],
     "instruments": [],
     "books": [
-     "Sacrobosco, De sphaera (bought 1560; lectured on by Scavenius)",
+     "Sacrobosco, De sphaera (1558; bought 1560, lectured on by Scavenius) — bound with Bayrus and Macer in the white leather stamped 'T. B. 1560', now Prague, NKP 18 J 318",
      "Ptolemy, Omnia opera (Basel 1551) — bought Copenhagen, last day of November 1560, for 2 Joachimsthaler; signed and annotated; now Prague University Library",
-     "Apian/Gemma Frisius, Cosmographia (acquired 1561; signed 'Tycho Brahe, Anno 1561')",
-     "Regiomontanus, De triangulis (acquired 1561)",
+     "Apian/Gemma Frisius, Cosmographia (Paris 1553) — bound with the Regiomontanus in the volume stamped 'Tycho Brade' / 'Anno 1561' (Prandtl's Band II; M/S Museet for Søfart, Helsingør, 1957:0030)",
+     "Regiomontanus, Tabulae directionum (Tübingen 1550) — first in the same volume of 1561; not the De triangulis",
      "Carelli, Ephemerides (acquired with Jens Nilsson c. 1561)",
      "Stadius, Ephemerides"
     ]
@@ -1934,7 +1934,7 @@
     }
    ],
    "grade": "A",
-   "disputes": "The 1560 eclipse-vocation story: Gassendi (origin), Dreyer, Christianson 2020 and Morsing assert it; Håkansson hedges ('kanske'); Norlind pp. 13–15 rejects it as aetiological myth (Tycho never mentions the eclipse, not even in his autobiography) — rendered here as tradition, not fact; the eclipse itself and the book purchases stand. Arrival 19 April 1559 rests on Stephanius' notes; Norlind warns it may be the inscription date (matricle lost 1728), and Thoren notes noblemen's sons usually only attended lectures without matriculating — day-precision kept with this caveat. Lodging: Christianson 2020 has an unnamed professor's household, Thoren offers two candidates — Scavenius (professor of mathematics, an Oxe client) and Hemmingsen — stated as possible, not merged. End date: 14 February 1562 (Dreyer, Norlind, Friis, the Nationalmuseet essays, Jönsson) adopted over Thoren's month-precision February 1562; no real conflict (Thoren's 24 March 1562 is the Leipzig registration)."
+   "disputes": "The 1560 eclipse-vocation story: Gassendi (origin), Dreyer, Christianson 2020 and Morsing assert it; Håkansson hedges ('kanske'); Norlind pp. 13–15 rejects it as aetiological myth (Tycho never mentions the eclipse, not even in his autobiography) — rendered here as tradition, not fact; the eclipse itself and the book purchases stand. Arrival 19 April 1559 rests on Stephanius' notes; Norlind warns it may be the inscription date (matricle lost 1728), and Thoren notes noblemen's sons usually only attended lectures without matriculating — day-precision kept with this caveat. Lodging: Christianson 2020 has an unnamed professor's household, Thoren offers two candidates — Scavenius (professor of mathematics, an Oxe client) and Hemmingsen — stated as possible, not merged. End date: 14 February 1562 (Dreyer, Norlind, Friis, the Nationalmuseet essays, Jönsson) adopted over Thoren's month-precision February 1562; no real conflict (Thoren's 24 March 1562 is the Leipzig registration). The Regiomontanus of 1561: Thoren (p. 10, 'the Trigonometry of Regiomontanus') and Christianson 2020 (p. 21, 'On Triangles') name the De triangulis; the volume holds the Tabulae directionum of 1550, as Prandtl 1932 (Verzeichnis A no. 34, Band II), Norlind 1970 (pp. 335, 361) and the museum's record state — the title here follows the volume."
   },
   {
    "id": "stay-wittenberg-1562",
