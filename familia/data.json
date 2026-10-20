@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.4",
- "edition_date": "2026-10-08",
+ "version": "2.7",
+ "edition_date": "2026-10-20",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
  "description": "A prosopography of the documented circle of Tycho Brahe: the assistants and craftsmen of Uraniborg, the printers and publishers of his works, the patrons and dedicatees, the kin and friends, every party to the surviving correspondence, and the later owners, editors and scholars through whom his books and papers passed. Each record carries its roles, dates, documented seat, biography with sources, and the letters, visits, stays, printed works, presentation copies and manuscripts in which the person appears elsewhere in Tychoniana.",
@@ -191,6 +191,18 @@
    "label": "Kleinschnitzová, ‘Ex Bibliotheca Tychoniana’ (1933)",
    "full": "Flora Kleinschnitzová, ‘Ex Bibliotheca Tychoniana Collegii soc. Jesu Pragae ad s. Clementem’, Nordisk Tidskrift för Bok- och Biblioteksväsen 20 (1933), pp. 73–97.",
    "contributes": "Gabriel Crusius's gift of two Tycho volumes to the Chomutov Jesuits in 1654 (p. 76) and his formula ‘G. Crusio inservio’ on 5 G 92 (p. 89)."
+  },
+  {
+   "id": "S_JARDINE2008",
+   "label": "Jardine & Segonds, La guerre des astronomes I (2008)",
+   "full": "Nicholas Jardine and Alain-Philippe Segonds, La guerre des astronomes. La querelle au sujet de l'origine du système géo-héliocentrique à la fin du XVIe siècle, vol. I: Introduction (Paris: Les Belles Lettres, 2008; Science et humanisme 9).",
+   "contributes": "the persons of the quarrel with Ursus as the depositions and letters of 1588–1601 name them: Ursus, the witnesses Walther, Hansen Riber and Viborg, the advocate Fritsch, the informant Lehmann, the assistant Müller, the commissioners at Rudolf's court, Méhérenc; the Hven visit of September 1584"
+  },
+  {
+   "id": "S_VESELA2025",
+   "label": "Veselá, Švédská knižní kořist z českých zemí (2025)",
+   "full": "Lenka Veselá, Švédská knižní kořist z českých zemí (Dolní Břežany: Scriptorium, 2025).",
+   "contributes": "the two Tycho manuscripts entered under Frans Tengnagel's name in the Stockholm catalogue of 1650–51 (p. 142 n. 494)"
   }
  ],
  "category_colours": {
@@ -408,13 +420,14 @@
     "scribe",
     "correspondent"
    ],
-   "connection": "Tycho's chief calculator; served on Hven 1589–97, supervised at Tycho's summons the printing of the Progymnasmata's lunar section begun at Hamburg in 1598 — the sheets Tycho scrapped for the printer's errors (Nielsen 1921, p. 207) — and was with him at Benátky in Bohemia January–August 1600 and in Prague early in 1600 (p. 209). Son of Jutland peasants, he later became professor at Copenhagen and wrote Astronomia Danica (1622), the textbook of the Tychonic world-system. (Christianson; Thoren)",
+   "connection": "Tycho's chief calculator; served on Hven 1589–97, supervised at Tycho's summons the printing of the Progymnasmata's lunar section begun at Hamburg in 1598 — the sheets Tycho scrapped for the printer's errors (Nielsen 1921, p. 207) — and was with him at Benátky in Bohemia January–August 1600 and in Prague early in 1600 (p. 209). Son of Jutland peasants, he later became professor at Copenhagen and wrote Astronomia Danica (1622), the textbook of the Tychonic world-system. (Christianson; Thoren) Jardine and Segonds give his Hven years as 1589–97, ‘eight years’ (2008), against the dismissal of 1 June 1597 recorded elsewhere here; both stand.",
    "sources": [
     "S_CHRISTIANSON",
     "S_THOREN",
     "S_THESAURUS",
     "S_EPISTOLARIUM",
-    "S_NIELSEN1921"
+    "S_NIELSEN1921",
+    "S_JARDINE2008"
    ],
    "letters_sent": 1,
    "letters_received": 7,
@@ -1115,10 +1128,13 @@
     "astronomer",
     "annotator"
    ],
-   "connection": "Itinerant Wrocław astronomer who visited Hven briefly in 1580; credited with a practical form of prosthaphaeresis. His annotated De revolutionibus copies were misattributed to Tycho until Gingerich and Westman identified the hand in 1988. (Gingerich & Westman, The Wittich Connection, 1988)",
+   "connection": "Itinerant Wrocław astronomer who visited Hven briefly in 1580; credited with a practical form of prosthaphaeresis. His annotated De revolutionibus copies were misattributed to Tycho until Gingerich and Westman identified the hand in 1988. (Gingerich & Westman, The Wittich Connection, 1988) He came to Hven in the summer of 1580 with a letter of recommendation from Hagecius (Christianson 2000; Dreyer 1890 and Thoren 1990 for what follows), stayed some months as a valued calculator, and left in October on the news of a rich uncle's death, promising to return in seven or eight weeks; he never did, and Tycho's letter to Hagecius of 4 November 1580 records the resentment. The National Library's curator reports the recommendation in 2026 as Josef Smolka's find in the surviving correspondence (Vackářová 2026, printed p. 33 (scan 33), naming Smolka but no article; the Czech locus is presumably Smolka's paper of 2002 in Pokroky matematiky, fyziky a astronomie, Desiderata row 96).",
    "sources": [
     "S_GINGERICH_WESTMAN",
-    "S_THESAURUS"
+    "S_THESAURUS",
+    "S_CHRISTIANSON",
+    "S_DREYER",
+    "S_THOREN"
    ],
    "letters_sent": 0,
    "letters_received": 0,
@@ -1257,12 +1273,13 @@
     "dedicatee",
     "correspondent"
    ],
-   "connection": "Imperial Vice-Chancellor under Rudolf II and a key target of Tycho's court gift-campaign, receiving the Epistolae, the Mechanica, the manuscript star catalogue, and a celestial globe. (Dreyer; Mosley)",
+   "connection": "Imperial Vice-Chancellor under Rudolf II and a key target of Tycho's court gift-campaign, receiving the Epistolae, the Mechanica, the manuscript star catalogue, and a celestial globe. (Dreyer; Mosley) Vice-chancellor 1597–1606 in succession to Kurz, of Italian origin (hence ‘Corraducci’), a former pupil of the Graz Stiftsschule with a taste for astrology and astronomy; in August 1600 he asked the Emperor for a decree banning Ursus’s De astronomicis hypothesibus throughout the Empire, approved Tycho’s plan to print the trial with its sentence, and was charged by the Emperor to ask the Styrian estates for Kepler’s paid leave (Jardine & Segonds 2008, pp. 246, 249 and n. 2, 260).",
    "sources": [
     "S_DREYER",
     "S_MOSLEY",
     "S_THESAURUS",
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_JARDINE2008"
    ],
    "letters_sent": 1,
    "letters_received": 2,
@@ -1394,9 +1411,10 @@
     "patron",
     "correspondent"
    ],
-   "connection": "Danish noble, theologian, and humanist; Tycho family connection.",
+   "connection": "Danish noble, theologian, and humanist; Tycho family connection. In 1598 Tycho lent him his copy of Ursus’s De astronomicis hypothesibus with the offending passages marked for Lange’s testimony and asked for it back on 9 September and 5 December 1598 (Opera omnia VIII, pp. 112, 125–126); it was never returned, and is identified with the copy 4° Astr. 8050 in the Royal Danish Library (Jardine & Segonds 2008, pp. 175, 195–196).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_JARDINE2008"
    ],
    "letters_sent": 3,
    "letters_received": 22,
@@ -1682,9 +1700,10 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "German poet and humanist.",
+   "connection": "German poet and humanist. Rector at Magdeburg; he warned Tycho of Ursus’s plagiarism, sent Ursus’s Fundamentum astronomicum to Rantzau on 16 October 1588 (Breitenburg-Archiv Abt. 127.21, Hss. 293, p. 552) and in 1598 forwarded the copy of De astronomicis hypothesibus that his relative Caspar Lehmann had obtained from Ursus (Jardine & Segonds 2008, pp. 120–121, 157 n. 3, 191–192).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_JARDINE2008"
    ],
    "letters_sent": 5,
    "letters_received": 2,
@@ -1925,10 +1944,11 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "Long-serving French ambassador at the Danish court; one of Tycho's earliest friends in Copenhagen, to whom he showed the new star in 1573 and who laid the foundation stone of Uraniborg in 1576. Born in 1509 near Poitiers and educated at Strasbourg; envoy to Denmark until his death in 1589, his position increasingly insecure as a French Protestant after St Bartholomew's Day; Tycho, writing in 1597, remembered him dying 'eight years ago in his eighty-first year' (Hadravová, Hadrava & Shackelford 1996, n. 260).",
+   "connection": "Long-serving French ambassador at the Danish court; one of Tycho's earliest friends in Copenhagen, to whom he showed the new star in 1573 and who laid the foundation stone of Uraniborg in 1576. Born in 1509 near Poitiers and educated at Strasbourg; envoy to Denmark until his death in 1589, his position increasingly insecure as a French Protestant after St Bartholomew's Day; Tycho, writing in 1597, remembered him dying 'eight years ago in his eighty-first year' (Hadravová, Hadrava & Shackelford 1996, n. 260). He recommended to Tycho the Frenchman Rodolphe Méhérenc, who visited Hven on 6 January 1588 (Méhérenc to Kepler, 16 December 1599; Jardine & Segonds 2008, pp. 42–43 n. 3).",
    "sources": [
     "S_EPISTOLARIUM",
-    "S_HADRAVOVA1996"
+    "S_HADRAVOVA1996",
+    "S_JARDINE2008"
    ],
    "letters_sent": 3,
    "letters_received": 2,
@@ -3348,9 +3368,10 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "",
+   "connection": "Archbishop of Prague (1593–1611 in Jardine and Segonds’ dating, cardinal from 1605), whose office supervised what was printed at Prague: consulted discreetly by Tycho in September 1599 over Ursus’s De astronomicis hypothesibus, he disclaimed knowledge of the printing and promised to have the author prosecuted, and wrote to Tycho on 27 July 1600 that he did not know the printer’s name; with his collaboration the copies found at Ursus’s were burned after Ursus’s death, and the Hofkammer compensated the widow on 23 October 1600 (Jardine & Segonds 2008, pp. 178 n. 1, 190 n. 3, 249 n. 1).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_JARDINE2008"
    ],
    "letters_sent": 1,
    "letters_received": 0,
@@ -3607,9 +3628,10 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "",
+   "connection": "Baron; one of the four imperial commissioners Rudolf II named to judge Tycho’s accusation against Ursus (with Christoph von Schleunitz and two doctors of law); on familiar terms with Tycho, later a help to the Brahe family against the imperial fisc and a go-between for Kepler and David Fabricius; present at the dinner at Rožmberk’s on 13 October 1601 at which Tycho’s last illness began (Jardine & Segonds 2008, pp. 177 n. 3, 178).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_JARDINE2008"
    ],
    "letters_sent": 0,
    "letters_received": 1,
@@ -3689,10 +3711,11 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "Franz Gansneb Tengnagel von Kamp (1573–1636), Tycho's pupil and collaborator who came with him from Denmark — 'neither gifted nor hard-working' in the 1996 editors' words — extemporised the hexameters printed beneath the steel quadrant in the Mechanica; married Elisabeth Brahe in 1601; after Tycho's death fell out with Kepler over the manuscripts, books and instruments; travelled for Rudolf II on secret missions to Paris and Madrid in 1609; an instigator of the Passau invasion of 1611, captured and imprisoned by the Estates' army; later in Bavarian service; buried in Prague in the church of Our Lady below the Chain (Hadravová, Hadrava & Shackelford 1996, n. 168).",
+   "connection": "Franz Gansneb Tengnagel von Kamp (1573–1636), Tycho's pupil and collaborator who came with him from Denmark — 'neither gifted nor hard-working' in the 1996 editors' words — extemporised the hexameters printed beneath the steel quadrant in the Mechanica; married Elisabeth Brahe in 1601; after Tycho's death fell out with Kepler over the manuscripts, books and instruments; travelled for Rudolf II on secret missions to Paris and Madrid in 1609; an instigator of the Passau invasion of 1611, captured and imprisoned by the Estates' army; later in Bavarian service; buried in Prague in the church of Our Lady below the Chain (Hadravová, Hadrava & Shackelford 1996, n. 168). The Stockholm royal library’s catalogue of 1650–51 enters two Tycho manuscripts from the Prague booty — the parchment star catalogue and a Solis et Lunae motus diarii of 1598–99 — under his name (Vossius–Callmer 1971, p. 19 no. 2 and p. 18 no. 4, as cited by Veselá 2025, p. 142 n. 494); why is not explained. Not to be confused with Sebastian Tengnagel (d. 1636), the Vienna court librarian.",
    "sources": [
     "S_EPISTOLARIUM",
-    "S_HADRAVOVA1996"
+    "S_HADRAVOVA1996",
+    "S_VESELA2025"
    ],
    "letters_sent": 1,
    "letters_received": 0,
@@ -4008,9 +4031,10 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "",
+   "connection": "Imperial secretary and one of the Emperor’s closest councillors: at Tycho’s audiences with Rudolf II in August 1600 the Emperor had Tycho put his wishes on a sheet for Barwitz to receive, as Tycho told Kepler (KGW XIV no. 173) (Jardine & Segonds 2008, pp. 246 n. 6, 260–261).",
    "sources": [
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_JARDINE2008"
    ],
    "letters_sent": 0,
    "letters_received": 2,
@@ -4109,12 +4133,14 @@
    "born": null,
    "died": null,
    "categories": [
-    "correspondent"
+    "correspondent",
+    "assistant"
    ],
-   "connection": "Mathematician to the Elector of Brandenburg; Tycho's assistant at Wandsbek in March 1598, when Tycho gave him the working copy of the Progymnasmata that was later at Königsberg and is reported destroyed (Nielsen 1921, p. 198); in residence at Benátky with his wife from about March 1600, and three months in Tycho's service in Bohemia in 1601.",
+   "connection": "Mathematician to the Elector of Brandenburg; Tycho's assistant at Wandsbek in March 1598, when Tycho gave him the working copy of the Progymnasmata that was later at Königsberg and is reported destroyed (Nielsen 1921, p. 198); in residence at Benátky with his wife from about March 1600, and three months in Tycho's service in Bohemia in 1601. At Benátky from March 1600 to May 1601 he drew up, on 23 August 1600, the formal refutation of Ursus’s Demonstratio, briefed by Tycho and drawing, in Jardine and Segonds’ judgement, on Tycho’s own notes in his Ziegler (Prague 7 B 27); the transcriptions were authenticated the same day by the advocate Fritsch (Jardine & Segonds 2008, pp. 181, 188–189, 196).",
    "sources": [
     "S_EPISTOLARIUM",
-    "S_NIELSEN1921"
+    "S_NIELSEN1921",
+    "S_JARDINE2008"
    ],
    "letters_sent": 1,
    "letters_received": 0,
@@ -4312,6 +4338,33 @@
    "epistolarium_keys": [
     "Magdalene Brahe"
    ],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_KIRSTEN_JORGENSDATTER",
+   "name": "Kirsten Jørgensdatter",
+   "sort_name": "Jørgensdatter, Kirsten",
+   "name_latin": "",
+   "name_variants": [
+    "Kirstine Jørgensdatter",
+    "Christine Barbara (the epitaph's form, as reported)"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": 1604,
+   "categories": [
+    "family"
+   ],
+   "connection": "Tycho's wife — the pastor's daughter from Kågeröd with whom he formed his lifelong union about 1573, a marriage by Danish common law (the keys handed over; three years' open cohabitation) that the nobility never recognised; mistress of Uraniborg from 1577, mother of the eight children, head of the exile household, at the deathbed in the Curtius house in 1601. She died in Prague in 1604 and was buried at his side in the Týn church, as the epitaph records (Friis 1871, p. 298; Norlind 1970, p. 318, as the Iconographia cites them for the epitaph). Her one physical record is the second skeleton in the vault under the gravestone, found in 1901 on the man's left in a single wooden coffin, without clothing, with some two hundred white pierced bone beads on the crossed hands — a woman of advanced age, 155 cm — left in the vault when his bones were lifted and identified by the experts as ‘probably’ the wife on the strength of the epitaph; Matiegka prints no name (Matiegka 1901, printed pp. 4, 11, 13). The measures and the examination are in the Reception pillar's record of the 1901 exhumation. (Christianson, On Tycho's Island, 2000; Thoren, The Lord of Uraniborg, 1990.)",
+   "sources": [
+    "S_CHRISTIANSON",
+    "S_THOREN"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
    "thesaurus_agent": "",
    "in_agents": false,
    "seat": null
@@ -4944,10 +4997,11 @@
     "friend",
     "family"
    ],
-   "connection": "Alchemist and long-standing friend of Tycho who became his brother-in-law. After a twelve-year engagement (betrothed 1590) he married Sophie Brahe in 1602. A 'gold-maker' chasing the philosopher's stone rather than the medical alchemy Tycho practised, he ruined himself — a 20,000-daler debt, forced sales of land (some to his sister Margrethe and Tycho's brother Knud Brahe), and flight abroad. It was Lange who first brought Nicolaus Reimers Ursus to Uraniborg in 1584, the visit behind the later plagiarism quarrel. Tycho figured him as 'Titan' (to Sophie's 'Urania') in the elegy Urania Titani, mocked his alchemy in a 1583 letter to Charles Dançay, and in 1599 refused to present him to Emperor Rudolf II for fear of the taint. Died c. 1613. (Ellefsen, Søsteren og astronomen, 2023; Zeeberg, Urania Titani, 1994.)",
+   "connection": "Alchemist and long-standing friend of Tycho who became his brother-in-law. After a twelve-year engagement (betrothed 1590) he married Sophie Brahe in 1602. A 'gold-maker' chasing the philosopher's stone rather than the medical alchemy Tycho practised, he ruined himself — a 20,000-daler debt, forced sales of land (some to his sister Margrethe and Tycho's brother Knud Brahe), and flight abroad. It was Lange who first brought Nicolaus Reimers Ursus to Uraniborg in 1584, the visit behind the later plagiarism quarrel. Tycho figured him as 'Titan' (to Sophie's 'Urania') in the elegy Urania Titani, mocked his alchemy in a 1583 letter to Charles Dançay, and in 1599 refused to present him to Emperor Rudolf II for fear of the taint. Died c. 1613. (Ellefsen, Søsteren og astronomen, 2023; Zeeberg, Urania Titani, 1994.) The Hven visit is dated to September 1584 and to about fourteen days by Walther’s deposition of 23 May 1598 and Tycho’s ‘four full years’ of 21 December 1588; at Magdeburg in early October 1598 Lange confirmed Walther’s account, reluctantly, and attested the twelve passages Tycho had marked in Ursus’s book (Jardine & Segonds 2008, pp. 27 n. 1, 171–176, 243).",
    "sources": [
     "S_ELLEFSEN",
-    "S_ZEEBERG1994"
+    "S_ZEEBERG1994",
+    "S_JARDINE2008"
    ],
    "letters_sent": 0,
    "letters_received": 0,
@@ -5125,7 +5179,7 @@
    "categories": [
     "assistant"
    ],
-   "connection": "A Dutch student, about twenty-five, who wintered on Hven in 1595–96, learning Tycho's instruments and observing methods at first hand. He returned to Amsterdam to found the Blaeu cartographic house: his celestial globes (from c. 1600) were mapped on Tycho's star positions, and he discovered the variable star P Cygni in 1600. His son Joan's Grooten Atlas (1664) reproduced Tycho's instruments in colour. (Thoren; Christianson, On Tycho's Island, 2000)",
+   "connection": "A Dutch student, about twenty-five, who wintered on Hven in 1595–96, learning Tycho's instruments and observing methods at first hand. He returned to Amsterdam to found the Blaeu cartographic house: his celestial globes (from c. 1600) were mapped on Tycho's star positions, and he discovered the variable star P Cygni in 1600. His son Joan's Grooten Atlas (1664) reproduced Tycho's instruments in colour. (Thoren; Christianson, On Tycho's Island, 2000) Not adopted: Šolc, in the National Library's handbook (2006, printed p. 192; 1999, § 2.531), lists Blaeu beside Kepler and Tengnagel among the collaborators and pupils who lived with Tycho's family in the Curtius house at Prague. No source places Blaeu in Bohemia: his service is the winter of 1595–96 on Hven, closed by his departure for Holland on 24 May 1596 (diarium d-1596-05-24-a), and the Prague household as Christianson reconstructs it does not include him.",
    "sources": [
     "S_CHRISTIANSON",
     "S_THOREN"
@@ -5487,6 +5541,203 @@
     "lon": 13.4178,
     "basis": "donor to the Jesuit college at Chomutov, 1654"
    }
+  },
+  {
+   "id": "URSUS",
+   "name": "Nicolaus Reimers Ursus",
+   "sort_name": "Ursus, Nicolaus Reimers",
+   "name_latin": "Nicolaus Raimarus Ursus Dithmarsus",
+   "name_variants": [
+    "Nicolaus Reymers Baer",
+    "Nicolai Reymers Bär",
+    "Raimarus Ursus"
+   ],
+   "entry_kind": "person",
+   "born": 1551,
+   "died": 1600,
+   "categories": [
+    "antagonist",
+    "astronomer",
+    "mathematician"
+   ],
+   "connection": "Mathematician from Dithmarschen, imperial mathematician at Prague from 1591, and Tycho’s antagonist in the quarrel over the geo-heliocentric system. He came to Hven in September 1584 as Erik Lange’s attendant and stayed about fourteen days with him; by Tycho’s account he took or copied there the sketch of the system that he published as his own in the Fundamentum astronomicum (Strasbourg 1588) and defended with insults in De astronomicis hypothesibus (Prague 1597). Lange’s secretary Michael Walther deposed at Kassel on 23 May 1598 that Ursus had gone secretly to Tycho’s instruments, books and papers while the two lords conversed, and that the student Anders Viborg searched his room at night; Tycho told Rantzau on 21 December 1588 that the visit lay ‘four full years’ back, and for the suit he brought at Prague through the advocate Johannes Fritsch he had the offending passages of the 1597 book marked and lent the copy to Holger Rosenkrantz. Ursus left Prague in July 1599 and died there on 15 August 1600 with the suit unfinished; Kepler’s Apologia pro Tychone contra Ursum was written for it. Jardine and Segonds judge the claim of priority a bluff and the question of plagiarism probably insoluble, Dreyer’s ‘not proved’ standing (La guerre des astronomes I, 2008, pp. 8–11, 27 n. 1, 83, 92–93, 171–176, 188–189, 242–243; Launert, Nicolaus Reimers, 1999).",
+   "sources": [
+    "S_JARDINE2008"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_MICHAEL_WALTHER",
+   "name": "Michael Walther",
+   "sort_name": "Walther, Michael",
+   "name_latin": "",
+   "name_variants": [],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "source"
+   ],
+   "connection": "Erik Lange’s secretary, who accompanied his master and Ursus to Hven in September 1584 and whose sworn deposition before the notary Paulus Cordet at Kassel on 23 May 1598 (KOO I pp. 230–231) is the one first-hand account of the visit: the fourteen days, Ursus’s secret inspection of instruments, books and papers, Viborg’s search of his room (Jardine & Segonds 2008, pp. 27–29, 171–174). Not the Nuremberg astronomer Bernhard Walther.",
+   "sources": [
+    "S_JARDINE2008"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_CHRISTIAN_HANSEN_RIBER",
+   "name": "Christian Hansen Riber",
+   "sort_name": "Hansen Riber, Christian",
+   "name_latin": "Christiernus Johannis Ripensis",
+   "name_variants": [],
+   "entry_kind": "person",
+   "born": 1567,
+   "died": 1641,
+   "categories": [
+    "assistant",
+    "source"
+   ],
+   "connection": "Of Ribe; a student on Hven, twenty-third in Dreyer’s list of the studiosi; carried Tycho’s long letter on chronology to Scaliger at Leiden in 1598 and there, on 13/23 May 1598, deposed on the Ursus affair: the De mundi printed by the end of 1587, the students’ free access to the library, which held no Apollonius but the Conics. His letter to Tycho of 26 August 1598 is in Kepler’s papers at St Petersburg (F. 285, op. 5, f. 304r–v) (Jardine & Segonds 2008, pp. 165–171, 175 n. 1, 242).",
+   "sources": [
+    "S_JARDINE2008"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_JOHANNES_FRITSCH",
+   "name": "Johannes Fritsch of Jageraw",
+   "sort_name": "Fritsch, Johannes",
+   "name_latin": "",
+   "name_variants": [
+    "Johannes Fritzsch"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "associate"
+   ],
+   "connection": "Doctor of both laws, the advocate Tycho chose at Prague for the suit against Ursus in 1599–1600; on 23 August 1600 he authenticated the transcriptions of Martianus Capella in Müller’s refutation of Ursus’s Demonstratio. Nothing else is known of him (Jardine & Segonds 2008, pp. 188, 195).",
+   "sources": [
+    "S_JARDINE2008"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_CASPAR_LEHMANN",
+   "name": "Caspar Lehmann",
+   "sort_name": "Lehmann, Caspar",
+   "name_latin": "",
+   "name_variants": [],
+   "entry_kind": "person",
+   "born": null,
+   "died": 1622,
+   "categories": [
+    "craftsman",
+    "intermediary"
+   ],
+   "connection": "Gem- and glass-cutter at Rudolf II’s court, a relative of Georg Rollenhagen; the informant through whom Tycho learnt in the spring of 1598 of Ursus’s De astronomicis hypothesibus and received the copy, obtained from Ursus himself, that he marked for Lange’s testimony — the Copenhagen copy; Lehmann also reported that Ursus had lost the emperor’s favour over an astrological failure (Jardine & Segonds 2008, pp. 131, 145, 157 n. 3, 191–192).",
+   "sources": [
+    "S_JARDINE2008"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_RODOLPHE_MEHERENC",
+   "name": "Rodolphe Méhérenc",
+   "sort_name": "Méhérenc, Rodolphe",
+   "name_latin": "Rodolphus Meherentius",
+   "name_variants": [
+    "Meherentius"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "source"
+   ],
+   "connection": "A French Protestant of the diocese of Sées and a friend of the ambassador Charles de Dançay, who came to Denmark at the end of 1587 and visited Hven on 6 January 1588 with Dançay’s recommendation. Writing to Kepler from Jiřice near Prague on 16 December 1599 (KGW XIV no. 150), at Tycho’s instigation, he attested that he had then found the De mundi ‘totaliter impressus et absolutus’ the year before, Tycho wanting it dated 1588 so that it should sell more quickly (Jardine & Segonds 2008, pp. 42–43 n. 3, 168 n. 3).",
+   "sources": [
+    "S_JARDINE2008"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_ANDERS_VIBORG",
+   "name": "Anders Viborg",
+   "sort_name": "Viborg, Anders",
+   "name_latin": "",
+   "name_variants": [],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "assistant"
+   ],
+   "connection": "A student on Hven in 1584, the ‘Andreas’ of Walther’s deposition who, set on by Tycho and Lange, searched Ursus’s room by night for the papers he had copied (Jardine & Segonds 2008, p. 172 n. 2; Christianson, On Tycho’s Island, pp. 373–374).",
+   "sources": [
+    "S_JARDINE2008",
+    "S_CHRISTIANSON"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
+  },
+  {
+   "id": "FAM_CHRISTOPH_VON_SCHLEUNITZ",
+   "name": "Christoph von Schleunitz",
+   "sort_name": "Schleunitz, Christoph von",
+   "name_latin": "",
+   "name_variants": [],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "associate"
+   ],
+   "connection": "Baron; one of the four imperial commissioners — two barons, Schleunitz and Ernfried von Minckwitz, and two doctors of law — whom Rudolf II named between July 1599 and August 1600 to judge Tycho’s accusation against Ursus by the Aktenversendung procedure of the Carolina; nothing more precise is known of him (Jardine & Segonds 2008, pp. 177 n. 3, 178).",
+   "sources": [
+    "S_JARDINE2008"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": null
   }
  ]
 }

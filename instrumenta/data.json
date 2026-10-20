@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "2.3",
- "edition_date": "2026-10-08",
+ "version": "2.7",
+ "edition_date": "2026-10-20",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
   {
@@ -1166,7 +1166,7 @@
    "grade": "B",
    "tycho_relation": "acquired",
    "place": "P_HVEN",
-   "description": "The mechanical clocks kept for timing observations — unreliable in the period, which is why Tycho cross-checked time by his Mechanical-Equator method rather than trusting the clocks alone. They went with the rest of the apparatus to Bohemia and were among the instruments the Emperor purchased after Tycho's death: Kepler used one of Tycho's clocks to observe the lunar eclipses of December 1601 and May 1603 (Dreyer, p. 365). Not extant. In his own words: “We have at our disposal four such clocks. One of these, the largest, manages the whole business with the aid of three wheels, of which the largest, cast from solid pure brass, has 1200 teeth. The diameter of this wheel is two cubits [≈78 cm]. The three other clocks are smaller, and need more wheels.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 30). The 1996 edition (p. 32, n. 57) refers the clocks to Opera omnia II, 156–157 and VI, 68 f.; its n. 148 credits Bürgi with the pendulum clocks of Kassel, against which Tycho's wheel-clocks are to be judged. A clock under his name was shown in Prague in the eighteenth century: Antonín Strnad's inventory of the Clementinum's Mathematical Museum (1781) lists ‘Tycho Brahe's clock’ (D 3) in the middle room beside ‘Tycho's sextant’ (D 8), and in the cabinet of astronomical instruments ‘three copper plates for Tycho's automatic clock’ (C 69) (Seydl 1951, reprinted in Hyklová 2017, pp. 56–57). Whether any of these was one of the four Hven clocks is undocumented — the Museum's Tycho attributions are the tradition that also hangs the two surviving sextants on his name — and no clock so labelled is known to survive.",
+   "description": "The mechanical clocks kept for timing observations — unreliable in the period, which is why Tycho cross-checked time by his Mechanical-Equator method rather than trusting the clocks alone. They went with the rest of the apparatus to Bohemia and were among the instruments the Emperor purchased after Tycho's death: Kepler used one of Tycho's clocks to observe the lunar eclipses of December 1601 and May 1603 (Dreyer, p. 365). Not extant. In his own words: “We have at our disposal four such clocks. One of these, the largest, manages the whole business with the aid of three wheels, of which the largest, cast from solid pure brass, has 1200 teeth. The diameter of this wheel is two cubits [≈78 cm]. The three other clocks are smaller, and need more wheels.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 30). The 1996 edition (p. 32, n. 57) refers the clocks to Opera omnia II, 156–157 and VI, 68 f.; its n. 148 credits Bürgi with the pendulum clocks of Kassel, against which Tycho's wheel-clocks are to be judged. A clock under his name was shown in Prague in the eighteenth century, and it is not his: Antonín Strnad's inventory of the Clementinum's Mathematical Museum (5 August 1781) lists ‘Horologium Tychonis Brahe’ (D 3) in the middle room beside ‘Tycho's sextant’ (D 8), and in the cabinet of astronomical instruments ‘three copper plates for Tycho's automatic clock’ (C 69); Seydl's figures 7–8 put the inventory number D 3 on Johann Klein's clock of about 1751, called ‘Tychonic’ because its back carries a model of the planetary system ‘according to Tyge Brahe's conception’ — the Earth at rest with the Moon's phases, the Sun carrying the five planets' hands — shown to the academic senate at the Carolinum in 1751 and described with plates by Stepling the same year, with a ‘Copernican’ pendant of 1752 (D 2): an eighteenth-century Jesuit automaton named for the system it displays, exhibited today in the Clementinum's Baroque Hall, whose spare dials the three copper plates of C 69 presumably are (Seydl 1951, pp. 14–18, 49, figs 7–8 and n. 24; Hyklová 2017, pp. 2, 56–57). No clock of Tycho's own is known to survive.",
    "edges": [
     [
      "described_in",
@@ -1184,7 +1184,8 @@
     "S_AIM1946",
     "S_AIM1996",
     "S_HYKLOVA2017",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_SEYDL1951"
    ],
    "location": "observatories at Uraniborg and Stjerneborg",
    "location_group": "uraniborg",
@@ -1218,9 +1219,9 @@
    "tycho_relation": "attributed",
    "place": "P_PRAGUE",
    "institution": "Národní technické muzeum (National Technical Museum), Prague",
-   "maker": "Jost Bürgi (1552–1632) per Šíma 1993 / Wolfschmidt 2002; or Pater Johann Klein (18th c.) per Weinek 1901 / Mortensen",
+   "maker": "Jost Bürgi (1552–1632) per Šíma 1993 / Wolfschmidt 2002; or Pater Johann Klein (18th c.) per Mortensen 1942 (not Weinek 1901, who leaves the maker unknown)",
    "dimensions": "iron; radius 1.11 m",
-   "description": "The smaller ('Nr. 5') of the two iron sextants in the Národní technické muzeum, Prague — radius 1.11 m. Its maker is genuinely disputed. Modern scholarship (Šíma 1993; Wolfschmidt 2002) attributes it to the clockmaker and instrument-maker Jost Bürgi (1552–1632) of the Prague years, grouping it with the Habermel sextant as the only surviving instruments associated with Tycho. The older Weinek 1901 / Mortensen reading instead held it 'probably made by Pater Johann Klein', director of Prague's Mathematical Chamber 1732–82 — i.e. an 18th-century instrument, not Tychonic at all (the c.1780 inventory's claim that it was 'a smaller sextant of Tycho Brahe, which he brought to Prague' notwithstanding). A sextant of the same size and very similar form survives at the Kremsmünster observatory in Austria, described by Rankl 1946 as 'Der Tychonische Sextant (von Bürgi)'. That Tycho's own Hven instruments are all lost makes any Prague-period survivor precious; the Bürgi attribution is the current consensus but graded B for the open dispute. For the shared Belvedere → Kunstkammer → 1648-Armoury → Herget (1782) → NTM Prague provenance of both surviving sextants, see Fučíková 2002 (detailed under the Habermel sextant). Strnad's inventory of 1781 lists a single ‘Tycho's sextant’ (D 8) and, among the armillary spheres, a model of ‘the Jupiter system according to Tycho's opinion’ (C 18) (Hyklová 2017, pp. 55, 57).",
+   "description": "The smaller ('Nr. 5') of the two iron sextants in the Národní technické muzeum, Prague — radius 1.11 m. Its maker is genuinely disputed. Modern scholarship (Šíma 1993; Wolfschmidt 2002) attributes it to the clockmaker and instrument-maker Jost Bürgi (1552–1632) of the Prague years, grouping it with the Habermel sextant as the only surviving instruments associated with Tycho. Mortensen (1942) instead held it 'presumably' (vistnok) made by Pater Johann Klein, keeper of the Clementinum's Mathematical Chamber from 1732 to his death in 1762 (Mortensen's '1732–82' is a slip) — i.e. an 18th-century instrument, not Tychonic at all; Weinek 1901, Mortensen's only cited source, says no such thing: for him the smaller sextant is not Habermel's (no signature, a different cross-shaped strengthening) and otherwise of unknown make, its 60° arc shows Strnad's 'Octans' to be a misnomer, and he does not dispute the inventories' 'brought to Prague' (the observatory's inventories of 1846, No. 12, and 1856, Nr. 5, call it 'ein kleinerer Sextant von Tycho Brahe, den er nach Prag mitbrachte'; Strnad's undated list of the 1780s–90s has '1 Octans desselben' — the word Sainovics used in 1769 of the small Tycho instrument shown in the Jesuit museum). A sextant of the same size and very similar form survives at the Kremsmünster observatory in Austria, described by Rankl 1946 as 'Der Tychonische Sextant (von Bürgi)'. That Tycho's own Hven instruments are all lost makes any Prague-period survivor precious; the Bürgi attribution is the current consensus but graded B for the open dispute. For Fučíková's Castle chain for both sextants, and what the Castle inventories of 1650–1782 say when read in Köpl's edition, see the Habermel sextant. Strnad's inventory of 1781 lists a single ‘Tycho's sextant’ (D 8) and, among the armillary spheres, a model of ‘the Jupiter system according to Tycho's opinion’ (C 18) (Hyklová 2017, pp. 55, 57). Seydl 1951 adds the Jesuit college's own record of a small Tycho-attributed instrument before the auction of 1782 — Sainovics's ‘small iron octant said to have belonged to Tycho’ of 2 May 1769, Vydra's ‘Sextans Tychonis … quo fato nescio’ of 1778 and Strnad's ‘Sextans Tychonis’ (D 8) of 1781 — which the smaller sextant fits better than the signed Habermel piece; Seydl himself, who neither knows nor accepts the Klein attribution Mortensen printed in 1942, calls it ‘of unknown origin’ (pp. 7, 22–23, 25, 40; fig. 16, ‘Menší sextant Tyge Braha, původu neznámého. Č. D 8’). The Jesuits were showing a small Tycho instrument within seven years of Klein's death in 1762, which does not exclude his making it. For the conflict between this road and Fučíková's Castle-Armoury chain of 1650–1782, see the Habermel sextant.",
    "edges": [
     [
      "located_at",
@@ -1235,7 +1236,9 @@
     "S_WEINEK1901",
     "S_RANKL46",
     "S_FUCIKOVA",
-    "S_HYKLOVA2017"
+    "S_HYKLOVA2017",
+    "S_SEYDL1951",
+    "S_KOPL1889"
    ],
    "location_group": "prague",
    "principle": "A 60° iron star-distance sextant of the Prague years.",
@@ -1257,7 +1260,7 @@
      "kind": "comparandum"
     }
    ],
-   "museum_record_note": "No online object record of the Národní technické muzeum has been located for this sextant; the museum shows both sextants in its astronomy exhibition. The inventory numbers quoted are those of the observatory's c. 1780 inventory as reported by Mortensen 1942."
+   "museum_record_note": "No online object record of the Národní technické muzeum has been located for this sextant; the museum shows both sextants in its astronomy exhibition. Four inventories are quoted, and Mortensen's ‘c. 1780, Nr. 4 / Nr. 5’ conflates two of them: Strnad's undated German list of the observatory's instruments (1780s–90s: ‘1 Sextans von Tycho Brahe’, ‘1 Octans desselben’), Strnad's Latin Consignatio of the Jesuit museum of 5 August 1781 (D 8, C 51, C 53, C 19; Seydl 1951), Kreil's of February 1846 (No. 11–12) and Böhm's of March 1856 (Nr. 4–5), the last two carrying the Habermel and ‘brought to Prague’ wording (Weinek 1901, pp. 6–8). The Castle's own inventories of 1650–1782 are in Köpl 1889 (Reg. 6231–6238). A fifth inventory stands behind Kreil's: David, Strnad's successor, inventoried the observatory on 1 October 1834, before retiring to the monastery at Teplá — astronomical, meteorological and museum objects and books together, there being then no separate museum list; he marked 14 numbers useless and noted of 30 sundials from the Museum that some could still be made serviceable, and Kreil had a copy made from the gubernial original because the observatory held none, soon after he succeeded Bittner (d. 3 September 1844) — the year 1846 is that of Kreil's own inventory, which marks 77 objects, not of the copy (Seydl 1951, printed p. 30 (scan 31), read on the page image 20 October 2026)."
   },
   {
    "id": "inst-sextant-habermel",
@@ -1275,7 +1278,7 @@
    "maker": "Erasmus Habermel (b. Nuremberg c.1538, d. Prague 1606)",
    "dimensions": "iron; radius 1.295 m (to the middle of the graduated arc)",
    "inscription": "on the alidade: 'Pragae fecit Erasm. Habermel 1600'",
-   "description": "An iron sextant of 1.295 m radius (measured to the middle of the graduated arc), its alidade signed 'Pragae fecit Erasm. Habermel 1600', made by Erasmus Habermel (b. Nuremberg c.1538, d. Prague 1606), the leading instrument-maker at Rudolf II's court. It survives in the Národní technické muzeum, Prague, the larger ('Nr. 4') of the two iron sextants the Prague observatory has long shown as Tycho's (the c.1780 inventory: 'Ein grosser Sextant von Tycho Brahe, der im Jahre 1600 von Erasmus Habermel verfertigt wurde'). Modern scholarship (Šíma 1993; Wolfschmidt 2002) groups it among the only surviving instruments associated with Tycho's working life — everything from Hven is lost. Whether Tycho himself owned or used it is, however, contested: Wolfschmidt calls the two survivors 'so-called Tychonic sextants (but actually made by Bürgi and Habermel)', and the older Weinek 1901 / Mortensen reading thought it 'hardly probable' that Tycho owned this sextant — its construction stands well behind the Mechanica instruments — suggesting instead a Hoffmann→Kepler provenance (one of the instruments Baron Hoffmann lent Kepler when use of the Tychonic instruments was denied him). Hence: existence and maker A (inscription-certain); the attribution to Tycho's own observatory graded B. Later provenance is now traceable (Fučíková 2002): both sextants stood among Rudolf II's instruments at the Prague Belvedere / Kunstkammer (a large instrument there was valued at 600 in the 1619 catalogue, vs 40–80 × three-score groschen for the rest); they proved too large for the Swedish removal of 1648 and were left in the Castle Armoury (1650 inventory), sold at Joseph II's 1782 auction to Franz Leonard Herget (public teacher of mechanics/hydraulics), and eventually passed to the Národní technické muzeum — Fučíková argues they never left Prague. Strnad's inventory of the Museum of 1781, in Seydl's edition, lists in the cabinet of astronomical instruments ‘an instrument made by Erasmus Habermel in Prague for Tycho’ (C 51) with ‘a fragment of the same’ (C 53) and an instrument for drawing sundials made by Habermel in Prague in 1598 (C 19), and in the middle room ‘Tycho's sextant’ (D 8) (Hyklová 2017, pp. 55–57) — the same tradition the German inventory of c. 1780 records, a year or two apart.",
+   "description": "An iron sextant of 1.295 m radius (measured to the middle of the graduated arc), its alidade signed 'Pragae fecit Erasm. Habermel 1600', made by Erasmus Habermel (b. Nuremberg c.1538, d. Prague 1606), the leading instrument-maker at Rudolf II's court. It survives in the Národní technické muzeum, Prague, the larger ('Nr. 4') of the two iron sextants the Prague observatory has long shown as Tycho's (the observatory's inventories of February 1846, No. 11, and March 1856, Nr. 4: 'Ein grosser Sextant von Tycho Brahe, der im Jahre 1600 von Erasmus Habermel verfertigt wurde'; Strnad's own undated list of the 1780s–90s has only '1 Sextans von Tycho Brahe'). Modern scholarship (Šíma 1993; Wolfschmidt 2002) groups it among the only surviving instruments associated with Tycho's working life — everything from Hven is lost. Whether Tycho himself owned or used it is, however, contested: Wolfschmidt calls the two survivors 'so-called Tychonic sextants (but actually made by Bürgi and Habermel)', and Mortensen (1942) thought it 'hardly probable' that Tycho owned this sextant — its construction stands well behind the Mechanica instruments — suggesting instead a Hoffmann→Kepler provenance (one of the instruments Baron Hoffmann lent Kepler when use of the Tychonic instruments was denied him); Weinek, whom Mortensen cites, argued the opposite, rejecting Dreyer's doubt because no one but Rudolf II or Tycho could have commissioned so costly a signed instrument at Prague in 1600. Hence: existence and maker A (inscription-certain); the attribution to Tycho's own observatory graded B. Fučíková (2002) proposed a Castle chain: both sextants among Rudolf II's instruments at the Belvedere / Kunstkammer (a large instrument there valued at 600 in the 1619 catalogue, against 40–80 × three-score groschen for the rest), too large for the Swedish removal of 1648 and left in the Castle Armoury (1650 inventory), acquired at Joseph II's sale of 1782 by Franz Leonard Herget (public teacher of mechanics and hydraulics), and so to the Národní technické muzeum — never out of Prague. Read on the page (Köpl 1889), her documents say less than her chain: the Specification of 29 July 1650 has, under ‘In der rüstcamer’, one line, ‘2 grosze geometrische instrumenta’, no maker, type or size; the Schatzkammer inventory of 1718 lists ‘ein mathematisches instrumentum mit seinem fusz’, marked missing at a later revision; that of 5 October 1737 lists, between the windows beside case U, ‘445. Ein mathematischer fusz zu einem instrument von stahl, 2½ elen hoch’ and ‘446. Ein mathematischer sextant von eisen und messing auf einen hölzernen postament’; the same pair stands as nos. 7–8 in 1763 and in the valuation list of 3 January 1782 (6 fl. and 1 fl. 10 kr.), both marked for Herget's mechanical collection — a claim and a valuation, not a recorded sale; Tycho, Habermel and Bürgi are named nowhere in the series, so her identification of the 1650 pair, her reading of the 1737 stand as the Habermel's remains and her ‘auction’ are all inference. Weinek, for his part, gives no route at all: the observatory's files, he writes, yield nothing on the origin of either piece, and Hornstein in 1881 held that the imperial collections never stood in the remotest connection with the University's. Vydra, writing in 1778, describes the Clementinum's ‘Sextans Tychonis’ as gilt-limbed, divided by transversals, with a movable sighted rule, ‘manuque Erasmi Habermil Pragensis Artificis anno 1600 perfectus’ (p. 32): the Habermel sextant was in the Jesuit college before the Castle valuation of 1782, so Herget's claim on the Castle pair cannot be its entry route — the Jesuit road, not the Armoury, is the one its documents give, and how it reached the college Vydra already did not know. Strnad's inventory of the Museum of 1781, in Seydl's edition, lists in the cabinet of astronomical instruments ‘an instrument made by Erasmus Habermel in Prague for Tycho’ (C 51) with ‘a fragment of the same’ (C 53) and an instrument for drawing sundials made by Habermel in Prague in 1598 (C 19), and in the middle room ‘Tycho's sextant’ (D 8) (Hyklová 2017, pp. 55–57) — the same tradition the German inventory of c. 1780 records, a year or two apart. Seydl's history of the Clementinum's Mathematical Museum (1951) gives the Prague tradition a second, earlier road that Fučíková's chain does not allow for: Sainovics's diary of 2 May 1769 records ‘a small iron octant said to have belonged to Tycho’ shown to Hell's party in the Jesuit museum; Vydra wrote in 1778 that Tycho's sextant had come to the Clementinum college ‘quo fato nescio’; and Strnad's inventory of 5 August 1781 lists ‘Sextans Tychonis’ (D 8) in the middle room and, in the cabinet of astronomical instruments, ‘Instrumentum ab Erasmo Habermel Pragae factum pro Tychone’ (C 51) with ‘Fragmentum eiusdem’ (C 53) — all before Joseph II's auction of 1782, at which Fučíková has Herget buy both sextants out of the Castle Armoury. The two chains cannot both hold for the same object: either the Jesuit piece is the smaller instrument, or a third, while Herget's two came separately, or Fučíková's identification of the Armoury's ‘two large geometrical instruments’ of 1650 with the sextants — which she herself calls ‘fairly likely’ — is wrong; her 1737 line, ‘only the base was left’ of the Habermel piece, sits badly with a complete signed sextant surviving today. Herget ties the two roads: his engineering school had rooms in the Clementinum from 1774 and received the museum's mechanics at the dissolution of 1785. Seydl, the State Observatory's own astronomer, calls the larger sextant Habermel's of 1600 and the smaller ‘of unknown origin’, both ‘always designated as Tycho's sextants’, and says plainly that how they came into the museum is not known (Seydl 1951, pp. 7, 22–26, 40, 43 n. 10, 48–49, figs 15–16). Both chains are carried here; Fučíková's identification is her conjecture, not a document.",
    "edges": [
     [
      "located_at",
@@ -1289,7 +1292,10 @@
     "S_MORTENSEN",
     "S_WEINEK1901",
     "S_FUCIKOVA",
-    "S_HYKLOVA2017"
+    "S_HYKLOVA2017",
+    "S_SEYDL1951",
+    "S_KOPL1889",
+    "S_VYDRA1778"
    ],
    "location_group": "prague",
    "principle": "A 60° iron star-distance sextant; the alidade signed by Habermel, 1600.",
@@ -1307,7 +1313,7 @@
      "kind": "description"
     }
    ],
-   "museum_record_note": "No online object record of the Národní technické muzeum has been located for this sextant; the museum shows both sextants in its astronomy exhibition. The inventory numbers quoted are those of the observatory's c. 1780 inventory as reported by Mortensen 1942."
+   "museum_record_note": "No online object record of the Národní technické muzeum has been located for this sextant; the museum shows both sextants in its astronomy exhibition. Four inventories are quoted, and Mortensen's ‘c. 1780, Nr. 4 / Nr. 5’ conflates two of them: Strnad's undated German list of the observatory's instruments (1780s–90s: ‘1 Sextans von Tycho Brahe’, ‘1 Octans desselben’), Strnad's Latin Consignatio of the Jesuit museum of 5 August 1781 (D 8, C 51, C 53, C 19; Seydl 1951), Kreil's of February 1846 (No. 11–12) and Böhm's of March 1856 (Nr. 4–5), the last two carrying the Habermel and ‘brought to Prague’ wording (Weinek 1901, pp. 6–8). The Castle's own inventories of 1650–1782 are in Köpl 1889 (Reg. 6231–6238). A fifth inventory stands behind Kreil's: David, Strnad's successor, inventoried the observatory on 1 October 1834, before retiring to the monastery at Teplá — astronomical, meteorological and museum objects and books together, there being then no separate museum list; he marked 14 numbers useless and noted of 30 sundials from the Museum that some could still be made serviceable, and Kreil had a copy made from the gubernial original because the observatory held none, soon after he succeeded Bittner (d. 3 September 1844) — the year 1846 is that of Kreil's own inventory, which marks 77 objects, not of the copy (Seydl 1951, printed p. 30 (scan 31), read on the page image 20 October 2026)."
   },
   {
    "id": "inst-herrevad-sextant",
@@ -1886,11 +1892,11 @@
   {
    "id": "S_WEINEK1901",
    "label": "Weinek, Die Tychonischen Instrumente (1901)",
-   "full": "Ladislaus Weinek, Die Tychonischen Instrumente auf der Prager Sternwarte (Prague: K. k. Sternwarte, 1901), 28 pp., 2 plates.",
+   "full": "Ladislaus Weinek, Die Tychonischen Instrumente auf der Prager Sternwarte (Prague: K. k. Sternwarte, 1901), 11 pp., 2 phototype plates (the Google scan runs to 24 pages with covers and blanks; the house record said ‘28 pp.’ until 19 October 2026).",
    "url": "https://archive.org/details/bub_gb_q7XPAAAAMAAJ",
    "url_label": "digitised (Internet Archive)",
    "kind": "secondary",
-   "contributes": "The first monograph on the two Prague sextants, with phototype plates of both; the older attribution of the smaller one."
+   "contributes": "The first monograph on the two Prague sextants, with phototype plates of both after Eckert's photographs of 1894; reprints Hornstein's statement of 9 March 1881 and quotes the observatory's three inventories (Strnad, undated, 1780s–90s; Kreil, February 1846; Böhm, March 1856); gives the radii measured on 22 November 1900 (1.295 m, 1.11 m); defends Tycho's ownership against Dreyer's doubt; names no route by which either piece reached the observatory."
   },
   {
    "id": "S_RANKL46",
@@ -1965,6 +1971,84 @@
    "url": "https://samlinger.slks.dk/",
    "url_label": "samlinger.slks.dk — the public portal",
    "kind": "catalogue"
+  },
+  {
+   "id": "S_VESELA2025",
+   "label": "Veselá, Švédská knižní kořist z českých zemí (2025)",
+   "full": "Lenka Veselá, Švédská knižní kořist z českých zemí (Dolní Břežany: Scriptorium, 2025).",
+   "url": "",
+   "url_label": "",
+   "kind": "secondary",
+   "contributes": "the 317 mathematical instruments removed from Prague Castle with the Kunstkammer in 1648; Vossius's sale of 1666 with a quadrant said to be Kepler's (after Balsem 2020)"
+  },
+  {
+   "id": "S_JARDINE2008",
+   "label": "Jardine & Segonds, La guerre des astronomes I (2008)",
+   "full": "Nicholas Jardine and Alain-Philippe Segonds, La guerre des astronomes, vol. I: Introduction (Paris: Les Belles Lettres, 2008).",
+   "url": "",
+   "url_label": "",
+   "kind": "secondary",
+   "contributes": "Tycho's own account of the Wittich–Bürgi–Ursus chain by which his methods and instrument design reached Kassel (to Sascerides, October 1590); Bürgi's planetarium of Ursus's system (1586, lost)"
+  },
+  {
+   "id": "S_SEYDL1951",
+   "label": "Seydl, ‘Dějiny jesuitského musea matematického’ (1951)",
+   "full": "Otto Seydl, ‘Dějiny jesuitského „musea matematického“ v koleji sv. Klimenta na Starém městě v Praze’, Věstník Královské české společnosti nauk, třída matematicko-přírodovědecká, 1951, no. VII, pp. 1–59 (submitted 28 June 1950; English summary pp. 39–40; Antonín Strnad's inventory of 5 August 1781 in Latin pp. 45–51 and in Czech pp. 51–58; twenty figures).",
+   "url": "",
+   "url_label": "",
+   "kind": "secondary",
+   "contributes": "the Clementinum's Mathematical Museum 1722–1785 and its Tycho-named pieces: the sextants shown as Tycho's in the Jesuit college (Sainovics 1769, Vydra 1778, Strnad 1781), Klein's ‘Tychonic’ clock of 1751 (inventory D 3), the three armillary models ‘probabiliter a Tychone’ (C 17–C 18 bis) and their sale to Munich, the Habermel pieces ‘pro Tychone’, the dissolution of 1785 and the sale of 1852–56; read from the Royal Library's interlibrary copy of October 2026 (filing of the copy pending)"
+  },
+  {
+   "id": "S_KOPL1889",
+   "label": "Köpl, Urkunden … aus dem k. k. Statthalterei-Archiv in Prag (1889)",
+   "full": "Karl Köpl, ‘Urkunden, Acten, Regesten und Inventare aus dem k. k. Statthalterei-Archiv in Prag’, Jahrbuch der Kunsthistorischen Sammlungen des Allerhöchsten Kaiserhauses 10 (1889), II. Theil, pp. LXIII–CC: the Prague Castle inventories of 1650 (Reg. 6231), 1718 (6232), 1737 (6234), 1763 (6235), 1767–68 (6237) and the valuation list of 1782 (6238).",
+   "url": "https://doi.org/10.11588/diglit.5753.5",
+   "url_label": "Heidelberg University Library, digitised with OCR",
+   "kind": "primary",
+   "contributes": "the Castle's own words for the instruments Fučíková identified with the sextants — ‘2 grosze geometrische instrumenta’ in the Rüstkammer (1650), ‘ein mathematisches instrumentum mit seinem fusz’ (1718), a steel instrument-stand 2½ ells high and ‘ein mathematischer sextant von eisen und messing auf einen hölzernen postament’ (1737, 1763), both marked for Herget's engineering collection in the valuation of 3 January 1782 (6 fl.; 1 fl. 10 kr.); Tycho, Habermel and Bürgi named nowhere"
+  },
+  {
+   "id": "S_BALSEM2020",
+   "label": "Balsem, Een biografie van de Bibliotheca Vossiana (2020)",
+   "full": "Astrid C. Balsem, Een biografie van de Bibliotheca Vossiana (doctoral thesis, Leiden University, 2020), with the catalogues of Vossius's medical, philosophical and mathematical books.",
+   "url": "https://hdl.handle.net/1887/123041",
+   "url_label": "Leiden University Scholarly Publications (open access)",
+   "kind": "secondary",
+   "contributes": "the last page of Isaac Vossius's Leiden sale catalogue of 30 November 1666 — a gilt-metal ‘Geometrisch en Astronomisch Quadrant … eertijdts door Tycko Brahe vereert aen de Keyser Rodolphus’ (p. 49) — and Balsem's inference that it came, like the Rudolf Psalter of lot 164, out of Christina's Prague booty (p. 51)"
+  },
+  {
+   "id": "S_VYDRA1778",
+   "label": "Wydra (Vydra), Historia matheseos in Bohemia et Moravia cultae (1778)",
+   "full": "Stanislaus Wydra, Historia matheseos in Bohemia et Moravia cultae (Pragae: characteribus Regiae Scholae Normalis, per Ioannem Adamum Hagen, 1778), 104 pp.; the second edition (Lipsiae et Francofurti 1778) is paginated differently (p. 32 = p. 35).",
+   "url": "https://viewer.onb.ac.at/ABO_+Z180109007",
+   "url_label": "Austrian National Library, Austrian Books Online (the Prague 1778 edition)",
+   "kind": "primary",
+   "contributes": "p. 32: after Tycho's death the Emperor bought the apparatus from the heirs for 20,000 imperiales; ‘Ad Collegium Societatis Iesu Clementinum Sextans Tychonis, quo fato nescio, est delatus’, still to be seen in the college's Musaeum mathematicum, its limb gilt and divided by transversals, with a movable sighted rule, ‘manuque Erasmi Habermil Pragensis Artificis anno 1600 perfectus’; not a few books from Tycho's library came to the Clementinum, the coloured Mechanica among them; pp. 95–96 the Musaeum chapter; p. 66 Klein's planetarium clock showing the Tychonic and the Copernican systems"
+  },
+  {
+   "id": "S_SOLC1999",
+   "label": "Šolc, ‘Bibliotheca Tychoniana’, Fabian Handbuch Bd 1.1 (1999)",
+   "full": "Martin Šolc, ‘Bibliotheca Tychoniana [Knihovna Tychona Brahe]’ (§§ 2.527–2.537), in Bernhard Fabian (ed.), Handbuch deutscher historischer Buchbestände in Europa, Bd 1.1: Tschechische Republik, Prag, Teil 1, bearb. Vlasta Faltysová and Pavel Pohlei (Hildesheim: Olms-Weidmann, 1999), pp. 149–151. Royal Library interlibrary copy, filed in the corpus 19 October 2026 (the bibliotheca's source record S_SOLC1999 carries the path).",
+   "url": "",
+   "url_label": "",
+   "contributes": "the estate as the National Library's handbook tells it (§ 2.532): the great instruments ‘beschlagnahmt’ before any price was set, ‘kleinere Instrumente und die Bibliothek’ left to the heirs to sell"
+  },
+  {
+   "id": "S_SOLC2006",
+   "label": "Šolc, ‘Knihovna Tychona Brahe’, Rukověť NK ČR (2006)",
+   "full": "Martin Šolc, ‘Knihovna Tychona Brahe’, in Vlasta Faltysová (ed.), Rukověť tištěných knihovních fondů Národní knihovny České republiky od prvotisků do konce 19. století (Praha: Národní knihovna ČR, 2006), pp. 189–193. Royal Library interlibrary copy, filed in the corpus 19 October 2026 (the bibliotheca's source record S_SOLC2006 carries the path).",
+   "url": "",
+   "url_label": "",
+   "contributes": "the Czech wording of the estate (p. 192): the large instruments seized by imperial soldiers on the Emperor's order; 20,000 thalers for 100,000; the heirs paid a fraction ‘in the course of seventy years’"
+  },
+  {
+   "id": "S_MACAK1996",
+   "label": "Mačák, ‘Ke vzniku matematického muzea v Klementinu’ (1995/96)",
+   "full": "Karel Mačák, ‘Ke vzniku matematického muzea v Klementinu’ / ‘Zur Entstehung des mathematischen Museums im Klementinum’, Miscellanea oddělení rukopisů a starých tisků 12 (1995/96), pp. 74–78. Royal Library interlibrary copy, filed in the corpus 19 October 2026 (the bibliotheca's source record S_MACAK1996 carries the path); the issue's plate with the photograph of the 1638 inscription was not delivered.",
+   "url": "",
+   "url_label": "",
+   "contributes": "a Musaeum mathematicum in being in some form by 1638 (NK 14 E 3), and the possibility he offers that its beginnings were connected with the acquisition of some of Tycho's instruments (p. 75, n. 7 = Vydra p. 32 and Seydl p. 22)"
   }
  ],
  "federates_with": [
@@ -2190,6 +2274,30 @@
     "S_WOLFSCHMIDT",
     "S_DREYER_BIO"
    ]
+  },
+  {
+   "id": "des-prague-1648-instruments",
+   "title": "The instruments of Prague Castle in the booty of 1648, and Vossius’s ‘Kepler quadrant’",
+   "text": "Veselá counts 317 mathematical instruments among the Castle’s Kunstkammer removed on 1–2 November 1648 with 470 pictures and 69 bronzes, without saying whether any was Tycho’s (2025, p. 133 n. 451); Isaac Vossius's Leiden sale of 30 November 1666 ended, after the duodecimos, with ‘een Geometrisch en Astronomisch Quadrant seer konstich gemaeckt en ghesneden op kostelijck vergult Metael, eertijdts door Tycko Brahe vereert aen de Keyser Rodolphus’ — a gilt-metal quadrant the catalogue says Tycho once presented to Rudolf II — and lot 164 was a Psalter ‘quo olim usus est Rodolphus Imperator’; Balsem holds that both can only have come from Christina's library, that is from the Prague barrels Vossius helped unpack at Stockholm in 1649, and warns that his sale prose embellishes (2020, pp. 49, 51). Veselá's ‘quadrant supposedly used by Kepler’ (2025, p. 229) misreads her: Kepler stands in the 1666 catalogue only as ‘Kepleriana’ bound with Hobbes. Buyer and whereabouts unknown — a claim of a Tycho gift to the Emperor, at the vendor's word. Jardine and Segonds add Tycho’s own account of the chain by which his triangle methods and instrument design reached Kassel through Wittich and Bürgi, and so, he held, Ursus (to Sascerides, October 1590), and Bürgi’s lost planetarium of Ursus’s system of 1586 (2008, pp. 31–33, 95–96, 128–129). The Swedish inventories of 1648–52 and the Kassel sources would say whether a Tycho instrument is among them.",
+   "sources": [
+    "S_VESELA2025",
+    "S_JARDINE2008",
+    "S_BALSEM2020"
+   ]
+  },
+  {
+   "id": "des-clementinum-tychonica",
+   "title": "The Clementinum's ‘Tychonic’ pieces — which sextant the Jesuits held before 1782, and the Munich planetaria",
+   "text": "Seydl's witnesses put a Tycho-attributed sextant or ‘octant’ and a Habermel instrument ‘pro Tychone’ in the Jesuit college's museum in 1769, 1778 and 1781, before the Castle auction of 1782 on which Fučíková's chain for both surviving sextants rests; which instrument that was, and whether Fučíková's ‘fairly likely’ identification of the Armoury's two large instruments of 1650 holds, would be settled by Köpl's regesta of the 1650 and 1737 inventories (Köpl 1889, nos. 6231 and 6234), Weinek 1901 and Šíma 1993 read for the route each gives. The two planetaria of the Deutsches Museum (Gabriel Max's gift of 1909), which Seydl's figure 19 makes the sold pair of Strnad's three ‘probabiliter a Tychone’ models, want the museum's own object records set against C 17–C 18 bis; Seydl's separate paper on the sale (Věstník 1951) would list the 1852 lots and the 1868 ‘Tychonic astrolabe’. Read on the page in October 2026 (Köpl 1889; Weinek 1901): the Castle series names no sextant before 1737 and no maker ever, carries one sextant and one stand from 1737 to 1782, and records Herget's claim, not a sale; the observatory's files, by Weinek, say nothing of the origin of either piece. What would settle the roads is now narrower — the engineering institute's Hauptinventarium in the observatory's archive, read entry by entry (Seydl, pp. 28–29: section I the Museum's 71 numbers, section II the Schatzkammer's 17 numbers under the rescript of 8 April 1782), the Jesuit museum's transfer list of 1785 (Seydl, pp. 28–30) read against Strnad's Latin inventory, Šíma 1993, and the Deutsches Museum's object records. Šolc 1999 (§ 2.532) leaves ‘kleinere Instrumente’ with the heirs for sale after the seizure — the heirs' sales are a third road to test beside the Castle chain and the Jesuit witnesses. Mačák, who dates the museum's existence to before 1638 (NK 14 E 3), offers as a possibility that its beginnings ‘could be connected with the acquisition of some of Tycho de Brahe's instruments’ (Mačák 1995/96, printed p. 75 (scan 3), n. 7 = Vydra p. 32 and Seydl p. 22; the German summary, printed p. 77, has ‘einiger Apparate aus dem Nachlaß von Tycho de Brahe’): if so, the Jesuit road would begin in the first half of the seventeenth century, before the Castle's ‘2 grosze geometrische instrumenta’ of 1650 — a possibility he states, with no document behind it.",
+   "sources": [
+    "S_SEYDL1951",
+    "S_FUCIKOVA",
+    "S_MORTENSEN",
+    "S_KOPL1889",
+    "S_WEINEK1901",
+    "S_SOLC1999",
+    "S_MACAK1996"
+   ]
   }
  ],
  "transmission": [
@@ -2245,11 +2353,19 @@
   },
   {
    "year": "1601–1608",
-   "event": "The Emperor secures the observations and instruments from the heirs, who had asked 100,000 thalers, for 20,000 at six per cent; 4,000 are paid in 1602 and 1,000 in 1608, and nothing after. The claim was still unsettled in 1671.",
+   "event": "The Emperor secures the observations and instruments from the heirs, who had asked 100,000 thalers, for 20,000 at six per cent; 4,000 are paid in 1602 and 1,000 in 1608, and nothing after. The claim was still unsettled in 1671. Šolc's account for the National Library (1999, § 2.532, printed p. 150; 2006, p. 192) has the great instruments and the observation material seized on the Emperor's order — ‘beschlagnahmt’, in the Czech text by imperial soldiers — before any price was set, the price then set at 20,000 thalers against the 100,000 demanded, the heirs paid only a fraction of principal and interest ‘in the course of seventy years’, and ‘kleinere Instrumente und die Bibliothek’ left to the indebted heirs to sell; he cites no document. The seizure answers to the sequestration of the whole estate in Kleinschnitzová (1933, p. 75), the seventy years to Mortensen's ‘still unsettled in 1671’; the heirs' saleable instruments are the one Prague account that puts small instruments in the hands that sold books to the Jesuits in 1636 and gave the remainder in 1642 — a possibility, with no document behind it.",
    "sources": [
     [
      "S_MORTENSEN",
      "p. 17"
+    ],
+    [
+     "S_SOLC1999",
+     "§ 2.532"
+    ],
+    [
+     "S_SOLC2006",
+     "p. 192"
     ]
    ]
   },
@@ -2308,6 +2424,142 @@
     [
      "S_MORTENSEN",
      "p. 20"
+    ]
+   ]
+  },
+  {
+   "year": "1650",
+   "event": "The Specification of 29 July 1650 of the Castle's Schatz- und Kunstkammer, drawn up after the Swedish removal, lists under ‘In der rüstcamer’ one line, ‘2 grosze geometrische instrumenta’ — the entry Fučíková identifies, ‘fairly likely’, with the two sextants; it names no maker, type or size.",
+   "sources": [
+    [
+     "S_KOPL1889",
+     "Reg. 6231, p. CXXXI"
+    ],
+    [
+     "S_FUCIKOVA",
+     "p. 280"
+    ]
+   ]
+  },
+  {
+   "year": "1666",
+   "event": "Isaac Vossius's Leiden sale of 30 November 1666 ends with a gilt-metal ‘Geometrisch en Astronomisch Quadrant … eertijdts door Tycko Brahe vereert aen de Keyser Rodolphus’, by Balsem's inference out of Christina's Prague booty; buyer and whereabouts unknown, the attribution the vendor's.",
+   "sources": [
+    [
+     "S_BALSEM2020",
+     "pp. 49, 51"
+    ]
+   ]
+  },
+  {
+   "year": "1718",
+   "event": "The Castle inventory of 8 April 1718 lists in the Schatzkammer vaults ‘ein mathematisches instrumentum mit seinem fusz’, underlined in the original — by Köpl's reading, missing at the second revision.",
+   "sources": [
+    [
+     "S_KOPL1889",
+     "Reg. 6232, p. CXLI"
+    ]
+   ]
+  },
+  {
+   "year": "1737",
+   "event": "The inventory of 5 October 1737 lists between the windows of the great Schatzkammer vault ‘445. Ein mathematischer fusz zu einem instrument von stahl, 2½ elen hoch’ and ‘446. Ein mathematischer sextant von eisen und messing auf einen hölzernen postament’ — Fučíková's ‘only the base was left’ of the Habermel instrument and her Bürgi sextant ‘corresponding to its present condition’; the document itself names neither.",
+   "sources": [
+    [
+     "S_KOPL1889",
+     "Reg. 6234, p. CLXIX"
+    ],
+    [
+     "S_FUCIKOVA",
+     "p. 280"
+    ]
+   ]
+  },
+  {
+   "year": "1763",
+   "event": "The same pair stands as nos. 7–8 of the inventory of 20 October 1763 (‘ein mathematisches sextantl von eisen und messing’; ‘ein mathematischer fusz … 2½ ehlen hoch’) among the wooden objects moved from the Schatzkammer to the picture hall.",
+   "sources": [
+    [
+     "S_KOPL1889",
+     "Reg. 6235, p. CLXXXII"
+    ]
+   ]
+  },
+  {
+   "year": "1769",
+   "event": "In the Jesuit college's museum at the Clementinum a ‘small iron octant said to have belonged to Tycho’ is shown to Maximilian Hell's party on 2 May 1769 (Sainovics's diary) — the earliest dated eyewitness of a Tycho-attributed instrument there; Vydra wrote in 1778 that Tycho's sextant had come to the college ‘quo fato nescio’.",
+   "sources": [
+    [
+     "S_SEYDL1951",
+     "pp. 7, 22, 43 n. 10"
+    ]
+   ]
+  },
+  {
+   "year": "1778",
+   "event": "Vydra's Historia matheseos describes the Clementinum museum's ‘Sextans Tychonis’ — limb gilt and divided by transversals, a movable sighted rule, ‘manuque Erasmi Habermil Pragensis Artificis anno 1600 perfectus’ — as already in the college ‘quo fato nescio’: the Habermel sextant was there before the Castle valuation of 1782.",
+   "sources": [
+    [
+     "S_VYDRA1778",
+     "p. 32"
+    ]
+   ]
+  },
+  {
+   "year": "1781",
+   "event": "Antonín Strnad's inventory of the Clementinum's Mathematical Museum (5 August 1781) lists ‘Sextans Tychonis’ (D 8), ‘Horologium Tychonis Brahe’ (D 3 — Klein's clock of 1751), ‘Instrumentum ab Erasmo Habermel Pragae factum pro Tychone’ (C 51) with its fragment (C 53), a Habermel dialling instrument of 1598 (C 19), three armillary models ‘adhuc probabiliter a Tychone’ (C 17–C 18 bis) and ‘three copper plates for Tycho's automatic clock’ (C 69). The list was drawn up, Seydl holds (‘nepochybně’), because after the death of the observatory's director Zeno on 7 June 1781 everything at the observatory and in the Museum had to be established; its heading ‘Consignatio rerum in museo mathematico Caesareo Regio’ shows him that the Museum was not part of the observatory, and what official relation the two had he does not know — his conjecture (‘Možná’) is that the astronomers Stepling, Zeno and Strnad, ex-Jesuits lodged in the Clementinum beside the Museum, were the natural custodians of the former Order's property (Seydl 1951, printed pp. 5–6 (scans 6–7)).",
+   "sources": [
+    [
+     "S_SEYDL1951",
+     "pp. 45–51"
+    ]
+   ]
+  },
+  {
+   "year": "1782",
+   "event": "The valuation list of 3 January 1782 prices the sextant at 6 fl. and the stand at 1 fl. 10 kr. and marks both for Franz Leonard Herget's collection of mechanical and hydraulic sciences (his note of 26 February 1782) — the document behind Fučíková's ‘auction’; a claim and a valuation, no hand-over recorded in Köpl's series. — but one is recorded on the receiving side. The engineering institute's own Hauptinventarium (‘uiber alle sowohl Kameral, als auch böhmisch Landständischen Seits zu den Ingenieurs Wissenschafts Maschinen Hörsaal beigeschafte … Maschinen, Modeln, Instrumente, Landcharten, Bücher und Gerätschaften’), six leaves in a hand Seydl could not place, kept in the observatory's archive and by its content a retrospective inventory of the early nineteenth century, gives as its first section the 71 numbers (280 pieces) transferred ‘aus dem Museo mathematico des Collegii Clementini in das vormalige Seminarium zu St. Wenzel’ and opens its second: ‘Ferner sind vermög eines Allerhöchstens k. k. Hofkammerreskripts ddto 8 April 782 aus der sogenannten k. Schatzkammer dahin übertragen worden’ — 17 inventory numbers, 49 pieces, nos. 72–88, valued ‘nach der in Händen habenden Original Consignation’ at 56 fl. 52 kr. Schatzkammer pieces therefore did pass to Herget's hall under a Hofkammer rescript of 8 April 1782, valued against a consignation that is presumably the valuation list of 3 January 1782 (Köpl, Reg. 6238); Seydl prints the heading and the totals, not the 17 entries, so whether the sextant (6 fl.) and the stand (1 fl. 10 kr.) stand among nos. 72–88 is not known until the document is read (Seydl 1951, printed pp. 28–29 (scans 29–30)).",
+   "sources": [
+    [
+     "S_KOPL1889",
+     "Reg. 6238, pp. CXCIV, CXCIX–CC"
+    ],
+    [
+     "S_FUCIKOVA",
+     "p. 281"
+    ],
+    [
+     "S_SEYDL1951",
+     "pp. 28–29"
+    ]
+   ]
+  },
+  {
+   "year": "1785",
+   "event": "The Mathematical Museum is dissolved as a whole, the University Library needing its rooms for the books of the suppressed monasteries: the mathematical and astronomical instruments go to the observatory in the Clementinum tower — ‘Tycho's sextants’, Seydl's plural read off the observatory's inventories of 1834 and 1846, and the old planetolabia among them (p. 30), the physics to the university's cabinet, the mechanics to the Estates' engineering institute under Herget, who had held rooms in the Clementinum since 1774.",
+   "sources": [
+    [
+     "S_SEYDL1951",
+     "pp. 26–30"
+    ]
+   ]
+  },
+  {
+   "year": "1868",
+   "event": "The Vienna government, alerted by a German periodical, asks whether Böhm had sold the ‘Tychonic’ instruments — the ‘Tychonic astrolabe’ in particular; Karl Jelínek, Böhm's former adjunct, answers on 12 November 1868 that the pieces had lain quietly among other lumber and were sold ‘without a prior inspection’; Böhm had died on 26 January 1868.",
+   "sources": [
+    [
+     "S_SEYDL1951",
+     "pp. 35–36, 45 n. 50"
+    ]
+   ]
+  },
+  {
+   "year": "1881",
+   "event": "Director Hornstein's statement of 9 March 1881, answering Hasner: Strnad's undated inventory names Tycho three times (‘1 Sextans von Tycho Brahe’, ‘1 Octans desselben’, the clock ‘nach Tycho's Hypothese’); the imperial collections ‘never stood in the remotest connection with the collections of Prague University’; by Strnad's time only two Tycho instruments were at the observatory and none came later.",
+   "sources": [
+    [
+     "S_WEINEK1901",
+     "pp. 5–7"
     ]
    ]
   },
@@ -2395,11 +2647,19 @@
   },
   {
    "year": "1852",
-   "event": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904).",
+   "event": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904). Seydl itemises the sale from the observatory's accounts (submitted 25 March 1856): announced in the Amtsblatt zur Prager Zeitung of 22 October 1852; 45 sundials, three of them Habermel's gilt pieces of 1598 and 1600, valued at 54, 20 and 3 kreuzer and sold for 2 fl., 1 fl. and 12 kr.; 18 telescopes, quadrants and sextants; 6 planetaria; 9 globes; among the pieces sold without Kreil's ‘unusable’ mark the gilt Habermel sundials and brass astrolabes. His figure 19 identifies the two Munich planetaria as the more complex pair of the three armillary models C 17–C 18 bis that Strnad in 1781 held ‘probabiliter a Tychone’ — the attribution is Strnad's, the ‘Ty. de Brahe’ engraving later (Seydl 1951, pp. 30–36, 48). Hornstein's defence of 9 March 1881, reprinted by Weinek (1901, p. 6): the sale, approved by the ministry on 11 September 1852, disposed only of sundials mostly made by the Jesuits, old reflectors and non-achromatic telescopes, and the list of everything sold survives in the files.",
    "sources": [
     [
      "S_MORTENSEN",
      "pp. 21–22"
+    ],
+    [
+     "S_SEYDL1951",
+     "pp. 30–36, 48"
+    ],
+    [
+     "S_WEINEK1901",
+     "p. 6"
     ]
    ]
   },

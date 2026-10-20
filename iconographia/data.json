@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.20",
- "edition_date": "2026-10-15",
+ "version": "1.22",
+ "edition_date": "2026-10-20",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -510,7 +510,7 @@
     "upper": "February 1592",
     "argument": "The lower bound is the inscribed design date — 'aetatis 40 … 1586' names the sitting/design year, tied to Tycho's 40th birthday in December 1586. The upper bound is documentary: the block was in use on the title verso of the Progymnasmata prospectus distributed with letters of 20 February – 22 March 1592. The physical cutting date is open anywhere between those bounds. The 1588–90 wood-cutter recruitment letters concern instrument figures, never the portrait, and cannot anchor the block; the 25 August 1585 Hagecius letter shows cutting capacity intermittent and partly off-island. Both de Gheyn engravings retain the 1586 tablet years later — in this family the inscribed date travels with the design, not the object."
    },
-   "description": "The woodcut portrait of Tycho — four carriers reconciled (Nielsen's three plus the Copenhagen prospectus quaternion), of which two impressions are verified by direct examination (Copenhagen, Marburg); Berlin's carrier is extant, and the Königsberg copy was reported destroyed (Norlind 1970) — the starting point of the portrait campaign and the best record of the plain scheme Tycho himself wanted: a single modest chain, the beret lying on the parapet — the 'praedelineatum' against which he later judged de Gheyn's first engraving overloaded. Bareheaded, in an emblematic composition of aristocratic splendour; the suggestion that the composition was sketched by Hans van Stenwinkel the Elder rests on an uncited sentence in Christianson 2000 (p. 291). The heraldic error in the ancestral quarterings is object-verified on the Marburg impression — BELKER with a barry charge standing where Vasa belonged, and the spelling HONNER for the Rønnow quartering; it persisted, part-corrected, into the first engraving, and the full correction (STORMVASE) is documented on the second engraving only — the woodcut has no corrected state.",
+   "description": "The woodcut portrait of Tycho — four carriers reconciled (Nielsen's three plus the Copenhagen prospectus quaternion), of which two impressions are verified by direct examination (Copenhagen, Marburg); Berlin's carrier is extant, and the Königsberg copy was reported destroyed (Norlind 1970) — the starting point of the portrait campaign and the best record of the plain scheme Tycho himself wanted: a single modest chain, the beret lying on the parapet — the 'praedelineatum' against which he later judged de Gheyn's first engraving overloaded. Bareheaded, in an emblematic composition of aristocratic splendour; the suggestion that the composition was sketched by Hans van Stenwinkel the Elder rests on an uncited sentence in Christianson 2000 (p. 291). The heraldic error in the ancestral quarterings is object-verified on the Marburg impression — BELKER with a barry charge standing where Vasa belonged, and the spelling HONNER for the Rønnow quartering; it persisted, part-corrected, into the first engraving, and the full correction (STORMVASE) is documented on the second engraving only — the woodcut has no corrected state. Matiegka's report of 1901 (printed p. 12, scan 12), citing Studnička's reproduction in Prager Tychoniana, calls the 1586 portrait a woodcut cut by ‘Geyn in Amsterdam’ and says Tycho added it to the Stammbuch he dedicated to his son in 1598: the attribution matches the de Gheyn engraving in everything but the technique and this woodcut in the technique alone, and is not adopted — Matiegka may simply have called the engraving a woodcut; the album portrait Studnička tied to the 1586 woodcut is the Národní muzeum watercolour of 1598, carried as an open question on the Prague panel record.",
    "edges": [
     [
      "depicts",
@@ -529,7 +529,8 @@
     "S_ICON_DOSSIER_2026",
     "S_ICON_WESTERGAARD1930",
     "S_ICON_SLKS",
-    "S_ICON_FREDERIKSBORG_2026"
+    "S_ICON_FREDERIKSBORG_2026",
+    "S_ICON_MATIEGKA1901"
    ],
    "image": "plates/icon-woodcut-1586.jpg",
    "image_thumb": "plates/icon-woodcut-1586_thumb.jpg",
@@ -574,7 +575,8 @@
     "S_ICON_FALCK1644",
     "S_ICON_WELLCOME1355I",
     "S_ICON_CROSSROADS2002",
-    "S_ICON_DOSSIER_2026"
+    "S_ICON_DOSSIER_2026",
+    "S_ICON_MATIEGKA1901"
    ],
    "image": "plates/icon-prague-panel.jpg",
    "image_thumb": "plates/icon-prague-panel_thumb.jpg",
@@ -617,7 +619,7 @@
     "The entry text of Burgess 1973, no. 405.7 — the only named scholarly authority behind Wellcome's 'after J. Falck' title — remains unread.",
     "Hollstein's Falck entries, and Strunk's catalogue cited by Friis, have not been checked for a second Tycho plate beyond Block 214.",
     "A page-image read of Mortensen's printed plate number (Cassiopeia 8, p. 62) to settle 3279 vs 8279 at the print level.",
-    "The Národní muzeum album-amicorum watercolour (Wittenberg 1598) as a possible referent behind a 'Prague painted portrait' citation — Studnička's only painted likeness.",
+    "The Národní muzeum album-amicorum watercolour (Wittenberg 1598) as a possible referent behind a 'Prague painted portrait' citation — Studnička's only painted likeness. Matiegka 1901 (printed p. 12) adds a witness: the portrait Tycho ‘added to the Stammbuch dedicated to his son in 1598’, reproduced by Studnička, which he calls a Geyn woodcut of 1586 — the son unnamed, the album the alba census's NM VI F 44 if it is Tyge's; whether the album leaf is the watercolour or a pasted print, and how a dedication of 1598 sits with the entry of 28 February 1599, are the things to check.",
     "Westergaard vol. I, pp. 200 ff. (entries 1383–1431), remains to be read in full, for the text of W.1394 and the Falck entry W.1431."
    ]
   },
@@ -704,7 +706,7 @@
    "bounds": {
     "lower": "late 1586",
     "upper": "20 March 1588",
-    "argument": "The upper bound is an object: the Royal Library's Sascerides copy of De mundi aetherei (LN 428 4°, eks. 1) carries both gilt ovals — portrait on the front cover, arms on the back — on its original parchment presentation binding, with Tycho's autograph dedication to Gellius Sascerides dated 20 March 1588 (verified on the EEB surrogate), so both dies existed by that date. The British Library's Maestlin copy, dispatched from Uraniborg on 14 May 1588, remains the second keystone — nobody rebinds a book into a Tycho presentation binding. The lower bound is the costume it carries: the multi-chain-and-medallion scheme belongs to the likeness layer begun with the 1586 sitting. This dating overturns the older literature's assumption (Mortensen; Christianson) that the stamp copies de Gheyn's engraving — the engraving was cut only in autumn 1590, two years after the die was in use. The small die's own first anchor is much later: its documented carrier is the Calvin/Theocritus volume Tycho gave Hans Lindenov, registered at Uraniborg on 21 March 1597."
+    "argument": "The upper bound is an object: the Royal Library's Sascerides copy of De mundi aetherei (LN 428 4°, eks. 1) carries both gilt ovals — portrait on the front cover, arms on the back — on its original parchment presentation binding, with Tycho's autograph dedication to Gellius Sascerides dated 20 March 1588 (verified on the EEB surrogate), so both dies existed by that date. The British Library's Maestlin copy, dispatched from Uraniborg on 14 May 1588, remains the second keystone — nobody rebinds a book into a Tycho presentation binding. The lower bound is the costume it carries: the multi-chain-and-medallion scheme belongs to the likeness layer begun with the 1586 sitting. This dating overturns the older literature's assumption (Mortensen; Christianson) that the stamp copies de Gheyn's engraving — the engraving was cut only in autumn 1590, two years after the die was in use. The small die's own first anchor is much later: its documented carrier is the Calvin/Theocritus volume Tycho gave Hans Lindenov, registered at Uraniborg on 21 March 1597. A third dated carrier joined on 19 October 2026: the Stockholm De mundi RAR 106 A is Andreas Dudith's copy (the Royal Library's own custodial history, his number D-61 on the head edge, his red-ink apparatus), the gift Tycho's letters of 17 August 1588 say was sent in May, and the flyleaf cut from it carries the autograph dedication dated 1 May 1588 — so its portrait oval is dated by a dispatch between Sascerides's and Maestlin's; the upper bound stays at 20 March 1588, and the three 1588 carriers together show the die in steady use from the book's first weeks."
    },
    "description": "Tycho's most personal device: a gilt-stamped portrait of himself, bust-length in a cartwheel ruff, wearing the loaded chain scheme of his royal favour — the Frederik II medallion with the initials F.S., an elephant pendant (Danske Magazin 1746 — the earliest eyewitness — reports only 'en Elefant', seen 'tydeligen' in the second chain, and names no order; reading it as the Order of the Elephant insignia is this chapter's gloss and Mortensen's 1946 gloss on the model engraving, and it sits badly against the fact that Tycho held no such membership; the photographs alone cannot resolve the object), and a third chain whose ornament no witness has made out — Danske Magazin 1746, p. 322, is the source of that negative: 'om der har været noget Smykke i den tredie, kand man ikke see'. Impressed in gold on the front covers of deluxe presentation bindings (the arms stamp on the back), it branded his gifts with his likeness: on De mundi (1588), the Epistolae (1596), the Mechanica (1598), and on Prague bindings to c.1601–03. Around the portrait runs the motto 'Hic patet exterior Tychonis forma Brahei / pulchrius eniteat, quae latet interior' ('here is Tycho's outward form; may the inner, hidden, shine more beautifully'). The stamp exists in TWO sizes, but the published metrology is shaky throughout: Mortensen 1931 prints the figures as '7,6 X 5,8 og 5,9 X 4,3 mm' — millimetres where centimetres must be meant, and with the small die's width drifting between 5.9 and 5.8 across his 1931 and 1966 articles; Friis gives 8 × 6 cm, on the authority of the earliest published rendering of the large die — the plate at Danske Magazin II (1746), p. 321, engraved by O. H. de Lode from the Royal Library's blue-satin Mechanica (LN 432 2°, eks. 2, the Petr Vok presentation copy) and printed, the accompanying text insists, at the die's own size ('Billedet paa Bogen er i selv samme Størrelse, som dette Koberstykke'); that plate is a witness in its own right, not merely Friis's authority, and it carries the only 1:1 claim in the whole literature; a scaled estimate from the Stockholm RAR: 106 A digitisation (c. 6.3–6.5 × 5.9 cm) matches none of them; and every figure is taken from impressions on compressible supports, never from tools; the smaller die is far the rarer — its documented carrier is the KB Calvin/Theocritus volume given to Hans Lindenov — and it differs tellingly from the large: the small die's ruff edge carries serrated notches, rendering the lobed cartwheel ruff of the engraving family faithfully, where the large die smooths them away (Mortensen noticed the notches; object photographs confirm them). Two facts anchor the die pair's place in the story. First, the large die is the earliest witness of the multi-chain-and-medallion costume — it predates de Gheyn's first engraving, and on the leading reconstruction the costume scheme travelled from Denmark to the Amsterdam workshop, plausibly with Arnold van Langren, the Amsterdam globe-maker's son who left Hven for home on 23 May 1590 and is the one documented traveller between Hven and Amsterdam in that year. Second, the dies were never revised: after the second engraving corrected the costume (c.1595), the binding stamps went on impressing the old loaded scheme for the rest of Tycho's life and posthumously — the correction was aimed at the print's public circulation, not at the livery of his bindings. Three later witnesses place the dies. Friis's survey of the Vienna manuscripts in 1868 found the nineteen fair-copy observation quartos (Cod. 10657–10675) bound in parchment, all but two with 'Portræt og Vaaben med Omskrift', the last five with the large stamps — 2 7/8 × 2 1/4 tommer, about 75 × 59 mm, 'sml. D. Mag. 2.321' — and the first twelve with the small, 2 1/4 × 1 5/8 tommer, about 59 × 42.5 mm, two with simpler vignettes (Friis 1868–69, p. 251): the earliest published measurements of both dies, taken from impressions, and no ground for moving the dies' dates, since a volume's binding may post-date the year its notes record. Gigas found the same leaf-roll and the same two rosette punches on the Epistolae of 1596, on GKS 307 of 1598 and on other Royal Library bindings — the one published tool-recurrence argument for a single workshop behind the Hven presentation bindings (Gigas 1900, p. 37) — and recorded that GKS 1825, a protocol of 1577–81, carries the dies, so that volume was bound or rebound after 1588 (p. 38). Roos placed the bindings historically: modelled on the Frederik II portrait-plate bindings and the German princely tradition, with a Latin moral inscription German in character, but oval where plate stamps are normally rectangular and 'mere italiensk-franske end tyske' in style (Roos 1948, pp. 143–144).",
    "edges": [
@@ -733,7 +735,7 @@
      "copy:brahe-epistolae-1596:wolfenbuttel-hab-astronomica8"
     ]
    ],
-   "census_copies": "Portrait supralibros documented on: the KB Sascerides copy (LN 428 4°, eks. 1, autograph dedication 20 March 1588 — now the earliest dated carrier), the BL Maestlin De mundi (dispatched 14 May 1588 — the second dating keystone), the Magini De mundi, KB LN 428 copy 2, the Stockholm KB De mundi (RAR: 106 A), the Strahov Mechanica (green satin), the Wolfenbüttel Epistolae (HAB Astronomica 8), the St Petersburg Mechanica dedicated to Duke Otto II of Braunschweig-Lüneburg (5 October 1598), the Cambrai Lobkowitz Mechanica (dedicated 18 August 1600), and posthumous bindings to c.1603. Not the Smithsonian Epistolae, whose cover carries the arms stamp. The nineteen Vienna fair-copy observation quartos, Cod. 10657–10675, all but two with portrait and arms (Friis 1868–69, p. 251).",
+   "census_copies": "Portrait supralibros documented on: the KB Sascerides copy (LN 428 4°, eks. 1, autograph dedication 20 March 1588 — now the earliest dated carrier), the BL Maestlin De mundi (dispatched 14 May 1588 — the second dating keystone), the Magini De mundi, KB LN 428 copy 2, the Stockholm KB De mundi (RAR: 106 A — Andreas Dudith's copy, its excised flyleaf dedicated 1 May 1588: the second dated carrier), the Strahov Mechanica (green satin), the Wolfenbüttel Epistolae (HAB Astronomica 8), the St Petersburg Mechanica dedicated to Duke Otto II of Braunschweig-Lüneburg (5 October 1598), the Cambrai Lobkowitz Mechanica (dedicated 18 August 1600), and posthumous bindings to c.1603. Not the Smithsonian Epistolae, whose cover carries the arms stamp. The nineteen Vienna fair-copy observation quartos, Cod. 10657–10675, all but two with portrait and arms (Friis 1868–69, p. 251).",
    "sources": [
     "S_ICON_NTBB1931",
     "S_ICON_MORTENSEN",
@@ -820,7 +822,7 @@
      "support": "Uraniborg gilt-vellum presentation binding on De mundi (1588)",
      "size": "",
      "verdict": "original; the legend is fully legible — HIC PATET EXTERIOR TYCHONIS FORMA BRAHEI · PVLCHRIVS ENITEAT QVÆ LATET INTERIOR",
-     "note": "Photographed flat-on at 3385 × 4198 px, unwatermarked, inside KB Sweden's own digitisation (weburn.kb.se).",
+     "note": "Photographed flat-on at 3385 × 4198 px, unwatermarked, inside KB Sweden's own digitisation (weburn.kb.se). Identified on 19 October 2026 as Andreas Dudith's copy (D-61; LIBRIS custodialHistory ‘1. Andr. Dudith 2. Nikolsburg 3. Drtottning Kristinas bibliotek’): the gift despatched in May 1588 whose cut-away flyleaf carried the autograph dedication of 1 May 1588 (the Gingerich/Swann leaf) — the second dated carrier of the large die, after Sascerides (20 March) and before Maestlin (14 May). Census record stockholm-kb.",
      "source": "KB Sweden, weburn.kb.se/dig/tryck/480/001278480,1.pdf"
     },
     {
@@ -1584,7 +1586,8 @@
     "S_ICON_RUNDETAARN1937",
     "S_ICON_FBORG_A155",
     "S_ICON_DOSSIER_2026",
-    "S_ICON_SLKS"
+    "S_ICON_SLKS",
+    "S_ICON_MATIEGKA1901"
    ],
    "image": "plates/icon-teyn-epitaph.jpg",
    "image_thumb": "plates/icon-teyn-epitaph_thumb.jpg",
@@ -1597,7 +1600,7 @@
     "inv": "",
     "url": "https://projekter.au.dk/en/tycho-brahe/reburial",
     "tier": "located (architecturally fixed; the 2010 reinterment campaign necessarily handled it)",
-    "note": "Red Slivenec marble, 200 × 115 cm (Mortensen 1942 gives 2.03 × 1.15 m). Figure-stone and inscription plate are physically distinct elements (Vellev 2006), but no source dates them separately: Friis 1871 and Norlind 1970 describe a single erection by the heirs after Kirstine's death in 1604, and a two-campaign history is this chapter's hypothesis, unattested. The epitaph text was composed by Jakob Typotius. The death year was miscut MDCIII for MDCI and patched with coloured filler (Vellev 2006, p. 230); the upper plate gives 29 October against the frame's XXIV OCTOB (Vellev 2006, p. 232). Four-ancestor arms Brahe/Bille/Rud/Ulfstand, with only two helmets where four belong (Vellev 2006, p. 230) — on Vellev's explanation possibly deliberate economy, since all four families sometimes used the same buffalo-horn-and-peacock-feather crest. Restored in 1901 by Jan Herain for the tercentenary: surfaces cleaned and smoothed, the ground painted white, cornices repaired, letters blackened, and the missing top ornament replaced by a small obelisk; Herain's measurements and notes of the work were no longer to be found as of 2006 (Vellev p. 235). Of the two Copenhagen casts, the identification of Frederiksborg A 155 as the Týn figure is well-supported inference — structured record, catalogue photograph, independent 1937 corroboration — not a documentary source naming both together."
+    "note": "Red Slivenec marble, 200 × 115 cm (Mortensen 1942 gives 2.03 × 1.15 m). Figure-stone and inscription plate are physically distinct elements (Vellev 2006), but no source dates them separately: Friis 1871 and Norlind 1970 describe a single erection by the heirs after Kirstine's death in 1604, and a two-campaign history is this chapter's hypothesis, unattested. The epitaph text was composed by Jakob Typotius. The death year was miscut MDCIII for MDCI and patched with coloured filler (Vellev 2006, p. 230); the upper plate gives 29 October against the frame's XXIV OCTOB (Vellev 2006, p. 232). Four-ancestor arms Brahe/Bille/Rud/Ulfstand, with only two helmets where four belong (Vellev 2006, p. 230) — on Vellev's explanation possibly deliberate economy, since all four families sometimes used the same buffalo-horn-and-peacock-feather crest. Restored in 1901 by Jan Herain for the tercentenary: surfaces cleaned and smoothed, the ground painted white, cornices repaired, letters blackened, and the missing top ornament replaced by a small obelisk; Herain's measurements and notes of the work were no longer to be found as of 2006 (Vellev p. 235). Of the two Copenhagen casts, the identification of Frederiksborg A 155 as the Týn figure is well-supported inference — structured record, catalogue photograph, independent 1937 corroboration — not a documentary source naming both together. The 1901 restoration was requested of the city council by the tercentenary committee early in that year, for ‘the marble gravestone and the epitaph above it’, and carried out under Herain's supervision at the council's expense (Matiegka 1901, unnumbered opening leaf, scan 3); the examiners of June 1901 took the figure on the gravestone as life-size and set the skeleton's measures against it as their third ground for the identification (printed p. 11, scan 11). Matiegka's report says nothing of the grinding of the slab."
    },
    "conflicts": [
     {
@@ -1969,7 +1972,7 @@
    "year_end": 1655,
    "status": "extant",
    "grade": "A",
-   "description": "After Tycho's death (October 1601) his engineered image kept propagating from the de Gheyn plates. The Nuremberg branch runs through two plates one generation apart: an unsigned same-direction copy of the second engraving, cut for Hülsius's press for the 1601 Epistolarum, and the 1602 Mechanica plate cut in turn from that copy — the two share the same idiosyncratic caption errors, with identical line-breaks. The first plate itself, in Prague by 1602, printed integrally in at least one examined Progymnasmata copy (Copenhagen), though two further copies examined at full resolution carry no portrait at all — a small or copy-specific press-run rather than the edition's norm. Impressions lettered 'Marco Sadeler excudit' are restrikes from the original copper, though the date of that address and the identity of the Sadeler behind it are unresolved. Jacob van Meurs re-cut the type half a century on for the 1655 Hague edition of Gassendi's biography. So far as traced, the century's engraved portrait copies descend from the two Amsterdam plates; the exceptions are the Rudolphine Tables frontispiece figure of 1627, engraved by Georg Celer (Cöler) of Nuremberg in a distinct engraved lineage whose ultimate model is undetermined, and two unattributed woodcuts whose models are likewise undetermined.",
+   "description": "After Tycho's death (October 1601) his engineered image kept propagating from the de Gheyn plates. The Nuremberg branch runs through two plates one generation apart: an unsigned same-direction copy of the second engraving, cut for Hülsius's press for the 1601 Epistolarum, and the 1602 Mechanica plate cut in turn from that copy — the two share the same idiosyncratic caption errors, with identical line-breaks. The first plate itself, in Prague by 1602, printed integrally in at least one examined Progymnasmata copy (Copenhagen), though two further copies examined at full resolution carry no portrait at all — a small or copy-specific press-run rather than the edition's norm. Impressions lettered 'Marco Sadeler excudit' are restrikes from the original copper, though the date of that address and the identity of the Sadeler behind it are unresolved. Jacob van Meurs re-cut the type half a century on for the 1655 Hague edition of Gassendi's biography. So far as traced, the century's engraved portrait copies descend from the two Amsterdam plates; the exceptions are the Rudolphine Tables frontispiece figure of 1627, engraved by Georg Celer (Cöler) of Nuremberg in a distinct engraved lineage whose ultimate model is undetermined, and two unattributed woodcuts whose models are likewise undetermined; to these the National Library of the Czech Republic's volume of 2026 adds three Prague-held witnesses entered as their own records — the standing Tycho on Mulerius's title of 1611, the medallion on Lansberge's title of 1632 and Pelzel's Prague engraving of 1782.",
    "edges": [
     [
      "depicts",
@@ -2752,7 +2755,7 @@
     "upper": "1666",
     "argument": "The lower bound comes from the plate's companion. The same gathering carries a double-page frontispiece by the same hand, signed identically, showing four Habsburg emperors with putti holding banderoles — PARAVIT, …PAVIT, RECEPIT, PVBLICAVIT — a programme that culminates in the reigning emperor under whom the book was published, Leopold I. Leopold was not elected until 18 July 1658, so no plate in that gathering can predate it. The upper bound is publication: Historia Coelestis, Augsburg, Simon Utzschneider, 1666."
    },
-   "description": "Tycho at full length, standing on an architectural pedestal and leaning on a large triangular sighting instrument, in a plumed beret and a fur-lined cloak falling to the plinth. Dreyer and Friis both call the instrument a sextant, but no graduated arc is visible in either examined impression; the open frame more nearly resembles Tycho's parallactic-ruler (triangulum) type, and no positive match to any Mechanica plate has been made — the identification is uncertain. (The small mark at the frame's base is joinery — a peg and foot-bracket, with a matching pivot-pin at the apex — not a letter or plate-mark.) The whole composition reads as the depiction of a statue rather than of a living man, and that is roughly what it is: a monument invented sixty-five years after his death, for the first printed edition of his observation logs.",
+   "description": "Tycho at full length, standing on an architectural pedestal and leaning on a large triangular sighting instrument, in a plumed beret and a fur-lined cloak falling to the plinth. Dreyer and Friis both call the instrument a sextant, but no graduated arc is visible in either examined impression; the open frame more nearly resembles Tycho's parallactic-ruler (triangulum) type, and no positive match to any Mechanica plate has been made — the identification is uncertain. (The small mark at the frame's base is joinery — a peg and foot-bracket, with a matching pivot-pin at the apex — not a letter or plate-mark.) The whole composition reads as the depiction of a statue rather than of a living man, and that is roughly what it is: a monument invented sixty-five years after his death, for the first printed edition of his observation logs. The standing composition is not Kilian's invention outright: a full-length Tycho in plumed cap and fur-trimmed gown, a hand on a tall framed instrument, already stands on the engraved title of Mulerius's Frisian tables of 1611 (the National Library of the Czech Republic's copy 14 J 95, reproduced by Vackářová 2026, p. 26) — a type Kilian, or a common model, may have followed; see that record.",
    "nature": "A posthumous invention, and demonstrably a composite. The pedestal inscription is not Kilian's: it is transcribed from de Gheyn's engraved portrait — a bust, in a different composition — with a single lexical substitution, instrumentorumque Astronomicorum … dispositorum for de Gheyn's Machinarumque Astronomicarum … dispositarum. Everything else runs word for word, including 'Aetatis suæ anno 40. Anno Dñi. 1586 compl.' The consequence matters: the 1586 and the age of 40 on this plate are inherited text, not evidence about the standing figure. Anyone dating this portrait type from its own inscription is dating a borrowing. Direct examination of two impressions shows every checkable costume element reading the de Gheyn v2 scheme — medal absent, beret worn and plumed, a single doubled chain, the gripping hand at the viewer's left — and none reading v1; but the v2 scheme is also attested in the drawing family and was the dominant circulating type, so this fixes the costume vocabulary, not which carrier Kilian copied. Prandtl (1932) moreover reads the nose-prosthesis on this plate — a feature present in neither de Gheyn state — which, if his reading holds, would mean the head is not a pure de Gheyn transfer; the reading is unconfirmed at available resolution and is carried as Prandtl's, not as observed fact.",
    "whereabouts": {
     "summary": "An edition multiple, in copies of the 1666 Historia Coelestis, and separately catalogued as a print.",
@@ -2887,6 +2890,130 @@
     "Who owns the miniature and when it was found; whether Knutstorp's present owners will allow it to be photographed.",
     "Which likeness type it follows — the engraved beret type or the painted Frederiksborg type — and whether it is seventeenth-century work at all.",
     "Whether Kroppedal's photograph can be obtained for examination."
+   ],
+   "resolved_questions": null
+  },
+  {
+   "id": "icon-mulerius-1611-standing",
+   "section": "afterlife",
+   "label": "Tycho standing on the title of Mulerius's Frisian tables (Alkmaar and Amsterdam 1611) — a full-length type fifty-five years before Kilian's",
+   "date": "1611",
+   "year_start": 1611,
+   "year_end": 1611,
+   "status": "extant",
+   "grade": "C",
+   "maker": "Unidentified; the plate of the engraved title of Nicolaus Mulerius, Naturae tabulae Frisicae lunae-solares quadruplices (Alkmaar and Amsterdam 1611). Whether woodcut or engraving is to be checked on the volume.",
+   "description": "The Groningen professor Nicolaus Mulerius set Copernicus and Tycho as full-length figures on the title of his Naturae tabulae Frisicae lunae-solares quadruplices: Tycho stands in a plumed cap and a fur-trimmed gown, the left hand on the hip, the right gripping a tall triangular framed instrument standing at the panel's left edge, the name ‘Tycho Brahe.’ lettered plainly at the top of the panel on a hatched ground. The head follows the de Gheyn type; the body is the engraver's. The National Library of the Czech Republic's copy, 14 J 95, is reproduced by Vackářová 2026 (printed p. 26 (scan 26), Obr. 33, upper left, beside the ‘Nic. Copernicus.’ of the same title on p. 19, Obr. 23) and was shown in the library's exhibition of 2024 (Boldan & Vackářová 2024, cat. 15.3: the title ‘zobrazuje velikány astronomie’). Bearing on the Kilian record: the standing composition that the 1666 Historia coelestis plate was thought to have invented — plumed beret, fur-lined cloak, the figure leaning on a large framed instrument — is already on this title of 1611, which Kilian, or a common model, may have followed. Whether the 1611 figure is a woodcut or an engraving, and the exact instrument, are to be checked on the volume. Grade C until the print is examined.",
+   "edges": [
+    [
+     "depicts",
+     "TYCHO"
+    ]
+   ],
+   "sources": [
+    "S_ICON_VACKAROVA2026",
+    "S_ICON_BOLDAN2024"
+   ],
+   "image": null,
+   "image_thumb": null,
+   "image_credit": null,
+   "nature": "A posthumous composite in the printed tradition: a de Gheyn-type head on an invented standing body — the earliest full-length Tycho known to this compilation. Examined only in Vackářová's reproduction.",
+   "whereabouts": {
+    "summary": "An edition multiple; the National Library of the Czech Republic's copy is the one reproduced.",
+    "holder": "Národní knihovna ČR",
+    "city": "Prague",
+    "inv": "14 J 95",
+    "url": "",
+    "tier": "extant as impressions; the Prague copy reproduced in 2024 and 2026, not examined here",
+    "note": "Other copies of the 1611 edition carry the same title; none has been examined for this record."
+   },
+   "versions": null,
+   "conflicts": null,
+   "open_questions": [
+    "Whether the title is a woodcut or an engraving, and which instrument the figure's hand rests on — to be read on the volume or on a high-resolution surrogate.",
+    "The relation to Kilian's plate of 1666: a direct model, a common model, or a coincidence of the standing-scholar formula — Hollstein's Dutch volumes for the Mulerius title's engraver would be the first check."
+   ],
+   "resolved_questions": null
+  },
+  {
+   "id": "icon-pelzel-1782-portrait",
+   "section": "afterlife",
+   "label": "Pelzel's Abbildungen, part IV (Prague 1782) — the Prague engraved half-length",
+   "date": "1782",
+   "year_start": 1782,
+   "year_end": 1782,
+   "status": "extant",
+   "grade": "C",
+   "maker": "Not named by Vackářová; the Abbildungen's plates are generally Jan Balzer's — to be confirmed on the plate.",
+   "description": "František Martin Pelzel's gallery of Bohemian and Moravian scholars and artists, Abbildungen Böhmischer und Mährischer Gelehrten und Künstler, gave Tycho a plate in its fourth part (Prague 1782): a half-length in a plumed cap, ruff, chain and fur-collared gown, set in a plain rectangular window frame with a moulded lintel, ‘Tycho Brahe’ in script on a tablet beneath — a de Gheyn-type head in the Enlightenment portrait formula of the series. The National Library of the Czech Republic's copy, I 72254/T.4, is reproduced by Vackářová 2026 (printed p. 26 (scan 26), Obr. 33, upper right, photographed in the open book); the same volume carries the plate of the Týn epitaph (p. 34, Obr. 43) and the portrait of Comenius (p. 44, Obr. 56), and Pelzel's part III of 1777 the Hájek portrait (p. 22, Obr. 28; 1 E 4/T.3). The volume is known to the house otherwise as a witness to the Clementinum's Mathematical Museum (pp. 137–140, Strnad's life of Klein). Grade C until the plate is examined.",
+   "edges": [
+    [
+     "depicts",
+     "TYCHO"
+    ]
+   ],
+   "sources": [
+    "S_ICON_VACKAROVA2026"
+   ],
+   "image": null,
+   "image_thumb": null,
+   "image_credit": null,
+   "nature": "An eighteenth-century engraved copy in the de Gheyn descent, made in Prague; the engraver and the immediate model unverified.",
+   "whereabouts": {
+    "summary": "An edition multiple; the National Library of the Czech Republic's copy is the one reproduced.",
+    "holder": "Národní knihovna ČR",
+    "city": "Prague",
+    "inv": "I 72254/T.4",
+    "url": "",
+    "tier": "extant as impressions; the Prague copy reproduced in 2026, not examined here",
+    "note": "Pelzel IV is an old print available online (Desiderata row 92); the plate can be read there."
+   },
+   "versions": null,
+   "conflicts": null,
+   "open_questions": [
+    "The engraver (Balzer?) and the lettering of the plate, to be read on the volume or on an online copy of Pelzel IV.",
+    "Which earlier print the Prague engraver copied — the de Gheyn plates, the Sadeler restrikes or a later intermediary."
+   ],
+   "resolved_questions": null
+  },
+  {
+   "id": "icon-lansberge-1632-medallion",
+   "section": "afterlife",
+   "label": "The medallion on the title of Lansberge's perpetual tables (Middelburg and Leiden 1632)",
+   "date": "1632",
+   "year_start": 1632,
+   "year_end": 1632,
+   "status": "extant",
+   "grade": "C",
+   "maker": "Unidentified; the engraved architectural title of Philippe van Lansberge, Tabulae motuum coelestium perpetuae (Middelburg and Leiden 1632).",
+   "description": "Philippe van Lansberge's Tabulae motuum coelestium perpetuae open with an architectural title peopled by the astronomers of the tradition — Aristarchus and Hipparchus seated above, Ptolemy, Alfonso and Copernicus full-length in niches — and, among its medallions, an oval bust of Tycho in a feathered cap, ruff and chained doublet, set in a rectangular frame drawn in perspective and lettered ‘Tycho Brahe’ on its upper rail: a de Gheyn-type head reduced to a medallion. The National Library of the Czech Republic's copy, 14 C 12, is reproduced by Vackářová 2026 (printed p. 26 (scan 26), Obr. 33, lower left; the Copernicus, Ptolemy, Alfonso and the two Greeks of the same title on pp. 11, 15 and 19). The pairing of this plate with 14 C 12 follows the caption's order of four shelfmarks, the other three plates being pinned by their manner, the book opening and the house copy of Studnička; it is to be confirmed on the title page. The lowest grade the pillar carries, until examined.",
+   "edges": [
+    [
+     "depicts",
+     "TYCHO"
+    ]
+   ],
+   "sources": [
+    "S_ICON_VACKAROVA2026"
+   ],
+   "image": null,
+   "image_thumb": null,
+   "image_credit": null,
+   "nature": "A seventeenth-century engraved reduction of the de Gheyn type to a medallion; the plate's engraver and the pairing with the shelfmark unverified.",
+   "whereabouts": {
+    "summary": "An edition multiple; the National Library of the Czech Republic's copy is the one reproduced.",
+    "holder": "Národní knihovna ČR",
+    "city": "Prague",
+    "inv": "14 C 12 (by the caption's order; to be confirmed)",
+    "url": "",
+    "tier": "extant as impressions; the Prague copy reproduced in 2026, not examined here",
+    "note": "The identification of the lower-left plate of Obr. 33 as the Lansberge title rests on elimination, the other three being pinned; the 1632 title is held in many libraries and can be checked on any digitised copy."
+   },
+   "versions": null,
+   "conflicts": null,
+   "open_questions": [
+    "Confirmation on the 1632 title page that the Tycho medallion is this plate, and reading of the engraver's signature if any.",
+    "Whether the medallion follows the de Gheyn engraving or the 1586 woodcut — the cap and chain read as de Gheyn's second scheme in the reproduction."
    ],
    "resolved_questions": null
   }
@@ -3427,6 +3554,16 @@
    "id": "S_ICON_SMK_2026",
    "label": "Statens Museum for Kunst, Den Kongelige Kobberstiksamling (letter, 2026)",
    "full": "Statens Museum for Kunst, Den Kongelige Kobberstiksamling: written answer of 14 October 2026 (Johanna Nyman Hestbæk, for the collection) to an enquiry of 13 October 2026 about the three drawn sheets KKSgb4883, KKSgb38481 and KKSgb38482. The collection's sheet catalogue holds little beyond the published record; no further research has been done on the three sheets at the museum; how and whence they entered the collection cannot be said, the collection's earliest inventory protocols going back only to 1887 — they may have belonged to the part of the kings' collection that later became SMK's; and 'Td 512b' is not an older number but an internal one the museum gave them to separate the three from other unidentified Danish works of the 1600s, the sheets being cited by their inventory numbers. Unpublished correspondence; the record of a holding, not an examination."
+  },
+  {
+   "id": "S_ICON_VACKAROVA2026",
+   "label": "Vackářová, Století proměn astronomie (2026)",
+   "full": "Jana Vackářová, Století proměn astronomie. Od Koperníka k Brahemu a Keplerovi (Praha: Národní knihovna ČR, 2026; Z klementinských pokladů, sv. 4) — the National Library's curator's illustrated account of the Clementinum's Copernican and Tychonic holdings; the four Tycho portraits of Obr. 33 (p. 26) with their shelfmarks in the list of illustrations (p. 51), the Týn epitaph engraving of 1782 (Obr. 43, p. 34), the 1666 plate of the seats (Obr. 39, p. 30). Cited as printed p. N (scan N)."
+  },
+  {
+   "id": "S_ICON_MATIEGKA1901",
+   "label": "Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's (1901)",
+   "full": "Heinrich Matiegka, Bericht über die Untersuchung der Gebeine Tycho Brahe's (Prag: Verlag der königl. böhmischen Gesellschaft der Wissenschaften, 1901), 14 pp., two halftone Textfiguren of the facial fragment (printed pp. 8–9) — the primary report of the 1901 opening; read at the page. Cited as printed p. N (scan N)."
   }
  ],
  "rejected": [
@@ -3446,7 +3583,7 @@
    "object": "Langhans's photographs of the skull and upper body, Prague 1901",
    "claim": "Sometimes treated as images of Tycho.",
    "verdict": "Out of scope, not false. These are documentary photographs of physical remains, not made likenesses.",
-   "basis": "Mortensen's census correctly ends at the Týn effigy, and the 2006 volume files them in a burial chapter, not a portrait chapter. Two things worth carrying: they falsify the claim, still circulating, that no photographic record survives from 1901; and the 'Det Kongelige Bibliotek' line under them is a reproduction credit, not a statement of ownership — no holding record for either photograph has been found."
+   "basis": "Mortensen's census correctly ends at the Týn effigy, and the 2006 volume files them in a burial chapter, not a portrait chapter. Two things worth carrying: they falsify the claim, still circulating, that no photographic record survives from 1901; and the 'Det Kongelige Bibliotek' line under them is a reproduction credit, not a statement of ownership — no holding record for either photograph has been found. Matiegka's report of 1901 records two photographic moments — the skull remains, lifted on a metal plate with the cap, the clothing, the cushion and the earth, photographed from the front and the side before the clothing was removed (printed p. 6, scan 6), and platinotypes made anew of the cleaned facial fragment while it was in his keeping (printed p. 13, scan 13) — and itself prints two halftones of the cleaned fragment, from the front and from the side, as Textfiguren I and II (printed pp. 8–9, scans 8–9), each with the small imprint ‘Unie Vilím’ at the lower left and a photographer's signature with place and date scratched into the negative, not transcribed here by house rule; the attribution to Langhans rests on this record's sources, not on the plates. The printed report is therefore itself a surviving photographic record of 1901, in every copy of the pamphlet. A holding to pursue is already in the corpus: four platinotypes of the remains followed the report to the Royal Danish Academy of Sciences in 1901 (the Academy's commemoration report, p. 4) — Desiderata row 97."
   },
   {
    "object": "'Tycho Brahe's chair' and the other Kunstkammer relics",

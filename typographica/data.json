@@ -327,7 +327,7 @@
    "references": "T. Brahe, Opera omnia IV, pp. 1–378 and 491–511. Dreyer, Tycho Brahe, 158–85 (German trans. 165–94); Gigas, in Bogvennen 1900, 31–34; L. Nielsen, in Nord. tidskr. VIII, 188–90. Facsimiles: Bogvennen 1900 p. 32; Nord. tidskr. VIII p. 189; Opera omnia IV pp. 3 and 378.",
    "nielsen_census": "Aberdeen; Altenburg; Augsburg; Berlin (Staatsbibl.); Breslau; Dresden; Edinburgh (Nat. Libr., Univ. Bibl.); Gotha; Göttingen; Krakau; *Copenhagen, Kgl. Bibl. (3 copies), Univ. Bibl.; Königsberg; Leiden; London (BM); Oxford (Bodleian, Magdalen College); Paris (BnF); Prague (Univ. Bibl.); Stockholm (Kgl. Bibl., Academy of Sciences); Uppsala; Vienna (Nat. Bibl.); Wolfenbüttel (Herzog August-Bibl.).",
    "production": "Printing of the great work began with this volume, before vol. I. Through chronic paper shortages — in December 1587 Tycho sought paper from the Duke of Mecklenburg's mills through his kinsman Heinrich v. Below — it was finished on 8 March 1588, the day the Uraniborg weather-diary records 'Finis I lib'.",
-   "note_html": "The colophon naming <b>Christopher Weida</b> is the only Tycho imprint to name him. The text was finished 8 March 1588 ('Finis I lib' in the Uraniborg meteorological diary). <b>Two title-page settings exist</b>: the standard one (10 chapters per the preface) and an earlier, rejected setting (titled <i>De novis aetherei mundi generationibus</i>, 8 chapters), known only from one Berlin Staatsbibliothek copy. Re-issued posthumously at Prague (Schumann, 1603) and Frankfurt (Tampach, 1610); most surviving 'Liber II' copies are in fact 1588 sheets in later bindings.",
+   "note_html": "The colophon naming <b>Christopher Weida</b> is the only Tycho imprint to name him. The text was finished 8 March 1588 ('Finis I lib' in the Uraniborg meteorological diary). <b>Two title-page settings exist</b>: the standard one (10 chapters per the preface) and an earlier, rejected setting (titled <i>De novis aetherei mundi generationibus</i>, 8 chapters), known only from one Berlin Staatsbibliothek copy. Re-issued posthumously at Prague (Schumann, 1603) and Frankfurt (Tampach, 1610); most surviving 'Liber II' copies are in fact 1588 sheets in later bindings. <b>Printed in 1587, dated 1588.</b> Tycho told Brucaeus on 4 November 1588 that the book had been printed in his press in 1587 and deliberately dated a year later ‘to make it more acceptable as new’ (Opera omnia VII, p. 149); Christian Hansen Riber’s deposition of May 1598 and Rodolphe Méhérenc, who found it finished on Hven on 6 January 1588 (to Kepler, 16 December 1599, KGW XIV no. 150), confirm the year, Jardine and Segonds doubting the motive Tycho gives (2008, pp. 42–43 n. 3, 78–79). The dated gifts of 1588 run from Dudith on 1 May (the surviving dedication leaf) through Brucaeus in the spring, Maestlin and Rothmann by Sascerides in the summer, Peucer and Rantzau on 13 September, to Craig by 2 November; Dee had a copy in the same year (pp. 43 n. 3, 63, 76–78, 99 n. 2, 113–114 n. 3).",
    "flags": [
     "two-settings"
    ],
@@ -340,7 +340,8 @@
     "S_NIELSEN_BT",
     "S_TBOO",
     "S_DREYER_1890",
-    "S_GIGAS_1900"
+    "S_GIGAS_1900",
+    "S_JARDINE2008"
    ]
   },
   {
@@ -395,7 +396,7 @@
    "references": "T. Brahe, Opera omnia VI. Gigas, in Bogvennen 1900 p. 34; L. Nielsen, in Nord. tidskr. VIII, 199–201. Facsimiles: Bogvennen 1900 p. 35; Nord. tidskr. VIII p. 200; Opera omnia VI pp. 3 and 341.",
    "nielsen_census": "Aberdeen; Altenburg; Augsburg; Berlin (Bibl. des grauen Klosters, Staatsbibl.); Bonn; Braunschweig; Breslau; Cambridge; Danzig; Darmstadt; Dessau; Dresden (2 copies); Edinburgh (Obs.); Gotha; Göttingen; Hamburg; Herlufsholm; Kassel; Kiel; Copenhagen, *Kgl. Bibl. (2 copies), Univ. Bibl.; Königsberg; Leiden; London (BM); Lund; München; Oslo; Oxford (Bodleian, Magdalen); Prague; Stockholm (Kgl. Bibl. 2 copies, Academy); Stuttgart; Trondheim; Uppsala; Weimar; Vienna (Nat. Bibl.); Wolfenbüttel.",
    "production": "Long in the press: as early as 1590 Tycho's pupil Gellius Sascerides handed the printed sheet G — carrying important star observations — to Magini in Bologna. By 1590 two presses ran at Uraniborg at once, one on the Progymnasmata and one on this correspondence. Quires LL and MM (pp. 265–80) exist in two settings; the Gheyn copper-portrait was cut c. 1590, probably for this book.",
-   "note_html": "Dedicated to the young Landgrave Moritz (successor to Wilhelm IV), the volume prints Tycho's correspondence with Wilhelm IV and the Kassel astronomer Christopher Rothmann, with a German-and-Latin description of Uraniborg and Stjerneborg and new woodcut views. <b>The autograph originals survive</b> in the Kassel-retained convolute HStAM Best. 3 II, Nr. 1070 (former 4a.31.14) at Marburg — several letters holograph — and Tycho <i>cut and revised</i> the letters for print, making the convolute the primary collation source against this edition. Re-issued by Hülsius (Nuremberg 1601, new title-quire only — ANNO MDCI, 'allerede samme Aar' as the heirs' sale, Nielsen 1921, p. 211) and Tampach (Frankfurt 1610).",
+   "note_html": "Dedicated to the young Landgrave Moritz (successor to Wilhelm IV), the volume prints Tycho's correspondence with Wilhelm IV and the Kassel astronomer Christopher Rothmann, with a German-and-Latin description of Uraniborg and Stjerneborg and new woodcut views. <b>The autograph originals survive</b> in the Kassel-retained convolute HStAM Best. 3 II, Nr. 1070 (former 4a.31.14) at Marburg — several letters holograph — and Tycho <i>cut and revised</i> the letters for print, making the convolute the primary collation source against this edition. Re-issued by Hülsius (Nuremberg 1601, new title-quire only — ANNO MDCI, 'allerede samme Aar' as the heirs' sale, Nielsen 1921, p. 211) and Tampach (Frankfurt 1610). <b>Sold through the trade</b> — the one Uraniborg book so distributed: offered at the Frankfurt spring fair of 1597 as ‘Tychonis Brahe dani Epistolarum Astronomicarum lib. V. Vraniburgi in 4. 1596’ (Fabian, Messkataloge V, 2001, pp. 370–373). The privileges its imprint claims are printed not here but in the Progymnasmata: the imperial privilege of Prague, 13 June 1590, for thirty years, obtained through Kurz, and James VI’s of 1 August 1593 (Jardine & Segonds 2008, pp. 104–106, 125–126, 130 n. 1).",
    "flags": [],
    "entry_class": "surviving",
    "author_class": "tycho",
@@ -415,7 +416,8 @@
     "S_NIELSEN_BT",
     "S_TBOO",
     "S_GIGAS_1900",
-    "S_FRIIS_1868"
+    "S_FRIIS_1868",
+    "S_JARDINE2008"
    ]
   },
   {
@@ -1074,8 +1076,8 @@
    "S_NIELSEN_BT"
   ]
  },
- "version": "2.3",
- "edition_date": "2026-10-07",
+ "version": "2.5",
+ "edition_date": "2026-10-19",
  "period_vocabulary": [
   {
    "id": "I",
@@ -1550,7 +1552,7 @@
    "what": "Epistolae astronomicae, volume II",
    "when": "Uraniborg, early 1597",
    "extent": "half an alphabet — about 50 leaves — printed; about two alphabets wanting",
-   "basis": "Tycho to Rantzau, 22 February 1597 (in the press); Tycho to Scultetus, 7 January 1600 (the state of the printing); nothing of the printed sheets preserved",
+   "basis": "Tycho to Rantzau, 22 February 1597 (in the press); Tycho to Scultetus, 7 January 1600 (the state of the printing); nothing of the printed sheets preserved; Dreyer identified fair copies prepared for the volume in Cod. Vindob. lat. 10686 — the Pratensis correspondence with a headnote of the first volume’s type (Opera omnia VII, pp. 393–394; Jardine & Segonds 2008, p. 104 n. 4)",
    "pages": "204, 209",
    "scripta": "brahe-t_epistolae-astr-2-praefatio",
    "promotable": true
@@ -1654,6 +1656,12 @@
    "place_id": ""
   },
   {
+   "date": "1587",
+   "event": "The De mundi aetherei recentioribus phaenomenis printed, by Tycho’s own statement to Brucaeus (4 November 1588) and Méhérenc’s testimony (found finished on 6 January 1588), and dated 1588.",
+   "pages": "",
+   "place_id": "site-printing-house"
+  },
+  {
    "date": "1588-03-08",
    "event": "'Finis I lib.' in the meteorological diary: the De mundi finished.",
    "pages": "188",
@@ -1718,6 +1726,12 @@
    "event": "Arrival at Wandsbek, Rantzau's castle near Hamburg; the press set up with Philip de Ohr's type.",
    "pages": "205",
    "place_id": "place-wandsbek"
+  },
+  {
+   "date": "1597-03",
+   "event": "The Epistolae astronomicae on sale at the Frankfurt spring fair — the one Uraniborg book distributed through the trade (Fabian 2001, pp. 370–373).",
+   "pages": "",
+   "place_id": "place-frankfurt"
   },
   {
    "date": "1598",
@@ -1885,6 +1899,22 @@
    "text": "Houzeau and Lancaster's numbers, Bibliotheca Danica's entries and the VD16 numbers for the German-printed issues are not yet in the concordance (§5); Norman's number is entered for the 1602 Mechanica only.",
    "sources": [
     "S_NIELSEN_BT"
+   ]
+  },
+  {
+   "id": "des-rudolf-presentation-print",
+   "title": "The Tycho print in a presentation binding of Rudolf II’s collection, Stockholm 1649",
+   "text": "Veselá names, with two Tycho manuscripts, ‘one of his prints in a representative binding’ that stayed in Prague Castle, which she takes for Tycho’s gift to Rudolf II on his arrival in Prague, and that went to Stockholm with the booty of 1649; she gives no title and says nothing further of it (2025, p. 142). Which book it was — a Mechanica of 1598 in the binding Tycho gave his patrons, a Progymnasmata, or another — and whether it survives in a Swedish, Vatican or Leiden collection is unknown; the Stockholm catalogues of 1650–51 (Vossius–Callmer 1971) and the booty database (knizni-korist.cz) are the places to look.",
+   "sources": [
+    "S_VESELA2025"
+   ]
+  },
+  {
+   "id": "des-epistolae-print-run",
+   "title": "The size of the Epistolae edition — Šolc's ‘1,500 copies’",
+   "text": "Šolc, writing of the Hven press in the National Library's handbook (2006, p. 191), gives the Epistolae astronomicae ‘an exceptionally high run of 1,500 copies’ without naming a source. The figure is not adopted here: Nielsen's apparatus and the Opera omnia are the test, and if a primary witness exists it, not the handbook, is to be cited. The same paragraph dates the press's start to the autumn of 1584 (occasional poems and epitaphs only in the first year, among them one on Heinrich Rantzau; continuous work from the end of 1585) and says eighteen woodcuts of the principal instruments were prepared.",
+   "sources": [
+    "S_SOLC2006"
    ]
   }
  ],
@@ -2117,21 +2147,42 @@
    "full": "Friederike Boockmann, 'Johannes Kepler's Horoscope Collection', trans. Patrick J. Boner, Culture and Cosmos 14, nos 1–2 (2010), pp. 1–32; the Appendix, pp. 28–32.",
    "contributes": "the present shelfmark of the former Pulkovo volume 19 (F 285 op. 1 No. 15; p. 4 n. 12) and the inventory entry for the Apologia copy, fol. 115r–150v (p. 29).",
    "url": "https://www.cultureandcosmos.org/pdfs/14/Vol-14_boockmann_keplers_horoscopes.pdf"
+  },
+  {
+   "id": "S_JARDINE2008",
+   "label": "Jardine & Segonds, La guerre des astronomes I (2008)",
+   "full": "Nicholas Jardine and Alain-Philippe Segonds, La guerre des astronomes. La querelle au sujet de l'origine du système géo-héliocentrique à la fin du XVIe siècle, vol. I: Introduction (Paris: Les Belles Lettres, 2008; Science et humanisme 9).",
+   "url": "",
+   "contributes": "the 1587 printing of the De mundi on Tycho's own word and two witnesses; the dated gifts of 1588; the Epistolae at the Frankfurt fair of 1597 and the privileges in the Progymnasmata; Dreyer's fair copies for the second volume in Cod. 10686"
+  },
+  {
+   "id": "S_VESELA2025",
+   "label": "Veselá, Švédská knižní kořist z českých zemí (2025)",
+   "full": "Lenka Veselá, Švédská knižní kořist z českých zemí (Dolní Břežany: Scriptorium, 2025).",
+   "url": "",
+   "contributes": "the Tycho print in a presentation binding of Rudolf II's collection carried to Stockholm in 1649 (p. 142)"
+  },
+  {
+   "id": "S_SOLC2006",
+   "label": "Šolc, ‘Knihovna Tychona Brahe’ (2006)",
+   "full": "Martin Šolc, ‘Knihovna Tychona Brahe’, in Vlasta Faltysová (ed.), Rukověť tištěných knihovních fondů Národní knihovny České republiky od prvotisků do konce 19. století (Praha: Národní knihovna ČR, 2006), pp. 189–193.",
+   "url": "",
+   "contributes": "an unsourced statement that the Epistolae astronomicae were printed in ‘an exceptionally high run of 1,500 copies’ (p. 191), carried as a desideratum and not adopted; the Hven press's start in the autumn of 1584 and the eighteen instrument woodcuts prepared"
   }
  ],
  "edition": {
-  "date": "2026-10-07",
+  "date": "2026-10-19",
   "title": "Typographica Tychonis — The Printed Works of Tycho Brahe"
  },
  "figures": {
   "editions_and_issues": 29,
   "printed_works": 19,
   "censused": 24,
-  "copy_records": 246,
+  "copy_records": 247,
   "placeholders": 6,
   "located": 125,
   "in_trade": 26,
-  "recorded_untraced": 78,
+  "recorded_untraced": 79,
   "lost": 9,
   "inferred": 8,
   "located_grades": {
@@ -2452,10 +2503,10 @@
    "kind": "edition",
    "census_key": "brahe-de-mundi-1588",
    "counts": {
-    "records": 30,
+    "records": 31,
     "located": 26,
     "trade": 0,
-    "untraced": 3,
+    "untraced": 4,
     "lost": 0,
     "inferred": 1,
     "stubs": 0,

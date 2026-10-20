@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08",
+ "generated": "2026-10-19",
  "institutions": [
   {
    "id": "KB",
@@ -1358,11 +1358,11 @@
     "census_key": "brahe-de-mundi-1588",
     "explorer": "../census/brahe-de-mundi-1588/explorer.html",
     "published": true,
-    "total": 30,
+    "total": 31,
     "located": 26,
     "inferred": 1,
     "lost": 0,
-    "attested": 3,
+    "attested": 4,
     "market": 0,
     "n_institutions": 21,
     "n_countries": 6,

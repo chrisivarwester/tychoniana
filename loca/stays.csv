@@ -44,7 +44,7 @@ stay-innsbruck-1575,1575,1575,circa,c. 1575,Innsbruck,Swiss & Italian journey,Au
 stay-padua-1575,1575,1575,circa,c. 1575,Padua,Swiss & Italian journey,Italy,45.4064,11.8768,"Herrevad, the nova, the lectures, the grand tour","other, in transit",C,0,2,yes
 stay-venice-1575,1575,1575,circa,c. 1575,Venice,Swiss & Italian journey,Italy,45.4408,12.3155,"Herrevad, the nova, the lectures, the grand tour","social visit, in transit, court & patronage",A,0,9,yes
 stay-kassel-1575,1575-03,1575-04,month,March 1575 – April 1575,Kassel,German lands,Germany,51.3127,9.4797,"Herrevad, the nova, the lectures, the grand tour","observation, instruments, court & patronage, social visit",A,3,10,no
-stay-frankfurt-1575,1575-04,1575-04,month,April 1575,Frankfurt am Main,German lands,Germany,50.1109,8.6821,"Herrevad, the nova, the lectures, the grand tour","books & printing, in transit",A,0,8,no
+stay-frankfurt-1575,1575-04,1575-04,month,April 1575,Frankfurt am Main,German lands,Germany,50.1109,8.6821,"Herrevad, the nova, the lectures, the grand tour","books & printing, in transit",A,0,9,no
 stay-augsburg-1575,1575-08,1575-10,circa,c. August 1575 – October 1575,Augsburg,German lands,Germany,48.3705,10.8978,"Herrevad, the nova, the lectures, the grand tour","instruments, social visit, in transit",A,6,9,yes
 stay-regensburg-1575,1575-10,1575-11,circa,c. October 1575 – November 1575,Regensburg,German lands,Germany,49.0134,12.1016,"Herrevad, the nova, the lectures, the grand tour","court & patronage, social visit, books & printing",A,5,10,yes
 stay-nuremberg-1575,1575-11,1575-11,month,November 1575,Nuremberg,German lands,Germany,49.4511,11.0784,"Herrevad, the nova, the lectures, the grand tour","social visit, instruments, in transit",B,3,4,yes
@@ -53,7 +53,7 @@ stay-wittenberg-1575,1575-11,1575-12,circa,c. November 1575 – December 1575,Wi
 stay-knutstorp-1575,1575-12,1576-02,circa,c. December 1575 – February 1576,Knutstorp,Scania,Sweden,55.9400,13.0900,"Herrevad, the nova, the lectures, the grand tour","property, family",A,3,4,no
 stay-soro-abbey-1575,1575-12,1575-12,month,December 1575,Sorø Abbey,Zealand & the Sound,Denmark,55.4314,11.5541,"Herrevad, the nova, the lectures, the grand tour",court & patronage,A,3,3,yes
 stay-copenhagen-1576b,1576,1597,range-uncertain,1576 – 1597 (bounds uncertain),Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,The lord of Hven,"property, social visit, books & printing",B,1,2,yes
-stay-hven-1576b,1576,1597-03-29,range-uncertain,1576 – 29 March 1597 (bounds uncertain),Ven (Hven),Zealand & the Sound,Sweden,55.9060,12.6945,The lord of Hven,"observation, instruments, books & printing, alchemy & medicine, court & patronage, property, family",A,30,34,yes
+stay-hven-1576b,1576,1597-03-29,range-uncertain,1576 – 29 March 1597 (bounds uncertain),Ven (Hven),Zealand & the Sound,Sweden,55.9060,12.6945,The lord of Hven,"observation, instruments, books & printing, alchemy & medicine, court & patronage, property, family",A,32,36,yes
 stay-scania-1576,1576,1597,range-uncertain,1576 – 1597 (bounds uncertain),Scania (region),Scania,Sweden,,,The lord of Hven,"property, family, in transit",B,0,2,no
 stay-tagalycka-1576,1576,1576,circa,c. 1576,Tågalycka,Scania,Sweden,,,The lord of Hven,"family, in transit",C,2,1,yes
 stay-copenhagen-1576,1576-02,1576-02,month,February 1576,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,The lord of Hven,"social visit, court & patronage",A,2,2,yes

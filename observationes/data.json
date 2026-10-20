@@ -1,12 +1,12 @@
 {
  "edition": {
   "title": "Observationes — The Observation Archive of Tycho Brahe, and the Printed Catalogue of Stars",
-  "date": "2026-10-08"
+  "date": "2026-10-19"
  },
  "codices": {
   "id": "brahe-tycho",
-  "version": "2.3",
-  "edition_date": "2026-10-08",
+  "version": "2.4",
+  "edition_date": "2026-10-19",
   "generated": "2026-09-05",
   "title": "Observationes — the observation archive of Tycho Brahe, and the printed catalogue of stars",
   "description": "The manuscript volumes in which Tycho Brahe's observations survive — the archetypes and transcripts at the Royal Danish Library, the nineteen annual fair copies and the working star catalogue at the Austrian National Library, and the lost octavo — with Dreyer's description of each, the hand, what it was copied from, the pages of the Opera Omnia set from it, and the events of its custody 1601–1929.",
@@ -53,7 +53,10 @@
    "Q_LOST_8VO",
    "Q_SPOTCOLLATE",
    "Q_VENUSIN_AUTHORSHIP",
-   "Q_VIENNA_APOGRAPHA"
+   "Q_VIENNA_APOGRAPHA",
+   "Q_STOCKHOLM_1649_TENGNAGEL",
+   "Q_SOLIS_LUNAE_DIARII",
+   "Q_24_VOLUMES_VIENNA_PRE_1648"
   ],
   "sources": [
    {
@@ -328,6 +331,46 @@
     "url": "https://calames.abes.fr/pub/ms/IF2B12068",
     "url_label": "Calames (Institut de France)",
     "contributes": "the holding library's own record of Bartholin's copy: shelfmark, extent, binding and provenance"
+   },
+   {
+    "id": "S_VESELA2025",
+    "label": "Veselá, Švédská knižní kořist z českých zemí (2025)",
+    "full": "Lenka Veselá, Švédská knižní kořist z českých zemí (Dolní Břežany: Scriptorium, 2025), 328 pp.: the Prague chapter pp. 129–160, the Tycho paragraph p. 142 with nn. 492–494, the transport pp. 201–205, the Stockholm recataloguing pp. 208–214, the holdings census pp. 271–282.",
+    "url": "",
+    "contributes": "the two Tycho manuscripts and the print of Rudolf II's collection carried to Stockholm in 1649, their entries under Tengnagel in the catalogue of 1650–51, the twenty-four volumes said to have gone to Vienna before 1648, and the chain and dates of the booty of 1648",
+    "cited_by": "the lost-volume records O_LOST_RUDOLF_STARCAT and O_LOST_SOLIS_LUNAE_DIARII, the transmission list, the desiderata"
+   },
+   {
+    "id": "S_JARDINE2008",
+    "label": "Jardine & Segonds, La guerre des astronomes I (2008)",
+    "full": "Nicholas Jardine and Alain-Philippe Segonds, La guerre des astronomes. La querelle au sujet de l'origine du système géo-héliocentrique à la fin du XVIe siècle, vol. I: Introduction (Paris: Les Belles Lettres, 2008; Science et humanisme 9).",
+    "url": "",
+    "contributes": "Dreyer's identification of the fair copies for the second volume of the Epistolae in Cod. 10686; the St Petersburg folios of the Ursus-affair papers; the inventory of Tycho's papers drawn up after his death (KGW XX/1, p. 91)",
+    "cited_by": "the transmission list and the Vienna-bundles desideratum"
+   },
+   {
+    "id": "S_NORLIND1970",
+    "label": "Norlind, Tycho Brahe (1970)",
+    "full": "Wilhelm Norlind, Tycho Brahe: En levnadsteckning med nya bidrag belysande hans liv och verk (Lund: Gleerup, 1970), pp. 295–296: the manuscript copies of the star catalogue he could not find, and Queen Christina's parchment copy.",
+    "url": "",
+    "contributes": "the copies of the star catalogue not located, and the reasoning that the parchment copy of Queen Christina's library came with the booty of 1648 and may be the emperor's own",
+    "cited_by": "O_LOST_RUDOLF_STARCAT, O_GKS306"
+   },
+   {
+    "id": "S_VOSSIUS_CALLMER1971",
+    "label": "Vossius–Callmer, Katalog över handskrifterna i Kungl. biblioteket i Stockholm (1971)",
+    "full": "Katalog över handskrifterna i Kungl. biblioteket i Stockholm skriven omkr. 1650 under ledning av Isaac Vossius, ed. Christian Callmer (Stockholm: Kungl. biblioteket, 1971) — not held; cited through Veselá 2025, p. 142 nn. 493–494 (p. 20 nos. 2–3; p. 19 no. 2 and p. 18 no. 4).",
+    "url": "",
+    "contributes": "the catalogue entries of the two manuscripts, under the name of Frans Tengnagel",
+    "cited_by": "the two lost-volume records; Desiderata_Tychoniana row 84"
+   },
+   {
+    "id": "S_NORLIND1953",
+    "label": "Norlind, 'Om manuskriptexemplaren av Tycho Brahes stora stjärnkatalog' (1953)",
+    "full": "Wilhelm Norlind, 'Om manuskriptexemplaren av Tycho Brahes stora stjärnkatalog', Nordisk tidskrift för bok- och biblioteksväsen 40 (1953), pp. 1–15 — not held; the origin of Veselá's paragraph (2025, p. 142 n. 494) and, in part, of Norlind 1970, pp. 295–296.",
+    "url": "",
+    "contributes": "the manuscript copies of the star catalogue",
+    "cited_by": "O_LOST_RUDOLF_STARCAT; Desiderata_Tychoniana row 82"
    }
   ],
   "volumes": [
@@ -2879,13 +2922,15 @@
      "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object884658/en/",
      "basis": "Royal Danish Library, Digital Collections, object 884658; resolves (the KB catalogue record carries no link to it; found 7 October 2026)"
     },
-    "notes": "The deluxe parchment presentation manuscript of the catalogue of the 1,000 fixed stars restored to the year 1600, written at Wandsbek in 1598 and dedicated to Christian IV, with the preface to Rudolf II in Tycho's own hand (the Graphonomicon grades the preface autograph A; the tables and display pages are a scribe's). Registered here because it is the Copenhagen manuscript behind the 1,004-star catalogue of TBOO III, the finished product of the observations the other codices record; sibling presentation copies went to other patrons (TBOO III pp. 411–417) — the Royal Library also holds the paper copy inscribed to Johann Adolf, Bishop of Lübeck (GKS 307 folio), which is not digitised. Digitised: KB Digital Collections object 884658.",
+    "notes": "The deluxe parchment presentation manuscript of the catalogue of the 1,000 fixed stars restored to the year 1600, written at Wandsbek in 1598 and dedicated to Christian IV, with the preface to Rudolf II in Tycho's own hand (the Graphonomicon grades the preface autograph A; the tables and display pages are a scribe's). Registered here because it is the Copenhagen manuscript behind the 1,004-star catalogue of TBOO III, the finished product of the observations the other codices record; sibling presentation copies went to other patrons (TBOO III pp. 411–417) — the Royal Library also holds the paper copy inscribed to Johann Adolf, Bishop of Lübeck (GKS 307 folio), which is not digitised. Digitised: KB Digital Collections object 884658. Norlind lists the copies of the catalogue he could not find — for Rudolf II, for Ernst of Cologne, for Kepler, for Longomontanus, for Parma — and reasons that the parchment copy in Queen Christina's library, entered in Vossius's Stockholm catalogue, came with the booty of 1648 and may be the emperor's own ('ad Rudolphum II imperatorem'); that copy, which Veselá places in Rudolf's collection as Tycho's gift and the Stockholm catalogue of 1650–51 enters under Tengnagel's name, is registered among the lost volumes (Norlind 1970, pp. 295–296; Veselá 2025, p. 142).",
     "confidence": "A",
     "sources": [
      "S_KB",
      "S_TBOO_III",
      "S_GRAPH_BRAHE",
-     "S_VERBUNT2010"
+     "S_VERBUNT2010",
+     "S_NORLIND1970",
+     "S_VESELA2025"
     ],
     "questions": [],
     "graphonomicon": "kb-gks-306",
@@ -3072,6 +3117,98 @@
     ],
     "work": "W_OBSERVATIONES",
     "tboo": []
+   },
+   {
+    "inst": null,
+    "inst_full": null,
+    "city": null,
+    "country": null,
+    "dreyer_codex": null,
+    "dreyer_page": null,
+    "copied_from": null,
+    "leaves_dreyer": null,
+    "leaves_catalogue": null,
+    "scribe_attribution": null,
+    "url": null,
+    "facsimile": null,
+    "graphonomicon": null,
+    "id": "O_LOST_RUDOLF_STARCAT",
+    "label": "Stellarum octavi orbis inerrantium accurata restitutio — the parchment copy of Rudolf II's collection, Swedish booty of 1648, untraced",
+    "shelfmark": "[untraced]",
+    "year_str": "1598–1600",
+    "year_start": 1598,
+    "year_end": 1600,
+    "status": "lost",
+    "last_documented_inst": "Stockholm, the royal library (Vossius's catalogue of 1650–51); then, by Norlind's reasoning, Queen Christina's library (the Antwerp catalogue, Vat. lat. 8171)",
+    "genre": "star-catalogue",
+    "originality": "contemporary-copy",
+    "dreyer_codex_confirmed": false,
+    "dreyer_codex_note": "",
+    "dreyer_hand_statement": "Not among Dreyer's codices. Dreyer's Annotationes to Opera omnia III list the manuscript witnesses of the catalogue; this copy is known from the Stockholm catalogue of 1650–51 and from Norlind's reasoning, not from Dreyer.",
+    "copied_note": "",
+    "catalogue_title": "Stellarum octavi orbis inerrantium accurata restitutio — a parchment folio manuscript 'z roku 1600' (Veselá's reading of the catalogue of 1650–51)",
+    "catalogue_title_source": "Vossius–Callmer 1971, p. 20 nos. 2–3, as cited by Veselá 2025, p. 142 n. 493",
+    "autograph": "",
+    "notes": "A parchment folio manuscript of the restored catalogue of the fixed stars, which Veselá, following Norlind's article of 1953, places in Rudolf II's collection at Prague Castle as Tycho's personal gift to the emperor on his arrival in Prague — her inference ('zřejmě'), not a document — and which stayed in Prague when the rest of the emperor's astronomical manuscripts went to Vienna. It left with the Castle's books after the storming of 26 July 1648 (New Style), reached Stockholm safely in 1649 and stands in Vossius's catalogue of the royal library of 1650–51 under the name of Frans Tengnagel, Tycho's son-in-law, with the Solis et Lunae motus diarii (Veselá 2025, p. 142 and nn. 493–494). Norlind (1970, pp. 295–296) had already reasoned about this copy: of the catalogue's manuscript copies he could not find — for Rudolf II, for Ernst of Cologne, for Kepler, for Longomontanus, for Parma — the parchment copy in Queen Christina's library, entered in the Antwerp catalogue of her manuscripts (Vat. lat. 8171) and in Montfaucon, absent from the Vatican and from Bianchini's list of the Ottoboni manuscripts, and entered in Vossius's unfinished Stockholm catalogue begun in 1651, came with the booty of 1648, and Vossius's note 'ad Rudolphum II imperatorem' may mark the emperor's own copy. Veselá's year 1600 is read here as the epoch to which the catalogue is restored, not as a date of writing; Christian IV's copy of 1598 (GKS 306) is a different object. Untraced ('nezvěstné'): Veselá does not say it burned in 1697, and Norlind's reasoning takes it to Rome. Why the catalogue of 1650–51 enters it under Tengnagel — the heir who held Tycho's papers after 1601 and was an imperial councillor after 1620 — against the inference of a gift to Rudolf is not decided; Veselá's two note references differ (p. 20 nos. 2–3; p. 19 no. 2 and p. 18 no. 4), and the catalogue itself is not held.",
+    "confidence": "B",
+    "sources": [
+     "S_VESELA2025",
+     "S_NORLIND1970",
+     "S_VOSSIUS_CALLMER1971",
+     "S_NORLIND1953"
+    ],
+    "questions": [
+     "Q_STOCKHOLM_1649_TENGNAGEL"
+    ],
+    "receptio": [],
+    "work": "W_STARCAT",
+    "tboo": []
+   },
+   {
+    "inst": null,
+    "inst_full": null,
+    "city": null,
+    "country": null,
+    "dreyer_codex": null,
+    "dreyer_page": null,
+    "copied_from": null,
+    "leaves_dreyer": null,
+    "leaves_catalogue": null,
+    "scribe_attribution": null,
+    "url": null,
+    "facsimile": null,
+    "graphonomicon": null,
+    "id": "O_LOST_SOLIS_LUNAE_DIARII",
+    "label": "Solis et Lunae motus diarii, 1598 and 1599 — a manuscript of Rudolf II's collection, Swedish booty of 1648, untraced",
+    "shelfmark": "[untraced]",
+    "year_str": "1598–1599",
+    "year_start": 1598,
+    "year_end": 1599,
+    "status": "lost",
+    "last_documented_inst": "Stockholm, the royal library (Vossius's catalogue of 1650–51)",
+    "genre": "working-volume",
+    "originality": "contemporary-copy",
+    "dreyer_codex_confirmed": false,
+    "dreyer_codex_note": "",
+    "dreyer_hand_statement": "Not among Dreyer's codices; known only from the Stockholm catalogue entry that Veselá cites.",
+    "copied_note": "",
+    "catalogue_title": "Solis et Lunae motus diarii, 'z let 1598 a 1599' (Veselá's reading of the catalogue of 1650–51)",
+    "catalogue_title_source": "Vossius–Callmer 1971, p. 20 nos. 2–3, as cited by Veselá 2025, p. 142 n. 493",
+    "autograph": "",
+    "notes": "A manuscript of the daily motions of the sun and the moon for 1598 and 1599, named by Veselá (after Norlind 1953) with the parchment star catalogue as one of the two Tycho manuscripts that stayed in Prague Castle, which she takes for Tycho's gift to Rudolf II on his arrival in Prague; carried to Stockholm in 1649 and entered in Vossius's catalogue of 1650–51 under Frans Tengnagel's name; untraced (Veselá 2025, p. 142 and nn. 493–494). New to this register: no Copenhagen or Vienna volume answers to the title, and whether it was an autograph, an assistant's book or a copy the catalogue entry, as cited, does not say — it is entered as a copy of Tycho's lifetime on its dates alone. The years are those of Wandsbek and Wittenberg, when the tables for the Rudolphine programme were in hand; whether it is the same object as any surviving table of those years, or a lost third, would be settled by the catalogue's own entry (Vossius–Callmer 1971, pp. 18–20) read against the volumes registered here.",
+    "confidence": "B",
+    "sources": [
+     "S_VESELA2025",
+     "S_VOSSIUS_CALLMER1971",
+     "S_NORLIND1953"
+    ],
+    "questions": [
+     "Q_STOCKHOLM_1649_TENGNAGEL",
+     "Q_SOLIS_LUNAE_DIARII"
+    ],
+    "receptio": [],
+    "work": "W_OBSERVATIONES",
+    "tboo": []
    }
   ],
   "transmission": [
@@ -3096,6 +3233,36 @@
     ]
    },
    {
+    "date": "1598–1600",
+    "event": "The papers of the Ursus affair that Tycho sent to Kepler lie in Kepler's papers at St Petersburg (Archive of the Russian Academy of Sciences, F. 285): Christian Hansen Riber's letter of 26 August 1598 (op. 5, f. 304r–v; transcribed by Norlind 1970, p. 373), the depositions of Hansen and of Michael Walther, Müller's refutation, the Contra Ursum and Ursus's poem ('vol. V', ff. 301r–305v), Liddel's apologia (Ms. astron. t. V, ff. 310–311) and Kepler's draft reply of February 1599 (KGW XIII no. 112). Whether 'vol. V' is the bundle Friis called the Braheske Sager (olim Pulkovo vol. 19) is unchecked.",
+    "sources": [
+     [
+      "S_JARDINE2008",
+      "pp. 175 n. 1, 218 n. 3, 238–239, 243 n. 4"
+     ]
+    ]
+   },
+   {
+    "date": "1599–1601",
+    "event": "By Veselá's reading, after Norlind 1953, Tycho gave Rudolf II on his arrival in Prague a parchment folio of the Stellarum octavi orbis inerrantium accurata restitutio and a manuscript Solis et Lunae motus diarii of 1598–99, with a printed book in a presentation binding; the gift is her inference ('zřejmě'), the objects are documented only in Stockholm in 1650–51.",
+    "sources": [
+     [
+      "S_VESELA2025",
+      "p. 142"
+     ]
+    ]
+   },
+   {
+    "date": "1599-12-28",
+    "event": "Tycho to Sculteti (28 December 1599 / 7 January 1600): only 'dimidium Alphabeti' of the second volume of the Epistolae astronomicae had been printed before he left Hven; nothing of the sheets survives. Dreyer identified fair copies prepared for the volume in Cod. 10686 — the Pratensis correspondence with a headnote of the first volume's type (Opera omnia VII, pp. 393–394; the letter VIII, pp. 234–236).",
+    "sources": [
+     [
+      "S_JARDINE2008",
+      "p. 104 n. 4"
+     ]
+    ]
+   },
+   {
     "date": "1600",
     "event": "Kepler, newly arrived at Benátky, notes that Tycho will not allow him to copy the observations — 'and rightly so, for this is his treasure, in which he has spent his whole life and fortune'.",
     "sources": [
@@ -3112,6 +3279,16 @@
      [
       "S_TBOO_X_PROL",
       "pp. II, XIX"
+     ]
+    ]
+   },
+   {
+    "date": "1601–1602",
+    "event": "The inventory of Tycho's papers drawn up after his death lists the Contra Ursum as a 'tractatus' (KGW XX/1, p. 91.14–15).",
+    "sources": [
+     [
+      "S_JARDINE2008",
+      "p. 250 n. 2"
      ]
     ]
    },
@@ -3206,6 +3383,54 @@
      [
       "S_TBOO_X_PROL",
       "p. IV"
+     ]
+    ]
+   },
+   {
+    "date": "before 1648",
+    "event": "CONTESTED. Veselá, on Veselá & Marek (Brepols 2026, in press): most of Rudolf II's astronomical manuscripts and prints had been removed from Prague Castle to Vienna before the Swedish attack, 'among them 24 volumes of Tycho Brahe's astronomical observations'. The Vienna chronology of this register — Kepler in 1604, Ferdinand II's request of 1621, Curtz before 1656, the Hofbibliothek about 1657 — knows no Rudolf-collection stage and no count of twenty-four; its Vienna dates are termini ante quem. Held as a contested statement, grade C, until the Brepols volume is read; no arithmetic over the registered volumes is offered.",
+    "sources": [
+     [
+      "S_VESELA2025",
+      "p. 142 n. 492"
+     ]
+    ]
+   },
+   {
+    "date": "1648-07-26",
+    "event": "Prague Castle stormed by Königsmarck's troops (26 July 1648 New Style; 16 July Old Style); the Castle's books are removed before 8 October, the Kunstkammer on 1–2 November, and shipped in casks by the Vltava and the Elbe to Dömitz for the winter, to Wismar in the spring and to Stockholm by the end of May 1649 — the two Tycho manuscripts and the print of Rudolf's collection among them; no transport list for Prague survives.",
+    "sources": [
+     [
+      "S_VESELA2025",
+      "pp. 133, 142, 202–205"
+     ]
+    ]
+   },
+   {
+    "date": "1650–1651",
+    "event": "Isaac Vossius's recataloguing of the Stockholm royal library enters the two Tycho manuscripts under the name of Frans Tengnagel (Vossius–Callmer 1971, p. 19 no. 2 and p. 18 no. 4; the manuscripts at p. 20 nos. 2–3, as Veselá cites them). The recataloguing removed the older shelfmarks from the booty's spines — Bussow's subject letters on the Mikulov books, Freinsheim's numbers of 1647–48 — and replaced them with new letter marks at the foot of the spine, and Vossius removed the royal library's signatures from the books he took in 1654: a missing Swedish mark proves nothing.",
+    "sources": [
+     [
+      "S_VESELA2025",
+      "pp. 36, 142 n. 494, 209, 213, 228"
+     ],
+     [
+      "S_VOSSIUS_CALLMER1971",
+      "pp. 18–20"
+     ]
+    ]
+   },
+   {
+    "date": "1654–1697",
+    "event": "Norlind reasons that the parchment copy of the catalogue left Stockholm with Queen Christina's library — the Antwerp catalogue (Vat. lat. 8171), Montfaucon — and is absent from the Vatican and from Bianchini's Ottoboni list; about 300 Stockholm manuscripts burned in 1697, and Veselá does not say that either Tycho manuscript did.",
+    "sources": [
+     [
+      "S_NORLIND1970",
+      "pp. 295–296"
+     ],
+     [
+      "S_VESELA2025",
+      "pp. 142 n. 494, 228–229"
      ]
     ]
    },
@@ -3508,12 +3733,13 @@
    {
     "id": "des-vienna-bundles",
     "title": "The three Vienna paper bundles (Cod. 10686, 10688, 10689)",
-    "text": "Dreyer used three large bundles of letters and papers at Vienna that carry copies of some observations (TBOO XIII p. 98 note: 'Apographum harum observationum in cod. Vindob. lat. 10689 f 26r sqq'). They are not registered here; a leaf-level description would settle which observations they witness. Friis listed the contents of Cod. 10686 in the summer of 1868 and pencilled numbers on the pieces, which had been pasted in 'uden at man tog synderligt Hensyn til, om de bleve anbragte paa rette Sted': among them, inside a wrapper of Kepler's Mars papers, the binding waste 'Jorde Bogenn Thill Knudstrup Aar 1580 Thyge Brades'; a folio quire prepared for the press with the Pratensis epitaph; Urania Titani with autograph corrections (his item 12); Elias Olsen Morsing's preface to his Calendarium, dated Uraniborg 1 January 1586; and a star catalogue sent by Rothmann in 1586 (Friis 1868–69, pp. 253–259). In Cod. 10688 he found, beside the book-lists, maps of part of Norway, 'Nordfjords Lehn' dated 1594, Hven after Braun, and Copenhagen (p. 259). The ÖNB holds a nineteenth-century 'Verzeichnis der verschiedenen Stücke, welche in Ms. Nr. 10.686/9, 10.688 u. 10.689 sich befinden' (catalogue record AC13944458), which would be the first thing to read. Four pieces are now digitised in full (manuscripta.at): Cod. 10686/17, 21 leaves in Tycho's name — the treatise 'De eclipsi lunae anni 1573 mense Decembri' with its corrections (ff. 1r–14v, whence Dreyer printed the eclipse among the observations of 1573, TBOO X pp. 38–39), the first lines of a nativity of Frederik II (ff. 15r–17v) and the 'In Vraniam Idyllion' (ff. 18r–21r); Cod. 10686/67, a 31-leaf miscellany; Cod. 10686/80, Rothmann's 'Tabula observationum stellarum fixarum' of 1586 — the catalogue Friis saw — at viewer.onb.ac.at/100232BE; and Cod. 10688/15. The ÖNB picture archive has single images of Cod. 10686/7 f. 11v (letters of Pratensis, Dançay, Bille and Hainzel to Tycho) and of the Norwegian maps in Cod. 10688.",
+    "text": "Dreyer used three large bundles of letters and papers at Vienna that carry copies of some observations (TBOO XIII p. 98 note: 'Apographum harum observationum in cod. Vindob. lat. 10689 f 26r sqq'). They are not registered here; a leaf-level description would settle which observations they witness. Friis listed the contents of Cod. 10686 in the summer of 1868 and pencilled numbers on the pieces, which had been pasted in 'uden at man tog synderligt Hensyn til, om de bleve anbragte paa rette Sted': among them, inside a wrapper of Kepler's Mars papers, the binding waste 'Jorde Bogenn Thill Knudstrup Aar 1580 Thyge Brades'; a folio quire prepared for the press with the Pratensis epitaph; Urania Titani with autograph corrections (his item 12); Elias Olsen Morsing's preface to his Calendarium, dated Uraniborg 1 January 1586; and a star catalogue sent by Rothmann in 1586 (Friis 1868–69, pp. 253–259). In Cod. 10688 he found, beside the book-lists, maps of part of Norway, 'Nordfjords Lehn' dated 1594, Hven after Braun, and Copenhagen (p. 259). The ÖNB holds a nineteenth-century 'Verzeichnis der verschiedenen Stücke, welche in Ms. Nr. 10.686/9, 10.688 u. 10.689 sich befinden' (catalogue record AC13944458), which would be the first thing to read. Four pieces are now digitised in full (manuscripta.at): Cod. 10686/17, 21 leaves in Tycho's name — the treatise 'De eclipsi lunae anni 1573 mense Decembri' with its corrections (ff. 1r–14v, whence Dreyer printed the eclipse among the observations of 1573, TBOO X pp. 38–39), the first lines of a nativity of Frederik II (ff. 15r–17v) and the 'In Vraniam Idyllion' (ff. 18r–21r); Cod. 10686/67, a 31-leaf miscellany; Cod. 10686/80, Rothmann's 'Tabula observationum stellarum fixarum' of 1586 — the catalogue Friis saw — at viewer.onb.ac.at/100232BE; and Cod. 10688/15. The ÖNB picture archive has single images of Cod. 10686/7 f. 11v (letters of Pratensis, Dançay, Bille and Hainzel to Tycho) and of the Norwegian maps in Cod. 10688. Dreyer identified in Cod. 10686 the fair copies prepared for the second volume of the Epistolae astronomicae, of which only half an alphabet of sheets had been printed when Tycho left Hven and nothing survives — the Pratensis correspondence with a headnote of the first volume's type (Opera omnia VII, pp. 393–394; Jardine & Segonds 2008, p. 104 n. 4).",
     "sources": [
      "S_TBOO_X_PROL",
      "S_FRIIS1868",
      "S_MANUSCRIPTA",
-     "S_ONB"
+     "S_ONB",
+     "S_JARDINE2008"
     ]
    },
    {
@@ -3631,6 +3857,17 @@
     "sources": [
      "S_AHES2024",
      "S_TBOO_X_PROL"
+    ]
+   },
+   {
+    "id": "des-stockholm-1649",
+    "title": "The two Tycho manuscripts of the Stockholm catalogue of 1650–51",
+    "text": "Veselá names two Tycho manuscripts and a print of Rudolf II's collection carried from Prague Castle to Stockholm in 1649 — the parchment star catalogue and a Solis et Lunae motus diarii of 1598–99 — entered in Vossius's catalogue of the royal library under Frans Tengnagel's name and now untraced, and, on a Brepols volume still in press, twenty-four volumes of Tycho's observations taken from Rudolf's collection to Vienna before 1648 (2025, p. 142). Three questions wait on sources the house does not hold: why the two manuscripts stand under Tengnagel, and whether Veselá's two note references are one pair of entries (Vossius–Callmer 1971, pp. 18–20; Norlind 1953); whether the Solis et Lunae motus diarii is one of the volumes registered here or a lost third (the same two sources against this register); and which twenty-four volumes went to Vienna, and when (Veselá & Marek 2026). The fate of the two manuscripts after 1654 — Rome with Christina, the fire of 1697, or Vossius's Leiden — is a fourth.",
+    "sources": [
+     "S_VESELA2025",
+     "S_VOSSIUS_CALLMER1971",
+     "S_NORLIND1953",
+     "S_NORLIND1970"
     ]
    }
   ]

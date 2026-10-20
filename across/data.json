@@ -1,17 +1,17 @@
 {
  "title": "Across All Twelve — the apparatus of the Tychoniana editions",
  "registry": {
-  "registry_rows": 252,
+  "registry_rows": 253,
   "placeholders": 5,
-  "documented": 247,
+  "documented": 248,
   "located": 125,
   "extant": 124,
   "damaged": 1,
   "untraced": 36,
   "market": 26,
   "lost_copies": 10,
-  "attested": 86,
-  "attested_only": 78,
+  "attested": 87,
+  "attested_only": 79,
   "inferred": 8,
   "cd": 52,
   "cd_c": 43,
@@ -31,10 +31,10 @@
   "inst_lost": 5,
   "sites": 15,
   "sites_lost": 5,
-  "volumes": 42,
-  "vol_lost": 1,
-  "images": 35,
-  "img_extant": 23,
+  "volumes": 44,
+  "vol_lost": 3,
+  "images": 38,
+  "img_extant": 26,
   "img_lost": 6,
   "img_untraced": 4,
   "img_attested": 2,
@@ -43,13 +43,13 @@
   "spec_lost": 1,
   "spec_surrogate": 2,
   "spec_disputed": 5,
-  "bib_entries": 210,
-  "bib_located_works": 114,
-  "bib_volumes": 71,
-  "bib_missing": 88,
-  "bib_findable": 54,
-  "bib_retired": 32,
-  "bib_lost": 2,
+  "bib_entries": 254,
+  "bib_located_works": 131,
+  "bib_volumes": 72,
+  "bib_missing": 109,
+  "bib_findable": 56,
+  "bib_retired": 49,
+  "bib_lost": 4,
   "bib_disputed": 6,
   "periods": 8,
   "stays": 140,
@@ -58,11 +58,11 @@
   "diary_years": 13,
   "letters": 509,
   "letters_dated": 509,
-  "episodes": 44,
-  "recep_before": 8,
-  "recep_from": 36,
+  "episodes": 48,
+  "recep_before": 10,
+  "recep_from": 38,
   "recep_1601": 5,
-  "transmission": 21,
+  "transmission": 33,
   "questions": 30,
   "q_open": 5,
   "lost_objects": 4
@@ -861,6 +861,15 @@
    "link": "../iconographia/index.html#icon-stjerneborg-astronomers"
   },
   {
+   "kind": "reception",
+   "key": "recep-ursus-quarrel",
+   "label": "Tycho against Ursus — the quarrel over the geo-heliocentric system and its historiography (1584–1601; 1890–2008)",
+   "year_start": 1584,
+   "year_end": 1601,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-ursus-quarrel"
+  },
+  {
    "kind": "site",
    "key": "site-printing-house",
    "label": "The printing house (Tycho's press)",
@@ -1174,6 +1183,15 @@
    "year_end": 1589,
    "edition": "Iconographia",
    "link": "../iconographia/index.html#icon-funeral-procession-1588"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-dudith-de-mundi-1588",
+   "label": "Dudith reads De mundi — the first reader's response to the Tychonic system, in red ink in the margins of his presentation copy (Stockholm, RAR 106 A), 1588–1589",
+   "year_start": 1588,
+   "year_end": 1589,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-dudith-de-mundi-1588"
   },
   {
    "kind": "reception",
@@ -1788,6 +1806,24 @@
    "link": "../observationes/index.html#vc-O_GKS317"
   },
   {
+   "kind": "volume",
+   "key": "O_LOST_RUDOLF_STARCAT",
+   "label": "Stellarum octavi orbis inerrantium accurata restitutio — the parchment copy of Rudolf II's collection, Swedish booty of 1648, untraced",
+   "year_start": 1598,
+   "year_end": 1600,
+   "edition": "Observationes",
+   "link": "../observationes/index.html#vc-O_LOST_RUDOLF_STARCAT"
+  },
+  {
+   "kind": "volume",
+   "key": "O_LOST_SOLIS_LUNAE_DIARII",
+   "label": "Solis et Lunae motus diarii, 1598 and 1599 — a manuscript of Rudolf II's collection, Swedish booty of 1648, untraced",
+   "year_start": 1598,
+   "year_end": 1599,
+   "edition": "Observationes",
+   "link": "../observationes/index.html#vc-O_LOST_SOLIS_LUNAE_DIARII"
+  },
+  {
    "kind": "instrument-fate",
    "key": "transmission-1599, summer",
    "label": "Tycho arrives in Prague and lodges in the Curtius house; at his audience the Emperor asks him to send for the instruments still on their way.",
@@ -1970,7 +2006,7 @@
   {
    "kind": "instrument-fate",
    "key": "transmission-1601–1608",
-   "label": "The Emperor secures the observations and instruments from the heirs, who had asked 100,000 thalers, for 20,000 at six per cent; 4,000 are paid in 1602 and 1,000 in 1608, and nothing after. The claim was still unsettled in 1671.",
+   "label": "The Emperor secures the observations and instruments from the heirs, who had asked 100,000 thalers, for 20,000 at six per cent; 4,000 are paid in 1602 and 1,000 in 1608, and nothing after. The claim was still unsettled in 1671. Šolc's account for the National Library (1999, § 2.532, printed p. 150; 2006, p. 192) has the great instruments and the observation material seized on the Emperor's order — ‘beschlagnahmt’, in the Czech text by imperial soldiers — before any price was set, the price then set at 20,000 thalers against the 100,000 demanded, the heirs paid only a fraction of principal and interest ‘in the course of seventy years’, and ‘kleinere Instrumente und die Bibliothek’ left to the indebted heirs to sell; he cites no document. The seizure answers to the sequestration of the whole estate in Kleinschnitzová (1933, p. 75), the seventy years to Mortensen's ‘still unsettled in 1671’; the heirs' saleable instruments are the one Prague account that puts small instruments in the hands that sold books to the Jesuits in 1636 and gave the remainder in 1642 — a possibility, with no document behind it.",
    "year_start": 1601,
    "year_end": 1601,
    "edition": "Instrumenta",
@@ -2122,6 +2158,15 @@
   },
   {
    "kind": "likeness",
+   "key": "icon-mulerius-1611-standing",
+   "label": "Tycho standing on the title of Mulerius's Frisian tables (Alkmaar and Amsterdam 1611) — a full-length type fifty-five years before Kilian's",
+   "year_start": 1611,
+   "year_end": 1611,
+   "edition": "Iconographia",
+   "link": "../iconographia/index.html#icon-mulerius-1611-standing"
+  },
+  {
+   "kind": "likeness",
    "key": "icon-kageroed-epitaph",
    "label": "The Kågeröd epitaph, 1613 — Tycho kneeling among his parents' children",
    "year_start": 1613,
@@ -2193,6 +2238,15 @@
    "link": "../instrumenta/index.html#sec-transmission"
   },
   {
+   "kind": "likeness",
+   "key": "icon-lansberge-1632-medallion",
+   "label": "The medallion on the title of Lansberge's perpetual tables (Middelburg and Leiden 1632)",
+   "year_start": 1632,
+   "year_end": 1632,
+   "edition": "Iconographia",
+   "link": "../iconographia/index.html#icon-lansberge-1632-medallion"
+  },
+  {
    "kind": "reception",
    "key": "recep-rundetaarn",
    "label": "The Round Tower (Rundetårn), Copenhagen — Tycho's catalogue continued",
@@ -2207,6 +2261,15 @@
    "label": "The Swedish removal of Rudolf II's collections leaves the two large iron sextants behind; the Castle Armoury inventory of 1650 lists them.",
    "year_start": 1648,
    "year_end": 1648,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1650",
+   "label": "The Specification of 29 July 1650 of the Castle's Schatz- und Kunstkammer, drawn up after the Swedish removal, lists under ‘In der rüstcamer’ one line, ‘2 grosze geometrische instrumenta’ — the entry Fučíková identifies, ‘fairly likely’, with the two sextants; it names no maker, type or size.",
+   "year_start": 1650,
+   "year_end": 1650,
    "edition": "Instrumenta",
    "link": "../instrumenta/index.html#sec-transmission"
   },
@@ -2265,6 +2328,15 @@
    "link": "../receptio/index.html#recep-blaeu-atlas-1664"
   },
   {
+   "kind": "instrument-fate",
+   "key": "transmission-1666",
+   "label": "Isaac Vossius's Leiden sale of 30 November 1666 ends with a gilt-metal ‘Geometrisch en Astronomisch Quadrant … eertijdts door Tycko Brahe vereert aen de Keyser Rodolphus’, by Balsem's inference out of Christina's Prague booty; buyer and whereabouts unknown, the attribution the vendor's.",
+   "year_start": 1666,
+   "year_end": 1666,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
    "kind": "reception",
    "key": "recep-historia-coelestis-1666",
    "label": "Historia Coelestis (Augsburg 1666) — the observations first in print",
@@ -2302,10 +2374,37 @@
   },
   {
    "kind": "instrument-fate",
+   "key": "transmission-1718",
+   "label": "The Castle inventory of 8 April 1718 lists in the Schatzkammer vaults ‘ein mathematisches instrumentum mit seinem fusz’, underlined in the original — by Köpl's reading, missing at the second revision.",
+   "year_start": 1718,
+   "year_end": 1718,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
    "key": "transmission-1728",
    "label": "The globe burns in the Round Tower fire; the wooden body is consumed and the brass melts, leaving some lumps, the meridian ring, iron rings and the axle, since lost.",
    "year_start": 1728,
    "year_end": 1728,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-clementinum-tychonica",
+   "label": "The Clementinum's ‘Tychonic’ pieces — Klein's Tychonic clock, the planetaria ‘probabiliter a Tychone’, the sextants shown as Tycho's, and the sale that scattered them (1730–1909)",
+   "year_start": 1730,
+   "year_end": 1909,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-clementinum-tychonica"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1737",
+   "label": "The inventory of 5 October 1737 lists between the windows of the great Schatzkammer vault ‘445. Ein mathematischer fusz zu einem instrument von stahl, 2½ elen hoch’ and ‘446. Ein mathematischer sextant von eisen und messing auf einen hölzernen postament’ — Fučíková's ‘only the base was left’ of the Habermel instrument and her Bürgi sextant ‘corresponding to its present condition’; the document itself names neither.",
+   "year_start": 1737,
+   "year_end": 1737,
    "edition": "Instrumenta",
    "link": "../instrumenta/index.html#sec-transmission"
   },
@@ -2317,6 +2416,33 @@
    "year_end": 1824,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-hven-cellar-1747"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1763",
+   "label": "The same pair stands as nos. 7–8 of the inventory of 20 October 1763 (‘ein mathematisches sextantl von eisen und messing’; ‘ein mathematischer fusz … 2½ ehlen hoch’) among the wooden objects moved from the Schatzkammer to the picture hall.",
+   "year_start": 1763,
+   "year_end": 1763,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1769",
+   "label": "In the Jesuit college's museum at the Clementinum a ‘small iron octant said to have belonged to Tycho’ is shown to Maximilian Hell's party on 2 May 1769 (Sainovics's diary) — the earliest dated eyewitness of a Tycho-attributed instrument there; Vydra wrote in 1778 that Tycho's sextant had come to the college ‘quo fato nescio’.",
+   "year_start": 1769,
+   "year_end": 1769,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1778",
+   "label": "Vydra's Historia matheseos describes the Clementinum museum's ‘Sextans Tychonis’ — limb gilt and divided by transversals, a movable sighted rule, ‘manuque Erasmi Habermil Pragensis Artificis anno 1600 perfectus’ — as already in the college ‘quo fato nescio’: the Habermel sextant was there before the Castle valuation of 1782.",
+   "year_start": 1778,
+   "year_end": 1778,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
   },
   {
    "kind": "reception",
@@ -2338,10 +2464,46 @@
   },
   {
    "kind": "instrument-fate",
+   "key": "transmission-1781",
+   "label": "Antonín Strnad's inventory of the Clementinum's Mathematical Museum (5 August 1781) lists ‘Sextans Tychonis’ (D 8), ‘Horologium Tychonis Brahe’ (D 3 — Klein's clock of 1751), ‘Instrumentum ab Erasmo Habermel Pragae factum pro Tychone’ (C 51) with its fragment (C 53), a Habermel dialling instrument of 1598 (C 19), three armillary models ‘adhuc probabiliter a Tychone’ (C 17–C 18 bis) and ‘three copper plates for Tycho's automatic clock’ (C 69). The list was drawn up, Seydl holds (‘nepochybně’), because after the death of the observatory's director Zeno on 7 June 1781 everything at the observatory and in the Museum had to be established; its heading ‘Consignatio rerum in museo mathematico Caesareo Regio’ shows him that the Museum was not part of the observatory, and what official relation the two had he does not know — his conjecture (‘Možná’) is that the astronomers Stepling, Zeno and Strnad, ex-Jesuits lodged in the Clementinum beside the Museum, were the natural custodians of the former Order's property (Seydl 1951, printed pp. 5–6 (scans 6–7)).",
+   "year_start": 1781,
+   "year_end": 1781,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1782",
+   "label": "The valuation list of 3 January 1782 prices the sextant at 6 fl. and the stand at 1 fl. 10 kr. and marks both for Franz Leonard Herget's collection of mechanical and hydraulic sciences (his note of 26 February 1782) — the document behind Fučíková's ‘auction’; a claim and a valuation, no hand-over recorded in Köpl's series. — but one is recorded on the receiving side. The engineering institute's own Hauptinventarium (‘uiber alle sowohl Kameral, als auch böhmisch Landständischen Seits zu den Ingenieurs Wissenschafts Maschinen Hörsaal beigeschafte … Maschinen, Modeln, Instrumente, Landcharten, Bücher und Gerätschaften’), six leaves in a hand Seydl could not place, kept in the observatory's archive and by its content a retrospective inventory of the early nineteenth century, gives as its first section the 71 numbers (280 pieces) transferred ‘aus dem Museo mathematico des Collegii Clementini in das vormalige Seminarium zu St. Wenzel’ and opens its second: ‘Ferner sind vermög eines Allerhöchstens k. k. Hofkammerreskripts ddto 8 April 782 aus der sogenannten k. Schatzkammer dahin übertragen worden’ — 17 inventory numbers, 49 pieces, nos. 72–88, valued ‘nach der in Händen habenden Original Consignation’ at 56 fl. 52 kr. Schatzkammer pieces therefore did pass to Herget's hall under a Hofkammer rescript of 8 April 1782, valued against a consignation that is presumably the valuation list of 3 January 1782 (Köpl, Reg. 6238); Seydl prints the heading and the totals, not the 17 entries, so whether the sextant (6 fl.) and the stand (1 fl. 10 kr.) stand among nos. 72–88 is not known until the document is read (Seydl 1951, printed pp. 28–29 (scans 29–30)).",
+   "year_start": 1782,
+   "year_end": 1782,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
    "key": "transmission-1782",
    "label": "At Joseph II's auction of the Castle collections the two sextants are sold to Franz Leonard Herget, public teacher of mechanics and hydraulics.",
    "year_start": 1782,
    "year_end": 1782,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "likeness",
+   "key": "icon-pelzel-1782-portrait",
+   "label": "Pelzel's Abbildungen, part IV (Prague 1782) — the Prague engraved half-length",
+   "year_start": 1782,
+   "year_end": 1782,
+   "edition": "Iconographia",
+   "link": "../iconographia/index.html#icon-pelzel-1782-portrait"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1785",
+   "label": "The Mathematical Museum is dissolved as a whole, the University Library needing its rooms for the books of the suppressed monasteries: the mathematical and astronomical instruments go to the observatory in the Clementinum tower — ‘Tycho's sextants’, Seydl's plural read off the observatory's inventories of 1834 and 1846, and the old planetolabia among them (p. 30), the physics to the university's cabinet, the mechanics to the Estates' engineering institute under Herget, who had held rooms in the Clementinum since 1774.",
+   "year_start": 1785,
+   "year_end": 1785,
    "edition": "Instrumenta",
    "link": "../instrumenta/index.html#sec-transmission"
   },
@@ -2411,7 +2573,7 @@
   {
    "kind": "instrument-fate",
    "key": "transmission-1852",
-   "label": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904).",
+   "label": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904). Seydl itemises the sale from the observatory's accounts (submitted 25 March 1856): announced in the Amtsblatt zur Prager Zeitung of 22 October 1852; 45 sundials, three of them Habermel's gilt pieces of 1598 and 1600, valued at 54, 20 and 3 kreuzer and sold for 2 fl., 1 fl. and 12 kr.; 18 telescopes, quadrants and sextants; 6 planetaria; 9 globes; among the pieces sold without Kreil's ‘unusable’ mark the gilt Habermel sundials and brass astrolabes. His figure 19 identifies the two Munich planetaria as the more complex pair of the three armillary models C 17–C 18 bis that Strnad in 1781 held ‘probabiliter a Tychone’ — the attribution is Strnad's, the ‘Ty. de Brahe’ engraving later (Seydl 1951, pp. 30–36, 48). Hornstein's defence of 9 March 1881, reprinted by Weinek (1901, p. 6): the sale, approved by the ministry on 11 September 1852, disposed only of sundials mostly made by the Jesuits, old reflectors and non-achromatic telescopes, and the list of everything sold survives in the files.",
    "year_start": 1852,
    "year_end": 1852,
    "edition": "Instrumenta",
@@ -2427,6 +2589,15 @@
    "link": "../iconographia/index.html#icon-levy-mindeblad"
   },
   {
+   "kind": "instrument-fate",
+   "key": "transmission-1868",
+   "label": "The Vienna government, alerted by a German periodical, asks whether Böhm had sold the ‘Tychonic’ instruments — the ‘Tychonic astrolabe’ in particular; Karl Jelínek, Böhm's former adjunct, answers on 12 November 1868 that the pieces had lain quietly among other lumber and were sold ‘without a prior inspection’; Böhm had died on 26 January 1868.",
+   "year_start": 1868,
+   "year_end": 1868,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
    "kind": "likeness",
    "key": "icon-bloch-james-vi",
    "label": "Carl Bloch, 1878 — James VI received at Uraniborg: the schoolroom Tycho",
@@ -2434,6 +2605,15 @@
    "year_end": 1878,
    "edition": "Iconographia",
    "link": "../iconographia/index.html#icon-bloch-james-vi"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1881",
+   "label": "Director Hornstein's statement of 9 March 1881, answering Hasner: Strnad's undated inventory names Tycho three times (‘1 Sextans von Tycho Brahe’, ‘1 Octans desselben’, the clock ‘nach Tycho's Hypothese’); the imperial collections ‘never stood in the remotest connection with the collections of Prague University’; by Strnad's time only two Tycho instruments were at the observatory and none came later.",
+   "year_start": 1881,
+   "year_end": 1881,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
   },
   {
    "kind": "likeness",
@@ -2506,6 +2686,15 @@
    "year_end": 1996,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-mechanica-editions"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-prague-commemoration-1901-1984",
+   "label": "Tycho in Prague's memory, 1901–1984 — Studnička's Prager Tychoniana, the Copernicus year 1973 and the Vajce group on Pohořelec",
+   "year_start": 1901,
+   "year_end": 1984,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-prague-commemoration-1901-1984"
   },
   {
    "kind": "reception",
@@ -2608,7 +2797,7 @@
    "located": 6,
    "untraced": 4,
    "attested": 14,
-   "cd_c": 13,
+   "cd_c": 12,
    "cd_d": 0,
    "provisional": true,
    "unreached": [
@@ -2828,11 +3017,11 @@
    "short": "De mundi (Liber II)",
    "year": 1588,
    "place": "Uraniborg",
-   "documented": 30,
+   "documented": 31,
    "located": 26,
    "untraced": 0,
-   "attested": 4,
-   "cd_c": 3,
+   "attested": 5,
+   "cd_c": 4,
    "cd_d": 0,
    "provisional": true,
    "unreached": [
@@ -3103,13 +3292,13 @@
    "city": "Prague",
    "country": "CZ",
    "kind": "library volumes",
-   "count": 58
+   "count": 57
   },
   {
    "city": "Prague",
    "country": "CZ",
    "kind": "likenesses",
-   "count": 1
+   "count": 4
   },
   {
    "city": "Prague",
@@ -3571,6 +3760,12 @@
    "city": "Kågeröd",
    "country": "",
    "kind": "likenesses",
+   "count": 1
+  },
+  {
+   "city": "Kórnik",
+   "country": "",
+   "kind": "library volumes",
    "count": 1
   },
   {
@@ -4171,6 +4366,22 @@
   },
   {
    "kind": "observation volume",
+   "key": "O_LOST_RUDOLF_STARCAT",
+   "label": "Stellarum octavi orbis inerrantium accurata restitutio — the parchment copy of Rudolf II's collection, Swedish booty of 1648, untraced",
+   "status": "lost",
+   "date": "1598–1600",
+   "link": "../observationes/index.html#vc-O_LOST_RUDOLF_STARCAT"
+  },
+  {
+   "kind": "observation volume",
+   "key": "O_LOST_SOLIS_LUNAE_DIARII",
+   "label": "Solis et Lunae motus diarii, 1598 and 1599 — a manuscript of Rudolf II's collection, Swedish booty of 1648, untraced",
+   "status": "lost",
+   "date": "1598–1599",
+   "link": "../observationes/index.html#vc-O_LOST_SOLIS_LUNAE_DIARII"
+  },
+  {
+   "kind": "observation volume",
    "key": "O_LOST_APOGRAPHUM_1593",
    "label": "Fair-copy observations 1593 (the lost apographum)",
    "status": "lost",
@@ -4203,6 +4414,14 @@
   },
   {
    "kind": "library title",
+   "key": "e-mort-niels-krag-laced-lost",
+   "label": "De republica Lacedaemoniorum",
+   "status": "lost",
+   "date": "1593",
+   "link": "../bibliotheca/tycho-brahe-library/explorer.html?entry=e-mort-niels-krag-laced-lost"
+  },
+  {
+   "kind": "library title",
    "key": "e-mort-lipsius-de-constantia-lost",
    "label": "De constantia",
    "status": "lost",
@@ -4211,11 +4430,19 @@
   },
   {
    "kind": "library title",
-   "key": "e-mort-niels-krag-laced-lost",
-   "label": "Republica Lacedaemoniorum (1593) — copy with Tycho's autograph distichs",
+   "key": "e-norlind-paulus-alexandrinus",
+   "label": "Eisagoge eis ten apotelesmatiken seu Rudimenta in doctrinam de praedictis natalitiis ex Henrici Rantzovii bibliotheca primum graece et latine edita et nunc denuo correcta",
    "status": "lost",
-   "date": "1593",
-   "link": "../bibliotheca/tycho-brahe-library/explorer.html?entry=e-mort-niels-krag-laced-lost"
+   "date": "1588",
+   "link": "../bibliotheca/tycho-brahe-library/explorer.html?entry=e-norlind-paulus-alexandrinus"
+  },
+  {
+   "kind": "library title",
+   "key": "e-letter-scaliger-emendatione",
+   "label": "De emendatione temporum (revised ed.; Leiden, Plantin 1598)",
+   "status": "lost",
+   "date": "1598",
+   "link": "../bibliotheca/tycho-brahe-library/explorer.html?entry=e-letter-scaliger-emendatione"
   }
  ],
  "questions": [
