@@ -1,6 +1,6 @@
 ﻿no,edition_key,entry_key,work,edition_or_issue,nielsen_number,author,kind,period,year,place,printer,publisher,format,census_key,located,in_trade,recorded_untraced,lost,inferred,placeholder,nielsen_1921_pages,opera_omnia
 1,M_CARMEN_1572,ln424,Carmen ad fratrem (1572),Copenhagen 1572,LN 424,Tycho Brahe,edition,I · Copenhagen,1572,Copenhagen,Mads Vingaard (Matthias Vinitor),,Broadsheet (2°),brahe-carmen-ad-fratrem-1572,2,0,1,0,7,0,176,"IX, 173"
-2,M_NOVA_1573,ln429,De nova stella (1573),Copenhagen 1573,LN 429,Tycho Brahe,edition,I · Copenhagen,1573,Copenhagen,Lorentz Benedicht,,4°,brahe-de-nova-stella-1573,6,3,14,1,0,0,176–177,"I, 1–72, 309–311"
+2,M_NOVA_1573,ln429,De nova stella (1573),Copenhagen 1573,LN 429,Tycho Brahe,edition,I · Copenhagen,1573,Copenhagen,Lorentz Benedicht,,4°,brahe-de-nova-stella-1573,6,3,15,1,0,0,176–177,"I, 1–72, 309–311"
 3,M_PRATENSIS_1584,ln431,Epitaphium Pratensis (1584),Uraniborg 1584,LN 431,Tycho Brahe,edition,II · The Uraniborg press,1584,Uraniborg,,,Broadsheet (2°),brahe-epitaphium-pratensis-1584,1,0,0,0,0,0,179,"IX, 176–177"
 4,M_ULFELDT_1584,ln426,Carmen ad Ulfeldium (1584),Uraniborg 1584,LN 426,Tycho Brahe,edition,II · The Uraniborg press,1584,Uraniborg,,,2°,brahe-carmen-ulfeldt-1584,1,0,0,0,0,0,179,"IX, 179–180"
 5,M_GJOE_1584,lost-gjoe,Carmen ad Falk Gjøe (1584),Uraniborg 1584 (lost),,Tycho Brahe,lost printing,II · The Uraniborg press,1584,Uraniborg (Hven),,,,brahe-carmen-gjoe-1584,0,0,0,0,0,1,179–180,
