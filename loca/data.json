@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.11",
+ "version": "1.12",
  "edition_date": "2026-10-20",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
@@ -1850,7 +1850,7 @@
     "instruments": [],
     "books": [
      "Sacrobosco, De sphaera (1558; bought 1560, lectured on by Scavenius) — bound with Bayrus and Macer in the white leather stamped 'T. B. 1560', now Prague, NKP 18 J 318",
-     "Ptolemy, Omnia opera (Basel 1551) — bought Copenhagen, last day of November 1560, for 2 Joachimsthaler; signed and annotated; now Prague University Library",
+     "Ptolemy, Omnia opera (Basel 1551) — the title note ‘Emptus Haffniae 2 Joachimicis 1560 ultimo Novembris’ (hand disputed: Tycho, per Friis and Dreyer, or Johannes Pratensis, whose name and ‘I. P. 1561’ binding the volume carries, per Boldan & Vackářová 2024); marginalia attributed to Tycho; now Prague, NKP 5 B 70 (Prandtl's Band I)",
      "Apian/Gemma Frisius, Cosmographia (Paris 1553) — bound with the Regiomontanus in the volume stamped 'Tycho Brade' / 'Anno 1561' (Prandtl's Band II; M/S Museet for Søfart, Helsingør, 1957:0030)",
      "Regiomontanus, Tabulae directionum (Tübingen 1550) — first in the same volume of 1561; not the De triangulis",
      "Carelli, Ephemerides (acquired with Jens Nilsson c. 1561)",
@@ -2113,7 +2113,7 @@
     }
    ],
    "grade": "A",
-   "disputes": "First recorded observation: Dreyer (p. 19) has 17 August 1563; Christianson 2020 (pp. 25–26) has first entry 18 August — Christianson followed (modern), Dreyer's day noted; Thoren gives only August 1563. Cross-staff origin: Thoren (pp. 18–19; his n. 27 hedges whether the two references are to one instrument) has Tycho ordering an Arscenius cross-staff from Louvain; Dreyer, Norlind and Christianson 2020 have a radius built at Leipzig after Gemma Frisius's instructions with Scultetus's transversal scale — both accounts preserved, not conflated. Norlind (p. 20) rejects Dreyer's inference of a second Leipzig sojourn in November 1565 as a copyist's misreading of the observation journal ('En andra resa till Leipzig kan det naturligtvis ej vara tal om') — no such stay created. Christianson 2000 gives no dates for Leipzig; its 1562–1565 span is this chapter's approximation, not that source's assertion. Matriculation day: the Kronik of Magasin fra Det Kongelige Bibliotek 2:1 (1987), p. 31, reports that the Leipzig matriculation list enters Tycho, Vedel 'og et par andre danske' on St Gall's day, 16 October 1561; Stephanius put the matriculation in 1562, and Becker (who excerpted the list in 1844 and published it in 1862) treated the entry as a later insertion 'fejlskrevet for 1562'. The day followed here, 24 March 1562, rests on Thoren and the biographies, which may themselves follow Stephanius and Becker; the album decides, and the grade stands until it is read."
+   "disputes": "First recorded observation: Dreyer (p. 19) has 17 August 1563; Christianson 2020 (pp. 25–26) has first entry 18 August — Christianson followed (modern), Dreyer's day noted; Thoren gives only August 1563. Cross-staff origin: Thoren (pp. 18–19; his n. 27 hedges whether the two references are to one instrument) has Tycho ordering an Arscenius cross-staff from Louvain; Dreyer, Norlind and Christianson 2020 have a radius built at Leipzig after Gemma Frisius's instructions with Scultetus's transversal scale — both accounts preserved, not conflated. Norlind (p. 20) rejects Dreyer's inference of a second Leipzig sojourn in November 1565 as a copyist's misreading of the observation journal ('En andra resa till Leipzig kan det naturligtvis ej vara tal om') — no such stay created. Christianson 2000 gives no dates for Leipzig; its 1562–1565 span is this chapter's approximation, not that source's assertion. Matriculation day: the Kronik of Magasin fra Det Kongelige Bibliotek 2:1 (1987), p. 31, reports that the Leipzig matriculation list enters Tycho, Vedel ‘og et par andre danske’ on St Gall's day, 16 October 1561, and reads the thaler-and-groschen price in his student volume of 1561 as Saxon coin paid in Leipzig. Neither holds: 16 October is the heading of the winter semester 1561–62 (St Gall's day to St George's day), under which the rector entered the term's students at its end, so the entry dates nothing (Norlind 1970, p. 16, already Strömgren 1928; Becker had read it as a later insertion ‘fejlskrevet for 1562’), and the Copenhagen Ptolemy of 1560 is itself priced ‘2 Joachimicis’. Stephanius's day-dates (left Copenhagen 14 February, Leipzig 24 March 1562) come from Tycho's own self-horoscope and stand."
   },
   {
    "id": "stay-copenhagen-1565",
@@ -13258,7 +13258,7 @@
    "id": "S_LOCI_MAGASIN1987",
    "label": "Magasin fra Det Kongelige Bibliotek 2:1 (1987), Kronik",
    "full": "'Kronik', Magasin fra Det Kongelige Bibliotek 2:1 (1987), pp. 31–33 — the notice of the Handels- og Søfartsmuseet's deposit of Tycho's 1561 Sammelband in the Royal Library's manuscript department, with the Leipzig matriculation entry.",
-   "contributes": "The Leipzig matriculation list's entry of St Gall's day, 16 October 1561, against Stephanius's 1562 and Becker's reading of the entry as a later insertion."
+   "contributes": "The Leipzig matriculation list's entry under St Gall's day, 16 October 1561 — the winter-semester heading, not an entry date (Norlind 1970, p. 16); the deposit of the 1561 Sammelband at the Royal Library (dated 1986 by the department's own accession number, Acc. 1986/116)."
   },
   {
    "id": "S_LOCI_PAULLI1959",
