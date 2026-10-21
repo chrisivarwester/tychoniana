@@ -38,8 +38,8 @@
   "img_lost": 6,
   "img_untraced": 4,
   "img_attested": 2,
-  "specimens": 83,
-  "spec_extant": 75,
+  "specimens": 84,
+  "spec_extant": 76,
   "spec_lost": 1,
   "spec_surrogate": 2,
   "spec_disputed": 5,
@@ -593,7 +593,7 @@
   {
    "kind": "likeness",
    "key": "icon-museum-portrait-boards",
-   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus (by October 1584)",
+   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus, Landgrave Wilhelm, Buchanan and seven Italian philosophers (by October 1584 and 1591)",
    "year_start": 1580,
    "year_end": 1584,
    "edition": "Iconographia",
@@ -3280,7 +3280,7 @@
    "city": "Copenhagen",
    "country": "DK",
    "kind": "hand specimens",
-   "count": 27
+   "count": 28
   },
   {
    "city": "Prague",
@@ -4295,9 +4295,9 @@
   {
    "kind": "likeness",
    "key": "icon-museum-portrait-boards",
-   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus (by October 1584)",
+   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus, Landgrave Wilhelm, Buchanan and seven Italian philosophers (by October 1584 and 1591)",
    "status": "lost",
-   "date": "by 1–2 October 1584 (Ptolemy, Copernicus); all four by 1596",
+   "date": "by 1–2 October 1584 (Ptolemy, Copernicus); the whole set listed by September 1591",
    "link": "../iconographia/index.html#icon-museum-portrait-boards"
   },
   {

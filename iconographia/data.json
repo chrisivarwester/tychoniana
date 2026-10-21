@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.23",
- "edition_date": "2026-10-20",
+ "version": "1.24",
+ "edition_date": "2026-10-21",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -296,8 +296,8 @@
   {
    "id": "icon-museum-portrait-boards",
    "section": "portrait",
-   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus (by October 1584)",
-   "date": "by 1–2 October 1584 (Ptolemy, Copernicus); all four by 1596",
+   "label": "The Museum portrait boards at Uraniborg — Hipparchus, Ptolemy, Albategnius, Copernicus, Landgrave Wilhelm, Buchanan and seven Italian philosophers (by October 1584 and 1591)",
+   "date": "by 1–2 October 1584 (Ptolemy, Copernicus); the whole set listed by September 1591",
    "year_start": 1580,
    "year_end": 1584,
    "status": "lost",
@@ -306,9 +306,9 @@
    "bounds": {
     "lower": "c. 1580–81 (Uraniborg habitable; the Museum fitted out)",
     "upper": "1 and 2 October 1584 for the Ptolemy and Copernicus boards; December 1596 for the set as printed",
-    "argument": "The verses Tycho appended to the boards are dated in the Epistolae: the Ptolemy elegy 'Kal. Octob. 1584' and the Copernicus verses 2 October 1584 — a terminus ante quem for those two boards. Hipparchus and Albategnius are attested only by the printed inventory of 1596, which describes all four boards hanging between the windows. Uraniborg was 'circa annum 1580 … exaedificatae' by the Mechanica's own date, so nothing hung in the Museum before about 1580–81."
+    "argument": "The verses Tycho appended to the boards are dated in the Epistolae: the Ptolemy elegy ‘Kal. Octob. 1584’ and the Copernicus verses 2 October 1584 — a terminus ante quem for those two boards. All the boards, with the Landgrave's, Buchanan's and the seven Italians', are listed in the German description of September 1591 (Opera omnia VI, 255) and again in the Latin Synopsis of 1596. Uraniborg was ‘circa annum 1580 … exaedificatae’ by the Mechanica's own date, so nothing hung in the Museum before about 1580–81."
    },
-   "description": "On the wall between the windows of the Museum — the round library in Uraniborg's south tower, the great brass globe in the middle of it — hung painted boards with the effigies of Hipparchus, Ptolemy, Albategnius and Copernicus, Tycho's own four-name genealogy of the science he meant to complete, to each of which he appended verses. His description of the room is printed in the Epistolae astronomicae (Uraniborg 1596), pp. 238–240 (= Opera omnia VI, 268–271), and with it two of the poems: beneath the Ptolemy, the elegy 'In Cl. Ptolemaei Alexandrini effigiem' dated Kal. Octob. 1584, and beneath the Copernicus — whose likeness was 'quam ipsemet sua manu e speculo depinxisse dicitur', said to have been painted by Copernicus himself from a mirror — the verses of 2 October 1584 and a second epigram. Resen reprinted the verses in the Inscriptiones Hafnienses (1668), p. 338, and Georg Ludwig Frobenius reprinted the Ptolemy elegy on his Almagest proof-sheet of 1644. The same four names, with Timochares, Alfonso, Tycho himself and the Tychonides, recur in the painted cycle of Stjerneborg's warming room; the Museum boards are the earlier and smaller statement of the lineage, and the pedestal of the smaller equatorial armillary carries it a third time. What the record attests is the subjects, the hanging and the dated verses — not what the four effigies looked like.",
+   "description": "On the wall between the windows of the Museum — the round library in Uraniborg's south tower, the great brass globe behind the column in the middle of it — hung painted boards with the effigies of Hipparchus, Ptolemy, Albategnius and Copernicus, Tycho's own four-name genealogy of the science he meant to complete, to each of which he appended verses; beside them a board of Landgrave Wilhelm IV of Hesse ‘ob insignem rerum Astronomicarum peritiam’, a likeness of George Buchanan given by Peter Young (‘Dn. Petrus Iunius’) on his embassy — which James VI, entering the Museum in 1590, recognised at once as his tutor's and ‘nutu et digito applauserit’ — and ‘septem Philosophorum Italicorum, qui ante Annos circiter centenos floruerunt, Effigies unâ eademque Tabulâ’, seven Italian philosophers of about a century earlier on one board, unnamed. The German description sent to the Landgrave in September 1591 already lists all of them (Opera omnia VI, 255); Tycho's Latin Synopsis of 1596 describes the room again (Epistolae astronomicae, Uraniborg 1596, pp. 238–240 = Opera omnia VI, 268–271) and prints two of the poems: beneath the Ptolemy, the elegy ‘In Cl. Ptolemaei Alexandrini effigiem’ dated Kal. Octob. 1584, and beneath the Copernicus — a half-length (‘Imagine … Dimidiâ’) whose likeness was ‘quam ipsemet sua manu e speculo depinxisse dicitur’, said to have been painted by Copernicus himself from a mirror — the verses of 2 October 1584 and a second epigram. Resen reprinted the verses in the Inscriptiones Hafnienses (1668), p. 338, and Georg Ludwig Frobenius reprinted the Ptolemy elegy on his Almagest proof-sheet of 1644. The same four names, with Timochares, Alfonso, Tycho himself and the Tychonides, recur in the painted cycle of Stjerneborg's warming room; the Museum boards are the earlier and smaller statement of the lineage, and the pedestal of the smaller equatorial armillary carries it a third time. What the record attests is the subjects, the hanging and the dated verses — not what the effigies looked like.",
    "nature": "Original painted boards, lost with Uraniborg. No board, fragment or copy is attested in the excavation literature or in any collection.",
    "whereabouts": {
     "summary": "Lost. Uraniborg was quarried after 1601; of its interior decoration nothing is known to survive beyond the oak column capital at Frederiksborg, whose place in the building is unrecorded.",
@@ -328,7 +328,8 @@
    ],
    "open_questions": [
     "Who painted the four boards, and when between about 1580 and October 1584; no source names the painter or dates the work.",
-    "Whether the Copernicus board reproduced a known self-portrait type — Tycho's 'e speculo' phrase repeats the tradition attached to the Copernicus likenesses, and the model of his own copy is unrecorded."
+    "Whether the Copernicus board reproduced a known self-portrait type — Tycho's 'e speculo' phrase repeats the tradition attached to the Copernicus likenesses, and the model of his own copy is unrecorded.",
+    "Which seven Italian philosophers of about 1490 the one board showed — Tycho names none; the identification with Ficino and the Florentine Platonists (Christianson 2000, p. 102; Håkansson 2006, p. 105) is inference from the date."
    ],
    "edges": [
     [
@@ -344,7 +345,9 @@
     "S_ICON_EPISTOLAE_1596",
     "S_ICON_RESEN1668",
     "S_ICON_HADRAVOVA1996",
-    "S_ICON_BRONDSTED1962"
+    "S_ICON_BRONDSTED1962",
+    "S_ICON_TBOO",
+    "S_ICON_MECHANICA_TEXT"
    ]
   },
   {

@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.12",
- "edition_date": "2026-10-20",
+ "version": "1.13",
+ "edition_date": "2026-10-21",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
   {
@@ -12453,11 +12453,11 @@
    "year_start": 1580,
    "year_end": 1597,
    "status": "lost",
-   "grade": "B",
+   "grade": "A",
    "lat": 55.9076,
    "lon": 12.6959,
    "fate": "lost with Uraniborg",
-   "description": "Uraniborg's library, which among its treasures held the great brass globe (globus magnus orichalcicus) onto which Tycho engraved his measured star positions. On the wall between the windows hung painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus, to which Tycho appended verses — the Ptolemy and Copernicus verses, dated 1 and 2 October 1584, are printed in the Epistolae (1596), pp. 239–240; the round room measured, by Mortensen's reckoning, 5 m in diameter (1955, p. 31). Tycho himself placed it: writing to Landgrave Wilhelm IV on 26 September 1591 he put his students’ Museum, ‘where his library is also found’, ‘in media contignatione rotundæ Turriculæ versus Austrum’ — on the middle storey of the round turret towards the south (Epistolae 1596, pp. 238–240; Opera omnia VI, p. 268; quoted by Jardine & Segonds 2008, p. 98 n. 4). That is the room described above: the south tower’s three levels are the laboratory below, the museum on the main floor and the observing room above (Jern 1976), so the turret’s middle storey is the house’s ground floor. Christian Hansen Riber’s deposition of May 1598 adds that the students examined the library ‘whenever we liked’ (Jardine & Segonds 2008, p. 169).",
+   "description": "Uraniborg's library was the Museum: the round room on the ground floor of the south tower, with the chemical laboratory in the crypt beneath it and the great southern observatory above. Tycho's printed Synopsis of 1596 places it, in the third person, ‘in media contignatione rotundæ Turriculæ versus Austrum’ — on the middle storey of the round turret towards the south — ‘where Tycho's students apply themselves to their studies by day and carry out astronomical operations, and where his library is also found’ (Epistolae 1596, pp. 237–240 = Opera omnia VI, 268); the German description that went to Landgrave Wilhelm IV with the letter of 26 September 1591, compiled by Tycho's German amanuensis as the letter's postscript says, has the same (Opera omnia VI, 255). On every plan Tycho printed — the Marburg sheet of 1586, the Epistolae of 1596, the Mechanica of 1598 — the letters T Bibliotheca and W Globus magnus orichalcicus stand in the south rotunda of the ground floor, and the elevation key reads ‘M. Musæum cum Bibliotheca’ (in 1586 ‘Musæum rotundum cum Bibliotheca et Globo magno aurichalcico, cuius Diameter 6 pedum est’). A column stood in the middle of the room: describing the painting behind the mural quadrant, Tycho sets the great globe ‘post columnam, in medio Musæi rotundi constitutam’ (Mechanica, Opera omnia V, 31), and the engraving of 1598 shows the column rising through laboratory, Museum and observatory. Round it stood four tables at which he kept six, eight, at times twelve students computing, besides boys and juniors (plan key ‘V. Quatuor Mensæ pro Studiosis’); six or eight other globes, celestial and terrestrial, smaller instruments and automata; on the wall between the windows the painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus, of Landgrave Wilhelm, of George Buchanan (Peter Young's gift) and of seven Italian philosophers on one board; a porphyry stone with Plato's dictum in gold letters, ‘Unum est naturæ vinculum, doctrina numerorum figurarum et motuum cœlestium’, and the inscription ‘Non haberi, sed esse’ (Opera omnia VI, 368). The books appear once in a contemporary image: the 1598 engraving shows, at the letter Tycho explains as ‘a part of our library’, two open bracket shelves with the volumes standing upright. The room was open to the students — Christian Hansen Riber deposed in 1598 that they ‘examined your whole library whenever we pleased’ (Jardine & Segonds 2008, p. 169) — and in September 1584 Ursus lodged in it and handled the papers on its tables, where a copy of the prosthaphaeresis rules lay for each student (Tycho to Hagecius, 14 March 1592, Opera omnia VII, 321–326). Charlier's excavation of 1901 gave the rotunda an outer diameter of about 6 m and an inner one a little over 5 m; Tycho prints 20 (1586) and 22 (1596, 1598) feet; Mortensen's 5 m rests on the excavated plan (1955, p. 31). The two aviaries of the 1586 key — ‘R. Cavea aviaria versus Occidentem. Q. Alia cavea aviaria versus ortum, in quibus aves liberè in parvis arboribus hinc inde volantes cantitant’ — closed the ends of the ambulatory on either side of the room; the keys of 1596 and 1598 omit them. Copernicus's triquetrum was not kept here but in the great northern observatory (plan key R). The one description of the interior by a visitor independent of Tycho's texts is Augustin von Mörsberg's, from his visit of 3 July 1592 (printed by Zeiller, 1648): a hall ‘upstairs’ painted with the most famous astronomers, Landgrave Wilhelm among them, from which one enters ‘a fine round tower’ holding ‘a very great celestial globe’; next to the hall Tycho's bedchamber with the mural quadrant. No one counted the books in Tycho's lifetime; the size of the library is treated in the Bibliotheca chapter.",
    "edges": [
     [
      "housed",
@@ -12469,10 +12469,16 @@
     "S_LOCI_DREYER",
     "S_LOCI_EPISTOLAE1596",
     "S_LOCI_MORTENSEN1955",
-    "S_LOCI_JARDINE2008"
+    "S_LOCI_JARDINE2008",
+    "S_LOCI_MECHANICA1598",
+    "S_LOCI_INSKRIPTIONER",
+    "S_LOCI_ZEILLER1648",
+    "S_LOCI_BECKETT",
+    "S_LOCI_JERN",
+    "S_LOCI_AIM1996"
    ],
    "place": "place-hven",
-   "attested_by": "Described in Tycho's own published account of Uraniborg (Mechanica, 1598), which places the great brass globe in the library (Dreyer 1890)."
+   "attested_by": "Tycho's own texts: the plan keys of 1586, 1596 and 1598 (T Bibliotheca, W Globus, M Musæum cum Bibliotheca), the Synopsis of 1596 (Opera omnia VI, 268–271), the Mechanica's account of the mural painting (Opera omnia V, 30–31) and the inscription list (Opera omnia VI, 368); Riber's deposition of 1598; Mörsberg's report of 1603 on his visit of 1592."
   },
   {
    "id": "site-printing-house",
@@ -12589,7 +12595,7 @@
    "lat": 50.0925,
    "lon": 14.4036,
    "fate": "the building survives; its astronomical contents dispersed after 1612 and removed to the Gallery Building by 1635",
-   "description": "The Renaissance Royal Summer Palace (Belvedere) in the Royal Garden below Prague Castle. Tycho is reported to have made Prague observations 'in the arcades of the building' (Pierre Bergeron, 1607); after his death in 1601 the Belvedere became a memorial 'Astronomical Museum' housing the astronomy and exact-science part of Rudolf II's collections — the large instruments together with portraits of astronomers (Ptolemy, Albategnius, Copernicus, and two of Tycho himself) and of their royal patrons (Alfonso X, Charles V, Rudolf II, Frederik II of Denmark). The two surviving Tycho-associated sextants by Bürgi and Habermel passed through this collection on their way to the National Technical Museum. Dreyer (1890, p. 365) corroborates the connection from the other side: the Emperor agreed to buy Tycho's own Hven instruments from the family for 20,000 thaler; Tengnagel, as scientific heir from 1602, denied Kepler access to them and had them vaulted under Curtius' house, and Kepler later recorded the 'instrumenta Braheana' as standing 'in viridario Caesaris' (the Emperor's garden, i.e. this Belvedere) in October 1604 — before they were destroyed in the 1619 Bohemian rising against the Habsburgs. Not to be confused with Tycho's principal Prague-period working sites, Benátky nad Jizerou and the Curtius house — the latter the very building under which the instruments were stored. Grade B: the 'Musaeum' reading is Fučíková's, and Tycho's own use of the Belvedere is reported, not firmly documented. Danish painters of the nineteenth century knew the building as 'Tycho Brahes observatorium': Thorald Læssøe's two views carry that title in the Statens Museum for Kunst's records (KMS418, dated 1843, and KMS4365, whose catalogue date of 1831 predates the painter's birth in 1816 and must be a slip).",
+   "description": "The Renaissance Royal Summer Palace (Belvedere) in the Royal Garden below Prague Castle. Tycho is reported to have made Prague observations 'in the arcades of the building' (Pierre Bergeron, 1603); after his death in 1601 the Belvedere became a memorial 'Astronomical Museum' housing the astronomy and exact-science part of Rudolf II's collections — the large instruments together with portraits of astronomers (Ptolemy, Albategnius, Copernicus, and two of Tycho himself) and of their royal patrons (Alfonso X, Charles V, Rudolf II, Frederik II of Denmark). The two surviving Tycho-associated sextants by Bürgi and Habermel passed through this collection on their way to the National Technical Museum. Dreyer (1890, p. 365) corroborates the connection from the other side: the Emperor agreed to buy Tycho's own Hven instruments from the family for 20,000 thaler; Tengnagel, as scientific heir from 1602, denied Kepler access to them and had them vaulted under Curtius' house, and Kepler later recorded the 'instrumenta Braheana' as standing 'in viridario Caesaris' (the Emperor's garden, i.e. this Belvedere) in October 1604 — before they were destroyed in the 1619 Bohemian rising against the Habsburgs. Not to be confused with Tycho's principal Prague-period working sites, Benátky nad Jizerou and the Curtius house — the latter the very building under which the instruments were stored. Grade B: the 'Musaeum' reading is Fučíková's, and Tycho's own use of the Belvedere is reported, not firmly documented. Danish painters of the nineteenth century knew the building as 'Tycho Brahes observatorium': Thorald Læssøe's two views carry that title in the Statens Museum for Kunst's records (KMS418, dated 1843, and KMS4365, whose catalogue date of 1831 predates the painter's birth in 1816 and must be a slip).",
    "edges": [
     [
      "housed",
@@ -12810,15 +12816,17 @@
    "site": "site-uraniborg",
    "level": "Tower rooms",
    "name": "The library and museum",
-   "function": "The study in the south tower, housing the great brass globe and painted portraits of ancient and modern astronomers.",
+   "function": "The study in the south tower: the library, the great brass globe behind a central column, four tables for the students, and the painted portrait boards.",
    "instruments": [
     "inst-globe"
    ],
-   "description": " Tycho's own inventory of the museum (Opera omnia VI, 268, as quoted by Hadravová, Hadrava & Shackelford 1996, n. 263, pp. 148–149): the great globe in the middle of the round room, six or eight other globes celestial and terrestrial, smaller instruments, and on the wall between the windows painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus, a portrait of Landgrave Wilhelm of Hesse, a likeness of the Scottish poet George Buchanan given by 'Peter Iunius' during a visit — which James VI, entering the study in 1590, recognised at once as his former tutor and applauded — and seven Italian philosophers on one board; Plato's Epinomis on the way to wisdom through 'the one and true science of numbers and celestial motions' in gold letters on a porphyry stone. Tycho appended verses to the portrait boards; those for Ptolemy and Copernicus are printed in the Epistolae (1596), pp. 239–240 (= Opera omnia VI, 269–271), dated 1 and 2 October 1584 — a terminus ante quem for those two boards — and the Copernicus board carried a likeness 'quam ipsemet sua manu e speculo depinxisse dicitur', said to have been painted by Copernicus himself from a mirror. Mortensen gives the round room's diameter as 5 m (1955, p. 31).",
+   "description": "Tycho's own inventory of the Museum (Opera omnia VI, 268–269; Hadravová, Hadrava & Shackelford 1996, n. 263, pp. 148–149): the great globe, which the Mechanica sets ‘post columnam, in medio Musæi rotundi constitutam’ — behind the column that stood in the middle of the round room (Opera omnia V, 31); six or eight other globes, celestial and terrestrial, smaller instruments and automata; four tables for the six, eight or at times twelve students who computed there by day (plan key ‘V. Quatuor Mensæ pro Studiosis’); on the wall between the windows painted boards of Hipparchus, Ptolemy, Albategnius and Copernicus, a portrait of Landgrave Wilhelm of Hesse, a likeness of the Scottish poet George Buchanan given by ‘Peter Iunius’ during a visit — which James VI, entering the study in 1590, recognised at once as his former tutor and applauded — and seven Italian philosophers on one board; Plato's dictum in gold letters on a porphyry stone, ‘Unum est naturæ vinculum, doctrina numerorum figurarum et motuum cœlestium’, and the inscription ‘Non haberi, sed esse’ (Opera omnia VI, 368). Tycho appended verses to the portrait boards; those for Ptolemy and Copernicus are printed in the Epistolae (1596), pp. 239–240 (= Opera omnia VI, 269–271), dated 1 and 2 October 1584 — a terminus ante quem for those two boards — and the Copernicus board carried a half-length likeness ‘quam ipsemet sua manu e speculo depinxisse dicitur’, said to have been painted by Copernicus himself from a mirror. The books are pictured once: the engraving of 1598 shows, at the letter Tycho explains as ‘a part of our library’, two open bracket shelves with the volumes standing upright. Mortensen gives the round room's diameter as 5 m (1955, p. 31); Charlier's foundations of 1901 give a little over 5 m inside.",
    "sources": [
     "S_LOCI_AIM1996",
     "S_LOCI_EPISTOLAE1596",
-    "S_LOCI_MORTENSEN1955"
+    "S_LOCI_MORTENSEN1955",
+    "S_LOCI_MECHANICA1598",
+    "S_LOCI_INSKRIPTIONER"
    ]
   },
   {
@@ -13332,6 +13340,26 @@
    "full": "‘Sousoší Tychona Brahe a Johanna Keplera’, hrady.cz (the monument's text page, summaries credited to Václav Kubeš and E. Horáková) and drobnepamatky.cz (node 21904, entry added 25 May 2018): ‘Sousoší … od akademického sochaře Josef Vajce bylo r. 1984 odhaleno před Gymnáziem Jana Keplera, které bylo postaveno na místě Kurzovy vily, kde oba astronomové v Praze bydleli.’ Hobbyist registers, cited for the unveiling year they agree on with the National Library's volume of 2026; neither gives an installation date, the competition, the architect or the material.",
    "url": "https://www.hrady.cz/pomnik-pamatnik-sousosi-tychona-brahe-a-johanna-keplera/texty",
    "url_label": "hrady.cz — the monument's text page"
+  },
+  {
+   "id": "S_LOCI_MECHANICA1598",
+   "label": "Tycho Brahe, Astronomiae instauratae mechanica (Wandsbek, 1598)",
+   "full": "Tycho Brahe, Astronomiae instauratae mechanica (Wandsbek 1598) = Opera omnia V: the mural-quadrant chapter (V, 29–31: the painting of the house, the Museum's four tables, the column in the middle of the round Museum, ‘Bibliothecæ nostræ aliqua pars’), the great globe (V, 102–105) and the Uraniborg keys (V, 142–144: ‘T. Bibliotheca. W. Globus magnus Orichalcicus. V. Quatuor Mensæ pro Studiosis’; the triquetrum kept in the great northern observatory R). Read in the DSL critical text.",
+   "contributes": "The column in the middle of the Museum, the four tables and the number of students, the shelves in the painting, the triquetrum's place in the north observatory."
+  },
+  {
+   "id": "S_LOCI_INSKRIPTIONER",
+   "label": "Tycho Brahe, the Uraniborg inscriptions (Opera omnia VI, 368)",
+   "full": "Tycho Brahe, Indskrifter fra Uraniborg (ed. Zeeberg & Gredal Jensen, DSL) = Opera omnia VI, 368: ‘In Museo. Non haberi, sed esse’; ‘Dictum Platonis. Unum est naturæ vinculum, doctrina numerorum figurarum et motuum cœlestium’; the inscriptions under Bacchus and the golden Sun, at the furnace, round the optical mirror, over the hypocaust door, on the four seasons and on the clock.",
+   "contributes": "The wording of the Museum's inscription and of the Plato dictum."
+  },
+  {
+   "id": "S_LOCI_ZEILLER1648",
+   "label": "Mörsberg's report of 1603 on his visit of 3 July 1592 (Zeiller 1648; Friis 1894)",
+   "full": "Augustin, Freiherr von Mörsberg und Beffort, report dated 1 April 1603 on his journey of 1592 (ed. Carl-Heinrich Seebach, Neumünster 1980, pp. 16–61 — unread), in the extract printed by Martin Zeiller, Neue Beschreibung der Königreiche Dennemarck unnd Norwegen (Ulm 1648), pp. c. 250–253, reprinted from the edition of 1658 (p. 259) by F. R. Friis, Et Par Optegnelser om Uraniborg (Copenhagen 1894), pp. 13–14; the visit dated by Harald Ilsøe, Fund og Forskning 54 (2015), p. 240.",
+   "url": "https://books.google.com/books?id=6BZhAAAAcAAJ",
+   "url_label": "Zeiller 1648 (Google Books)",
+   "contributes": "The only description of Uraniborg's interior by a visitor independent of Tycho's printed texts: the hall of painted astronomers, the round tower with the great globe, the bedchamber with the mural quadrant, the bell-pulls, ‘zwo Cammern voll Bücher’ at the press house."
   }
  ]
 }
