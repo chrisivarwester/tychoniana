@@ -2,20 +2,20 @@
  "title": "Manus — the hand of Tycho Brahe",
  "subject": "Tycho Brahe",
  "registry": {
-  "specimens": 83,
+  "specimens": 84,
   "secure": 14,
-  "probable": 59,
+  "probable": 60,
   "possible": 10,
-  "autograph_whole": 25,
+  "autograph_whole": 26,
   "autograph_partial": 15,
   "signature_only": 25,
   "calligrapher_body": 13,
   "disputed_autograph": 5,
   "grade_a": 21,
-  "grade_b": 52,
+  "grade_b": 53,
   "grade_c": 8,
   "grade_d": 2,
-  "extant": 75,
+  "extant": 76,
   "surrogate_only": 2,
   "disputed": 5,
   "lost": 1,
@@ -34,8 +34,8 @@
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 104,
-  "without_record_or_surrogate": 41,
+  "open_questions": 109,
+  "without_record_or_surrogate": 42,
   "anchors": 14,
   "undated": 2
  },
@@ -1940,6 +1940,78 @@
    "variants": [
     "correspondence-exile"
    ]
+  },
+  {
+   "id": "copenhagen-kb-calvin-lindenov-dedication",
+   "label": "Copenhagen, KB, 88, 201 01801 — Calvin 1597 + Theocritus 1596 Sammelband, dedication to Hans Lindenov (‘Johanni Lindenouio consobrino suo Tycho Brahe ddt’)",
+   "type": "presentation_inscription",
+   "registers": [
+    "dedication_inscription"
+   ],
+   "stage": "hven-uraniborg",
+   "stage_label": "Hven / Uraniborg maturity",
+   "date": "1597/1601",
+   "date_basis": "The Calvin constituent was on sale at the Frankfurt Lent fair of 1597 (Lutz, A2v) and the book cannot have been among those registered at Uraniborg on 21 March 1597; the dedication is on the free endpaper of the binding that carries the father's small supralibros; strict terminus ante quem 24 October 1601 on the father reading, 7 April 1610 (the recipient's death) if the writer were the son — the son reading is killed on context (no documented channel to any Lindenov; the son in Italy 1601, Prague 1602 and České Zlatníky 1603–12, the only Copenhagen entry in his album dated 28 October 1599 — Manuscriptorium record, Vaculínová 2006; every son specimen self-marked ‘T.F.’, ‘Filius’, ‘junior’). Mortensen 1955: probably before 1599, unless sent to Lindenov later.",
+   "date_conf": "B",
+   "autograph": "autograph_whole",
+   "verdict": "probable",
+   "basis": "Mortensen 1955, p. 26 (‘Tycho Brahes egenhændige Tilskrift’, the only printed autopsy, unargued) + the reading-room photographs read at native resolution: all four lines on one rising diagonal in one dark iron-gall-type ink and one nib width (camera-JPEG photometry excludes a different ink, no finer), the ſ of line 2 fitted into the space above the y of line 3 and the T's arch filling the indent of line 2 (one planned block); the signature built as the secure leaf-wittenberg-1599-05-08 and the probable duodo-dedication-1600 signatures (T entering with a hairline from the lower left into a broad open arc, B wrapped in a left lobe with the stem running below the line into a long tail, v-shaped r, h of Brahe with a long left-sweeping descender, scale c. 1.8× the body); the address sharing the arc u-mark, the hooked descending initial J and the left-curling looped uncial d with the father's secure album prose (leaf 1599-05-08) and GKS 316 (1597); no calligrapher markers. Refutation (Opus, 21 Oct 2026): the three address allographs are period-common and the sample is c. 25 letters, so the hand alone is possible-to-probable; a same-desk secretary for lines 1–2 (the Mosbach composite, TBOO VIII p. 316, was a signature written first and the address added later by Jessenius, which the one-sitting layout here speaks against) is the one live confounder, decided only by stroke order at the line-2/line-3 crossings under magnification; the son is killed on context (no Danish or Lindenov channel after 1601: Manuscriptorium record of VI F 44, Vaculínová 2006, Dreyer 1890). Basis recorded as ‘context + signature construction’, not ‘hand’.",
+   "att_conf": "B",
+   "established_by": "the compilation : one Opus attribution worker, one Opus refuter, one gap-fill; the orchestrator's independent first reading",
+   "scribe": "",
+   "scribe_disc": "",
+   "grade": "B",
+   "status": "extant",
+   "institution": "Det Kgl. Bibliotek (Royal Danish Library)",
+   "city": "Copenhagen",
+   "country": "Denmark",
+   "shelfmark": "88, 201 01801 (eks. 2); barcode 201003563960; kept in Håndskriftsamlingens arkiv / the box store (LFHABBOX)",
+   "catalogue_url": "",
+   "iiif": "",
+   "surrogates": [],
+   "content": "Johanni Lindenouio | Consobrino suo | Tycho Brahe | ddt. — d(ono) d(edi)t (Fund og Forskning X, 1963, p. 155; Mortensen 1955 printed d(onum) d(onavit))",
+   "extent": "Four lines, whole inscription, c. 25 letters of address + the display signature + the abbreviation: ‘Johanni Lindenou⌒i[o] | Conſobrino s⌒uo | Tycho Brahe | ddt.’ — the last letter of line 1 e-shaped (pen failure at the joint, Mortensen), read o; ONE long s only (Conſobrino), the s of suo a round 5-shaped s; arc u-marks (diacritics) over the u of -ou- and of suo; NO diaeresis on the y (the stroke above it is the ſ descender of line 2); both d-ascenders of ddt looped and crossing two long convergent strokes drawn above, the t with a long bar, a full point after; the formula stands AFTER the name (one Latin sentence in natural order, dative – subject – verb), unparalleled in the store (a private collection, Hasenburg, Pruskovský, Rothmann, Duodo all put it before or above); the doubled overline has its parallel in duodo-dedication-1600 (‘DDt.’ under two strokes). Verso of the front free endpaper facing the Calvin title; endpaper a heavier laid stock than the text; conjugacy not examined; no set-off on the title. Photographs: Christian Westergaard, Forskningslæsesal, 21 Oct 2026, Canon R8, IMG_0838 (opening) and IMG_0839 (macro, 4000×6000)(CR3 raws beside); crops kept with the dossier's working papers. Not published: reading-room photographs, no KB permission to publish sought.",
+   "references": [
+    {
+     "kind": "scholarly work",
+     "name": "Mortensen, ‘Fra Tycho Brahes Bogsamling’, Fund og Forskning 2 (1955), pp. 25–27, line-block facsimile p. 26",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "scholarly work",
+     "name": "Fund og Forskning X (1963), p. 155 (the corrigendum: ddt = dono dedit / dedicavit)",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "first hand",
+     "name": "docs/research/-kb-calvin-lindenov-autopsy-dedication-hand-the record (the autopsy: transcription, hand, refutation, marks)",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "first hand",
+     "name": "docs/research/-kb-calvin-theocritus-lindenov-sammelband-pre-the record (the pre-visit dossier)",
+     "href": "",
+     "loc": ""
+    },
+    {
+     "kind": "institutional catalogue",
+     "name": "Bibliotheca Tychoniana survivor s-mort-kb-calvin (tycho-brahe-library), the volume's record on tychoniana.com; KB Alma alma99122042516305763, eks. 2",
+     "href": "",
+     "loc": ""
+    }
+   ],
+   "census_ref": "",
+   "open_questions": [
+    "Stroke order where line 2 meets line 3 (the ſ tail against the T/y; the h-ascender of ‘Tycho’ against ‘Consobrino’) and at the bars over ddt, under a stereo-microscope or loupe: the one test that separates a same-desk secretary for lines 1–2 from one hand.",
+    "A side-by-side in the KB reading room with Hielmst. 148 2° eks. 4 (the Otte Steensen Brahe Mechanica of 1598, given to the son in print) and LN 432 copy 3 (father, 18 Sept 1600, not imaged), and a comparison of lines 1–2 against Jessenius's autograph in VI F 44 and the 14 June 1599 farewell prose.",
+    "UV/IR reflectance of lines 1–2 against 3–4 (KB conservation); the endpaper's conjugacy with the pastedown; whether the red edge-stain continues onto the dedication leaf.",
+    "The diaeresis: absent here, as on strahov-dg-iv-25 (1591) and (per the specimen JSON, against the prose of the record) sophia-stock-6196 (1599); c. 1 in 7 of the imaged exile signatures lack it — a minority form, neutral between father and son.",
+    "ddt after the name has no parallel in the store: explained by the sentence order, not by a second writer; a secure specimen with the formula after the name would close it."
+   ],
+   "variants": []
   },
   {
    "id": "berlin-grauen-kloster-rollenhagen-lost-dedication",
