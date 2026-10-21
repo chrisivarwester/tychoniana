@@ -23,10 +23,10 @@
   "stages": 3,
   "variants": 10,
   "allographs": 16,
-  "discriminators": 11,
-  "discriminating_features": 18,
+  "discriminators": 12,
+  "discriminating_features": 24,
   "features_uncharacterised": 3,
-  "shared_features": 18,
+  "shared_features": 22,
   "misattributions": 4,
   "external": 11,
   "with_catalogue_record": 41,
@@ -1955,7 +1955,7 @@
    "date_conf": "B",
    "autograph": "autograph_whole",
    "verdict": "probable",
-   "basis": "Mortensen 1955, p. 26 (‘Tycho Brahes egenhændige Tilskrift’, the only printed autopsy, unargued) + the reading-room photographs read at native resolution: all four lines on one rising diagonal in one dark iron-gall-type ink and one nib width (camera-JPEG photometry excludes a different ink, no finer), the ſ of line 2 fitted into the space above the y of line 3 and the T's arch filling the indent of line 2 (one planned block); the signature built as the secure leaf-wittenberg-1599-05-08 and the probable duodo-dedication-1600 signatures (T entering with a hairline from the lower left into a broad open arc, B wrapped in a left lobe with the stem running below the line into a long tail, v-shaped r, h of Brahe with a long left-sweeping descender, scale c. 1.8× the body); the address sharing the arc u-mark, the hooked descending initial J and the left-curling looped uncial d with the father's secure album prose (leaf 1599-05-08) and GKS 316 (1597); no calligrapher markers. Refutation (Opus, 21 Oct 2026): the three address allographs are period-common and the sample is c. 25 letters, so the hand alone is possible-to-probable; a same-desk secretary for lines 1–2 (the Mosbach composite, TBOO VIII p. 316, was a signature written first and the address added later by Jessenius, which the one-sitting layout here speaks against) is the one live confounder, decided only by stroke order at the line-2/line-3 crossings under magnification; the son is killed on context (no Danish or Lindenov channel after 1601: Manuscriptorium record of VI F 44, Vaculínová 2006, Dreyer 1890). Basis recorded as ‘context + signature construction’, not ‘hand’.",
+   "basis": "Mortensen 1955, p. 26 (‘Tycho Brahes egenhændige Tilskrift’, the only printed autopsy, unargued) + the reading-room photographs read at native resolution: all four lines on one rising diagonal in one dark iron-gall-type ink and one nib width (camera-JPEG photometry excludes a different ink, no finer), the ſ of line 2 fitted into the space above the y of line 3 and the T's arch filling the indent of line 2 (one planned block); the signature built as the secure leaf-wittenberg-1599-05-08 and the probable duodo-dedication-1600 signatures (T entering with a hairline from the lower left into a broad open arc, B wrapped in a left lobe with the stem running below the line into a long tail, v-shaped r, h of Brahe with a long left-sweeping descender, scale c. 1.8× the body); the address sharing the arc u-mark, the hooked descending initial J and the left-curling looped uncial d with the father's secure album prose (leaf 1599-05-08) and GKS 316 (1597); no calligrapher markers. Refutation (Opus, 21 Oct 2026): the three address allographs are period-common and the sample is c. 25 letters, so the hand alone is possible-to-probable; a same-desk secretary for lines 1–2 (the Mosbach composite, TBOO VIII p. 316, was a signature written first and the address added later by Jessenius, which the one-sitting layout here speaks against) is the one live confounder, decided only by stroke order at the line-2/line-3 crossings under magnification; the son is killed on context (no Danish or Lindenov channel after 1601: Manuscriptorium record of VI F 44, Vaculínová 2006, Dreyer 1890). Basis recorded as ‘context + signature construction’, not ‘hand’. Jessenius test (, VI F 44 fol. 24r, his entry of 8 January 1599 at IIIF resolution): the address argues_against_same_hand with him, moderate — his I in 'Iohan:' is a straight oblique stroke without descender or foot where the address's J descends and hooks, his h-limb descends where the address's sits on the baseline, his round s is a sigma form, his u-mark a small hook, his ductus joined; against the father's own prose on fol. 1v of the same album (secure) the address supports the same hand, weak — the 5-shaped round s ('suo' = 'Sortis'), the L ('Lindenouio' = 'Laborem'), the arc u-mark, the baseline h, the lifted ductus, slant and proportions agree, no construction disagreement found. The composite reading is therefore disfavoured for the one documented secretary and open only for untested familia hands (Longomontanus, Tengnagel).",
    "att_conf": "B",
    "established_by": "the compilation : one Opus attribution worker, one Opus refuter, one gap-fill; the orchestrator's independent first reading",
    "scribe": "",
@@ -2001,12 +2001,18 @@
      "name": "Bibliotheca Tychoniana survivor s-mort-kb-calvin (tycho-brahe-library), the volume's record on tychoniana.com; KB Alma alma99122042516305763, eks. 2",
      "href": "",
      "loc": ""
+    },
+    {
+     "kind": "first hand",
+     "name": "VI F 44 fol. 1v (the father, 28 Feb 1599) and fol. 24r (Jessenius, 8 Jan 1599) at Manuscriptorium native resolution, compared with the address lines 21 Oct 2026; comparison sheet images/vif44/lindenov_vs_jessenius_vs_father_compare_sheet.jpg",
+     "href": "",
+     "loc": ""
     }
    ],
    "census_ref": "",
    "open_questions": [
-    "Stroke order where line 2 meets line 3 (the ſ tail against the T/y; the h-ascender of ‘Tycho’ against ‘Consobrino’) and at the bars over ddt, under a stereo-microscope or loupe: the one test that separates a same-desk secretary for lines 1–2 from one hand.",
-    "A side-by-side in the KB reading room with Hielmst. 148 2° eks. 4 (the Otte Steensen Brahe Mechanica of 1598, given to the son in print) and LN 432 copy 3 (father, 18 Sept 1600, not imaged), and a comparison of lines 1–2 against Jessenius's autograph in VI F 44 and the 14 June 1599 farewell prose.",
+    "Stroke order where line 2 meets line 3 (the ſ tail against the T/y; the h-ascender of ‘Tycho’ against ‘Consobrino’) and at the bars over ddt, under a stereo-microscope or loupe: the one test that separates a same-desk secretary for lines 1–2 from one hand. Jessenius, the one documented secretary, is disfavoured on a word-for-word comparison with his VI F 44 entry of 8 January 1599 (discriminator jessenius-johannes); Longomontanus (ÖNB Cod. 10703 f. 236v, reading room only) and Tengnagel (no image) remain untested — the 5-shaped round s and the L construction are the features to test them on.",
+    "A side-by-side in the KB reading room with Hielmst. 148 2° eks. 4 (the Otte Steensen Brahe Mechanica of 1598, given to the son in print) and LN 432 copy 3 (father, 18 Sept 1600, not imaged); the father's VI F 44 prose (fol. 1v) has now been compared at IIIF resolution and agrees on the 5-shaped s and the L.",
     "UV/IR reflectance of lines 1–2 against 3–4 (KB conservation); the endpaper's conjugacy with the pastedown; whether the red edge-stain continues onto the dedication leaf.",
     "The diaeresis: absent here, as on strahov-dg-iv-25 (1591) and (per the specimen JSON, against the prose of the record) sophia-stock-6196 (1599); c. 1 in 7 of the imaged exile signatures lack it — a minority form, neutral between father and son.",
     "ddt after the name has no parallel in the store: explained by the sentence order, not by a second writer; a secure specimen with the formula after the name would close it."
@@ -3379,7 +3385,7 @@
      "kind": "raster-images"
     }
    ],
-   "content": "Latin: 'Disce puer virtutem ex me durumque laborem, / Fortiter et sortis sustinuisse vices.' Tÿcho Brahe, Filio TYCHoni primogenito scripsi Anno 1599 Feb. 28, Vitebergae. The single most secure Tycho specimen; gold-standard prose comparator. NB the album is catalogued (Manuscriptorium) as 'Stambuch Tychona Brahe ml.' = the album OF Tycho Brahe junior (the son); the Pillar-1 entry is the FATHER's holograph written INTO the son's album ('I wrote [this] for my firstborn son Tycho'). PROVENANCE AND CONTENTS OF THE ALBUM (recorded): the album came to the Bohemian National Museum in 1868 as the gift of Count Franz von Klebelsberg, with a collection of books and manuscripts partly concerning the Brahe and Tengnagel families, to whom Klebelsberg was related — 'Det bøhmiske Nationalmuseum i Prag erholdt 1868 som Gave fra Greve Franz v. Klebelsberg, en Samling Bøger og Haandskrifter, hvoraf en Del vedrører de Braheske og Tengnagelske Familier med hvilke v. Klebelsberg var i Slægtskabsforhold' (Mortensen 1942, p. 27). Contents per Mortensen 1942, p. 27, and Friis 1868–69, p. 267: autographs of Johannes Jessenius ('den bekendte Dr. J. Jessen, der holdt Gravtalen over Tycho Brahe'), Eduard Fugger of Augsburg, and scholars and nobles of Copenhagen, Hamburg, Nuremberg, Bologna and Siena; some coloured arms ('nogle farvelagte Adelsvaaben'; Friis: 'et Par malede Vaaben'); at the front de Gheyn's engraving of Tycho, coloured ('udført i Farver'), with the autographs of Tycho and his son. Friis, who saw the album in 1868, gives no shelfmark and no date for the father's entry (no 28 February 1599); the quarto format and the gift to the son 'da denne studerede i Wittenberg' are his.",
+   "content": "Latin: 'Disce puer virtutem ex me durumque laborem, / Fortiter et sortis sustinuisse vices.' Tÿcho Brahe, Filio TYCHoni primogenito scripsi Anno 1599 Feb. 28, Vitebergae. The single most secure Tycho specimen; gold-standard prose comparator. NB the album is catalogued (Manuscriptorium) as 'Stambuch Tychona Brahe ml.' = the album OF Tycho Brahe junior (the son); the Pillar-1 entry is the FATHER's holograph written INTO the son's album ('I wrote [this] for my firstborn son Tycho'). PROVENANCE AND CONTENTS OF THE ALBUM (recorded): the album came to the Bohemian National Museum in 1868 as the gift of Count Franz von Klebelsberg, with a collection of books and manuscripts partly concerning the Brahe and Tengnagel families, to whom Klebelsberg was related — 'Det bøhmiske Nationalmuseum i Prag erholdt 1868 som Gave fra Greve Franz v. Klebelsberg, en Samling Bøger og Haandskrifter, hvoraf en Del vedrører de Braheske og Tengnagelske Familier med hvilke v. Klebelsberg var i Slægtskabsforhold' (Mortensen 1942, p. 27). Contents per Mortensen 1942, p. 27, and Friis 1868–69, p. 267: autographs of Johannes Jessenius ('den bekendte Dr. J. Jessen, der holdt Gravtalen over Tycho Brahe'), Eduard Fugger of Augsburg, and scholars and nobles of Copenhagen, Hamburg, Nuremberg, Bologna and Siena; some coloured arms ('nogle farvelagte Adelsvaaben'; Friis: 'et Par malede Vaaben'); at the front de Gheyn's engraving of Tycho, coloured ('udført i Farver'), with the autographs of Tycho and his son. Friis, who saw the album in 1868, gives no shelfmark and no date for the father's entry (no 28 February 1599); the quarto format and the gift to the son 'da denne studerede i Wittenberg' are his. Canvas ids fixed: the father's entry = ID0001v (fol. 1v), read 'Disce pûer virtûtem ex me / Dûrûmqz Laborem, / Fortiter & Sortis sustinuisse / vices. / Tÿcho Brahe / Filio / Tychoni primogenito / scripsi / Anno 1599 Feb 28 / Vitebergæ'; Jessenius's entry = ID0024r (fol. 24r), Wittenberg 8 January 1599 (Julian), painted arms and the motto 'Aspius, asperior' (discriminator jessenius-johannes). Native IIIF maximum c. 1100 × 1400 px (c. 7.5 px/mm).",
    "extent": "verse advice (Virgil Aen. XII.435-6 adapted) + signature; verso carries Tyge's own distinct entry (1598)",
    "references": [
     {
@@ -4911,6 +4917,58 @@
      "feature": "(to be characterised)",
      "subject_form": "Tycho hand",
      "confounder_form": "Gellius's hand 1585-92",
+     "reliability": "low"
+    }
+   ],
+   "misattributions": []
+  },
+  {
+   "id": "jessenius-johannes",
+   "name": "Johannes Jessenius (Jan Jesenský, 1566–1621), professor of anatomy at Wittenberg 1594–1602, Tycho's friend and the secretary of record for the Mosbach Mechanica address",
+   "relationship": "secretary",
+   "confidence": "B",
+   "why": "The one familia hand documented writing the ADDRESS of a Tycho presentation copy over Tycho's own signature: for the Mosbach Mechanica of 1600 Tycho signed first and asked Jessenius to add the recipient's name and titles above ('Subscripsi saltem nomen meum, tu titulum eius … superius appone', TBOO VIII p. 316). Any four-line dedication whose signature is Tycho's therefore carries the question whether its address lines are Jessenius's — the composite reading (H2) tested on the Royal Library's Lindenov Calvin of 1597.",
+   "shared_features": [
+    "same German-trained humanist cursive school of the 1590s",
+    "long ſ with a deep descender ending in a leftward hook",
+    "single-compartment a, round o, two-stroke r with a flag",
+    "u-marks used (period-common), though of a different form"
+   ],
+   "discriminating_features": [
+    {
+     "feature": "initial I/J (the same word, Johan-, available on both sides)",
+     "subject_form": "descends well below the baseline and ends in an open left-hooked foot ('Johanni' on the Lindenov leaf; 'Jntelligunt', 'Jmperfectu' on the 8 May 1599 leaf)",
+     "confounder_form": "a tall, straight, oblique stroke from the baseline upward, no descender, no foot ('Iohan:', 'Iessenius'); his script J in 'Januarij', 'Julii' is a looped J with a closed loop below the line",
+     "reliability": "medium"
+    },
+    {
+     "feature": "h, right limb",
+     "subject_form": "the right limb ends on the baseline in prose ('Johanni'; 'Tychoni' on VI F 44 fol. 1v)",
+     "confounder_form": "the right limb descends below the line and curls left (German-type h, 'Iohan')",
+     "reliability": "medium"
+    },
+    {
+     "feature": "round s",
+     "subject_form": "a 5-shaped round s — flat top flag, body at x-height, short tail ('suo' on the Lindenov leaf; 'Sortis' twice on VI F 44 fol. 1v)",
+     "confounder_form": "a sigma or looped round/final s ('Iessenius', 'Aspius')",
+     "reliability": "medium"
+    },
+    {
+     "feature": "u-mark form",
+     "subject_form": "a large open arc (∩) or circumflex over u ('Lindenouio', 'suo'; 'Dûrûmq', 'virtûtem')",
+     "confounder_form": "a small comma- or c-shaped hook, used only sometimes ('Julii'); none over the u of 'Iessenius'",
+     "reliability": "low"
+    },
+    {
+     "feature": "ductus and connections",
+     "subject_form": "letters largely separate with many pen-lifts, deliberate ('Filio', 'Tychoni', 'primogenito'; the Lindenov address)",
+     "confounder_form": "fluent joined cursive in runs ('scribebat pingebatq', 'Iessenius')",
+     "reliability": "medium"
+    },
+    {
+     "feature": "slant and ascender ratio",
+     "subject_form": "near upright to c. 15–20° right; ascender to x-height c. 2.5:1",
+     "confounder_form": "c. 20–25° with strongly oblique I-strokes; c. 3–3.5:1, tall thin ascenders over a compressed x-height",
      "reliability": "low"
     }
    ],
