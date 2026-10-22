@@ -1,8 +1,8 @@
 {
  "pillar": "scripta",
  "subject": "brahe-tycho",
- "version": "1.3",
- "edition_date": "2026-10-07",
+ "version": "1.4",
+ "edition_date": "2026-10-22",
  "title": "Scripta Tychonis — the writings of Tycho Brahe in the edition of 2019: a catalogue, with the texts",
  "dsl": {
   "editors": "Peter Zeeberg and Finn Gredal Jensen",
@@ -4729,9 +4729,9 @@
    "research_status": "researched",
    "confidence": "B",
    "summary": "Two Latin inscriptions from Kronborg castle at Elsinore, printed together by Dreyer under the rubric INSCRIPTIONES CRONEBURGENSES. The first is twenty-four lines (twelve elegiac distichs) spoken from the building to the beholder ('velut adspicis'): the renowned FRIDERICUS, 'second both in name and in fortune', founded this lofty castle — a king pious, just, mild, strong in arms yet one who unwillingly preferred arms to the toga — whose queen SOPHIA, born of the house of Mecklenburg, bore him children full of grace; in peaceful years he finished the great mass of the structure and fortified the castle, yet not so as to lodge his hope of protection in it, nor to boast, as the builder of Babylon exulted, that human hands made these strongholds — that arrogance paid its penalty when the seventh year saw the man mad and like the beasts (Nebuchadnezzar, Daniel 4) — for the Danish king makes no display, trusting to be safe under God's protection alone, well knowing that without the favour of the Deity no bulwarks avail, not though made of steel and hard adamant; so may the Creator of stars, earth and sea, in whom alone King Frederik places his hope, grant that he, his offspring and his late descendants may long inhabit these houses in firm and flourishing peace. The second is a single distich headed IN TABULA HOROLOGII, for the face of a clock: 'Transvolat hora levis neque scit fugitiva reverti, / Nostra simul properans vita caduca fugit' — the light hour flies past and, a fugitive, does not know how to return; our frail life, hurrying, flees along with it. The first was a placed, carved inscription: Dreyer records that in his own day a tablet was still shown on the outer face of Kronborg's north-facing bastion, on which the poem had been cut, but that the lettering had by then worn away.",
-   "occasion": "The subject is the building of Kronborg — Frederik II's transformation of the medieval Krogen into a fortified renaissance residence, the fortification works of the 1570s and the castle carried to completion by 1585 — and the poem's whole argument is a courtier's theological compliment: the king builds and fortifies, but places his trust in God, not in his walls. That is the *matter*. The *occasion* in the strict sense — who asked Tycho for the verses, when, for what ceremony or dedication, and by whose warrant they were cut into the bastion tablet — is not recoverable from any source consulted here. Dreyer prints the pieces with no occasion, no date and no comment beyond their (lost) physical location; nothing in TBOO XIV's document series, in Nielsen, in Friis 1871, or in the modern literature consulted discusses them. One piece of contemporary context should be recorded and then explicitly not over-read: on 28 September 1585 Frederik II wrote to Gert Rantzau, lensmand of Kronborg, ordering the castle painter to copy for Tycho the portraits of the kings from the great Kronborg tapestries and to have the Danish and German rhymes belonging to them transcribed for him (Friis 1871, p. 151). That shows Tycho in working traffic with Kronborg's decorative and epigraphic programme in precisely the years in question — but no source connects that traffic to these verses, and the inference must not be made. The occasion is unknown.",
+   "occasion": "The subject is the building of Kronborg — Frederik II's transformation of the medieval Krogen into a fortified renaissance residence, the fortification works of the 1570s and the castle carried to completion by 1585 — and the poem's whole argument is a courtier's theological compliment: the king builds and fortifies, but places his trust in God, not in his walls. That is the *matter*. The *occasion* in the strict sense — who asked Tycho for the verses, when, for what ceremony or dedication, and by whose warrant they were cut into the bastion tablet — is not recoverable from any source consulted here. Dreyer prints the pieces with no occasion, no date and no comment beyond their (lost) physical location; nothing in TBOO XIV's document series, in Nielsen, in Friis 1871, or in the modern literature consulted discusses them. One piece of contemporary context should be recorded and then explicitly not over-read: on 28 September 1585 Frederik II wrote to Gert Rantzau, lensmand of Kronborg, ordering the castle painter to copy for Tycho the portraits of the kings from the great Kronborg tapestries and to have the Danish and German rhymes belonging to them transcribed for him (Friis 1871, p. 151). That shows Tycho in working traffic with Kronborg's decorative and epigraphic programme in precisely the years in question — but no source connects that traffic to these verses, and the inference must not be made. The occasion is unknown. Pontoppidan, the one early witness, states the warrant in his headnote: the verses were 'jussu Regio composita', composed at the King's command (Marmora Danica I, 1739, p. 136). Who conveyed the command, when, and for what dedication, he does not say; whether he took 'jussu Regio' from a subscription on the stone or from tradition is not stated either — the stone is now illegible.",
    "addressee_note": "None in the epistolary sense: this is monumental verse, addressed grammatically to the passer-by who looks at the fortified castle ('velut adspicis'), and, in its closing prayer, to God ('det astrorum terraeque marisque Creator'). Its honorands are King Frederik II of Denmark (1534–1588, r. 1559-88), Tycho's patron — the donor of Hven and of Uraniborg's building costs — who is named in the first line and again in line 22, and, jointly with him, his queen, Sophie of Mecklenburg (1557–1631), named in line 6 as 'Mechelburgiaca nata SOPHIA domo'.",
-   "transmission": "No manuscript witness is known and Dreyer names none — unlike the neighbouring Carmina in the same volume, for which he cites the Vienna codex (Vindobonensis lat. 10686) or the Langebek excerpts, these two pieces come to Dreyer from a printed antiquarian source only. His headnote at TBOO IX p. 190 reads '[Ex Erici Pontoppidani Marmoribus Danicis I p. 136 (Hauniae 1739)]': the text descends from the carved tablet at Kronborg through Pontoppidan's collection of Danish inscriptions, printed in Copenhagen in 1739, and from Pontoppidan to Dreyer, who prints the two inscriptions at TBOO IX pp. 190–191 among the Carmina. Dreyer makes exactly one editorial intervention, recorded in the Variae scripturae at TBOO IX p. 314: 'AD INSCRIPTIONES CRONEBURGENSES. p. 191 v. 2 Structurae e Structura correximus' — i.e. he corrects the source's 'Structura' to 'Structurae' in the line 'Structurae tanta mole peregit opus'. In the Annotationes editorum (TBOO IX p. 323) he adds the only note that exists on the pieces: 'INSCRIPTIONES CRONEBURGENSES (p. 190 sq.) non jam exstant, sed monstratur etiamnum tabula in exteriore parte propugnaculi adversus septentriones spectantis, cui prior inscriptio insculpta fuit; nunc vero evanuit' — the Kronborg inscriptions no longer exist, but the tablet on the outer face of the north-facing bastion, into which the first of them had been cut, was still shown in his day, its lettering by then effaced. The editors themselves index the group as inscriptions: TBOO XV, Index hominum et rerum, p. 19, 'Croneburgenses inscriptiones IX 190-191'; and s.v. Fridericus II (pp. 22–23), 'Croneburgum condidit IX 190'. That is the entire chain of transmission as the sources give it: stone (lost/effaced) -> Pontoppidan 1739 -> Dreyer 1927.",
+   "transmission": "No manuscript witness is known and Dreyer names none — unlike the neighbouring Carmina in the same volume, for which he cites the Vienna codex (Vindobonensis lat. 10686) or the Langebek excerpts, these two pieces come to Dreyer from a printed antiquarian source only. His headnote at TBOO IX p. 190 reads '[Ex Erici Pontoppidani Marmoribus Danicis I p. 136 (Hauniae 1739)]': the text descends from the carved tablet at Kronborg through Pontoppidan's collection of Danish inscriptions, printed in Copenhagen in 1739, and from Pontoppidan to Dreyer, who prints the two inscriptions at TBOO IX pp. 190–191 among the Carmina. Dreyer makes exactly one editorial intervention, recorded in the Variae scripturae at TBOO IX p. 314: 'AD INSCRIPTIONES CRONEBURGENSES. p. 191 v. 2 Structurae e Structura correximus' — i.e. he corrects the source's 'Structura' to 'Structurae' in the line 'Structurae tanta mole peregit opus'. In the Annotationes editorum (TBOO IX p. 323) he adds the only note that exists on the pieces: 'INSCRIPTIONES CRONEBURGENSES (p. 190 sq.) non jam exstant, sed monstratur etiamnum tabula in exteriore parte propugnaculi adversus septentriones spectantis, cui prior inscriptio insculpta fuit; nunc vero evanuit' — the Kronborg inscriptions no longer exist, but the tablet on the outer face of the north-facing bastion, into which the first of them had been cut, was still shown in his day, its lettering by then effaced. The editors themselves index the group as inscriptions: TBOO XV, Index hominum et rerum, p. 19, 'Croneburgenses inscriptiones IX 190-191'; and s.v. Fridericus II (pp. 22–23), 'Croneburgum condidit IX 190'. That is the entire chain of transmission as the sources give it: stone (lost/effaced) -> Pontoppidan 1739 -> Dreyer 1927. PONTOPPIDAN READ (22 October 2026, the Google scan mirrored at archive.org, bub_gb_IONWAAAAcAAJ, leaves 149–150): Marmora Danica selectiora, tomus I (Hafniae 1739), Lib. I 'Sialandicae', under Helsingør, pp. 136–137. The heading is 'Inscriptiones Famigeratissimi CASTELLI CORONÆBURGICI ad Hellespontum Danicum'; the headnote to the poem reads 'Pandit tabula ad propugnaculum vulgo Den skarpe Norden circa introitum ad portam Veterem, metra sequentia ab immortali Danorum Archimede Tychone Brahæo jussu Regio composita' — a tablet at the bastion by the entrance to the Old Gate displays the following verses, composed at the King's command by Tycho Brahe, the immortal Archimedes of the Danes. The poem follows in twelve distichs, line 10 reading 'Structura tanta mole peregit opus' (the source reading Dreyer emended, exactly as his Variae scripturae report). Then: 'Tabula turris horoscopa eidem venæ debet distichon', and the two lines 'Transvolat hora levis …' — the clock distich placed on the tablet of Kronborg's clock tower and given to the same pen. The same pages print three other Kronborg inscriptions Pontoppidan does NOT give to Tycho: the 1580 inscription on the great boulder Frederik II had rolled from Lappen to the foot of the castle ('Anno MDLXXX FRIDERICUS Daniæ Rex curavit hoc saxum à primo suo loco … ad hunc devolvendum', with Pontoppidan's note on the wager with the young Count Palatine), the German rhyme 'Supra Portam intimam' ('Nach Christi Geburt hat man geschrieben / Tausend fünffhundert und siebentzig sieben, / Als FRIDERICH der Ander König war …', naming the castle Cronenburg), and a Latin piece 'Supra Portam vulgo OBSCURAM, ad sinistram' beginning 'Hic ubi diffusum frenans Oresunda profundum'. THE STONE SURVIVES: on 22 October 2026 Museum Helsingør's archivist photographed the tablet in situ, high in the outer face of Frederik IV's bastion (the castle's north-west bastion, the former Ridderpostejen) between two small barred lights — a dark rectangular slab in a stone frame, crack lines across it from the tree that fell against the wall in 1948, no letter legible from the moat edge; that is the slab Dreyer saw in 1927 with its letters already gone. Laurits Pedersen placed it 'højt oppe paa Bastionen', marking the site of the castle's original entrance, 'den skal være forfattet af Tyge Brahe' (Helsingør i Sundtoldstiden I, 1926, pp. 252–253); Grinder-Hansen reads the poem 'på en indmuret plade ved den ydre port i Ridderpostejen' and paraphrases it, closing 'Efter kongens egen befaling har Tycho Brahe skrevet dette', citing the Latin after Arnholtz 1836, pp. 92–98 (Kronborg: fortællingen om et slot, 2018, pp. 90–91 with the notes). A Kronborg oral tradition reported by the museum — that Frederik III set the tablet to record the closing of the old gate against the Swedes — is unsourced and contradicted by every printed witness from Pontoppidan to Dreyer; its true element, that the slab marks the old gate, is Pontoppidan's 'circa introitum ad portam Veterem' and Pedersen's point.",
    "channel": "posthumous",
    "channel_basis": "Pontoppidan, Marmora Danica, 1739",
    "printed": {
@@ -4764,11 +4764,11 @@
      ]
     },
     {
-     "source": "Erik Pontoppidan (the Younger), Marmora Danica, tomus I (Hauniae, 1739)",
-     "locus": "p. 136 (cited from Dreyer's headnote, TBOO IX p. 190; not seen)",
-     "supports": "printing: the earliest printing of the two inscriptions traced here, posthumous, 138 years after Tycho's death, in an antiquarian collection of Danish carved inscriptions; and the descent of the text from the stone",
+     "source": "Erik Pontoppidan, Marmora Danica selectiora, tomus I (Hafniae, 1739)",
+     "locus": "Lib. I 'Sialandicae', Helsingør, pp. 136–137 (read 22 October 2026 in the Google scan mirrored at archive.org, bub_gb_IONWAAAAcAAJ, leaves 149–150): the heading 'Inscriptiones Famigeratissimi CASTELLI CORONÆBURGICI'; the headnote 'Pandit tabula ad propugnaculum vulgo Den skarpe Norden circa introitum ad portam Veterem, metra sequentia ab immortali Danorum Archimede Tychone Brahæo jussu Regio composita'; the poem (line 10 'Structura'); 'Tabula turris horoscopa eidem venæ debet distichon' and the distich; then the 1580 boulder inscription, the German rhyme 'Supra Portam intimam' and the Latin 'Supra Portam vulgo OBSCURAM'",
+     "supports": "the earliest printing (posthumous, 138 years after Tycho's death); the ascription to Tycho and the royal warrant ('jussu Regio'); the tablet's place at the bastion by the Old Gate; the clock distich's place on the clock tower; the source reading 'Structura' behind Dreyer's emendation; and, negatively, that the three other Kronborg inscriptions on the same pages are not given to Tycho",
      "source_ids": [
-      "S_TBOO_I"
+      "S_PONTOPPIDAN1739"
      ]
     },
     {
@@ -4826,18 +4826,53 @@
      "source_ids": [
       "S_DSL2019"
      ]
+    },
+    {
+     "source": "Museum Helsingør (Niels J. E. Andersen, museumsinspektør og arkivar), answer of 22 October 2026 to the enquiry of 13 October, with photographs",
+     "locus": "three photographs of the tablet in situ and of the SLKS restoration sign, taken 22 October 2026; the museum's scan of C. Neumann's wood engraving 'Parti ved den indre Fæstningsgrav paa Kronborg' (HM01486) and its undated archive photograph B1126 (the small tree growing from the wall beside the slab); the 1948 photograph HM05812_F untraced in the museum's archive; the oral tradition attributing the tablet to Frederik III",
+     "supports": "that the tablet survives in the wall of Frederik IV's bastion, cracked, its letters illegible from the moat edge; the depictions of the slab before 1948; the unsourced Frederik III tradition",
+     "source_ids": [
+      "S_HELSINGOR2026"
+     ]
+    },
+    {
+     "source": "Laurits Pedersen, Helsingør i Sundtoldstiden 1426–1857, I (Copenhagen, 1926)",
+     "locus": "pp. 252–253 ('Højt oppe paa Bastionen er der indmuret en Indskrift, som i velformede latinske Vers priser Kong Frederik II.s Dyder og Bedrifter; den skal være forfattet af Tyge Brahe. Indskriften betegner det Sted, hvor oprindelig Slottets Indgang var')",
+     "supports": "the tablet's place high on Frederik IV's bastion in 1926, its identification as the Latin verses in praise of Frederik II ascribed to Tycho, and that it marks the castle's original entrance",
+     "source_ids": [
+      "S_PEDERSEN1926"
+     ]
+    },
+    {
+     "source": "Poul Grinder-Hansen, Kronborg: fortællingen om et slot (Copenhagen: Gyldendal and Nationalmuseet, 2018)",
+     "locus": "pp. 90–91 (the poem 'på en indmuret plade ved den ydre port i Ridderpostejen', a Danish paraphrase closing 'Efter kongens egen befaling har Tycho Brahe skrevet dette'; the allusion to Erik XIV in the Babylon lines); notes to chapter 4 ('Det tysksprogede digt over Mørkeport og Tycho Brahes latinske digt ved den gamle port i bastionen er citeret efter Arnholtz 1836, s. 92–98')",
+     "supports": "the modern reading of the poem's place (the outer gate of the Ridderpostejen, i.e. Frederik IV's bastion), the royal-command statement in Danish, and the pointer to Arnholtz 1836 as the printed text he follows",
+     "source_ids": [
+      "S_GRINDERHANSEN2018"
+     ]
+    },
+    {
+     "source": "M. C. von Arnholtz, Cronborg Slots og Fæstnings Historie. Et Bidrag til Danmarks Krigshistorie (Helsingør, 1836)",
+     "locus": "pp. 92–98 (cited from Grinder-Hansen 2018; not yet read — Google Books id 5qJAAAAAYAAJ served p. 88 and then refused); p. 88 (the old clockwork in the great tower of the south wing, read)",
+     "supports": "a second printed witness to the Latin poem and the German Mørkeport rhyme, a century after Pontoppidan and ninety years before Dreyer; whether independent of Pontoppidan is the open question",
+     "source_ids": [
+      "S_ARNHOLTZ1836"
+     ]
     }
    ],
    "open_questions": [
-    "The date is unsupported. The edition gives c. 1586; no authority consulted here states a year, and Dreyer prints both pieces undated. The c. 1585–1588 range recorded above is inferred from the building history and from Frederik II's death, not documented. If the edition has grounds for 1586 (perhaps from Pontoppidan, or from a year on the stone), they are not stated.",
-    "On what basis are the verses Tycho's? This is the record's weakest joint. Dreyer prints them among Tycho's Carmina, but his only citation is Pontoppidan's Marmora Danica (1739) — a collection of Danish carved inscriptions compiled 138 years after Tycho's death — and he nowhere states, in the headnote, the Variae scripturae or the Annotationes, what evidence assigns the poem to Tycho. Whether Pontoppidan himself names Tycho as author, and on what authority, has NOT been verified: Marmora Danica has not been seen for this record. Until it is checked, the ascription rests on Dreyer's editorial decision alone, and is a weaker claim than the text or the transmission.",
+    "The date is unsupported. The edition gives c. 1586; no authority consulted here states a year, and Dreyer prints both pieces undated; Pontoppidan 1739 gives none. The c. 1585–1588 range recorded above is inferred from the building history and from Frederik II's death, not documented. The tapestry literature gives 1585 — Reindel 2006, p. 24, nn. 96–97, after Honnens de Lichtenberg 1989, p. 152 — on grounds not seen for this record. If the edition has grounds for 1586 (perhaps from a year on the stone), they are not stated.",
     "Was there a lifetime printing after all? Tycho supplied Nathan Chytraeus with the Danish inscriptions for his Variorum in Europa itinerum deliciae (Herborn: Christoph Rab, 1594), which acknowledges the debt in the preface and prints a selection of the Hven inscriptions at pp. 593–601 (Vellev 2017). Whether the Kronborg tablet — a royal inscription that Tycho, if he wrote it, would have been well placed to supply — is among Chytraeus's Danica has not been checked; the book has not been seen for this record, and Dreyer does not cite it. If it is there, the printing status of this record changes from posthumous (1739) to printed in Tycho's lifetime (1594). This is the single most valuable next check.",
-    "Where was the clock inscription? The rubric IN TABULA HOROLOGII gives the fitting but not the building; Dreyer's note specifies the placement only of the 'prior inscriptio' (the bastion tablet) and says merely that the Kronborg inscriptions 'non jam exstant'. That the clock in question was Kronborg's is the natural reading of the shared rubric and of Pontoppidan's context, but no source says so. Note that Tycho used the same conceit at Uraniborg, where a distich ran round the rim of the cupola clock (TBOO VI p. 369).",
-    "Does the bastion tablet still exist? Dreyer reported in 1927 that it was 'still shown' on the outer face of the north-facing bastion with its letters effaced. No modern report — archaeological, conservation, or Kronborg-museum — has been checked; whether the stone survives, and whether raking-light or photogrammetric re-reading could recover any of the lettering (as Vellev and Zeeberg did in 2001 for Tycho's Hven paper-mill votive stone), is unknown.",
     "Title form: TBOO's rubric and the TBOO XV index give the plural 'Inscriptiones Croneburgenses'; the edition heads the piece 'Inscriptiones Croneburgensis'. The plural is Dreyer's and is adopted here; nothing of substance hangs on it, but the variant should be kept searchable.",
-    "The 'work' is an editorial grouping, not a Tycho-authored collection: two separate inscriptions, of very different scale and character (a 24-line dynastic-theological poem for a bastion; a two-line memento-fugit for a clock-face), printed under one rubric because Pontoppidan found them together at Kronborg."
+    "The 'work' is an editorial grouping, not a Tycho-authored collection: two separate inscriptions, of very different scale and character (a 24-line dynastic-theological poem for a bastion; a two-line memento-fugit for a clock-face), printed under one rubric because Pontoppidan found them together at Kronborg.",
+    "Arnholtz 1836 has not been read. M. C. von Arnholtz, Cronborg Slots og Fæstnings Historie (Helsingør 1836), pp. 92–98, prints the German rhyme over the Mørkeport and Tycho's Latin poem 'ved den gamle port i bastionen' (so Grinder-Hansen 2018, notes to pp. 90–91); it is digitised in Google Books (id 5qJAAAAAYAAJ), which served one page and then refused. Whether Arnholtz read the tablet himself in the 1830s — i.e. whether the letters were still legible a century before Dreyer's 'evanuit' — or copied Pontoppidan, and whether he records a subscription naming Tycho, is the next check.",
+    "The Latin piece Pontoppidan prints 'Supra Portam vulgo OBSCURAM, ad sinistram' — 'Hic ubi diffusum frenans Oresunda profundum / Balthica Thety tuis …' (Marmora Danica I, 1739, p. 137) — is a third Kronborg inscription in verse, over the Mørkeport, which he does not give to Tycho and Dreyer does not print. Its author is unknown to this record; it has not been collated with Tycho's known verse."
    ],
-   "resolved_questions": [],
+   "resolved_questions": [
+    "RESOLVED (22 October 2026): on what basis are the verses Tycho's? Pontoppidan, the copy-text Dreyer names, says so in his headnote — 'metra sequentia ab immortali Danorum Archimede Tychone Brahæo jussu Regio composita' (Marmora Danica I, 1739, p. 136). The ascription therefore rests on a named authority of 1739, not on Dreyer's editorial decision alone, and Grinder-Hansen's closing line 'Efter kongens egen befaling har Tycho Brahe skrevet dette' is Pontoppidan's 'jussu Regio' in Danish. Whether Pontoppidan read the author's name on the stone — a subscription below the verses — or supplied it from tradition is not stated, and the slab is illegible; Arnholtz 1836, pp. 92–98, may say more (not yet read).",
+    "RESOLVED (22 October 2026): where was the clock inscription? At Kronborg, on the clock tower: Pontoppidan prints the distich under the rubric 'Tabula turris horoscopa eidem venæ debet distichon' — the tablet of the clock tower owes this distich to the same vein (Marmora Danica I, 1739, p. 136). Dreyer's rubric IN TABULA HOROLOGII abbreviates that. Which tower carried the clock in the 1580s is a Kronborg question, not a Tycho one; Arnholtz 1836 describes the clockwork in the great tower of the south wing (p. 88).",
+    "RESOLVED (22 October 2026): does the bastion tablet still exist? Yes. Museum Helsingør's archivist photographed it in situ on 22 October 2026, high in the outer face of Frederik IV's bastion between two small barred lights: a dark rectangular slab in a stone frame, crack lines across it from the tree that fell against the wall in 1948, no letter legible from the moat edge (about ten metres). Dreyer's 1927 report — tablet still shown, letters gone — is confirmed. Still open: a close reading of the stone. Slots- og Kulturstyrelsen is rebuilding the rampart walls and its scaffolding is expected to reach that section within about a year — the chance to examine the slab at arm's length under raking light for any trace of the letters, a date, or a later recutting."
+   ],
    "editorial_notes": [
     "The edition's display title has the form 'Croneburgensis'; the text's own heading reads INSCRIPTIONES CRONEBURGENSES."
    ],
@@ -11993,7 +12028,7 @@
    "contributes": "The base text and the editorial notes for the 1573 book, the almanac, the Additiones, the Oration, the three nativities and the trigonometry.",
    "url": null,
    "url_status": null,
-   "cited_by": 41
+   "cited_by": 10
   },
   {
    "id": "S_TBOO_II",
@@ -12196,11 +12231,11 @@
   {
    "id": "S_PONTOPPIDAN1739",
    "short": "Pontoppidan 1739",
-   "full": "Erik Pontoppidan, Marmora Danica, tom. I (Copenhagen, 1739).",
-   "contributes": "The first printing of the Kronborg inscriptions.",
-   "url": null,
-   "url_status": null,
-   "cited_by": 0
+   "full": "Erik Pontoppidan, Marmora Danica selectiora, sive Inscriptionum, quotquot fatorum injuriis per Daniam supersunt … fasciculus, tomus I (Hafniae, 1739). Read for the Kronborg inscriptions on 22 October 2026 in the Google scan mirrored at archive.org.",
+   "contributes": "The earliest printing of the Kronborg inscriptions and Dreyer's copy-text (pp. 136–137): names Tycho as their author 'jussu Regio', places the tablet at the bastion 'Den skarpe Norden' by the Old Gate and the clock distich on the clock tower; also prints the great globe's own inscription of 1584 and the 1632 tablet at the Academy (p. 125).",
+   "url": "https://archive.org/details/bub_gb_IONWAAAAcAAJ",
+   "url_status": "verified",
+   "cited_by": 1
   },
   {
    "id": "S_DANSKEMAGAZIN1746",
@@ -12461,6 +12496,42 @@
    "contributes": "The Russian history of the Kepler papers from the Russian literature: the arrival of 1774, Pulkovo 1839, the copying for Munich 1918–1934, the Academy's archive 1938 and fond 285.",
    "url": "https://www.cultureandcosmos.org/pdfs/25/25_Dilanian_Kepler_Astrology_Horoscopes.pdf",
    "url_status": null,
+   "cited_by": 1
+  },
+  {
+   "id": "S_HELSINGOR2026",
+   "short": "Museum Helsingør 2026",
+   "full": "Museum Helsingør (Niels J. E. Andersen, museumsinspektør og arkivar), two mails of 22 October 2026 with thirteen attachments, answering an enquiry of 13 October 2026 about the museum's records HM01486, HM05812_F and HM04063_F.",
+   "contributes": "The tablet photographed in situ on 22 October 2026; the museum's depictions of the slab before 1948; the oral tradition attributing it to Frederik III; the restoration timetable.",
+   "url": "https://www.museernehelsingor.dk/",
+   "url_status": "verified",
+   "cited_by": 1
+  },
+  {
+   "id": "S_PEDERSEN1926",
+   "short": "Pedersen 1926",
+   "full": "Laurits Pedersen, Helsingør i Sundtoldstiden 1426–1857, I (Copenhagen: Nyt Nordisk Forlag, 1926).",
+   "contributes": "The tablet high on Frederik IV's bastion in 1926, ascribed to Tycho and marking the castle's original entrance (pp. 252–253).",
+   "url": "",
+   "url_status": null,
+   "cited_by": 1
+  },
+  {
+   "id": "S_GRINDERHANSEN2018",
+   "short": "Grinder-Hansen 2018",
+   "full": "Poul Grinder-Hansen, Kronborg: fortællingen om et slot, photographs by Roberto Fortuna (Copenhagen: Gyldendal and Nationalmuseet, 2018).",
+   "contributes": "The modern account of the poem at the outer gate of the Ridderpostejen (pp. 90–91) and the pointer to Arnholtz 1836 as its printed text.",
+   "url": "",
+   "url_status": null,
+   "cited_by": 1
+  },
+  {
+   "id": "S_ARNHOLTZ1836",
+   "short": "Arnholtz 1836",
+   "full": "Matthias Christian von Arnholtz, Cronborg Slots og Fæstnings Historie. Et Bidrag til Danmarks Krigshistorie (Helsingør: the author, 1836).",
+   "contributes": "The printed text Grinder-Hansen follows for the Latin poem and the German Mørkeport rhyme (pp. 92–98); not yet read for this record.",
+   "url": "https://books.google.com/books?id=5qJAAAAAYAAJ",
+   "url_status": "verified",
    "cited_by": 1
   }
  ]
