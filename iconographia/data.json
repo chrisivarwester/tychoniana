@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.24",
- "edition_date": "2026-10-21",
+ "version": "1.25",
+ "edition_date": "2026-10-23",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -1845,7 +1845,7 @@
    "year_end": 1598,
    "status": "extant",
    "grade": "A",
-   "description": "Tycho controlled the image of his establishment as carefully as his own likeness. The earliest graphic representation is the Orthographia broadsheet — three woodcuts of Uraniborg in elevation, bird's-eye view and ground-plan, printed by early 1585 on Nielsen's own hedged inference — one print with several attested distributions (to Rantzau in 1585, to Wilhelm IV in 1586, to Blotius in 1592), surviving in the exemplar sent on 1 March 1586 to Wilhelm IV (Hessisches Staatsarchiv Marburg, Best. 3 II, Nr. 1070) and retrieved on loan by Eiler Nystrom in 1912. How the Uraniborg view in Braun & Hogenberg's Civitates orbis terrarum descends from it is a point on which the two 1921 authorities disagree: Nielsen (Bogtrykkeri paa Hveen) holds the Braun plate a direct copy of the Marburg sheet, while Beckett & Christensen derive it from the lost 1585 woodcut sent to Hajek, the Vienna pen-drawing being a collateral witness and explicitly not the direct model. The Braun & Hogenberg plate (engraved Cologne 1586; published 1588 in the atlas's fourth volume) added a map of Hven and the 'Apotheosis of the Sound' (Christianson, figs. 21–22). The Mechanica (1598) carries the celebrated plates of Uraniborg, Stjerneborg and their instruments, but adds only one new architectural image — the east facade, a copperplate — and otherwise reprints the 1596 Epistolae blocks, so that 1598 dates the printing, not the image, for the reused views. Through these printed views the long-demolished buildings are still known. Beckett & Christensen's 1921 study established the reliability of the sequence: the Marburg broadsheet is the most reliable, carrying details found nowhere else; the Epistolae (1596) and Mechanica (1598) views are progressively prettified but less accurate; and the Epistolae map of Hven derives from a drawing by Willem Blaeu, Tycho's pupil. Measured against Charlier's 1901 excavation, all of them are unreliable in architectural detail — corrected by Charles Christensen's measured reconstruction (see Loca).",
+   "description": "Tycho controlled the image of his establishment as carefully as his own likeness. The earliest graphic representation is the Orthographia broadsheet — three woodcuts of Uraniborg in elevation, bird's-eye view and ground-plan, printed by early 1585 on Nielsen's own hedged inference — one print with several attested distributions (to Rantzau in 1585, to Wilhelm IV in 1586, to Blotius in 1592), surviving in the exemplar sent on 1 March 1586 to Wilhelm IV (Hessisches Staatsarchiv Marburg, Best. 3 II, Nr. 1070) and retrieved on loan by Eiler Nystrom in 1912. How the Uraniborg view in Braun & Hogenberg's Civitates orbis terrarum descends from it is a point on which the two 1921 authorities disagree: Nielsen (Bogtrykkeri paa Hveen) holds the Braun plate a direct copy of the Marburg sheet, while Beckett & Christensen derive it from the lost 1585 woodcut sent to Hajek, the Vienna pen-drawing being a collateral witness and explicitly not the direct model. The Braun & Hogenberg plate (engraved Cologne 1586; published 1588 in the atlas's fourth volume) added a map of Hven and the 'Apotheosis of the Sound' (Christianson, figs. 21–22). Its letterpress — read in the Seville copy of the Latin edition (plates dated 1586) and in the French-text edition at Heidelberg — reprints the Marburg sheet's key of 1586 almost word for word: ‘M. Musaeum rotundum cum Bibliotheca & globo magno aurichalcico, cuius diameter 6 pedum est’, the two aviaries, ‘T. Bibliotheca. VV. Globus ille magnus aurichalcius. V. Mensae. Y. lecti’, and the 1586 measures (square 50 feet, towers 20, ambulatory 9), not the 60/22/10 feet of 1596 and 1598; the French has ‘L'estude rond, avec une librairie & un grand Globus ou boulle faicte de laiton’. Braun is thus a derivative witness to the 1586 state and settles nothing the Marburg sheet does not. The Mechanica (1598) carries the celebrated plates of Uraniborg, Stjerneborg and their instruments, but adds only one new architectural image — the east facade, a copperplate — and otherwise reprints the 1596 Epistolae blocks, so that 1598 dates the printing, not the image, for the reused views. Through these printed views the long-demolished buildings are still known. Beckett & Christensen's 1921 study established the reliability of the sequence: the Marburg broadsheet is the most reliable, carrying details found nowhere else; the Epistolae (1596) and Mechanica (1598) views are progressively prettified but less accurate; and the Epistolae map of Hven derives from a drawing by Willem Blaeu, Tycho's pupil. Measured against Charlier's 1901 excavation, all of them are unreliable in architectural detail — corrected by Charles Christensen's measured reconstruction (see Loca).",
    "edges": [
     [
      "depicts",
@@ -1868,7 +1868,8 @@
     "S_ICON_HORACEK2021",
     "S_ICON_SLKS",
     "S_ICON_SMK",
-    "S_ICON_SMK_2026"
+    "S_ICON_SMK_2026",
+    "S_ICON_BRAUN1588"
    ],
    "image": "plates/icon-uraniborg-views.jpg",
    "image_thumb": "plates/icon-uraniborg-views_thumb.jpg",
@@ -3573,6 +3574,13 @@
    "id": "S_ICON_MFS_EXAM_2026",
    "label": "M/S Museet for Søfart, the sheet 1954:0495 examined (2026)",
    "full": "M/S Museet for Søfart, Helsingør: the sheet 1954:0495 — the cut impression of the Týn epitaph plate on its mount — examined and photographed at the museum's study centre on 20 October 2026, by appointment with the curator, together with the volume 1957:0030: the impression with its letterpress above and below, the engraved signature at the lower right beneath the frame, the mount and its back. Unpublished; the photographs are kept with the edition's working papers."
+  },
+  {
+   "id": "S_ICON_BRAUN1588",
+   "label": "Braun & Hogenberg, Civitates orbis terrarum IV (1588), the Hven plate and its text",
+   "full": "Georg Braun & Frans Hogenberg, Civitates orbis terrarum, liber quartus (Cologne, [1588]): the Hven plate ‘Topographia insulae Huenae in celebri porthmo Regni Daniae … Effigiata Coloniae 1586’ and its letterpress (Topographia; Orthographia arcis Vranienburg; Ichnographiae explicatio; Delineationis totius capacitatis explicatio), read in the Seville copy of the Latin edition (archive.org ARes73114, plates dated 1586) and in the French-text edition at Heidelberg (braun1594bd4, ‘Topographie de l'Isle Huena’). The text is the 1586 Marburg key, not Tycho's revised keys of 1596 and 1598.",
+   "url": "https://archive.org/details/ARes73114",
+   "url_label": "Seville copy (archive.org)"
   }
  ],
  "rejected": [
