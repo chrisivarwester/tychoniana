@@ -23,11 +23,11 @@
   "stages": 3,
   "variants": 10,
   "allographs": 16,
-  "discriminators": 12,
-  "discriminating_features": 24,
+  "discriminators": 13,
+  "discriminating_features": 28,
   "features_uncharacterised": 3,
-  "shared_features": 22,
-  "misattributions": 4,
+  "shared_features": 27,
+  "misattributions": 5,
   "external": 11,
   "with_catalogue_record": 41,
   "with_surrogate": 18,
@@ -4973,6 +4973,49 @@
     }
    ],
    "misattributions": []
+  },
+  {
+   "id": "johannes-pratensis",
+   "name": "Johannes Pratensis (Hans Philipsen, 1543–1576), Tycho's fellow student at Copenhagen and closest early friend, professor of medicine from 1571",
+   "relationship": "same_school_contemporary",
+   "confidence": "C",
+   "why": "His name stands twice on the title of the Basel 1551 Ptolemy, Prague NK ČR 5 B 70, whose binding is blind-stamped ‘I. P. 1561’ for him. The purchase note at the foot of that title (‘Emptus Haffniae 2 Ioachimicis 1560 ultimo Novembris’) was read as Tycho's own hand by Friis (1868) and Dreyer (1890) and made ‘Tycho's first book’; Kleinschnitzová (1933), Christianson (1967, printing Dreyer's manuscript note of Friis's later retraction, KB NKS 3077 4°, p. 101), Šolc (2006, 2018) and Boldan & Vackářová (2024) read the purchase as Pratensis's, the book coming to Tycho from his estate in 1576 at the latest. The marginalia in the same volume were claimed for Tycho by the Jesuit note of 1642 (‘NB. Marginales notae sunt Tichonis Brahe’) and by Studnička and Prandtl, and given to Pratensis by Friis in private. Any hand in that volume must therefore be tested against his before it is given to Tycho.",
+   "shared_features": [
+    "the same Copenhagen-trained humanist cursive of 1560 (both were students there in 1559–62)",
+    "single-storey closed a; small closed-eye e; two-stroke r with a short shoulder",
+    "capital I built as a stem with a head flag to the right and a foot bar to the left — the period's standard italic I (also the form of the 1560 purchase note)",
+    "capitals detached from the following minuscule by a pen-lift",
+    "long ſ carried below the baseline with a leftward hairline tail (shared in kind with the 1583 pillar)"
+   ],
+   "discriminating_features": [
+    {
+     "feature": "capital I / J",
+     "subject_form": "one sweeping J-stroke with a hooked head, no foot, and a long tail curving left below the baseline (‘Intelligunt’, ‘Imperfectu’ on the leaf of 8 May 1599, 2 of 2; ‘Johanni’ on the Lindenov leaf) — attested in the late registers only; the 1583 documentary pillar has no capital I",
+     "confounder_form": "an upright stem of c. 2–3 x-heights with a right-turning head flag (a tiny tick in the first signature, a full head bar in the second) and a left-turning foot bar on the baseline; no descender (‘Iohannis’, ‘Iohannes’)",
+     "reliability": "medium"
+    },
+    {
+     "feature": "construction of h",
+     "subject_form": "the stem stops at or near the baseline; in prose the right limb ends on the baseline (‘Johanni’, ‘Tychoni’), in 1583 the second leg curls under the line with a short hook (‘hic’, ‘nihil’)",
+     "confounder_form": "italic-type h whose FIRST stem is carried straight below the baseline in a long leftward sweep while the shoulder ends on the baseline and links into the following a (both signatures) — the same habit he shows on his long ſ",
+     "reliability": "medium"
+    },
+    {
+     "feature": "minim arches (n, m)",
+     "subject_form": "rounded arches in the 1583 documentary prose, angular and widely spaced in the 1599 album prose",
+     "confounder_form": "tall, angular minims with pointed apexes and a spiky entry stroke (‘Iohannes’ nn, ‘Pratensis’ n) — a display-register feature, so of low weight",
+     "reliability": "low"
+    },
+    {
+     "feature": "u-mark",
+     "subject_form": "a habitual small mark above u, on non-abbreviating u as well (1583 ‘Annúm’, ‘occúrsús’, ‘qúia’; 1599 ‘quibus’, ‘datur’)",
+     "confounder_form": "untestable — the two signatures contain no u; the only Pratensis-attributed specimens are the signatures",
+     "reliability": "low"
+    }
+   ],
+   "misattributions": [
+    "The purchase note of 30 November 1560 in NK ČR 5 B 70: read as Tycho's autograph by Friis 1868–69 (p. 267) and Dreyer 1890 (p. 14), followed by Studnička 1901 and Prandtl 1932 — the basis of ‘Tycho's first book’. Against it the binding stamped for Pratensis in 1561, his name twice on the title, and Friis's own later opinion recorded in Dreyer's hand (Christianson 1967, p. 201 n. 13). The in-session comparison found the note inconclusive against the signatures (weak lean against: the h built on different limbs, pointed against rounded minims) and inconclusive against Tycho's pillars (weak lean against: the capital I without the J-descender, the final s at x-height) — the note's writer is identified with neither on the present evidence."
+   ]
   },
   {
    "id": "longomontanus",
