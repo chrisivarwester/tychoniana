@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.17",
+ "version": "1.18",
  "edition_date": "2026-10-26",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
@@ -3519,6 +3519,12 @@
      "source": "S_LOCI_KB_BREVBOGER",
      "pages": "Danske Magazin II (1746), p. c. 190",
      "note": "the March-April 1574 observing (separate stay) shows the Herrevad connection continuing"
+    },
+    {
+     "source": "S_LOCI_WESTMAN2011",
+     "pages": "p. 233 and p. 556 nn. 55, 57",
+     "quote": "Both Dreyer (1963, 38) and Thoren (1990, 55) describe the event well in their own words, but the former offers no source and the latter's citations are, uncharacteristically, inaccurate; the passage is cited correctly in Clark and Stephenson 1977, 174",
+     "note": "Tycho's own narrative of 11 November 1572 — the servants and the passing countrymen called as witnesses — is Progymnasmata, TBOO III 307–308. The Meteorological Diary of De nova stella is dated ‘From our study at Herreward [Abbey], December 1572’ (TBOO I 44)."
     }
    ],
    "grade": "A",
@@ -4668,10 +4674,16 @@
      "pages": "Mosley 2007, p. 166",
      "quote": "then also add that manuscript De directionum significationibus by an unknown author, which I saw with you in Regensburg... (Tycho to Hagecius, 25 August 1585)",
      "note": "TBOO VI, 95.10-18 — contemporary self-testimony of the Regensburg meeting"
+    },
+    {
+     "source": "S_LOCI_WESTMAN2011",
+     "pages": "p. 242 (n. 93: Hagecius 1576)",
+     "quote": "Hagecius had received Raimondo's latest irritation in Regensburg on October 9, 1575 — where he met Tycho Brahe for the first time",
+     "note": "The day of the first meeting, taken from the Responsio's dating of the receipt of Raimondo's tract; the Responsio has not been read for the passage, so the day stands as Westman's statement."
     }
    ],
    "grade": "A",
-   "disputes": "Hagecius's gifts: Dreyer, Thoren and Christianson 2020 have the Commentariolus manuscript; Gassendi and Friis name the Dialexis and Munosius's tract — read as complementary, all retained. Dreyer's note on the Thomasini story of an imperial court offer ('probably at Ratisbon in 1575, if ever made') has no confirmation anywhere and is not asserted."
+   "disputes": "Hagecius's gifts: Dreyer, Thoren and Christianson 2020 have the Commentariolus manuscript; Gassendi and Friis name the Dialexis and Munosius's tract — read as complementary, all retained. Dreyer's note on the Thomasini story of an imperial court offer ('probably at Ratisbon in 1575, if ever made') has no confirmation anywhere and is not asserted. Westman (2011, p. 242) dates the first meeting with Hagecius to 9 October 1575, the day Hagecius records receiving Raimondo's tract at Regensburg (Hagecius 1576); the Responsio has not been read for the passage, so the day is carried as his statement."
   },
   {
    "id": "stay-nuremberg-1575",
@@ -13400,6 +13412,12 @@
    "url": "https://tidsskrift.dk/magasin/article/view/66213",
    "url_label": "open access (tidsskrift.dk)",
    "contributes": "The hostile insider of 1591: the night outside the gate, the terms of service (six years, secrecy, no wage), Aslacus at table, the sealed chest and the escape — and no description of the Museum, the globe or the books."
+  },
+  {
+   "id": "S_LOCI_WESTMAN2011",
+   "label": "Westman, The Copernican Question (2011)",
+   "full": "Robert S. Westman, The Copernican Question: Prognostication, Skepticism, and Celestial Order (Berkeley and Los Angeles: University of California Press, 2011; first paperback printing 2020).",
+   "contributes": "The reception historian's account of the early years: the first meeting with Hagecius dated to 9 October 1575 from Hagecius's Responsio, and the Progymnasmata narrative of the nova's discovery cited at its page against Dreyer's and Thoren's."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "id": "brahe-tycho",
- "version": "2.8",
+ "version": "2.9",
  "edition_date": "2026-10-26",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
@@ -209,6 +209,12 @@
    "label": "Morawiec, ‘In Defense of Paul Wittich’ (2015)",
    "full": "Adam Morawiec, ‘In Defense of Paul Wittich — † 9 January 1587’, Sudhoffs Archiv 99, no. 2 (2015), pp. 235–239.",
    "contributes": "the case for 9 January 1587 as Wittich's death date, from the printed Silesia togata of 1706 and Scultetus's almanac for 1587"
+  },
+  {
+   "id": "S_WESTMAN2011",
+   "label": "Westman, The Copernican Question (2011)",
+   "full": "Robert S. Westman, The Copernican Question: Prognostication, Skepticism, and Celestial Order (Berkeley and Los Angeles: University of California Press, 2011; first paperback printing 2020).",
+   "contributes": "Dybvad's Wittenberg formation and Copenhagen chair, with Thoren's rivalry thesis weighed; the De mundi courier journeys of Gellius Sascerides in 1588 and his Padua years; the English journey of Tengnagel and Eriksen and Eriksen's report of Harriot to Kepler."
   }
  ],
  "category_colours": {
@@ -3814,11 +3820,12 @@
    "categories": [
     "correspondent"
    ],
-   "connection": "Franz Gansneb Tengnagel von Kamp (1573–1636), Tycho's pupil and collaborator who came with him from Denmark — 'neither gifted nor hard-working' in the 1996 editors' words — extemporised the hexameters printed beneath the steel quadrant in the Mechanica; married Elisabeth Brahe in 1601; after Tycho's death fell out with Kepler over the manuscripts, books and instruments; travelled for Rudolf II on secret missions to Paris and Madrid in 1609; an instigator of the Passau invasion of 1611, captured and imprisoned by the Estates' army; later in Bavarian service; buried in Prague in the church of Our Lady below the Chain (Hadravová, Hadrava & Shackelford 1996, n. 168). The Stockholm royal library’s catalogue of 1650–51 enters two Tycho manuscripts from the Prague booty — the parchment star catalogue and a Solis et Lunae motus diarii of 1598–99 — under his name (Vossius–Callmer 1971, p. 19 no. 2 and p. 18 no. 4, as cited by Veselá 2025, p. 142 n. 494); why is not explained. Not to be confused with Sebastian Tengnagel (d. 1636), the Vienna court librarian.",
+   "connection": "Franz Gansneb Tengnagel von Kamp (1573–1636), Tycho's pupil and collaborator who came with him from Denmark — 'neither gifted nor hard-working' in the 1996 editors' words — extemporised the hexameters printed beneath the steel quadrant in the Mechanica; married Elisabeth Brahe in 1601; after Tycho's death fell out with Kepler over the manuscripts, books and instruments; travelled for Rudolf II on secret missions to Paris and Madrid in 1609; an instigator of the Passau invasion of 1611, captured and imprisoned by the Estates' army; later in Bavarian service; buried in Prague in the church of Our Lady below the Chain (Hadravová, Hadrava & Shackelford 1996, n. 168). The Stockholm royal library’s catalogue of 1650–51 enters two Tycho manuscripts from the Prague booty — the parchment star catalogue and a Solis et Lunae motus diarii of 1598–99 — under his name (Vossius–Callmer 1971, p. 19 no. 2 and p. 18 no. 4, as cited by Veselá 2025, p. 142 n. 494); why is not explained. Not to be confused with Sebastian Tengnagel (d. 1636), the Vienna court librarian. Before October 1606 he travelled to England with Johannes Eriksen, Tycho's former amanuensis; Eriksen met Thomas Harriot in London and reported to Kepler, whose letter to Harriot of 2 October 1606 opened their correspondence on optics (Westman 2011, p. 411 nn. 51–52).",
    "sources": [
     "S_EPISTOLARIUM",
     "S_HADRAVOVA1996",
-    "S_VESELA2025"
+    "S_VESELA2025",
+    "S_WESTMAN2011"
    ],
    "letters_sent": 1,
    "letters_received": 0,
@@ -3897,12 +3904,13 @@
     "assistant",
     "antagonist"
    ],
-   "connection": "Physician (later professor of medicine at Copenhagen) who assisted Tycho on Hven and was betrothed to Tycho's eldest daughter Magdalene; his breaking of the engagement provoked a bitter suit before the university and chapter (1596–1599) that Dreyer counts among the vexations driving Tycho from Denmark. Received 2 letters from Tycho (1590, 1591). (Rørdam 1873, pp. 16–34; Kancelliets Brevbøger 1593–96, p. 578; 1596–1602, pp. 115–116.)",
+   "connection": "Physician (later professor of medicine at Copenhagen) who assisted Tycho on Hven and was betrothed to Tycho's eldest daughter Magdalene; his breaking of the engagement provoked a bitter suit before the university and chapter (1596–1599) that Dreyer counts among the vexations driving Tycho from Denmark. Received 2 letters from Tycho (1590, 1591). (Rørdam 1873, pp. 16–34; Kancelliets Brevbøger 1593–96, p. 578; 1596–1602, pp. 115–116.) In May 1588 he carried Tycho's De mundi to Maestlin at Tübingen and then a copy to Magini at Bologna; from 1589 he studied medicine at Padua and frequented Pinelli's house, though Pinelli obtained his own copy of the book only in 1590 through Joachim Camerarius (Westman 2011, p. 356 nn. 22–23).",
    "sources": [
     "S_DREYER",
     "S_RORDAM_DM1873",
     "S_KB_BREVBOGER",
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_WESTMAN2011"
    ],
    "letters_sent": 0,
    "letters_received": 2,
@@ -5841,6 +5849,40 @@
    "thesaurus_agent": "",
    "in_agents": false,
    "seat": null
+  },
+  {
+   "id": "DYBVAD",
+   "name": "Jørgen Christoffersen Dybvad",
+   "sort_name": "Dybvad, Jørgen Christoffersen",
+   "name_latin": "Georgius Christophorus Dibvadius",
+   "name_variants": [
+    "Georgius Christophorus Dybvadius",
+    "Jørgen Dybvad",
+    "Dibvadius"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": 1612,
+   "categories": [
+    "mathematician",
+    "scholar"
+   ],
+   "connection": "Copenhagen professor. A onetime student of Caspar Peucer and Sebastian Theodoric at Wittenberg, where in his M.A. year he published a trigonometrical commentary, Short Comments on the second book of Copernicus's De revolutionibus (Wittenberg 1569); from 1575 to 1607 he held an extraordinary chair of theology, natural philosophy and mathematics at Copenhagen (Westman 2011, p. 164 and p. 545 n. 153, after Moesgaard 1972). He wrote on the comet of 1577 in the apocalyptic vein usual in Denmark. Thoren suggested that Tycho's restraint about the comet's eschatological meaning reflects a rivalry with Dybvad for royal favour; Westman judges the evidence for that account thin, Dybvad's apocalyptic views being ‘by no means unusual’ (Thoren 1990, pp. 128–132; Westman 2011, p. 559 n. 138).",
+   "sources": [
+    "S_WESTMAN2011",
+    "S_THOREN"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Copenhagen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "basis": "professor at the University of Copenhagen, 1575–1607"
+   }
   }
  ]
 }

@@ -28,7 +28,7 @@ stay-rostock-1570,1570,1570,circa,c. 1570,Rostock,German lands,Germany,54.0889,1
 stay-goggingen-1570,1570-04-01,1570-05-16,day,1 April 1570 – 16 May 1570,Göggingen,German lands,Germany,48.3500,10.8700,The Wanderjahre,"observation, instruments",A,2,6,yes
 stay-wittenberg-1570,1570-09-09,1570-09-09,day,9 September 1570,Wittenberg,German lands,Germany,51.8662,12.6471,The Wanderjahre,in transit,A,1,2,no
 stay-helsingborg-1570,1570-12-30,1571-05-09,day,30 December 1570 – 9 May 1571,Helsingborg,Scania,Sweden,56.0465,12.6945,The Wanderjahre,"family, observation",A,5,8,yes
-stay-herrevad-1571,1571,1575,range-uncertain,1571 – 1575 (bounds uncertain),Herrevad Abbey,Scania,Sweden,56.0800,13.2300,"Herrevad, the nova, the lectures, the grand tour","alchemy & medicine, observation, instruments, family",A,8,10,yes
+stay-herrevad-1571,1571,1575,range-uncertain,1571 – 1575 (bounds uncertain),Herrevad Abbey,Scania,Sweden,56.0800,13.2300,"Herrevad, the nova, the lectures, the grand tour","alchemy & medicine, observation, instruments, family",A,8,11,yes
 stay-knutstorp-1571,1571,1575,range-uncertain,1571 – 1575 (bounds uncertain),Knutstorp,Scania,Sweden,55.9400,13.0900,"Herrevad, the nova, the lectures, the grand tour","property, family, observation",A,4,12,yes
 stay-helsingborg-1571,1571-05,1575,range-uncertain,May 1571 – 1575 (bounds uncertain),Helsingborg,Scania,Sweden,56.0465,12.6945,"Herrevad, the nova, the lectures, the grand tour","family, property",C,3,2,yes
 stay-copenhagen-1572b,1572,1572,year,1572,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,"Herrevad, the nova, the lectures, the grand tour",books & printing,C,1,1,yes
@@ -46,7 +46,7 @@ stay-venice-1575,1575,1575,circa,c. 1575,Venice,Swiss & Italian journey,Italy,45
 stay-kassel-1575,1575-03,1575-04,month,March 1575 – April 1575,Kassel,German lands,Germany,51.3127,9.4797,"Herrevad, the nova, the lectures, the grand tour","observation, instruments, court & patronage, social visit",A,3,10,no
 stay-frankfurt-1575,1575-04,1575-04,month,April 1575,Frankfurt am Main,German lands,Germany,50.1109,8.6821,"Herrevad, the nova, the lectures, the grand tour","books & printing, in transit",A,0,9,no
 stay-augsburg-1575,1575-08,1575-10,circa,c. August 1575 – October 1575,Augsburg,German lands,Germany,48.3705,10.8978,"Herrevad, the nova, the lectures, the grand tour","instruments, social visit, in transit",A,6,9,yes
-stay-regensburg-1575,1575-10,1575-11,circa,c. October 1575 – November 1575,Regensburg,German lands,Germany,49.0134,12.1016,"Herrevad, the nova, the lectures, the grand tour","court & patronage, social visit, books & printing",A,5,10,yes
+stay-regensburg-1575,1575-10,1575-11,circa,c. October 1575 – November 1575,Regensburg,German lands,Germany,49.0134,12.1016,"Herrevad, the nova, the lectures, the grand tour","court & patronage, social visit, books & printing",A,5,11,yes
 stay-nuremberg-1575,1575-11,1575-11,month,November 1575,Nuremberg,German lands,Germany,49.4511,11.0784,"Herrevad, the nova, the lectures, the grand tour","social visit, instruments, in transit",B,3,4,yes
 stay-saalfeld-1575,1575-11,1575-11,circa,c. November 1575,Saalfeld,German lands,Germany,50.6500,11.3600,"Herrevad, the nova, the lectures, the grand tour","social visit, books & printing, in transit",B,1,5,yes
 stay-wittenberg-1575,1575-11,1575-12,circa,c. November 1575 – December 1575,Wittenberg,German lands,Germany,51.8662,12.6471,"Herrevad, the nova, the lectures, the grand tour","in transit, instruments, social visit",B,3,5,yes

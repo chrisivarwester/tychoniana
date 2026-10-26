@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.20",
+ "version": "1.21",
  "edition_date": "2026-10-26",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
@@ -1944,6 +1944,182 @@
      "kind": "tychoniana"
     }
    ]
+  },
+  {
+   "id": "recep-bruno-acrotismus-1588",
+   "label": "Bruno reads Tycho: the Acrotismus at Uraniborg and the De immenso (1588–1591)",
+   "date": "1588–1591",
+   "year_start": 1588,
+   "year_end": 1591,
+   "status": "",
+   "grade": "B",
+   "category": "Science",
+   "description": "Giordano Bruno had no place in Tycho's correspondence and never came to Hven, yet a copy of his Camoeracensis acrotismus (Wittenberg 1588) reached Uraniborg with a dedication to Tycho, and the copy survives in the Clementinum (see the Bruno volume in the Bibliotheca). How the book travelled is not settled: Kořán (1969) and Horský (1975) proposed Hagecius at Prague as the intermediary; Sturlese (1985, pp. 324–325) objected that only one letter passed between Hagecius and Tycho in 1588 and suggested the same person who had given Bruno the first Uraniborg print, Morsing's Diarium of the comet of 1585 (Westman 2011, pp. 304–305 and p. 568 n. 127). In the De immenso et innumerabilibus (Frankfurt 1591) Bruno names Tycho twice: on the comets, where he writes that he had reached his conclusions by physical reasoning years before and now found them confirmed by the learned Tycho the Dane, whose sagacious genius had found and laid open many things agreeing with these senses — ‘docti accipio firmata Tichonis / Servatis Dani, ingenio qui multa sagaci / Invenit, atque aperit conformia sensibus hisce’ (book I, chapter 5) — and again on the proper motion of the stars (book IV, chapter 9) (Westman, p. 305 and p. 569 nn. 132–134, after Tessicini 2007). Bruno also knew of ‘a round comet’ of 1585 and of ‘a new star in the months of October and November’ that ‘Uraniborg astronomers’ had placed above Saturn, a report Westman leaves undecided between Kassel and Uraniborg as its source (p. 305 n. 134); Morsing's astrological section on the comet Bruno ignored (Spruit 2002, cited p. 569 n. 137). The Latin is quoted from Westman, who prints it from the Opera latine; the edition itself has not been consulted.",
+   "edges": [
+    [
+     "involves",
+     "COR_THADDAEUS_HAGECIUS"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_WESTMAN2011"
+   ],
+   "links": [
+    {
+     "label": "Bruno's Acrotismus, Tycho's copy (NK ČR 15 K 22) in the Bibliotheca",
+     "href": "../bibliotheca/tycho-brahe-library/explorer.html?entry=e-prague-bruno",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "Thaddaeus Hagecius in the Familia",
+     "href": "../familia/index.html#COR_THADDAEUS_HAGECIUS",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-world-systems-in-print-1597",
+   "label": "The world systems compared in print: Ursus 1588 and Roeslin 1597",
+   "date": "1588–1597",
+   "year_start": 1588,
+   "year_end": 1597,
+   "status": "",
+   "grade": "B",
+   "category": "Science",
+   "description": "Ursus's Fundamentum astronomicum (Strasbourg, end of July 1588) carried a planetary diagram equivalent in its geometry to Wittich's ‘sphere of revolutions’ of 1578, with the Earth turning daily, and appeared within months of Tycho's De mundi (Westman 2011, p. 293). Helisaeus Roeslin's De opere Dei creationis (Frankfurt 1597) was the first book to set the competing arrangements side by side, each as numbered propositions with a woodcut plate — Ptolemy, Copernicus, Ursus, Tycho and Roeslin's own — and the plates were mislabelled by the Frankfurt publisher: the Copernican system stands under Tycho's name with a printed apology beneath, Ursus's diagram under Copernicus's, Tycho's under Ursus's (pp. 342–347, figs 70–72; p. 574 n. 40, which also notes that Ursus in 1597 ‘shifted his position toward that of Tycho and accepted the intersection of the paths of Mars and the Sun’). Roeslin had borrowed Maestlin's copy of De mundi for two weeks at the end of 1588 and concluded that Ursus, Tycho's pupil, had taken the arrangement and added the Earth's daily motion so as not to seem to agree with him: ‘iudico Raymarum sua habere a Tychone (cuius discipulus fuit) et terram ille mobilem statuit, ne videatur cum Tychone consentire’ (Württembergische Landesbibliothek, Cod. Math. 4° 14b, fol. 19r; Granada 1996, pp. 119–120, as quoted by Westman, p. 566 n. 58); he also doubted that any astronomer had seen Mars's parallax exceed the Sun's (p. 342). The Frankfurt spring catalogue of 1597 announced Kepler's Mysterium, Tycho's Epistolae astronomicae and Roeslin's De opere Dei together (Fabian, Die Messkataloge des sechzehnten Jahrhunderts V, pp. 370, 372, 373; p. 573 n. 25); Ursus's reply, De astronomicis hypothesibus (Prague 1597), built on passages of the Epistolae, called Tycho ‘a mere mechanic’ and Rothmann ‘Rotzmann’ (p. 348). For the suit that followed, see the quarrel with Ursus.",
+   "edges": [
+    [
+     "involves",
+     "URSUS"
+    ],
+    [
+     "builds_on",
+     "W_DEMUNDI"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_WESTMAN2011",
+    "S_RECEP_JARDINE2008"
+   ],
+   "links": [
+    {
+     "label": "The quarrel with Ursus",
+     "href": "#recep-ursus-quarrel",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "Nicolaus Reimers Ursus in the Familia",
+     "href": "../familia/index.html#URSUS",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "De mundi aetherei recentioribus phaenomenis (1588) in the Typographica",
+     "href": "../typographica/index.html#ln428",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-gilbert-cannon-1600",
+   "label": "Gilbert answers Tycho's cannon: De magnete (1600) and De mundo (1651)",
+   "date": "1600–1651",
+   "year_start": 1600,
+   "year_end": 1651,
+   "status": "",
+   "grade": "B",
+   "category": "Science",
+   "description": "In De magnete (London 1600), book VI, William Gilbert rebutted the thought experiment Tycho had set against the Earth's daily rotation in De mundi — the cannon fired east and west — and concluded that the diurnal motion ‘is not at all refuted by the illustrious Tycho Brahe through such arguments as these’ (De magnete, p. 341; Westman 2011, pp. 370–372, fig. 73 and p. 580 nn. 145–146). Gilbert knew Ursus's Fundamentum and Tycho's De mundi but shows no acquaintance with the Epistolae astronomicae or with the quarrel of 1597, and he did not, it seems, take Mars's parallax on Tycho's authority (p. 372 and n. 154). The posthumous De mundo nostro sublunari (Amsterdam 1651) describes the Tychonic ordering: ‘Illustrissimus Tycho Brahe Solem vult centrum esse secundorum mobilium, sive planetarum, terram vero constituit centrum universi; Mercurium & Venerem Copernici ratione circa Solem cieri’ (ed. 1965, p. 192; p. 580 n. 147). There is no evidence that Tycho saw De magnete before his death in 1601; Kepler had his copy by November 1602 and read Gilbert as the answer to the cannon (p. 372 and n. 159). Galileo's copy, with his provenance, is Biblioteca Nazionale Centrale di Firenze B.R.121 (fig. 74, p. 373).",
+   "edges": [
+    [
+     "builds_on",
+     "W_DEMUNDI"
+    ],
+    [
+     "involves",
+     "KEPLER"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_WESTMAN2011",
+    "S_RECEP_GILBERT1600"
+   ],
+   "links": [
+    {
+     "label": "De mundi aetherei recentioribus phaenomenis (1588) in the Typographica",
+     "href": "../typographica/index.html#ln428",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "Johannes Kepler in the Familia",
+     "href": "../familia/index.html#KEPLER",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-heydon-defence-1603",
+   "label": "The fluid heaven in English: Heydon's Defence of Judiciall Astrologie (1603)",
+   "date": "1603",
+   "year_start": 1603,
+   "year_end": 1603,
+   "status": "",
+   "grade": "B",
+   "category": "Science",
+   "description": "Sir Christopher Heydon's Defence of Judiciall Astrologie (Cambridge 1603), written against John Chamber, takes its astronomy from the Epistolae astronomicae and the Progymnasmata: ‘our modern Mathematickes’ had proved ‘but one onely continued substance from the concaue superficies of the Moone, to the 8. Sphere’, ‘as both Tycho Brahe and Rothmann, doe at large prouue: and therefore in his Progymnasmata deuiseth newe Hypotheses, quite differing from the olde’, with Rheticus, Ramus, Scultetus, Frischlin, Ursus, Aslakssøn and Fracastoro concurring (Heydon 1603, pp. 370–371, quoted by Westman 2011, p. 410 and p. 586 nn. 43–44). Heydon left the world system undecided — ‘whether they be (as Tycho would have it) but one continued orbe, or many, or whether (as Copernicus saith) the Sun be the center of the world’ — an agnosticism Westman relates to Ursus's scepticism about hypotheses; Bowden (1974, pp. 135–136) notes the inconsistencies of Heydon's use of Brahe and Kepler (p. 586 n. 42). It is the earliest English printing of Tycho's fluid heaven and of the Progymnasmata's ‘newe Hypotheses’, two years after his death.",
+   "edges": [
+    [
+     "builds_on",
+     "W_PROGYMN"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_WESTMAN2011"
+   ],
+   "links": [
+    {
+     "label": "The Progymnasmata in the Typographica",
+     "href": "../typographica/index.html#ln433",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The Epistolae astronomicae in the Typographica",
+     "href": "../typographica/index.html#ln430",
+     "kind": "tychoniana"
+    }
+   ]
+  },
+  {
+   "id": "recep-moderns-1644-1674",
+   "label": "The Tychonic hypothesis among the moderns, 1644–1674: Descartes, Wilkins, Wing, Hooke",
+   "date": "1644–1674",
+   "year_start": 1644,
+   "year_end": 1674,
+   "status": "",
+   "grade": "B",
+   "category": "Science",
+   "description": "Descartes's Principia philosophiae (Amsterdam 1644) sets the Tychonic hypothesis beside the Copernican and claims to ‘deny the motion of the Earth more carefully than Copernicus and more truthfully than Tycho’; from the vortices he deduces ‘the physical impossibility of the Sun's carrying with it all the planets except the Earth’, and of the comet observers, Tycho among them, he writes that ‘they did not dare to attribute to them the altitude which their calculations were revealing’ (Westman 2011, pp. 497–498 and p. 600 nn. 75–78). Wilkins, in the Discourse concerning a New Planet (1640), explained Tycho's resistance to Copernicus by the rule that ‘Every Man is naturally more affected to his own Brood, than to that of which another is the Author’ (p. 498 n. 84). Vincent Wing built his first compendium on ‘the tables of Tycho, Argoli, and Lansbergen’ and by 1669 dismissed Tycho's hypotyposis as ‘more ingenuous than true’ (p. 503 nn. 112, 116); Gassendi adhered, ‘at least outwardly’, to the Tychonic arrangement (p. 500 n. 91); Riccioli taught the semi-Tychonic at Parma (p. 499 n. 89; see the afterlife of the world-system). Hooke's Attempt to Prove the Motion of the Earth (London 1674) framed the stellar parallax as ‘an experimentum crucis to determine between the Tychonick and Copernican Hypotheses’, asked whether there was not ‘much reason for the Hypothesis of Ticho at least, when he with all the accurateness that he arrived to with his vast Instruments, or Riccioli, who pretends much to out-strip him, were not able to find any sensible Parallax of the Earths Orb among the fixt Stars’, and proposed a telescope better than their instruments (pp. 508–509 and nn. 140–143). Westman's gloss: the naked eye cannot distinguish an angle of less than a minute, so ‘Tycho and Riccioli thus claimed more than they could deliver’ (p. 509).",
+   "edges": [
+    [
+     "builds_on",
+     "W_DEMUNDI"
+    ]
+   ],
+   "sources": [
+    "S_RECEP_WESTMAN2011",
+    "S_RECEP_RICCIOLI"
+   ],
+   "links": [
+    {
+     "label": "The afterlife of the Tychonic world-system",
+     "href": "#recep-tychonic-system",
+     "kind": "tychoniana"
+    },
+    {
+     "label": "The high-precision naked-eye tradition",
+     "href": "#recep-naked-eye-tradition",
+     "kind": "tychoniana"
+    }
+   ]
   }
  ],
  "sources": [
@@ -2316,6 +2492,20 @@
    "label": "Gingerich & Westman, The Wittich Connection (1988)",
    "full": "Owen Gingerich and Robert S. Westman, The Wittich Connection: Conflict and Priority in Late Sixteenth-Century Cosmology (Transactions of the American Philosophical Society 78, part 7; Philadelphia, 1988).",
    "contributes": "the Ursus affair narrated from Tycho's letters of 1588–1592 and from Ursus's and Kepler's texts, with the Wittich connection and the chronology of 1584–1587"
+  },
+  {
+   "id": "S_RECEP_WESTMAN2011",
+   "label": "Westman, The Copernican Question (2011)",
+   "full": "Robert S. Westman, The Copernican Question: Prognostication, Skepticism, and Celestial Order (Berkeley and Los Angeles: University of California Press, 2011; first paperback printing 2020). Chapters 8, 10, 12–14 and 16–18 and the Conclusion for Tycho's readers and critics from Bruno to Hooke.",
+   "contributes": "Bruno's knowledge of Uraniborg and the route of the Acrotismus; Roeslin's mislabelled plates of 1597 and Ursus's two schemes; Gilbert's rebuttal of the cannon experiment; Heydon's English Progymnasmata; the Tychonic hypothesis among Descartes, Wilkins, Wing and Hooke — each with the primary text quoted and its page.",
+   "url": ""
+  },
+  {
+   "id": "S_RECEP_GILBERT1600",
+   "label": "Gilbert, De magnete (1600)",
+   "full": "William Gilbert, De magnete, magneticisque corporibus, et de magno magnete tellure physiologia nova (London: Peter Short, 1600), book VI; and De mundo nostro sublunari philosophia nova (Amsterdam 1651), ed. 1965. Cited at the page through Westman 2011, pp. 370–372 and p. 580 nn. 145–147.",
+   "contributes": "The first printed rebuttal of Tycho's argument from the cannon against the Earth's daily rotation, and the posthumous description of the Tychonic ordering.",
+   "url": ""
   }
  ],
  "threads": [
@@ -2351,7 +2541,7 @@
  },
  "desiderata": [
   "Riccioli's Almagestum novum (1651) deserves its own record: it is cited here only inside the world-system and crater episodes.",
-  "The semi-Tychonic variants — Ursus, Roslin, Riccioli's own — are not modelled as a cluster; the Tychonic-system record names them in passing.",
+  "The semi-Tychonic variants: Ursus's scheme of 1588 and Roeslin's of 1597, with Roeslin's comparative plates, are one record since 26 October 2026 (the world systems compared in print); Riccioli's own, and his Almagestum novum, still want a record of their own.",
   "The commemorative record after 1901: the Danish memorials of the 1930s, the monuments before Mortensen (1779–1946) and the commemorations after 1946 are now entered from the Danish museums' records; the quatercentenaries' programmes themselves, the 1971 competition and its plinth, and the Belvedere exhibition of 1971 are not. Vajce's group itself, with Studnička 1901 and the Copernicus year 1973, is entered since 20 October 2026 (the Prague commemoration record).",
   "Kepler's Harmonices mundi (1619) and the third law are not recorded as a separate use of the data; the Science thread jumps from 1609 to 1627.",
   "No online record could be verified for the Týn church's own tomb, for Riccioli's 1651 volumes, for Schjellerup's 1854 memoir, for Bricka's volume of Danske Magazin, or for Zeeberg's two studies; those records carry the citation and no link.",

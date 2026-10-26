@@ -58,9 +58,9 @@
   "diary_years": 13,
   "letters": 509,
   "letters_dated": 509,
-  "episodes": 48,
-  "recep_before": 10,
-  "recep_from": 38,
+  "episodes": 53,
+  "recep_before": 13,
+  "recep_from": 40,
   "recep_1601": 5,
   "transmission": 33,
   "questions": 30,
@@ -1186,6 +1186,15 @@
   },
   {
    "kind": "reception",
+   "key": "recep-bruno-acrotismus-1588",
+   "label": "Bruno reads Tycho: the Acrotismus at Uraniborg and the De immenso (1588–1591)",
+   "year_start": 1588,
+   "year_end": 1591,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-bruno-acrotismus-1588"
+  },
+  {
+   "kind": "reception",
    "key": "recep-dudith-de-mundi-1588",
    "label": "Dudith reads De mundi — the first reader's response to the Tychonic system, in red ink in the margins of his presentation copy (Stockholm, RAR 106 A), 1588–1589",
    "year_start": 1588,
@@ -1201,6 +1210,15 @@
    "year_end": 1597,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-uraniborg-endowment"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-world-systems-in-print-1597",
+   "label": "The world systems compared in print: Ursus 1588 and Roeslin 1597",
+   "year_start": 1588,
+   "year_end": 1597,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-world-systems-in-print-1597"
   },
   {
    "kind": "volume",
@@ -1950,6 +1968,15 @@
    "link": "../epistolarium/index.html"
   },
   {
+   "kind": "reception",
+   "key": "recep-gilbert-cannon-1600",
+   "label": "Gilbert answers Tycho's cannon: De magnete (1600) and De mundo (1651)",
+   "year_start": 1600,
+   "year_end": 1651,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-gilbert-cannon-1600"
+  },
+  {
    "kind": "site",
    "key": "site-curtius-house",
    "label": "The Curtius (Kurtz) house — Tycho's Prague residence and place of death",
@@ -2121,6 +2148,15 @@
    "link": "../iconographia/index.html#icon-posthumous-copies"
   },
   {
+   "kind": "reception",
+   "key": "recep-heydon-defence-1603",
+   "label": "The fluid heaven in English: Heydon's Defence of Judiciall Astrologie (1603)",
+   "year_start": 1603,
+   "year_end": 1603,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-heydon-defence-1603"
+  },
+  {
    "kind": "instrument-fate",
    "key": "transmission-1604, 27 March",
    "label": "An imperial order to Kepler to pack the instruments and send them to Vienna 'for greater safety'; apparently not carried out.",
@@ -2254,6 +2290,15 @@
    "year_end": 1728,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-rundetaarn"
+  },
+  {
+   "kind": "reception",
+   "key": "recep-moderns-1644-1674",
+   "label": "The Tychonic hypothesis among the moderns, 1644–1674: Descartes, Wilkins, Wing, Hooke",
+   "year_start": 1644,
+   "year_end": 1674,
+   "edition": "Receptio",
+   "link": "../receptio/index.html#recep-moderns-1644-1674"
   },
   {
    "kind": "instrument-fate",
