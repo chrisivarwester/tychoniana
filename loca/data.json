@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.16",
- "edition_date": "2026-10-23",
+ "version": "1.17",
+ "edition_date": "2026-10-26",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
   {
@@ -5976,7 +5976,7 @@
    "purposes": [
     "observation"
    ],
-   "narrative": "During the comet of October 1580 Tycho notes in his own observation record that he observed it at Helsingborg from 20 to 27 October, while on Hven it was observed by 'Petrus and Paulus' — Peder Jakobsen Flemløs and the visiting Wroclaw mathematician Paul Wittich, working with a quadrant while Tycho used a radius across the Sound. A week's documented absence from the island, and a rare instance of Tycho conducting coordinated parallel observations from the mainland during the Hven decades; the town lay in the len whose Kulla farms he then held.",
+   "narrative": "During the comet of October 1580 Tycho notes in his own observation record that he observed it at Helsingborg from 20 to 27 October, while on Hven it was observed by 'Petrus and Paulus' — Peder Jakobsen Flemløs and the visiting Wroclaw mathematician Paul Wittich, working with a quadrant while Tycho used a radius across the Sound. A week's documented absence from the island, and a rare instance of Tycho conducting coordinated parallel observations from the mainland during the Hven decades; the town lay in the len whose Kulla farms he then held. Tycho returned to Hven on 28 October; Wittich's last observation of the comet in the record book is of 26 October, and he left the island about the beginning of November carrying Tycho's letter to Hagecius of 4 November (Gingerich & Westman 1988, p. 17 n. 55).",
    "people": [
     {
      "name": "Peder Jacobsen Flemløse",
@@ -5985,7 +5985,7 @@
     },
     {
      "name": "Paul Wittich",
-     "role": "visiting mathematician, observing counterpart on Hven",
+     "role": "visiting mathematician, observing counterpart on Hven; left about the beginning of November 1580",
      "familia": "WITTICH"
     }
    ],
@@ -6004,6 +6004,11 @@
      "source": "S_LOCI_CHRISTIANSON",
      "pages": "scan p. 77",
      "note": "same episode: 'Tycho observed it with a radius in Helsingborg'"
+    },
+    {
+     "source": "S_LOCI_GINGERICH",
+     "pages": "1988, p. 17 n. 55",
+     "quote": "Wittich's last comet observation in Tycho's record book was on 26 October (TBOO, XIII, 317, n. 28); Tycho returned to Hven on 28 October."
     }
    ],
    "grade": "A"
@@ -11118,7 +11123,7 @@
    "lon": 17.03,
    "claim": "Tycho travelled to Breslau/Wrocław to collect Paul Wittich's library.",
    "verdict": "never-visited",
-   "narrative": "Tycho pursued the Wittich books for years by negotiation with the heirs, and the purchase was consummated remotely: Jacob Monaw brought the annotated De revolutionibus copies from Wrocław to Tycho in Prague in October 1600 — only two of Wittich's four annotated copies ever reached him. Tycho did not go to Silesia. ",
+   "narrative": "Tycho pursued the Wittich books for years by negotiation with the heirs, and the purchase was consummated remotely: Jacob Monaw brought the annotated De revolutionibus copies from Wrocław to Tycho in Prague in October 1600. Of Wittich's four annotated copies two are located in Tycho's hands — the Prague copy 14 B 16 and the Vatican copy Ottob. lat. 1902 (Gingerich's census of 2002); Gingerich and Westman's monograph of 1988 holds that Tycho asked for and probably received three, the Liège copy included, with a Jesuit route from Prague to Belgium conjectured for it, and that only the Wrocław copy, transcribed by Sebisch about 1604, stayed behind (1988, pp. 22–23, 27, 33, 35). The rest of the library was sold at Breslau after 1600. Tycho did not go to Silesia.",
    "evidence": [
     {
      "source": "S_LOCI_GINGERICH",
@@ -11129,6 +11134,11 @@
      "source": "S_LOCI_DEBUNKED_REGISTER",
      "pages": "BRAHE — De revolutionibus (Prague NK 14 B 16) entry",
      "note": "Monaw acquisition channel independently documented."
+    },
+    {
+     "source": "S_LOCI_GINGERICH",
+     "pages": "1988, pp. 22–23, 27, 33, 35; p. 23 n. 93",
+     "note": "Three copies asked for on 31 December 1599; ‘we assume that this was one of three copies brought by Monaw to Tycho in October 1600’ (p. 33); the Liège route a conjecture; the Wrocław copy left behind; a Timaeus manuscript sold from the library at Breslau in 1606 (n. 93)."
     }
    ],
    "grade": "A"

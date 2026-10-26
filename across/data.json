@@ -2230,8 +2230,8 @@
   },
   {
    "kind": "instrument-fate",
-   "key": "transmission-1632",
-   "label": "Prince Ulrik, son of Christian IV, takes the globe from Neisse as war booty to Copenhagen, where it is placed in the observatory of the Round Tower.",
+   "key": "transmission-1632, 1 December",
+   "label": "Prince Ulrik, son of Christian IV, having taken Neisse in the German war, recognises the globe and has it carried to Copenhagen, where it is set up with ceremony in the University (the Regia Hafniae Academia) — not in the Round Tower, which was begun only in 1637. Longomontanus, who had turned the globe by hand on Hven for eight years, composes the verses 'Globus ad lectorem' ('Robusto quondam ligno me cura Tychonis / Coelari fecit …') and the wall inscription beside it: 'Sive hospes, sive inquilinus es, bene adsis: hoc aeneum coeli simulacrum, quod vides, ingenio et impendio Tychonis Brahe ad astronomicas observationes in insula Hvenna efformatum est … nomen Uraniburgo dedit, Daniae famam … primo Benaticam, mox Pragam, inde Nissam defertur … tandem, capta Nissa, virtute, ductu et auspicio aeternae memoriae Principis Divi Uldarici, Patriae velut trophaeum ex peregrino Marte vindicatur et restituitur.' The date of the return is that of the dedicatory tablet to Urania and to Ulrik's memory — 'Globum hunc Anno Domini MDCXXXII Cal. Dec. Patriae victoriose restitutus' — while the wall inscription, which calls Ulrik 'aeternae memoriae … Divi', was composed after his death on 12 August 1633: Gassendi prints its closing date as Calend. Decemb. 1633, Resen and Pontoppidan as 1632. The globe was later moved to the Round Tower's observatory ('postea vero in turrim Astronomicam translati').",
    "year_start": 1632,
    "year_end": 1632,
    "edition": "Instrumenta",

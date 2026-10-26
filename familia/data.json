@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.7",
- "edition_date": "2026-10-20",
+ "version": "2.8",
+ "edition_date": "2026-10-26",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
  "description": "A prosopography of the documented circle of Tycho Brahe: the assistants and craftsmen of Uraniborg, the printers and publishers of his works, the patrons and dedicatees, the kin and friends, every party to the surviving correspondence, and the later owners, editors and scholars through whom his books and papers passed. Each record carries its roles, dates, documented seat, biography with sources, and the letters, visits, stays, printed works, presentation copies and manuscripts in which the person appears elsewhere in Tychoniana.",
@@ -203,6 +203,12 @@
    "label": "Veselá, Švédská knižní kořist z českých zemí (2025)",
    "full": "Lenka Veselá, Švédská knižní kořist z českých zemí (Dolní Břežany: Scriptorium, 2025).",
    "contributes": "the two Tycho manuscripts entered under Frans Tengnagel's name in the Stockholm catalogue of 1650–51 (p. 142 n. 494)"
+  },
+  {
+   "id": "S_MORAWIEC2015",
+   "label": "Morawiec, ‘In Defense of Paul Wittich’ (2015)",
+   "full": "Adam Morawiec, ‘In Defense of Paul Wittich — † 9 January 1587’, Sudhoffs Archiv 99, no. 2 (2015), pp. 235–239.",
+   "contributes": "the case for 9 January 1587 as Wittich's death date, from the printed Silesia togata of 1706 and Scultetus's almanac for 1587"
   }
  ],
  "category_colours": {
@@ -377,14 +383,15 @@
    "name_variants": [],
    "entry_kind": "person",
    "born": null,
-   "died": null,
+   "died": 1620,
    "categories": [
     "antagonist"
    ],
-   "connection": "Edinburgh physician, later physician to James VI; initially a follower, then a persistent antagonist over atmospheric refraction and cometary parallax.",
+   "connection": "Edinburgh physician, later physician to James VI; initially a follower, then a persistent antagonist over atmospheric refraction and cometary parallax. Taught by Paul Wittich at Frankfurt an der Oder, where both matriculated in 1576; he copied Wittich's notes, with the prosthaphaeresis method, into his own De revolutionibus (Edinburgh University Library, Dd.3.44), and by writing ‘a M. Witt.’ where Wittich had written ‘a me’ supplied the key by which Gingerich and Westman identified the hand of the annotated copies (1988, pp. 7, 11–12). He praised Wittich's demonstrations in 1589 (Opera omnia VII, p. 180) and may have been in James VI's party on Hven on 20 March 1590 (p. 7 n. 15). Died 1620 (1988, p. 11).",
    "sources": [
     "S_THESAURUS",
-    "S_EPISTOLARIUM"
+    "S_EPISTOLARIUM",
+    "S_GINGERICH_WESTMAN"
    ],
    "letters_sent": 7,
    "letters_received": 2,
@@ -1128,13 +1135,14 @@
     "astronomer",
     "annotator"
    ],
-   "connection": "Itinerant Wrocław astronomer who visited Hven briefly in 1580; credited with a practical form of prosthaphaeresis. His annotated De revolutionibus copies were misattributed to Tycho until Gingerich and Westman identified the hand in 1988. (Gingerich & Westman, The Wittich Connection, 1988) He came to Hven in the summer of 1580 with a letter of recommendation from Hagecius (Christianson 2000; Dreyer 1890 and Thoren 1990 for what follows), stayed some months as a valued calculator, and left in October on the news of a rich uncle's death, promising to return in seven or eight weeks; he never did, and Tycho's letter to Hagecius of 4 November 1580 records the resentment. The National Library's curator reports the recommendation in 2026 as Josef Smolka's find in the surviving correspondence (Vackářová 2026, printed p. 33 (scan 33), naming Smolka but no article; the Czech locus is presumably Smolka's paper of 2002 in Pokroky matematiky, fyziky a astronomie, Desiderata row 96).",
+   "connection": "Itinerant Wrocław astronomer who visited Hven briefly in 1580; credited with a practical form of prosthaphaeresis. His annotated De revolutionibus copies were misattributed to Tycho until Gingerich and Westman identified the hand in 1988. (Gingerich & Westman, The Wittich Connection, 1988) He came to Hven in the summer of 1580 with a letter of recommendation from Hagecius (Christianson 2000; Dreyer 1890 and Thoren 1990 for what follows), stayed some months as a valued calculator, and left in October on the news of a rich uncle's death, promising to return in seven or eight weeks; he never did, and Tycho's letter to Hagecius of 4 November 1580 records the resentment. The National Library's curator reports the recommendation in 2026 as Josef Smolka's find in the surviving correspondence (Vackářová 2026, printed p. 33 (scan 33), naming Smolka but no article; the Czech locus is presumably Smolka's paper of 2002 in Pokroky matematiky, fyziky a astronomie, Desiderata row 96). The monograph that identified the hand (Gingerich & Westman 1988) fixes the outline of the life from the printed registers: matriculated at Leipzig in the summer of 1563 and at Wittenberg in June 1566 — the usual age at matriculation putting his birth about 1546, and Wittenberg in 1566 or 1570 the likeliest place of his first meeting with Tycho — and at Frankfurt an der Oder in 1576, where John Craig was his pupil (pp. 11, 16). The stay on Hven lasted ‘a little over a quarter of a year’, from the summer to about the beginning of November 1580: his last observation of the comet in Tycho's book is of 26 October, and he carried Tycho's letter to Hagecius of 4 November (p. 17 n. 55); the parting gift of the Apianus is inscribed 29 October. He was at the Frankfurt book fair in October 1584 and at Kassel by 7 November 1584, when he observed an eclipse with Rothmann; the Landgrave's letter of 20 October 1585 credits his instruction for the improvement of the Kassel instruments, and an astrolabe of his design survives there (pp. 18, 68). He owned, in his own hand, a manuscript of Copernicus's Commentariolus received from his uncle Balthasar Sartorius, physician and mathematician of Breslau and a correspondent of Rheticus (Dudith to Praetorius, 12 February 1589; p. 10 n. 21). Tycho called him ‘a standard bearer for me in my astronomical studies’ (to Rothmann, 20 January 1587) and, in the Ursus quarrel, spoke of the wrong done to the ghost of the late Wittich (to Clavius, 5 January 1600; p. 19 n. 67). The date of his death in Vienna is disputed: Gingerich and Westman read 9 January 1586 in Henel's Silesia togata (Wrocław University Library, MS R 571 and MS IV.F.127, the year written out in words) and cite Dudith's letter to Praetorius of 10 October 1588, which says that he had died of a fever ‘well over two years ago’ (pp. 18 n. 66, 68 n. 187); Morawiec (2015) argues for 9 January 1587 from the printed Silesia togata of 1706 and a contemporary entry in Scultetus's almanac for 1587, without discussing the Dudith letter. Both dates are carried here; the field gives the earlier.",
    "sources": [
     "S_GINGERICH_WESTMAN",
     "S_THESAURUS",
     "S_CHRISTIANSON",
     "S_DREYER",
-    "S_THOREN"
+    "S_THOREN",
+    "S_MORAWIEC2015"
    ],
    "letters_sent": 0,
    "letters_received": 0,
@@ -1146,6 +1154,101 @@
     "lat": 51.108,
     "lon": 17.039,
     "basis": "Silesian astronomer (Breslau)"
+   }
+  },
+  {
+   "id": "DUDITH",
+   "name": "Andreas Dudith",
+   "sort_name": "Dudith, Andreas",
+   "name_latin": "Andreas Dudithius",
+   "name_variants": [
+    "András Dudith",
+    "Andreas Dudith de Horehovicza"
+   ],
+   "entry_kind": "person",
+   "born": 1533,
+   "died": 1589,
+   "categories": [
+    "scholar",
+    "dedicatee"
+   ],
+   "connection": "Hungarian humanist and former bishop of Pécs, twice married, excommunicated and burned in effigy, living out his last years among his books at Breslau, where his circle took in Paul Wittich (‘noster Wittichius’) from October 1579. His letters to Hagecius (the Breslau photostats Gingerich and Westman cite as ‘Prague’) and to Praetorius (Esztergom, Archiepiscopal Library, ms Cat. V, Tit. IV, d) are the chief source for Wittich's movements of 1579–1589: the eclipses planned with him in 1579, Henry Savile's visit of early 1581, the twenty-four theorems on parallaxes of 1582, the report of the death, and the diagram of Wittich's planetary system sent to Praetorius on 25 January 1589 with the remark that Wittich ‘boasted that he communicated this diagram to Tycho’ (Gingerich & Westman 1988, pp. 10–14, 49–50, 68). Tycho sent him the De mundi in May 1588 — the Stockholm copy with his red-ink notes, in the Reception chapter — and in 1600 tried through Monaw to buy part of his library, which lay pawned ‘between heaven and earth’ (the Bibliotheca's history).",
+   "sources": [
+    "S_GINGERICH_WESTMAN"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Wrocław",
+    "lat": 51.108,
+    "lon": 17.039,
+    "basis": "the Breslau circle, 1579–1589"
+   }
+  },
+  {
+   "id": "PRAETORIUS",
+   "name": "Johannes Praetorius",
+   "sort_name": "Praetorius, Johannes",
+   "name_latin": "Johannes Praetorius",
+   "name_variants": [
+    "Johann Richter"
+   ],
+   "entry_kind": "person",
+   "born": 1537,
+   "died": 1616,
+   "categories": [
+    "astronomer",
+    "mathematician",
+    "dedicatee"
+   ],
+   "connection": "First professor of mathematics at the academy of Altdorf near Nuremberg and a friend and correspondent of Dudith's, in whose letters Wittich's circle is recorded. Wittich showed him methods of observing parallaxes at Nuremberg, and a note in his De revolutionibus reads ‘the errors of Copernicus according to Thaddeus Hagecius, which I have received from a certain person (Paul Wittich)’ (Gingerich & Westman 1988, pp. 13–16, nn. 46–47). Tycho sent him the De mundi inscribed at Uraniborg on 18 September 1588 (Wrocław University Library, 461816; reproduced 1988, p. 15, Fig. 3), and beside Tycho's ‘a certain Wrocław mathematician’ he wrote ‘Paulus Wittichius’ in the margin (p. 8 n. 20). His own planetary system of 1594, which avoids the ‘collision’ of the spheres, is in Erlangen University Library, MS 814, f. 100v (p. 50, Fig. 9).",
+   "sources": [
+    "S_GINGERICH_WESTMAN"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Altdorf",
+    "lat": 49.385,
+    "lon": 11.357,
+    "basis": "professor of mathematics at Altdorf"
+   }
+  },
+  {
+   "id": "LIDDEL",
+   "name": "Duncan Liddel",
+   "sort_name": "Liddel, Duncan",
+   "name_latin": "Duncanus Liddelius",
+   "name_variants": [
+    "Duncan Liddell"
+   ],
+   "entry_kind": "person",
+   "born": 1561,
+   "died": 1613,
+   "categories": [
+    "astronomer",
+    "scholar"
+   ],
+   "connection": "Scot from Aberdeen who matriculated at Frankfurt an der Oder in 1579, was sent by John Craig to study with Wittich at Breslau about 1582, and transcribed Wittich's marginalia into one of the two copies of De revolutionibus he carried home to Aberdeen (one also holds his manuscript copy of the Commentariolus). He visited Hven in June 1587 (Opera omnia IX, p. 55) and taught the Tychonic system privately at Rostock; Tycho, writing to Hagecius in March 1592, feared him as a rival claimant beside Ursus but allowed that ‘with a clear conscience … he testified that he got this idea here’ (Gingerich & Westman 1988, pp. 16, 37, 61–62 n. 161). Later professor of mathematics and of medicine at Helmstedt.",
+   "sources": [
+    "S_GINGERICH_WESTMAN"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Helmstedt",
+    "lat": 52.228,
+    "lon": 11.01,
+    "basis": "professor at Helmstedt (born at Aberdeen)"
    }
   },
   {
@@ -1167,7 +1270,7 @@
     "owner",
     "correspondent"
    ],
-   "connection": "Wrocław humanist who in October 1600 completed Tycho's long pursuit of Paul Wittich's library, conveying the annotated De revolutionibus copies from Wittich's heirs; his 1600 attestation anchors the Wittich-hand attribution. (Gingerich & Westman, The Wittich Connection, 1988)",
+   "connection": "Wrocław humanist who in October 1600 completed Tycho's long pursuit of Paul Wittich's library, conveying the annotated De revolutionibus copies from Wittich's heirs; his 1600 attestation anchors the Wittich-hand attribution. (Gingerich & Westman, The Wittich Connection, 1988) The endgame of the purchase is in five letters: Monaw to Tycho, 25 February/7 March 1598 (Opera omnia VIII, pp. 28–29: Longomontanus had seen the books); Tycho to Monaw, 31 December 1599 (VIII, p. 237: the three annotated copies of Copernicus, the writing on triangles, ‘On the Celestial Hypotheses if this can be found’); Monaw, 14 March 1600 (VIII, p. 266: the sister, advanced in age, had remarried and died, leaving one son whose guardians were not yet appointed, and the books lay ‘all mixed up and confused … like the Sibylline Books’); Tycho, 16 May 1600 (VIII, p. 320: the list drawn up by Longomontanus with the wanted books ticked, a price for the lot or for those marked, failing that a loan of a few weeks); Monaw, June 1600 (VIII, pp. 325–326: ‘rest assured that in due time your wishes will be satisfied’). He was in Prague by 23 October 1600, when he wrote at the foot of f. 56v of Tycho's comet book (Copenhagen, GKS 1826 4°): ‘These pages designated with the letters ABCDE, I recognize to have been written in the hand of the late Paul Wittich, which is very well known to me, and so I testify to this in my own writing, which I left at Prague with the magnificent and noble lord Tycho Brahe on 23 October 1600. Jacob Monaw with my own hand’ (Gingerich & Westman 1988, pp. 8, 21–22). Like Hagecius he was a physician who spent much time in Prague (p. 21 n. 82). What he brought was a selection: a Timaeus manuscript from Wittich's library was still being sold at Breslau in 1606 (p. 23 n. 93).",
    "sources": [
     "S_GINGERICH_WESTMAN",
     "S_THESAURUS",

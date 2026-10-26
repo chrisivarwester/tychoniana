@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.19",
- "edition_date": "2026-10-20",
+ "version": "1.20",
+ "edition_date": "2026-10-26",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -1823,7 +1823,7 @@
    "status": "",
    "grade": "A",
    "category": "Science",
-   "description": "The quarrel began with Erik Lange’s visit to Hven in September 1584, when his attendant Nicolaus Reimers Ursus took or copied, by Tycho’s account, a sketch of the system Tycho published in the De mundi of 1588; Ursus printed the system as his own in the Fundamentum astronomicum (Strasbourg 1588) and answered Tycho’s charge of plagiarism in De astronomicis hypothesibus (Prague 1597) with insults that Tycho had marked in a copy lent to Holger Rosenkrantz and never recovered. Tycho gathered depositions — Christian Hansen Riber’s at Leiden and Michael Walther’s at Kassel in May 1598, Lange’s at Magdeburg in October — sued at Prague through the advocate Johannes Fritsch, had Johannes Müller draw up a formal refutation of Ursus’s Demonstratio on 23 August 1600, and set Kepler to the Apologia pro Tychone contra Ursum; Ursus died on 15 August 1600 before judgement; with the archbishop of Prague’s collaboration the copies found at his house were burned, and the Hofkammer compensated his widow on 23 October 1600 (Jardine & Segonds 2008, pp. 178, 190). The papers went with Kepler’s to St Petersburg. Dreyer (1890) left the plagiarism ‘not proved’; Jardine edited and analysed the Contra Ursum (1984, 1988); Launert wrote Ursus’s life (1999); Jardine and Segonds edited the dossier of letters and depositions with the Contra Ursum in La guerre des astronomes (2008), whose introduction judges Ursus’s claim of priority a bluff, the question of plagiarism probably insoluble, Ursus’s ‘furtum philosophicum’ a concession rather than a confession, and Tycho cleared of having falsified Rothmann’s letters in the Epistolae of 1596 — verdicts recorded here as theirs (2008, pp. 8–11, 27 n. 1, 107–118, 146–156, 171–176, 188–196, 242–243).",
+   "description": "The quarrel began with Erik Lange’s visit to Hven in September 1584, when his attendant Nicolaus Reimers Ursus took or copied, by Tycho’s account, a sketch of the system Tycho published in the De mundi of 1588; Ursus printed the system as his own in the Fundamentum astronomicum (Strasbourg 1588) and answered Tycho’s charge of plagiarism in De astronomicis hypothesibus (Prague 1597) with insults that Tycho had marked in a copy lent to Holger Rosenkrantz and never recovered. Tycho gathered depositions — Christian Hansen Riber’s at Leiden and Michael Walther’s at Kassel in May 1598, Lange’s at Magdeburg in October — sued at Prague through the advocate Johannes Fritsch, had Johannes Müller draw up a formal refutation of Ursus’s Demonstratio on 23 August 1600, and set Kepler to the Apologia pro Tychone contra Ursum; Ursus died on 15 August 1600 before judgement; with the archbishop of Prague’s collaboration the copies found at his house were burned, and the Hofkammer compensated his widow on 23 October 1600 (Jardine & Segonds 2008, pp. 178, 190). The papers went with Kepler’s to St Petersburg. Dreyer (1890) left the plagiarism ‘not proved’; Jardine edited and analysed the Contra Ursum (1984, 1988); Launert wrote Ursus’s life (1999); Jardine and Segonds edited the dossier of letters and depositions with the Contra Ursum in La guerre des astronomes (2008), whose introduction judges Ursus’s claim of priority a bluff, the question of plagiarism probably insoluble, Ursus’s ‘furtum philosophicum’ a concession rather than a confession, and Tycho cleared of having falsified Rothmann’s letters in the Epistolae of 1596 — verdicts recorded here as theirs (2008, pp. 8–11, 27 n. 1, 107–118, 146–156, 171–176, 188–196, 242–243). Gingerich and Westman's monograph of 1988 is the fullest narrative in English: Tycho's three versions of the theft — to Brucaeus on 4 November 1588 (Opera omnia VII, p. 149), to Rantzau on 21 December 1588 (VII, pp. 387–389: the drawing on the table for Lange, the servant sent out of the room, the discarded sheet on a window sill with Mars's orb enclosing the sun's) and to Rothmann on 21 February 1589 (VI, p. 179) — and the ‘legal brief’ to Hagecius of 14 March 1592 (VII, pp. 321–326), translated nearly whole (pp. 52–62), with which Tycho sent Hagecius the discarded sheet itself, now lost; Ursus's dedicatory epistle of 31 July 1588 as the earliest possible date of the Fundamentum (n. 143); Dudith's enquiry of 30 October 1588 and his letter of 25 January 1589 with a diagram of Wittich's system that Wittich ‘boasted that he communicated … to Tycho’ (pp. 49–50, Fig. 8); Gellius Sascerides confronting Ursus at Strasbourg; Ursus's side note ‘Let it be a theft, but a philosophical one’ (sig. F, Fig. 13), read with Jardine as the rhetoric of confessio; Kepler's reading of May 1599; and the authors' chronology of 1584–1587, which leaves open whether Ursus and Wittich met at Kassel in the autumn of 1585 (pp. 67–69). They date Tycho's settled conviction about the interpenetration of the orbs to January 1587 rather than to the 1583 he later claimed (p. 75).",
    "edges": [
     [
      "involves",
@@ -1840,10 +1840,19 @@
     [
      "documented_in",
      "S_RECEP_JARDINE2008"
+    ],
+    [
+     "involves",
+     "WITTICH"
+    ],
+    [
+     "documented_in",
+     "S_RECEP_GINGERICH_WESTMAN1988"
     ]
    ],
    "sources": [
-    "S_RECEP_JARDINE2008"
+    "S_RECEP_JARDINE2008",
+    "S_RECEP_GINGERICH_WESTMAN1988"
    ],
    "links": [
     {
@@ -2301,6 +2310,12 @@
    "url": "https://www.hrady.cz/pomnik-pamatnik-sousosi-tychona-brahe-a-johanna-keplera/texty",
    "url_label": "hrady.cz — the monument's text page",
    "contributes": "The year 1984 for the unveiling of Josef Vajce's group before the Gymnázium Jana Keplera, independently of Vackářová 2026."
+  },
+  {
+   "id": "S_RECEP_GINGERICH_WESTMAN1988",
+   "label": "Gingerich & Westman, The Wittich Connection (1988)",
+   "full": "Owen Gingerich and Robert S. Westman, The Wittich Connection: Conflict and Priority in Late Sixteenth-Century Cosmology (Transactions of the American Philosophical Society 78, part 7; Philadelphia, 1988).",
+   "contributes": "the Ursus affair narrated from Tycho's letters of 1588–1592 and from Ursus's and Kepler's texts, with the Wittich connection and the chronology of 1584–1587"
   }
  ],
  "threads": [

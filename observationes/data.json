@@ -1,12 +1,12 @@
 {
  "edition": {
   "title": "Observationes — The Observation Archive of Tycho Brahe, and the Printed Catalogue of Stars",
-  "date": "2026-10-19"
+  "date": "2026-10-26"
  },
  "codices": {
   "id": "brahe-tycho",
-  "version": "2.4",
-  "edition_date": "2026-10-19",
+  "version": "2.5",
+  "edition_date": "2026-10-26",
   "generated": "2026-09-05",
   "title": "Observationes — the observation archive of Tycho Brahe, and the printed catalogue of stars",
   "description": "The manuscript volumes in which Tycho Brahe's observations survive — the archetypes and transcripts at the Royal Danish Library, the nineteen annual fair copies and the working star catalogue at the Austrian National Library, and the lost octavo — with Dreyer's description of each, the hand, what it was copied from, the pages of the Opera Omnia set from it, and the events of its custody 1601–1929.",
@@ -371,6 +371,14 @@
     "url": "",
     "contributes": "the manuscript copies of the star catalogue",
     "cited_by": "O_LOST_RUDOLF_STARCAT; Desiderata_Tychoniana row 82"
+   },
+   {
+    "id": "S_GINGERICH_WESTMAN1988",
+    "label": "Gingerich & Westman, The Wittich Connection (1988)",
+    "full": "Owen Gingerich and Robert S. Westman, The Wittich Connection: Conflict and Priority in Late Sixteenth-Century Cosmology (Transactions of the American Philosophical Society 78, part 7; Philadelphia, 1988).",
+    "url": "",
+    "contributes": "the authenticated Wittich leaves of the comet book, ff. 56–58, with Monau's affidavit of 23 October 1600, reproduced as Fig. 2",
+    "cited_by": "O_GKS1826"
    }
   ],
   "volumes": [
@@ -1001,13 +1009,14 @@
     "scribe_attribution": null,
     "url": "https://soeg.kb.dk/permalink/45KBDK_KGL/1o797oc/alma99122876047805763",
     "facsimile": null,
-    "notes": "Hven; seven comets 1577–1596, mostly in Tycho's hand. Leaf 56 is a directly comparable Tycho-vs-Wittich pair: Tycho's autograph 1577 comet observation alongside Paul Wittich's Oct 1580 comet observations A–E, the latter authenticated by Jakob Monau's signed attestation of 23 Oct 1600 (Rosen 1981 reproduces both hands, Ryc.1–2). This leaf is documented specimen by specimen in the Graphonomicon of Tycho Brahe, under the Paul Wittich discriminator.",
+    "notes": "Hven; seven comets 1577–1596, mostly in Tycho's hand. Leaf 56 is a directly comparable Tycho-vs-Wittich pair: Tycho's autograph 1577 comet observation alongside Paul Wittich's Oct 1580 comet observations A–E, the latter authenticated by Jakob Monau's signed attestation of 23 Oct 1600 (Rosen 1981 reproduces both hands, Ryc.1–2). This leaf is documented specimen by specimen in the Graphonomicon of Tycho Brahe, under the Paul Wittich discriminator. Folios 56–58 carry Wittich's observations of 21–26 October 1580 (Opera omnia XIII, pp. 315–317); Monau's attestation stands at the foot of f. 56v; Gingerich and Westman reproduce the opening ff. 56v–57, Wittich's hand on the left and Tycho's on the right (1988, p. 9, Fig. 2; the affidavit in translation, p. 8).",
     "confidence": "A",
     "sources": [
      "S_DREYER_BIO",
      "S_KB",
      "S_ROSEN81",
-     "S_GRAPH_BRAHE"
+     "S_GRAPH_BRAHE",
+     "S_GINGERICH_WESTMAN1988"
     ],
     "questions": [],
     "graphonomicon": "kb-gks-1826",

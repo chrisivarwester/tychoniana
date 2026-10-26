@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.25",
- "edition_date": "2026-10-23",
+ "version": "1.26",
+ "edition_date": "2026-10-26",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
   {
@@ -1118,7 +1118,7 @@
      "icon-gassendi-frontispiece"
     ]
    ],
-   "census_copies": "Four digitised copies examined across all three issue-clusters (July 2026): every portrait present is the hatted second engraving — Smithsonian/Dibner (1596 issue, hand-coloured), ETH Zürich (1601 Hülsius issue), Florence BNCF (1610 Tampach issue); the Dresden SLUB 1610-issue copy lacks the leaf entirely (loose inserts do go missing). Nielsen §430 names no state ('et kobberstukket Portræt'). No copy carrying the capless first engraving has yet been found (n=4 of 29 census copies). Gigas 1900 (pp. 34, 37) tells the Royal Library's impressions apart by Strunk's catalogue: the Johan Adolf Epistolae, the Tuscany Mechanica, GKS 306 and GKS 307 carry the plate 'not in Strunk' — on his description the hatted second engraving — while the 1602 Progymnasmata carries Strunk 356 'før M. Sadelers Navn'; four further carriers of this plate on a reading of 1900, none yet examined for this record.",
+   "census_copies": "Four digitised copies examined across all three issue-clusters (July 2026): every portrait present is the hatted second engraving — Smithsonian/Dibner (1596 issue, hand-coloured), ETH Zürich (1601 Hülsius issue), Florence BNCF (1610 Tampach issue); the Dresden SLUB 1610-issue copy lacks the leaf entirely (loose inserts do go missing). Nielsen §430 names no state ('et kobberstukket Portræt'). No copy carrying the capless first engraving has yet been found (n=5 of 29 census copies, one of them from a reproduction). Gigas 1900 (pp. 34, 37) tells the Royal Library's impressions apart by Strunk's catalogue: the Johan Adolf Epistolae, the Tuscany Mechanica, GKS 306 and GKS 307 carry the plate 'not in Strunk' — on his description the hatted second engraving — while the 1602 Progymnasmata carries Strunk 356 'før M. Sadelers Navn'; four further carriers of this plate on a reading of 1900, none yet examined for this record. A fifth: the Harvard College Library copy of the Epistolae reproduced by Gingerich and Westman (1988, p. 57, Fig. 11, ‘found in some copies of his Epistolae astronomicae’) shows the worn plumed beret, the single doubled chain and the tablet's ‘instrumentorumque astronomicorum’ — this plate, read from a halftone, so the copy is counted and not described.",
    "sources": [
     "S_ICON_LETTERS",
     "S_ICON_DOSSIER_2026",
@@ -1133,7 +1133,8 @@
     "S_ICON_NOTES_2026_10",
     "S_ICON_WESTERGAARD1930",
     "S_ICON_GIGAS",
-    "S_ICON_SLKS"
+    "S_ICON_SLKS",
+    "S_ICON_GINGERICH_WESTMAN1988"
    ],
    "image": "plates/icon-degheyn-v2.jpg",
    "image_thumb": "plates/icon-degheyn-v2_thumb.jpg",
@@ -3581,6 +3582,11 @@
    "full": "Georg Braun & Frans Hogenberg, Civitates orbis terrarum, liber quartus (Cologne, [1588]): the Hven plate ‘Topographia insulae Huenae in celebri porthmo Regni Daniae … Effigiata Coloniae 1586’ and its letterpress (Topographia; Orthographia arcis Vranienburg; Ichnographiae explicatio; Delineationis totius capacitatis explicatio), read in the Seville copy of the Latin edition (archive.org ARes73114, plates dated 1586) and in the French-text edition at Heidelberg (braun1594bd4, ‘Topographie de l'Isle Huena’). The text is the 1586 Marburg key, not Tycho's revised keys of 1596 and 1598.",
    "url": "https://archive.org/details/ARes73114",
    "url_label": "Seville copy (archive.org)"
+  },
+  {
+   "id": "S_ICON_GINGERICH_WESTMAN1988",
+   "label": "Gingerich & Westman, The Wittich Connection (1988)",
+   "full": "Owen Gingerich and Robert S. Westman, The Wittich Connection: Conflict and Priority in Late Sixteenth-Century Cosmology (Transactions of the American Philosophical Society 78, part 7; Philadelphia, 1988), p. 57, Fig. 11: the engraved portrait in a Harvard College Library copy of the Epistolae astronomicae (1596), reproduced in halftone."
   }
  ],
  "rejected": [

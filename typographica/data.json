@@ -108,7 +108,7 @@
     "brahe-de-nova-stella-1573"
    ],
    "gloss": "Tycho's report on the new star (supernova) of 1572.",
-   "survival": "Nielsen's 1931 list names some twenty libraries, the Royal Danish Library with two copies (now three) and the Copenhagen University Library copy defective; several of his copies await re-verification.",
+   "survival": "Nielsen's 1931 list names some twenty libraries, the Royal Danish Library with two copies (now three) and the Copenhagen University Library copy defective; several of his copies await re-verification. One copy annotated by a reader of Tycho's own circle is at the Paris Observatory (shelfmark 20540): Paul Wittich's, with his notes on the lunar-eclipse section (Gingerich and Westman 1988, p. 23 n. 92).",
    "diplomatic": "TYCHONIS BRAHE, DANI | DE | NOVA ET NVLLIVS | ÆVI MEMORIA PRIVS VISA | STELLA, iam pridem Anno à nato CHRI- | STO 1572. mense Nouembri primùm Con- | specta, | CONTEMPLATIO MATHEMATICA. | … | HAFNIÆ, | IMPRESSIT LAVRENTIVS | Benedicti. | 1573. |",
    "collation": "54 leaves. Signatures: (:)⁴ (::)⁴ A⁴–K⁴ L⁶ (eight preliminary leaves: Bl. 9 is sign. A). 27, 28, 32 and 36 lines. Type-area: 147 and 152 × 95 mm. Catchwords. Italic and roman. Initials (majuscules also used as initials) and vignettes. Woodcuts.",
    "contents": "Bl. 1a title; 1b a poem to Tycho by Johannes Franciscus Ripensis (Hans Frandsen); Bl. 2–3 a letter to Tycho from Johannes Pratensis (3 May 1573); Bl. 4–7 Tycho's reply to Pratensis (5 May 1573); Bl. 8 blank; Bl. 9a (sign. A) the treatise proper, dated from the Herrevad museum in December 1572; Bl. 37a (sign. H) the lunar eclipse of December 1573; Bl. 49a (sign. L) the elegy 'In Uraniam'; Bl. 53b a poem by Andreas Velleius; Bl. 54a the printer's afterword and errata.",
@@ -133,7 +133,8 @@
     "S_NIELSEN_DB",
     "S_NIELSEN_BT",
     "S_TBOO",
-    "S_DREYER_1890"
+    "S_DREYER_1890",
+    "S_GINGERICH_WESTMAN1988"
    ]
   },
   {
@@ -327,7 +328,7 @@
    "references": "T. Brahe, Opera omnia IV, pp. 1–378 and 491–511. Dreyer, Tycho Brahe, 158–85 (German trans. 165–94); Gigas, in Bogvennen 1900, 31–34; L. Nielsen, in Nord. tidskr. VIII, 188–90. Facsimiles: Bogvennen 1900 p. 32; Nord. tidskr. VIII p. 189; Opera omnia IV pp. 3 and 378.",
    "nielsen_census": "Aberdeen; Altenburg; Augsburg; Berlin (Staatsbibl.); Breslau; Dresden; Edinburgh (Nat. Libr., Univ. Bibl.); Gotha; Göttingen; Krakau; *Copenhagen, Kgl. Bibl. (3 copies), Univ. Bibl.; Königsberg; Leiden; London (BM); Oxford (Bodleian, Magdalen College); Paris (BnF); Prague (Univ. Bibl.); Stockholm (Kgl. Bibl., Academy of Sciences); Uppsala; Vienna (Nat. Bibl.); Wolfenbüttel (Herzog August-Bibl.).",
    "production": "Printing of the great work began with this volume, before vol. I. Through chronic paper shortages — in December 1587 Tycho sought paper from the Duke of Mecklenburg's mills through his kinsman Heinrich v. Below — it was finished on 8 March 1588, the day the Uraniborg weather-diary records 'Finis I lib'.",
-   "note_html": "The colophon naming <b>Christopher Weida</b> is the only Tycho imprint to name him. The text was finished 8 March 1588 ('Finis I lib' in the Uraniborg meteorological diary). <b>Two title-page settings exist</b>: the standard one (10 chapters per the preface) and an earlier, rejected setting (titled <i>De novis aetherei mundi generationibus</i>, 8 chapters), known only from one Berlin Staatsbibliothek copy. Re-issued posthumously at Prague (Schumann, 1603) and Frankfurt (Tampach, 1610); most surviving 'Liber II' copies are in fact 1588 sheets in later bindings. <b>Printed in 1587, dated 1588.</b> Tycho told Brucaeus on 4 November 1588 that the book had been printed in his press in 1587 and deliberately dated a year later ‘to make it more acceptable as new’ (Opera omnia VII, p. 149); Christian Hansen Riber’s deposition of May 1598 and Rodolphe Méhérenc, who found it finished on Hven on 6 January 1588 (to Kepler, 16 December 1599, KGW XIV no. 150), confirm the year, Jardine and Segonds doubting the motive Tycho gives (2008, pp. 42–43 n. 3, 78–79). The dated gifts of 1588 run from Dudith on 1 May (the surviving dedication leaf) through Brucaeus in the spring, Maestlin and Rothmann by Sascerides in the summer, Peucer and Rantzau on 13 September, to Craig by 2 November; Dee had a copy in the same year (pp. 43 n. 3, 63, 76–78, 99 n. 2, 113–114 n. 3).",
+   "note_html": "The colophon naming <b>Christopher Weida</b> is the only Tycho imprint to name him. The text was finished 8 March 1588 ('Finis I lib' in the Uraniborg meteorological diary). <b>Two title-page settings exist</b>: the standard one (10 chapters per the preface) and an earlier, rejected setting (titled <i>De novis aetherei mundi generationibus</i>, 8 chapters), known only from one Berlin Staatsbibliothek copy. Re-issued posthumously at Prague (Schumann, 1603) and Frankfurt (Tampach, 1610); most surviving 'Liber II' copies are in fact 1588 sheets in later bindings. <b>Printed in 1587, dated 1588.</b> Tycho told Brucaeus on 4 November 1588 that the book had been printed in his press in 1587 and deliberately dated a year later ‘to make it more acceptable as new’ (Opera omnia VII, p. 149); Christian Hansen Riber’s deposition of May 1598 and Rodolphe Méhérenc, who found it finished on Hven on 6 January 1588 (to Kepler, 16 December 1599, KGW XIV no. 150), confirm the year, Jardine and Segonds doubting the motive Tycho gives (2008, pp. 42–43 n. 3, 78–79). The dated gifts of 1588 run from Dudith on 1 May (the surviving dedication leaf) through Brucaeus in the spring, Maestlin (the British Library copy, inscribed ‘Anno 1588 Maij 14’ and received through Sascerides in August — Gingerich and Westman 1988, p. 60, Fig. 12) and Rothmann by Sascerides in the summer, Peucer and Rantzau on 13 September, Praetorius on 18 September (‘dono misit Tycho Brahe Anno 1588 18 Septembris Vraniburgo’, Wrocław University Library, 461816 — Gingerich and Westman 1988, p. 15, Fig. 3; Kašparová et al. 2022, p. 25), to Craig by 2 November; Dee had a copy in the same year (pp. 43 n. 3, 63, 76–78, 99 n. 2, 113–114 n. 3).",
    "flags": [
     "two-settings"
    ],
@@ -341,7 +342,9 @@
     "S_TBOO",
     "S_DREYER_1890",
     "S_GIGAS_1900",
-    "S_JARDINE2008"
+    "S_JARDINE2008",
+    "S_GINGERICH_WESTMAN1988",
+    "S_KASPAROVA2022"
    ]
   },
   {
@@ -1076,8 +1079,8 @@
    "S_NIELSEN_BT"
   ]
  },
- "version": "2.5",
- "edition_date": "2026-10-19",
+ "version": "2.6",
+ "edition_date": "2026-10-26",
  "period_vocabulary": [
   {
    "id": "I",
@@ -2168,10 +2171,24 @@
    "full": "Martin Šolc, ‘Knihovna Tychona Brahe’, in Vlasta Faltysová (ed.), Rukověť tištěných knihovních fondů Národní knihovny České republiky od prvotisků do konce 19. století (Praha: Národní knihovna ČR, 2006), pp. 189–193.",
    "url": "",
    "contributes": "an unsourced statement that the Epistolae astronomicae were printed in ‘an exceptionally high run of 1,500 copies’ (p. 191), carried as a desideratum and not adopted; the Hven press's start in the autumn of 1584 and the eighteen instrument woodcuts prepared"
+  },
+  {
+   "id": "S_GINGERICH_WESTMAN1988",
+   "label": "Gingerich & Westman, The Wittich Connection (1988)",
+   "full": "Owen Gingerich and Robert S. Westman, The Wittich Connection: Conflict and Priority in Late Sixteenth-Century Cosmology (Transactions of the American Philosophical Society 78, part 7; Philadelphia, 1988).",
+   "contributes": "the De mundi inscriptions to Praetorius (18 September 1588) and Maestlin (14 May 1588) in reproduction; Wittich's copy of the De nova stella at the Paris Observatory",
+   "url": ""
+  },
+  {
+   "id": "S_KASPAROVA2022",
+   "label": "Kašparová, Mašek, Měřička & Šípek (2022)",
+   "full": "Jaroslava Kašparová, Rostislav Mašek, Matěj Měřička and Richard Šípek, Fragmenty českých knižních sbírek v evropských knihovnách (Praha: Národní muzeum, 2022), pp. 24–25: the Tycho dedication copies at Wrocław, with the Praetorius inscription transcribed (BUWr 461816).",
+   "contributes": "the transcription of the Praetorius inscription of 18 September 1588 and the Wrocław shelfmark",
+   "url": ""
   }
  ],
  "edition": {
-  "date": "2026-10-19",
+  "date": "2026-10-26",
   "title": "Typographica Tychonis — The Printed Works of Tycho Brahe"
  },
  "figures": {

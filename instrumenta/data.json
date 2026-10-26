@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "2.8",
- "edition_date": "2026-10-22",
+ "version": "2.9",
+ "edition_date": "2026-10-26",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
   {
@@ -727,7 +727,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "The astronomical sextant Tycho first devised at Augsburg (c.1569, with Petrus Ramus in mind) and refined at Hven with parallel-slit sights. Its priority — and the parallel-slit sights — are the matter of the Wittich dispute aired in the long 1587 letter to Rothmann: Paul Wittich, after his 1580 visit to Hven, reproduced Tycho's instruments at the Landgrave's observatory in Kassel. Not extant. In his own words: “The astronomical sextant instrument, which is particularly convenient in use, was first invented by myself, about twenty years ago.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 25).",
+   "description": "The astronomical sextant Tycho first devised at Augsburg (c.1569, with Petrus Ramus in mind) and refined at Hven with parallel-slit sights. Its priority — and the parallel-slit sights — are the matter of the Wittich dispute aired in the long 1587 letter to Rothmann: Paul Wittich, after his 1580 visit to Hven, reproduced Tycho's instruments at the Landgrave's observatory in Kassel. Not extant. In his own words: “The astronomical sextant instrument, which is particularly convenient in use, was first invented by myself, about twenty years ago.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 25). What Wittich carried to Kassel is recorded in Rothmann's manuscript Observationum stellarum fixarum liber primus (Kassel, Murhardsche Bibliothek, Fol. MS Astron. 5 No. 7), which names him some twenty times on the construction of instruments (Gingerich & Westman 1988, nn. 35, 62), and in Tycho's own account to Hagecius of 14 March 1592: Wittich ‘spoke openly as well about the construction of my instruments and about the idea therein of the divisions and sight-holes, so that the Landgrave was soon able to have built a sextant as well as a quadrant that were copies of mine (although Wittich did not acknowledge that they were)’ (Opera omnia VII, pp. 321–326; 1988, p. 58). The Landgrave's letter of 20 October 1585 already credits Wittich's instruction for the improvement of his instruments (Opera omnia VI, pp. 31–32; 1988, p. 68).",
    "edges": [
     [
      "described_in",
@@ -749,7 +749,8 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_GINGERICH_WESTMAN1988"
    ],
    "radius_cm": 155,
    "location": "south-east crypt, Stjerneborg (ball-and-socket globe mount)",
@@ -2075,6 +2076,15 @@
    "url_label": "Marmora Danica I, the Google scan at the Internet Archive",
    "kind": "primary",
    "contributes": "The globe's own horizon inscription of 1584 and Longomontanus's wall inscription, printed after the fire from the earlier collections, under a heading that records the globe's two Copenhagen homes: formerly in the University, later moved to the Round Tower ('postea vero in turrim Astronomicam translati', p. 125)."
+  },
+  {
+   "id": "S_GINGERICH_WESTMAN1988",
+   "label": "Gingerich & Westman, The Wittich Connection (1988)",
+   "full": "Owen Gingerich and Robert S. Westman, The Wittich Connection: Conflict and Priority in Late Sixteenth-Century Cosmology (Transactions of the American Philosophical Society 78, part 7; Philadelphia, 1988).",
+   "url": "",
+   "url_label": "",
+   "kind": "secondary",
+   "contributes": "Wittich's transfer of the Hven instrument designs to Kassel — Rothmann's manuscript as the record, Tycho's letter of 14 March 1592 on the copied sextant and quadrant, the Landgrave's letter of 20 October 1585"
   }
  ],
  "federates_with": [
