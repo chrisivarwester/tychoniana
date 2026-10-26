@@ -1,6 +1,6 @@
 {
  "id": "brahe-tycho",
- "version": "2.9",
+ "version": "2.10",
  "edition_date": "2026-10-26",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
@@ -700,10 +700,11 @@
    "categories": [
     "publisher"
    ],
-   "connection": "Nuremberg and Frankfurt cosmographer-publisher who, after Tycho's death, acquired the Mechanica blocks from Tengnagel and issued the 1602 Nuremberg reprint, and reissued the remaining stock of the Epistolae (1596). (Nielsen)",
+   "connection": "Nuremberg and Frankfurt cosmographer-publisher who, after Tycho's death, obtained the Mechanica's woodblocks and copperplates — by sale from the heirs in Dreyer's account, by a loan 'gegen gewisse Versicherung' in Georg Brahe's memory of 1627, for which no document was found (Opera omnia XIV, p. 293) — and issued the 1602 Nuremberg reprint from them, with a new title portrait and one re-engraved plate, and reissued the remaining stock of the Epistolae (1596). (Nielsen)",
    "sources": [
     "S_NIELSEN1921",
-    "S_THESAURUS"
+    "S_THESAURUS",
+    "S_DREYER"
    ],
    "letters_sent": 0,
    "letters_received": 0,
@@ -816,11 +817,12 @@
    "categories": [
     "printer"
    ],
-   "connection": "Copenhagen printer holding a royal monopoly from 1565; printed Tycho's first book, De nova stella (1573). (Nielsen; Dansk Biografisk Leksikon)",
+   "connection": "Copenhagen printer holding a royal monopoly from 1565; printed Tycho's first book, De nova stella (1573). (Nielsen; Dansk Biografisk Leksikon) He cut many of his own blocks; Beckett read a monogram 'L B' with a year on the east-façade block of the Epistolae (1596), and the identification with him, which the initials and the date admit, has not been tested. (Beckett & Christensen 1921, p. 8)",
    "sources": [
     "S_NIELSEN1921",
     "S_DBL",
-    "S_THESAURUS"
+    "S_THESAURUS",
+    "S_BECKETT"
    ],
    "letters_sent": 0,
    "letters_received": 0,

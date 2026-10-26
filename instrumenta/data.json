@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "2.9",
+ "version": "2.10",
  "edition_date": "2026-10-26",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
@@ -94,7 +94,7 @@
    "material": "oak, iron-bound, with a brass-faced limb",
    "dimensions": "radius at least 14 cubits — Tycho's own figure, ≈543 cm (≈5.5 m) (Mechanica 1946, Fig. 20, p. 89)",
    "fate": "destroyed in a great storm, December 1574",
-   "description": "A quadrant of c.5.5 m radius (at least 14 cubits in Tycho's own figure), so large it needed some twenty men to raise, built 1569–70 in Paul Hainzel's garden at Göggingen near Augsburg — the earliest of Tycho's monumental instruments. Destroyed in a storm in December 1574. In his own words: “I think that I will also add a delineation and description of the great quadrant which we had constructed 26 years ago in Master Paul Hainzel's garden on his property half a mile from Augsburg, although it does not exist any more.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 89).",
+   "description": "A quadrant of c.5.5 m radius (at least 14 cubits in Tycho's own figure), so large it needed some twenty men to raise, built 1569–70 in Paul Hainzel's garden at Göggingen near Augsburg — the earliest of Tycho's monumental instruments. Destroyed in a storm in December 1574. In his own words: “I think that I will also add a delineation and description of the great quadrant which we had constructed 26 years ago in Master Paul Hainzel's garden on his property half a mile from Augsburg, although it does not exist any more.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 89). The image: a woodblock cut on Hven, first printed in the Progymnasmata sheets of 1592–93, then in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint (1602), all from the same block.",
    "edges": [
     [
      "described_in",
@@ -111,7 +111,9 @@
     "S_MOSLEY",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 543,
    "location": "Paul Hainzel's garden, Göggingen, near Augsburg",
@@ -154,7 +156,7 @@
    "material": "brass arc on a meridian wall",
    "dimensions": "radius nearly five cubits — Tycho's own figure, ≈194 cm (Mechanica 1946, Fig. 5, p. 29, in the editors' conversion); Wolfschmidt 2002 gives 194 cm; Thoren's 'two metres' is a rounding.",
    "fate": "the Hven instruments destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "A brass arc fixed to a wall set precisely in the meridian (north–south) at Uraniborg. Radius 194 cm — Tycho's own 'nearly five cubits' (Wolfschmidt 2002, p. 207; Thoren's 'two metres' is a rounding). Planned from 1576 and emerging from his Hven shop in June 1582 (Thoren, p. 163); Tycho was still adjusting it on the wall in 1583 (Thoren, p. 164 fn 43). Limb five inches broad, two inches thick — Tycho's own figures (Raeder 1946, p. 28), roughly 8 × 3 cm by Thoren's own conversion (arc breadth = 1/24 of the five-cubit radius; p. 163 n. 42). Thoren's main-text 'thirteen millimeters broad, and five millimeters thick' (p. 163) contradicts his own footnote and is an error. The wall within the arc bore the famous triple mural painting of Tycho himself amid views of Uraniborg's chambers. Its transversal scale was graduated to sixths of a minute; only after 1585, when the great armillary and the revolving quadrant became available to check its results, did Tycho regard its positions as confirmed (Thoren, p. 190). Known from the Mechanica engraving. In his own words: “It is called Mural, or Tichonicus, after the wall on which it is fixed. … every single minute can be divided again into six subdivisions; thus ten seconds of arc are plainly distinguishable and even half this, or five seconds of arc, can be read without difficulty.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 29).",
+   "description": "A brass arc fixed to a wall set precisely in the meridian (north–south) at Uraniborg. Radius 194 cm — Tycho's own 'nearly five cubits' (Wolfschmidt 2002, p. 207; Thoren's 'two metres' is a rounding). Planned from 1576 and emerging from his Hven shop in June 1582 (Thoren, p. 163); Tycho was still adjusting it on the wall in 1583 (Thoren, p. 164 fn 43). Limb five inches broad, two inches thick — Tycho's own figures (Raeder 1946, p. 28), roughly 8 × 3 cm by Thoren's own conversion (arc breadth = 1/24 of the five-cubit radius; p. 163 n. 42). Thoren's main-text 'thirteen millimeters broad, and five millimeters thick' (p. 163) contradicts his own footnote and is an error. The wall within the arc bore the famous triple mural painting of Tycho himself amid views of Uraniborg's chambers. Its transversal scale was graduated to sixths of a minute; only after 1585, when the great armillary and the revolving quadrant became available to check its results, did Tycho regard its positions as confirmed (Thoren, p. 190). Known from the Mechanica engraving. In his own words: “It is called Mural, or Tichonicus, after the wall on which it is fixed. … every single minute can be divided again into six subdivisions; thus ten seconds of arc are plainly distinguishable and even half this, or five seconds of arc, can be read without difficulty.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 29). The image: a copperplate engraved at Hamburg early in 1598 for the Mechanica — the instrument has no woodcut and is absent from the Icones of 1596; the same plate was printed again at Nuremberg in 1602. A woodblock derivative of the plate was cut for the Historia coelestis of 1666.",
    "edges": [
     [
      "described_in",
@@ -177,7 +179,9 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 194,
    "location": "south-west ground-floor room, Uraniborg (fixed on the meridian wall)",
@@ -248,7 +252,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "An early brass quadrant mounted to turn in azimuth, among the first instruments of the Hven period (1576). Not extant. In his own words: “Therefore I generally refer to this as the portable azimuth quadrant.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 22).",
+   "description": "An early brass quadrant mounted to turn in azimuth, among the first instruments of the Hven period (1576). Not extant. In his own words: “Therefore I generally refer to this as the portable azimuth quadrant.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 22). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -264,7 +268,9 @@
     "S_WOLFSCHMIDT",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 58,
    "location": "larger southern observatory, Uraniborg",
@@ -312,7 +318,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "A large revolving wood quadrant — 'one-and-a-half-meter' per Thoren (p. 177), 155 cm per Wolfschmidt 2002 — available at the turn of 1585–6 (Thoren, p. 177). Its column was set on 14 December 1585, about seven in the evening — Tycho's entry on the last leaf of the 1585 Vienna volume, 'hora existente juxta 7 vespertinam', the column 'in quo quadrans volubilis in turricula orientali observatorii subterranii convoluitur' (Friis 1868–69, p. 253); his 'eastern turret' is the north-east crypt of this record. Probably an experimental analogue to the mural quadrant, kept rigid by lightweight struts instead of anchors to a wall, so it could be turned to any azimuth. Together with the great equatorial armillary it gave Tycho the redundancy to verify his mural quadrant systematically, enabling the 1′ accuracy milestone achieved by the 1585 comet season. The second large quadrant (the revolving steel quadrant) entered service two years later. Not extant. In his own words: “A revolving quadrant, which can be used for determining not only altitudes, like the previous sextant, but also, most accurately, azimuths, has been constructed by us.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 33). The crypt's roof 'made of small, smooth beams … can be turned around, with little effort' on wheels hidden in a wooden ring, its two windows turned toward the star — 'the first account of a movable observatory dome in northern Europe' in the judgement of the 1996 editors (n. 70, p. 39).",
+   "description": "A large revolving wood quadrant — 'one-and-a-half-meter' per Thoren (p. 177), 155 cm per Wolfschmidt 2002 — available at the turn of 1585–6 (Thoren, p. 177). Its column was set on 14 December 1585, about seven in the evening — Tycho's entry on the last leaf of the 1585 Vienna volume, 'hora existente juxta 7 vespertinam', the column 'in quo quadrans volubilis in turricula orientali observatorii subterranii convoluitur' (Friis 1868–69, p. 253); his 'eastern turret' is the north-east crypt of this record. Probably an experimental analogue to the mural quadrant, kept rigid by lightweight struts instead of anchors to a wall, so it could be turned to any azimuth. Together with the great equatorial armillary it gave Tycho the redundancy to verify his mural quadrant systematically, enabling the 1′ accuracy milestone achieved by the 1585 comet season. The second large quadrant (the revolving steel quadrant) entered service two years later. Not extant. In his own words: “A revolving quadrant, which can be used for determining not only altitudes, like the previous sextant, but also, most accurately, azimuths, has been constructed by us.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 33). The crypt's roof 'made of small, smooth beams … can be turned around, with little effort' on wheels hidden in a wooden ring, its two windows turned toward the star — 'the first account of a movable observatory dome in northern Europe' in the judgement of the 1996 editors (n. 70, p. 39). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -331,7 +337,9 @@
     "S_AIM1946",
     "S_AIM1996",
     "S_FRIIS1868",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 155,
    "location": "north-east crypt, Stjerneborg",
@@ -402,7 +410,7 @@
    "place": "P_HVEN",
    "material": "a circle-quadrant braced inside a rigid steel square",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "A revolving quadrant built in steel (1588) for rigidity and precision, and the physically largest of Tycho's quadrants (radius 194 cm per Wolfschmidt 2002; Thoren gives 'one and three-quarters metres'). It was actually the old Q. max — the 5-cubit steel quadrant inaugurated 21 March 1581, Tycho's first Hven-shop instrument, which had to be abandoned due to unstable pillars — recycled into useful form after being given a completely stable base (Thoren, p. 177). Braced inside a rigid steel square and turning on a vertical iron axle, it was so solidly built that — Tycho records — a man could hang on it and ride it round several turns without disturbing it. Among the latest of the Stjerneborg battery. Not extant. The Mechanica delineates this quadrant twice: as Fig. 7 (p. 37), revolving in a brick crypt about a steel axis, and again as Fig. 21 (p. 93) in its earlier mounting on a steel azimuth-horizon carried by five columns — Tycho noting it had already been 'described … among the instruments delineated under No. 7'. In his own words: “This quadrant, which is entirely made of solid steel, and further surrounded with a steel square, serves the same purpose as the previous one, with even greater accuracy, since it is considerably larger.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 37).",
+   "description": "A revolving quadrant built in steel (1588) for rigidity and precision, and the physically largest of Tycho's quadrants (radius 194 cm per Wolfschmidt 2002; Thoren gives 'one and three-quarters metres'). It was actually the old Q. max — the 5-cubit steel quadrant inaugurated 21 March 1581, Tycho's first Hven-shop instrument, which had to be abandoned due to unstable pillars — recycled into useful form after being given a completely stable base (Thoren, p. 177). Braced inside a rigid steel square and turning on a vertical iron axle, it was so solidly built that — Tycho records — a man could hang on it and ride it round several turns without disturbing it. Among the latest of the Stjerneborg battery. Not extant. The Mechanica delineates this quadrant twice: as Fig. 7 (p. 37), revolving in a brick crypt about a steel axis, and again as Fig. 21 (p. 93) in its earlier mounting on a steel azimuth-horizon carried by five columns — Tycho noting it had already been 'described … among the instruments delineated under No. 7'. In his own words: “This quadrant, which is entirely made of solid steel, and further surrounded with a steel square, serves the same purpose as the previous one, with even greater accuracy, since it is considerably larger.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 37). The images: Fig. 7, the quadrant in its square, is a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint (1602); Fig. 21, the earlier mounting in the Stjerneborg crypt, is a copperplate engraved at Hamburg early in 1598, absent from the Icones, the same plate printed again in 1602.",
    "edges": [
     [
      "described_in",
@@ -420,7 +428,9 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 194,
    "location": "south-west crypt, Stjerneborg",
@@ -494,7 +504,7 @@
    "place": "P_HVEN",
    "dimensions": "one complete revolving armilla seven cubits in diameter — Tycho's own figure, ≈272 cm (radius ≈136 cm); a fixed nine-cubit (≈350 cm) semicircular armilla (Mechanica 1946, Fig. 14, p. 65)",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "The great equatorial armillary of the Stjerneborg crypt, 1.36 m radius (Wolfschmidt 2002; Thoren: 'one-and-a-third metre'), completed by the summer solstice of 1585 — the single most important instrument on Hven (Thoren, ch. 5, p. 174). The foundation stone was laid at noon on 11 December 1584 — Tycho's own entry in the 1584 observation volume at Vienna: 'die 11 Decembris in ipso Meridie … posui primum lapidem pro fundamento armillarum majorum subterranearum' (Friis 1868–69, p. 253). Its single declination ring — made of wood to minimise flexure, except for brass alidades and graduation strips — was pivoted on a hollow steel axis tilted to the Hven latitude. In simplicity it rivalled the mural quadrant; right ascension and declination are read directly, in the equatorial coordinate system astronomers still use. Tycho had tried a zodiacal (ecliptic) armillary first but abandoned it almost immediately; the converted zodiacal armillary was the first equatorial armillary (c. 1583–84), the two smaller equatorial armillaries in the Uraniborg castle itself (north and south, 1584) were the second step, and this great Stjerneborg instrument was the third and culminating form: 'a third, which was to become the single most important instrument on Hven' (Thoren, p. 174). After 1585, the great armillary and the revolving quadrant together enabled Tycho to cross-check the mural quadrant systematically, and it was by this comet-of-1585 season that he achieved his 1′ accuracy target (Thoren, p. 190). Not extant. In his own words: “It has one complete armilla [ring] only which can revolve, and another semicircular one, which is fixed.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 65).",
+   "description": "The great equatorial armillary of the Stjerneborg crypt, 1.36 m radius (Wolfschmidt 2002; Thoren: 'one-and-a-third metre'), completed by the summer solstice of 1585 — the single most important instrument on Hven (Thoren, ch. 5, p. 174). The foundation stone was laid at noon on 11 December 1584 — Tycho's own entry in the 1584 observation volume at Vienna: 'die 11 Decembris in ipso Meridie … posui primum lapidem pro fundamento armillarum majorum subterranearum' (Friis 1868–69, p. 253). Its single declination ring — made of wood to minimise flexure, except for brass alidades and graduation strips — was pivoted on a hollow steel axis tilted to the Hven latitude. In simplicity it rivalled the mural quadrant; right ascension and declination are read directly, in the equatorial coordinate system astronomers still use. Tycho had tried a zodiacal (ecliptic) armillary first but abandoned it almost immediately; the converted zodiacal armillary was the first equatorial armillary (c. 1583–84), the two smaller equatorial armillaries in the Uraniborg castle itself (north and south, 1584) were the second step, and this great Stjerneborg instrument was the third and culminating form: 'a third, which was to become the single most important instrument on Hven' (Thoren, p. 174). After 1585, the great armillary and the revolving quadrant together enabled Tycho to cross-check the mural quadrant systematically, and it was by this comet-of-1585 season that he achieved his 1′ accuracy target (Thoren, p. 190). Not extant. In his own words: “It has one complete armilla [ring] only which can revolve, and another semicircular one, which is fixed.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 65). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -514,7 +524,9 @@
     "S_AIM1946",
     "S_AIM1996",
     "S_FRIIS1868",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 136,
    "location": "south (largest) crypt, Stjerneborg",
@@ -581,7 +593,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "A zodiacal (ecliptic) armillary, measuring celestial longitudes and latitudes in the traditional Ptolemaic system of ecliptic coordinates. Tycho's initial zodiacal armillary (ca. 1583) was tried and abandoned almost immediately — 'he seems to have decided so quickly that the zodiacal form of the armillary would not work that he did not bother to record any observations made with it until after he had converted it to equatorial form' (Thoren, p. 174) — and the conversion to equatorial form constituted his invention of the equatorial armillary. The Mechanica plate (V, 72–87) shows a later, mature zodiacal instrument, grouped by Thoren under 1585. Tycho kept it for its traditional role (solar-longitude measurements) but regarded the equatorial type as his real instrument. Not extant. In his own words: “This instrument consists of four armillae [rings] only (while my predecessors used five or six).” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 53).",
+   "description": "A zodiacal (ecliptic) armillary, measuring celestial longitudes and latitudes in the traditional Ptolemaic system of ecliptic coordinates. Tycho's initial zodiacal armillary (ca. 1583) was tried and abandoned almost immediately — 'he seems to have decided so quickly that the zodiacal form of the armillary would not work that he did not bother to record any observations made with it until after he had converted it to equatorial form' (Thoren, p. 174) — and the conversion to equatorial form constituted his invention of the equatorial armillary. The Mechanica plate (V, 72–87) shows a later, mature zodiacal instrument, grouped by Thoren under 1585. Tycho kept it for its traditional role (solar-longitude measurements) but regarded the equatorial type as his real instrument. Not extant. In his own words: “This instrument consists of four armillae [rings] only (while my predecessors used five or six).” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 53). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -598,7 +610,9 @@
     "S_THOREN_LORD",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "dimensions": "four armillae; steel meridian ring three cubits in diameter — Tycho's own figure, ≈117 cm (Mechanica 1946, Fig. 11, p. 53)",
    "location": "north-west crypt, Stjerneborg",
@@ -645,7 +659,7 @@
    "place": "P_HVEN",
    "dimensions": "sides four cubits from the centre — Tycho's own figure, ≈155 cm; on a spherical base a little over two feet (≈52 cm) across (Mechanica 1946, Fig. 16, p. 73)",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "A triangular sextant (1582) for measuring angular distances between two stars, one of the six sextants Tycho describes. Not extant. In his own words: “I now come to the explanation of the Astronomical Sextant, since this is particularly suited for the determination of distances in the sky between the stars.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 73).",
+   "description": "A triangular sextant (1582) for measuring angular distances between two stars, one of the six sextants Tycho describes. Not extant. In his own words: “I now come to the explanation of the Astronomical Sextant, since this is particularly suited for the determination of distances in the sky between the stars.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 73). The image: a woodblock cut by August 1585 and sent that year as a broadside to Hagecius and, in March 1586, to Landgrave Wilhelm (the Marburg sheet); the same block in the Progymnasmata sheets of 1592–93, the Icones (1596), the Mechanica (1598) and the Nuremberg reprint (1602).",
    "edges": [
     [
      "described_in",
@@ -662,7 +676,9 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "location": "Uraniborg",
    "location_group": "uraniborg",
@@ -727,7 +743,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "The astronomical sextant Tycho first devised at Augsburg (c.1569, with Petrus Ramus in mind) and refined at Hven with parallel-slit sights. Its priority — and the parallel-slit sights — are the matter of the Wittich dispute aired in the long 1587 letter to Rothmann: Paul Wittich, after his 1580 visit to Hven, reproduced Tycho's instruments at the Landgrave's observatory in Kassel. Not extant. In his own words: “The astronomical sextant instrument, which is particularly convenient in use, was first invented by myself, about twenty years ago.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 25). What Wittich carried to Kassel is recorded in Rothmann's manuscript Observationum stellarum fixarum liber primus (Kassel, Murhardsche Bibliothek, Fol. MS Astron. 5 No. 7), which names him some twenty times on the construction of instruments (Gingerich & Westman 1988, nn. 35, 62), and in Tycho's own account to Hagecius of 14 March 1592: Wittich ‘spoke openly as well about the construction of my instruments and about the idea therein of the divisions and sight-holes, so that the Landgrave was soon able to have built a sextant as well as a quadrant that were copies of mine (although Wittich did not acknowledge that they were)’ (Opera omnia VII, pp. 321–326; 1988, p. 58). The Landgrave's letter of 20 October 1585 already credits Wittich's instruction for the improvement of his instruments (Opera omnia VI, pp. 31–32; 1988, p. 68).",
+   "description": "The astronomical sextant Tycho first devised at Augsburg (c.1569, with Petrus Ramus in mind) and refined at Hven with parallel-slit sights. Its priority — and the parallel-slit sights — are the matter of the Wittich dispute aired in the long 1587 letter to Rothmann: Paul Wittich, after his 1580 visit to Hven, reproduced Tycho's instruments at the Landgrave's observatory in Kassel. Not extant. In his own words: “The astronomical sextant instrument, which is particularly convenient in use, was first invented by myself, about twenty years ago.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 25). What Wittich carried to Kassel is recorded in Rothmann's manuscript Observationum stellarum fixarum liber primus (Kassel, Murhardsche Bibliothek, Fol. MS Astron. 5 No. 7), which names him some twenty times on the construction of instruments (Gingerich & Westman 1988, nn. 35, 62), and in Tycho's own account to Hagecius of 14 March 1592: Wittich ‘spoke openly as well about the construction of my instruments and about the idea therein of the divisions and sight-holes, so that the Landgrave was soon able to have built a sextant as well as a quadrant that were copies of mine (although Wittich did not acknowledge that they were)’ (Opera omnia VII, pp. 321–326; 1988, p. 58). The Landgrave's letter of 20 October 1585 already credits Wittich's instruction for the improvement of his instruments (Opera omnia VI, pp. 31–32; 1988, p. 68). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -750,7 +766,9 @@
     "S_AIM1946",
     "S_AIM1996",
     "S_INST_SLKS",
-    "S_GINGERICH_WESTMAN1988"
+    "S_GINGERICH_WESTMAN1988",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 155,
    "location": "south-east crypt, Stjerneborg (ball-and-socket globe mount)",
@@ -822,7 +840,7 @@
    "place": "P_HVEN",
    "dimensions": "diameter six cubits — Tycho's own figure, ≈233 cm (radius ≈116 cm), on a four-cubit (≈155 cm) azimuth horizon (Mechanica 1946, Fig. 8, p. 41)",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "An altitude-azimuth half-circle of 233 cm diameter on a 155 cm horizon ring, raised on five stone piers in the larger southern observatory of Uraniborg, surmounted by three figures (Urania, Geometry, Arithmetic). Its sight-rule pivots at one end of the diameter, on the rim; by Euclid's inscribed-angle theorem the angle subtended there is twice the true altitude, so the scale is engraved at double spacing and reads altitude directly, with azimuth on the horizon ring. One of the principal instruments engraved in the Mechanica. Not extant. In his own words: “We have also devised another instrument suitable for accurate measures of altitudes and azimuths, the appearance of which can be seen from the figure.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 41).",
+   "description": "An altitude-azimuth half-circle of 233 cm diameter on a 155 cm horizon ring, raised on five stone piers in the larger southern observatory of Uraniborg, surmounted by three figures (Urania, Geometry, Arithmetic). Its sight-rule pivots at one end of the diameter, on the rim; by Euclid's inscribed-angle theorem the angle subtended there is twice the true altitude, so the scale is engraved at double spacing and reads altitude directly, with azimuth on the horizon ring. One of the principal instruments engraved in the Mechanica. Not extant. In his own words: “We have also devised another instrument suitable for accurate measures of altitudes and azimuths, the appearance of which can be seen from the figure.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 41). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -834,7 +852,9 @@
     "S_WOLFSCHMIDT",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "radius_cm": 116,
    "location": "larger southern observatory, Uraniborg (on five stone piers)",
@@ -880,7 +900,7 @@
    "grade": "B",
    "tycho_relation": "designed",
    "place": "P_HVEN",
-   "description": "A distance-measuring arc Tycho invented in 1583, while determining the precise positions of the stars in Cassiopeia for the new-star discussion of the Progymnasmata. On the ordinary sextant two observers had to sight the same small interstellar gap and got in each other's way; the bipartite arc solved this by splitting the axis of the measured angle into two parallel 'zero points'. Constructing it, Tycho realised the same split-axis principle could be adapted to the sextant itself — so the instrument is as much a step in the evolution of his sextant design as an instrument in its own right (Thoren, Lord of Uraniborg, pp. 169–170, Fig. 5.13; TBOO V, 68–71). Enumerated among the Mechanica instruments. Not extant. In his own words: “… an instrument which can measure smaller distances up to one-twelfth of the circumference of the circle, or, as it is called, one sign of the zodiac.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 69).",
+   "description": "A distance-measuring arc Tycho invented in 1583, while determining the precise positions of the stars in Cassiopeia for the new-star discussion of the Progymnasmata. On the ordinary sextant two observers had to sight the same small interstellar gap and got in each other's way; the bipartite arc solved this by splitting the axis of the measured angle into two parallel 'zero points'. Constructing it, Tycho realised the same split-axis principle could be adapted to the sextant itself — so the instrument is as much a step in the evolution of his sextant design as an instrument in its own right (Thoren, Lord of Uraniborg, pp. 169–170, Fig. 5.13; TBOO V, 68–71). Enumerated among the Mechanica instruments. Not extant. In his own words: “… an instrument which can measure smaller distances up to one-twelfth of the circumference of the circle, or, as it is called, one sign of the zodiac.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 69). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -896,7 +916,9 @@
     "S_THOREN_LORD",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "dimensions": "alidade four cubits long — Tycho's own figure, ≈155 cm (Mechanica 1946, Fig. 15, p. 69); measures up to one-twelfth of the circle (one zodiac sign)",
    "location": "larger northern observatory, Uraniborg",
@@ -942,7 +964,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "Tycho's parallactic instrument (two triquetra), of the ancient Greek and Copernican type, for measuring zenith distances. In the Mechanica Tycho sets his brass instruments against Copernicus's own fir-wood triquetrum. Not extant. In his own words: “This parallatic instrument, which is also called the Ptolemaic rulers, I have wished to construct, since it requires very few accessories, namely, three rulers, in order to measure in a moment the zenith distance of a star, and hence its altitude.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 45).",
+   "description": "Tycho's parallactic instrument (two triquetra), of the ancient Greek and Copernican type, for measuring zenith distances. In the Mechanica Tycho sets his brass instruments against Copernicus's own fir-wood triquetrum. Not extant. In his own words: “This parallatic instrument, which is also called the Ptolemaic rulers, I have wished to construct, since it requires very few accessories, namely, three rulers, in order to measure in a moment the zenith distance of a star, and hence its altitude.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 45). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -959,7 +981,9 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "dimensions": "three equal rulers, each four cubits — Tycho's own figure, ≈155 cm (Mechanica 1946, Fig. 9, p. 45).",
    "location": "larger northern observatory, Uraniborg",
@@ -1101,7 +1125,7 @@
    "dimensions": "diameter almost six feet — Tycho's own figure, ≈149 cm; on a stand about five feet (≈130 cm) high (Mechanica 1946, Fig. 22, p. 103)",
    "fate": "returned to Copenhagen; destroyed in the University observatory-tower fire of 1728",
    "maker": "Christopher Schissler the Elder (Augsburg, shell, 1570)",
-   "description": "A celestial globe of almost six Tychonic feet (c. 149 cm) in diameter. Its wooden shell was commissioned in 1570 from Christopher Schissler the Elder, the leading Augsburg instrument-maker, who built it of many fir staves and rings fitted together like a great puzzle (Christianson, On Tycho's Island, p. 358; Dreyer, p. 112). On Tycho's return to Augsburg in 1575 it was found not perfectly spherical and slightly cracked; once received in Denmark in 1576 the cracks were stopped and the sphericity restored, after which the globe was observed over a two-year period to be sure it would hold its shape through the changeable Danish climate before being sheathed in brass, marked with ecliptic and equator divided to a minute of arc, and mounted in divided meridian and horizon rings. An inscription on the horizon dated its completion to 1584; only then were star positions engraved — Tycho's own measured places, added down to 1595 — making it a precision computing instrument as well as a showpiece (Mosley, Bearing the Heavens, ch. 4). The maker of the shell is normally identified as Christopher Schissler the Elder, though Mosley flags the identification as not beyond doubt. The longest-surviving of all Tycho's instruments, with a circuitous return: listed in the 6 Dec 1621 Belvedere inventory ('Ein sehr grosser globus coelestis vom metall'), it is placed by Mortensen's inference — the Jesuit college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397) names no globe — at the Jesuit College at Neisse (Nysa) in Silesia under Christoph Scheiner by about 1625, whence in 1632 it was carried as war-booty to Copenhagen by Prince Ulrik, son of Christian IV, and set up with ceremony in the University — the dedicatory tablet dates its restitution to 1 December 1632, and Longomontanus composed the wall inscription beside it after Ulrik's death in 1633 (Gassendi 1655, lib. VI pp. 217–218; Resen 1668, pp. 239–240, who prints it as still in place); it was later moved to the Round Tower's observatory (Pontoppidan 1739, p. 125) and burned there with the tower's contents in 1728 (Mortensen, Fra Tycho Brahes Bogsamling). In his own words: “A globe of this size, so solidly and finely worked, and correct in every respect, has never I think been constructed up to now by any man anywhere in the world.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 104). Tycho's own chronology as the 1996 edition prints it (pp. 112–115): the wooden core made at Augsburg in 1570, left there five years, found cracked in 1575 on the way to Regensburg, sent to Denmark in 1576, two years' shape test, the brass sheets, another year's test, the circles and the thousand stars 'referred to the integer year 1600' — 'about 25 years' from first phase to finish; the horizon inscription's 1584 'about the middle of the period'; the base about five feet (130 cm), the globe 'almost six feet' (149 cm), a hollow cover lowered by a rope. Mortensen gives the diameter as 149.2 cm, and the Prague Kunstkammer inventory of 6 December 1621 numbers the globe 'N:o 1424 Ein sehr grosser globus coelestis vomm metall' beside 'N:o 1425 Ein qvadrant mit viel zugehörigen instrumenten' (Jahrbuch der kunsthistorischen Sammlungen XXV, p. LI; Mortensen 1942, p. 20); after the fire of 1728 the wooden core had burned and the metal plates melted, and what remained — lumps of metal, the meridian ring, iron rings and the axle — has since been lost (p. 21).",
+   "description": "A celestial globe of almost six Tychonic feet (c. 149 cm) in diameter. Its wooden shell was commissioned in 1570 from Christopher Schissler the Elder, the leading Augsburg instrument-maker, who built it of many fir staves and rings fitted together like a great puzzle (Christianson, On Tycho's Island, p. 358; Dreyer, p. 112). On Tycho's return to Augsburg in 1575 it was found not perfectly spherical and slightly cracked; once received in Denmark in 1576 the cracks were stopped and the sphericity restored, after which the globe was observed over a two-year period to be sure it would hold its shape through the changeable Danish climate before being sheathed in brass, marked with ecliptic and equator divided to a minute of arc, and mounted in divided meridian and horizon rings. An inscription on the horizon dated its completion to 1584; only then were star positions engraved — Tycho's own measured places, added down to 1595 — making it a precision computing instrument as well as a showpiece (Mosley, Bearing the Heavens, ch. 4). The maker of the shell is normally identified as Christopher Schissler the Elder, though Mosley flags the identification as not beyond doubt. The longest-surviving of all Tycho's instruments, with a circuitous return: listed in the 6 Dec 1621 Belvedere inventory ('Ein sehr grosser globus coelestis vom metall'), it is placed by Mortensen's inference — the Jesuit college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397) names no globe — at the Jesuit College at Neisse (Nysa) in Silesia under Christoph Scheiner by about 1625, whence in 1632 it was carried as war-booty to Copenhagen by Prince Ulrik, son of Christian IV, and set up with ceremony in the University — the dedicatory tablet dates its restitution to 1 December 1632, and Longomontanus composed the wall inscription beside it after Ulrik's death in 1633 (Gassendi 1655, lib. VI pp. 217–218; Resen 1668, pp. 239–240, who prints it as still in place); it was later moved to the Round Tower's observatory (Pontoppidan 1739, p. 125) and burned there with the tower's contents in 1728 (Mortensen, Fra Tycho Brahes Bogsamling). In his own words: “A globe of this size, so solidly and finely worked, and correct in every respect, has never I think been constructed up to now by any man anywhere in the world.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 104). Tycho's own chronology as the 1996 edition prints it (pp. 112–115): the wooden core made at Augsburg in 1570, left there five years, found cracked in 1575 on the way to Regensburg, sent to Denmark in 1576, two years' shape test, the brass sheets, another year's test, the circles and the thousand stars 'referred to the integer year 1600' — 'about 25 years' from first phase to finish; the horizon inscription's 1584 'about the middle of the period'; the base about five feet (130 cm), the globe 'almost six feet' (149 cm), a hollow cover lowered by a rope. Mortensen gives the diameter as 149.2 cm, and the Prague Kunstkammer inventory of 6 December 1621 numbers the globe 'N:o 1424 Ein sehr grosser globus coelestis vomm metall' beside 'N:o 1425 Ein qvadrant mit viel zugehörigen instrumenten' (Jahrbuch der kunsthistorischen Sammlungen XXV, p. LI; Mortensen 1942, p. 20); after the fire of 1728 the wooden core had burned and the metal plates melted, and what remained — lumps of metal, the meridian ring, iron rings and the axle — has since been lost (p. 21). The image: a copperplate engraved at Hamburg early in 1598 for the Mechanica — the instrument has no woodcut and is absent from the Icones of 1596; the same plate was printed again at Nuremberg in 1602.",
    "edges": [
     [
      "described_in",
@@ -1125,7 +1149,9 @@
     "S_MORTENSEN",
     "S_GASSENDI1655",
     "S_RESEN1668",
-    "S_PONTOPPIDAN1739"
+    "S_PONTOPPIDAN1739",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "location": "library, Uraniborg",
    "location_group": "uraniborg",
@@ -1337,7 +1363,7 @@
    "material": "walnut clad in copper; copper arc and central sight",
    "accuracy": "arc divided to single degrees and minutes (1° ≈ 24 mm, 1′ ≈ ½ mm)",
    "principle": "A 60° star-distance sextant: a fixed copper sight at the centre, the moving leg locked and fine-adjusted by a screw against an inner arc; sighting along both legs gives the angle between two stars.",
-   "description": "The sextant Tycho had made at Herrevadskloster — the instrument with which, in November 1572, he measured the new star (SN 1572) in Cassiopeia: its distances to the nine brightest stars of the constellation, and (the star being circumpolar and culminating too near the zenith to reach) its lowest meridian altitude, 27°45′, taken by laying the sextant on a window-frame and levelling it with a plumb-line. These are the observations behind De nova stella (1573). Later judged obsolete; superseded by the Hven sextants. Not extant. The Mechanica does not tie this instrument to Herrevad by name, but by Tycho's own account it is the sextant he “had made” to measure the 1572 new star: its distance-form is engraved as Fig. 18 (whose plate is dated 1572) and its altitude-mounting — the configuration illustrated here — as Fig. 19 (p. 85). The half-sextant for small angles, catalogued separately, is that same Fig. 18 instrument, so the two entries may describe one physical sextant. In his own words: “In this fashion I measured the minimum altitude of the new star which was seen in the year 1572 and the following year, as it passed the meridian below the pole.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 85).",
+   "description": "The sextant Tycho had made at Herrevadskloster — the instrument with which, in November 1572, he measured the new star (SN 1572) in Cassiopeia: its distances to the nine brightest stars of the constellation, and (the star being circumpolar and culminating too near the zenith to reach) its lowest meridian altitude, 27°45′, taken by laying the sextant on a window-frame and levelling it with a plumb-line. These are the observations behind De nova stella (1573). Later judged obsolete; superseded by the Hven sextants. Not extant. The Mechanica does not tie this instrument to Herrevad by name, but by Tycho's own account it is the sextant he “had made” to measure the 1572 new star: its distance-form is engraved as Fig. 18 (whose plate is dated 1572) and its altitude-mounting — the configuration illustrated here — as Fig. 19 (p. 85). The half-sextant for small angles, catalogued separately, is that same Fig. 18 instrument, so the two entries may describe one physical sextant. In his own words: “In this fashion I measured the minimum altitude of the new star which was seen in the year 1572 and the following year, as it passed the meridian below the pole.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 85). The image: a woodblock cut on Hven, first printed in the Progymnasmata sheets of 1592–93, then in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint (1602), all from the same block.",
    "edges": [
     [
      "made_observations_with",
@@ -1357,7 +1383,9 @@
     "S_DREYER_BIO",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-herrevad-sextant.jpg",
    "image_thumb": "plates/inst-herrevad-sextant_thumb.jpg",
@@ -1401,7 +1429,7 @@
    "material": "gilt brass",
    "accuracy": "fitted with the Nonius (Nunes) auxiliary-arc scale",
    "principle": "A small altitude quadrant — his first — fitted with the Nonius/Nunes auxiliary-arc scale, which Tycho soon abandoned for his own transversal division.",
-   "description": "Tycho's earliest and smallest quadrant (radius ≈39 cm), of gilt brass, for altitudes. It is best remembered for a small allegorical painting on it: a tree green and living on the left, dead and withered on the right; beneath the living branches a youth with laurel, book and star-globe, beneath the dead a skeleton reaching for a table of riches — with a Latin verse that only study and knowledge confer immortality. Later kept at Stjerneborg. Not extant. In his own words: “The use of this quadrant is for finding the altitudes of the stars and of the sun and moon in such cases when complete accuracy is not necessary, a value with an error less than two or three minutes being sufficient.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 15).",
+   "description": "Tycho's earliest and smallest quadrant (radius ≈39 cm), of gilt brass, for altitudes. It is best remembered for a small allegorical painting on it: a tree green and living on the left, dead and withered on the right; beneath the living branches a youth with laurel, book and star-globe, beneath the dead a skeleton reaching for a table of riches — with a Latin verse that only study and knowledge confer immortality. Later kept at Stjerneborg. Not extant. In his own words: “The use of this quadrant is for finding the altitudes of the stars and of the sun and moon in such cases when complete accuracy is not necessary, a value with an error less than two or three minutes being sufficient.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 15). The image: a copperplate engraved at Hamburg early in 1598 for the Mechanica — the instrument has no woodcut and is absent from the Icones of 1596; the same plate was printed again at Nuremberg in 1602.",
    "edges": [
     [
      "described_in",
@@ -1412,7 +1440,9 @@
     "S_WENNBERG",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-smallest-quadrant.jpg",
    "image_thumb": "plates/inst-smallest-quadrant_thumb.jpg",
@@ -1458,7 +1488,7 @@
    "material": "solid brass, with an azimuth circle",
    "accuracy": "carried both the Nonius and Tycho's transversal scale — the 1996 editors (nn. 35, 44, pp. 17, 24): one degree ≈ 10 mm along the edge, so the Nonnian scale 'could not even pretend to a resolution of seconds', and the solar image on a 58 cm instrument is about 5 mm across",
    "principle": "A solid-brass altitude-azimuth quadrant — the one instrument carrying both reading systems, the Portuguese Nonius/Nunes auxiliary arcs and Tycho's own transversal division, by which he compared the two and settled on the transversal.",
-   "description": "A solid-brass altitude-azimuth quadrant of 58 cm radius with a horizontal circle, in the larger southern observatory of Uraniborg. It is the instrument on which Tycho carried both fine-reading systems side by side — the Nonius/Nunes arcs and his own transversals — and concluded that the transversal was the practical one. Not extant. In his own words: “The use of the instrument is very comprehensive and includes all cases where observed altitudes and azimuths of a planet or a fixed star can by trigonometry yield a numerical solution conforming to the requirements of observational astronomy.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 18). The Progymnasmata (Opera omnia IV, 374–376) gives 'a somewhat more truthful description' of the mounting: the tube is firmly connected with the pointers K, L, M and the rod to H, and revolves round a shorter rod fixed perpendicular to the horizon NOP (Hadravová, Hadrava & Shackelford 1996, n. 36, p. 18).",
+   "description": "A solid-brass altitude-azimuth quadrant of 58 cm radius with a horizontal circle, in the larger southern observatory of Uraniborg. It is the instrument on which Tycho carried both fine-reading systems side by side — the Nonius/Nunes arcs and his own transversals — and concluded that the transversal was the practical one. Not extant. In his own words: “The use of the instrument is very comprehensive and includes all cases where observed altitudes and azimuths of a planet or a fixed star can by trigonometry yield a numerical solution conforming to the requirements of observational astronomy.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 18). The Progymnasmata (Opera omnia IV, 374–376) gives 'a somewhat more truthful description' of the mounting: the tube is firmly connected with the pointers K, L, M and the rod to H, and revolves round a shorter rod fixed perpendicular to the horizon NOP (Hadravová, Hadrava & Shackelford 1996, n. 36, p. 18). The image: a woodblock cut on Hven, first printed in De mundi (1588), then in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint (1602), all from the same block.",
    "edges": [
     [
      "described_in",
@@ -1469,7 +1499,9 @@
     "S_WENNBERG",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-medium-quadrant.jpg",
    "image_thumb": "plates/inst-medium-quadrant_thumb.jpg",
@@ -1514,7 +1546,7 @@
    "dimensions": "meridian ring about four cubits in diameter — Tycho's own figure, ≈155 cm; three steel rings (Mechanica 1946, Fig. 12, p. 57)",
    "material": "steel",
    "principle": "A three-ring equatorial armillary; one of the pair of smaller equatorial spheres in the castle that complemented the great one at Stjerneborg (a north- and a south-facing instrument were both needed because the castle tower blocked part of the sky from each).",
-   "description": "An equatorial armillary of three steel rings in the castle's northern smaller observatory — the north-facing member of the pair of smaller equatorial spheres at Uraniborg (the southern one could not reach the north, and vice versa). Not extant. In his own words: “They measure the right ascensions of the stars as well as their declinations.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 57).",
+   "description": "An equatorial armillary of three steel rings in the castle's northern smaller observatory — the north-facing member of the pair of smaller equatorial spheres at Uraniborg (the southern one could not reach the north, and vice versa). Not extant. In his own words: “They measure the right ascensions of the stars as well as their declinations.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 57). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -1530,7 +1562,9 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-north-equatorial-armillary.jpg",
    "image_thumb": "plates/inst-north-equatorial-armillary_thumb.jpg",
@@ -1581,7 +1615,7 @@
    "material": "brass, with a steel meridian ring",
    "accuracy": "two-observer reading of declination + RA-difference",
    "principle": "A 155 cm equatorial armillary: an outer meridian ring carrying the polar axis, a fixed equator ring (two sights → right-ascension difference and hour angle) and an inner declination ring (two sights → declination). Two observers fix an unknown star's coordinates against a known one — the sphere whose working Wennberg diagrams step by step.",
-   "description": "A 155 cm equatorial armillary in the castle's southern smaller observatory, of brass with a steel meridian ring: meridian ring, fixed equator ring and inner declination ring, each with sights. The south-facing member of the castle's pair of smaller equatorial spheres, and the one Wennberg uses to explain how an equatorial armillary is read. Not extant. In his own words: “The reason why this instrument has three inner armillae besides the meridian is that the equator is movable instead of fixed as in the case of the previous instrument.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 61).",
+   "description": "A 155 cm equatorial armillary in the castle's southern smaller observatory, of brass with a steel meridian ring: meridian ring, fixed equator ring and inner declination ring, each with sights. The south-facing member of the castle's pair of smaller equatorial spheres, and the one Wennberg uses to explain how an equatorial armillary is read. Not extant. In his own words: “The reason why this instrument has three inner armillae besides the meridian is that the equator is movable instead of fixed as in the case of the previous instrument.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 61). The image: a woodblock cut by August 1585 and sent that year as a broadside to Hagecius and, in March 1586, to Landgrave Wilhelm (the Marburg sheet); the same block in the Progymnasmata sheets of 1592–93, the Icones (1596) and the Mechanica (1598). It was missing at Nuremberg in 1602, where the image was re-engraved in copper in the woodcut's own orientation (leaf C6v), the one instrument image of the reprint not printed from Tycho's own block or plate.",
    "edges": [
     [
      "described_in",
@@ -1597,7 +1631,9 @@
     "S_MECH_OO5",
     "S_AIM1946",
     "S_AIM1996",
-    "S_INST_SLKS"
+    "S_INST_SLKS",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-south-equatorial-armillary.jpg",
    "image_thumb": "plates/inst-south-equatorial-armillary_thumb.jpg",
@@ -1646,7 +1682,7 @@
    "location": "larger northern observatory, Uraniborg",
    "material": "steel",
    "principle": "A steel star-distance sextant arranged so that one observer could work it alone — most of Tycho's sextants needed two.",
-   "description": "A smaller steel sextant in the larger northern observatory of Uraniborg, built so a single observer could take a star-distance unaided (Tycho's other sextants required two people). Not extant. In his own words: “I had already previously constructed another sextant, made of massive steel, and designed in such a way that one observer with its help could determine sufficiently easily the angular distances of the stars.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 77).",
+   "description": "A smaller steel sextant in the larger northern observatory of Uraniborg, built so a single observer could take a star-distance unaided (Tycho's other sextants required two people). Not extant. In his own words: “I had already previously constructed another sextant, made of massive steel, and designed in such a way that one observer with its help could determine sufficiently easily the angular distances of the stars.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 77). The image: a woodblock cut on Hven, first printed in De mundi (1588), then in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint (1602), all from the same block.",
    "edges": [
     [
      "described_in",
@@ -1661,7 +1697,9 @@
     "S_WENNBERG",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-steel-sextant-1obs.jpg",
    "image_thumb": "plates/inst-steel-sextant-1obs_thumb.jpg",
@@ -1706,7 +1744,7 @@
    "dimensions": "fundamental ruler 8½ cubits ≈330 cm; azimuth circle 12 cubits in diameter ≈466 cm — Tycho's own figures (Mechanica 1946, Fig. 10, p. 49).",
    "material": "brass",
    "principle": "A smaller parallactic instrument (Ptolemaic rules) with its own azimuth circle and the plumb enclosed in a case so the wind could not disturb it; zenith distance read on a sine scale.",
-   "description": "A second, smaller parallactic instrument with its own azimuth circle, kept in the larger southern observatory of Uraniborg; its plumb-line was enclosed in a case against the wind. Of the same family as the great brass parallactic in the north observatory. Not extant. In his own words: “This instrument, which surpasses the previous ruler-instrument in size and length, shows everything with greater accuracy and is more stable and easier to use, particularly for the determination of altitudes.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 51).",
+   "description": "A second, smaller parallactic instrument with its own azimuth circle, kept in the larger southern observatory of Uraniborg; its plumb-line was enclosed in a case against the wind. Of the same family as the great brass parallactic in the north observatory. Not extant. In his own words: “This instrument, which surpasses the previous ruler-instrument in size and length, shows everything with greater accuracy and is more stable and easier to use, particularly for the determination of altitudes.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 51). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602.",
    "edges": [
     [
      "described_in",
@@ -1721,7 +1759,9 @@
     "S_WENNBERG",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-parallactic-azimuth.jpg",
    "image_thumb": "plates/inst-parallactic-azimuth_thumb.jpg",
@@ -1764,7 +1804,7 @@
    "location": "larger northern observatory, Uraniborg",
    "dimensions": "alidades four cubits long — Tycho's own figure, ≈155 cm, three inches wide, two inches thick; divided arc one-twelfth of the circle (Mechanica 1946, Fig. 18, p. 81)",
    "principle": "A 'half-sextant' carrying two separate 15° arcs with transversal scales, for measuring very small angular distances; the kin and precursor of the bipartite arc.",
-   "description": "One of Tycho's purpose-built small-angle instruments: a 155 cm rule with two separate 15° arcs, distinct from the bipartite arc, kept in the larger northern observatory of Uraniborg. Among the principal instruments engraved in the Mechanica. Not extant. In his own words: “Afterwards, when shortly after my return to my fatherland this new and extremely admirable star had begun shining in the sky, I had a similar instrument made for myself in order to be able to measure accurately its angular distances from the neighbouring stars in Cassiopeia.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 81).",
+   "description": "One of Tycho's purpose-built small-angle instruments: a 155 cm rule with two separate 15° arcs, distinct from the bipartite arc, kept in the larger northern observatory of Uraniborg. Among the principal instruments engraved in the Mechanica. Not extant. In his own words: “Afterwards, when shortly after my return to my fatherland this new and extremely admirable star had begun shining in the sky, I had a similar instrument made for myself in order to be able to measure accurately its angular distances from the neighbouring stars in Cassiopeia.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 81). The image: a woodblock cut on Hven, first printed in the Progymnasmata sheets of 1592–93, then in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint (1602), all from the same block.",
    "edges": [
     [
      "described_in",
@@ -1775,7 +1815,9 @@
     "S_WENNBERG",
     "S_MECH_OO5",
     "S_AIM1946",
-    "S_AIM1996"
+    "S_AIM1996",
+    "S_DETMOLD1598",
+    "S_SIL1602"
    ],
    "image": "plates/inst-halfsextant-smallangles.jpg",
    "image_thumb": "plates/inst-halfsextant-smallangles_thumb.jpg",
@@ -2085,6 +2127,15 @@
    "url_label": "",
    "kind": "secondary",
    "contributes": "Wittich's transfer of the Hven instrument designs to Kassel — Rothmann's manuscript as the record, Tycho's letter of 14 March 1592 on the copied sextant and quadrant, the Landgrave's letter of 20 October 1585"
+  },
+  {
+   "id": "S_DETMOLD1598",
+   "label": "Mechanica, 1598 — the Detmold copy, uncoloured (Lippische Landesbibliothek)",
+   "full": "Tycho Brahe, Astronomiae instauratae mechanica (Wandsbek, 1598), Lippische Landesbibliothek Detmold, Nl 70.4°, an uncoloured copy, digitised at full resolution.",
+   "url": "https://digitale-sammlungen.llb-detmold.de/content/titleinfo/2547750",
+   "url_label": "Lippische Landesbibliothek, digital collections",
+   "kind": "facsimile",
+   "contributes": "The one public uncoloured copy of the 1598 edition: the surface of every plate — woodblock or copperplate — read without the colourist's hand, and the impressions against which the 1596 and 1602 pulls were registered."
   }
  ],
  "federates_with": [

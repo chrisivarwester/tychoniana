@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.21",
+ "version": "1.22",
  "edition_date": "2026-10-26",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
@@ -88,7 +88,7 @@
    "year_end": 1627,
    "status": "",
    "grade": "A",
-   "description": "The planetary tables Tycho secured Rudolf II's leave to name for the Emperor and which Kepler completed in 1627 from Tycho's observations.",
+   "description": "The planetary tables Tycho secured Rudolf II's leave to name for the Emperor and which Kepler completed in 1627 from Tycho's observations. In April 1627, with the Tables in the press at Ulm, Kepler asked Tycho's sons whether the old blocks and plates of the Mechanica survived. Georg Brahe answered from Prague on 14 April that Dr Basilius, formerly professor of mathematics in the Carolinum, had kept ten of the instrument blocks, the Uraniborg and Stjerneborg blocks and the Astronomia emblem block 'unverletzt und noch wohl zu gebrauchen', that the rest was lost in the war years, and that the portrait copperplate was, he believed, 'in eine Truhe an einem Ort auf dem Lande'; Kepler replied on 20 April that 'die alte Kupfer und Formen' were no part of the Tables, and that he had only suggested the heirs reprint them at the Tables' paper size for their own benefit (Opera omnia XIV, pp. 292–294). The frontispiece engraves its own panel of Hven; none of Tycho's blocks was printed again.",
    "edges": [
     [
      "builds_on",
@@ -108,7 +108,8 @@
     ]
    ],
    "sources": [
-    "S_RECEP_CHRISTIANSON"
+    "S_RECEP_CHRISTIANSON",
+    "S_RECEP_TBOO_XIV"
    ],
    "category": "Science",
    "links": [
@@ -2506,6 +2507,12 @@
    "full": "William Gilbert, De magnete, magneticisque corporibus, et de magno magnete tellure physiologia nova (London: Peter Short, 1600), book VI; and De mundo nostro sublunari philosophia nova (Amsterdam 1651), ed. 1965. Cited at the page through Westman 2011, pp. 370–372 and p. 580 nn. 145–147.",
    "contributes": "The first printed rebuttal of Tycho's argument from the cannon against the Earth's daily rotation, and the posthumous description of the Tychonic ordering.",
    "url": ""
+  },
+  {
+   "id": "S_RECEP_TBOO_XIV",
+   "label": "Opera omnia XIV (1929) — the letters and acts of the heirs",
+   "full": "Tychonis Brahe Dani Opera Omnia, ed. J. L. E. Dreyer, vol. XIV: Epistolae et acta ad vitam Tychonis Brahe pertinentia (Copenhagen, 1929): nos. 284–285, Georg Brahe to Kepler, Prague 14 April 1627, and Kepler to the brothers Brahe, Ulm 20 April 1627, pp. 292–294.",
+   "contributes": "the terminal inventory of the Mechanica's blocks and plates: ten instrument blocks, the Uraniborg and Stjerneborg blocks and the Astronomia emblem in Prague in 1627, the loan to Hülsius remembered without a document, the portrait copperplate believed in a chest in the country, and Kepler's reply that the Tables did not need them"
   }
  ],
  "threads": [
