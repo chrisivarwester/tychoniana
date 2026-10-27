@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-10-27",
  "institutions": [
   {
    "id": "KB",
@@ -1493,15 +1493,25 @@
     "explorer": "../census/brahe-progymnasmata-1592-uraniborg/explorer.html",
     "published": true,
     "total": 3,
-    "located": 0,
+    "located": 1,
     "inferred": 0,
     "lost": 1,
-    "attested": 2,
+    "attested": 1,
     "market": 0,
-    "n_institutions": 0,
-    "n_countries": 0,
-    "top_institutions": [],
-    "countries": []
+    "n_institutions": 1,
+    "n_countries": 1,
+    "top_institutions": [
+     [
+      "Hessisches Staatsarchiv Marburg",
+      1
+     ]
+    ],
+    "countries": [
+     [
+      "DE",
+      1
+     ]
+    ]
    }
   },
   {
