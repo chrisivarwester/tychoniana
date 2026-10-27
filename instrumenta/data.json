@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "2.10",
- "edition_date": "2026-10-26",
+ "version": "2.11",
+ "edition_date": "2026-10-27",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
   {
@@ -252,7 +252,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "An early brass quadrant mounted to turn in azimuth, among the first instruments of the Hven period (1576). Not extant. In his own words: “Therefore I generally refer to this as the portable azimuth quadrant.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 22). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint of 1602.",
+   "description": "An early brass quadrant mounted to turn in azimuth, among the first instruments of the Hven period (1576). Not extant. In his own words: “Therefore I generally refer to this as the portable azimuth quadrant.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 22). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602 (registered 27 October 2026).",
    "edges": [
     [
      "described_in",
@@ -743,7 +743,7 @@
    "tycho_relation": "designed",
    "place": "P_HVEN",
    "fate": "destroyed in the aftermath of the Bohemian war of 1619",
-   "description": "The astronomical sextant Tycho first devised at Augsburg (c.1569, with Petrus Ramus in mind) and refined at Hven with parallel-slit sights. Its priority — and the parallel-slit sights — are the matter of the Wittich dispute aired in the long 1587 letter to Rothmann: Paul Wittich, after his 1580 visit to Hven, reproduced Tycho's instruments at the Landgrave's observatory in Kassel. Not extant. In his own words: “The astronomical sextant instrument, which is particularly convenient in use, was first invented by myself, about twenty years ago.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 25). What Wittich carried to Kassel is recorded in Rothmann's manuscript Observationum stellarum fixarum liber primus (Kassel, Murhardsche Bibliothek, Fol. MS Astron. 5 No. 7), which names him some twenty times on the construction of instruments (Gingerich & Westman 1988, nn. 35, 62), and in Tycho's own account to Hagecius of 14 March 1592: Wittich ‘spoke openly as well about the construction of my instruments and about the idea therein of the divisions and sight-holes, so that the Landgrave was soon able to have built a sextant as well as a quadrant that were copies of mine (although Wittich did not acknowledge that they were)’ (Opera omnia VII, pp. 321–326; 1988, p. 58). The Landgrave's letter of 20 October 1585 already credits Wittich's instruction for the improvement of his instruments (Opera omnia VI, pp. 31–32; 1988, p. 68). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and the Nuremberg reprint of 1602.",
+   "description": "The astronomical sextant Tycho first devised at Augsburg (c.1569, with Petrus Ramus in mind) and refined at Hven with parallel-slit sights. Its priority — and the parallel-slit sights — are the matter of the Wittich dispute aired in the long 1587 letter to Rothmann: Paul Wittich, after his 1580 visit to Hven, reproduced Tycho's instruments at the Landgrave's observatory in Kassel. Not extant. In his own words: “The astronomical sextant instrument, which is particularly convenient in use, was first invented by myself, about twenty years ago.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 25). What Wittich carried to Kassel is recorded in Rothmann's manuscript Observationum stellarum fixarum liber primus (Kassel, Murhardsche Bibliothek, Fol. MS Astron. 5 No. 7), which names him some twenty times on the construction of instruments (Gingerich & Westman 1988, nn. 35, 62), and in Tycho's own account to Hagecius of 14 March 1592: Wittich ‘spoke openly as well about the construction of my instruments and about the idea therein of the divisions and sight-holes, so that the Landgrave was soon able to have built a sextant as well as a quadrant that were copies of mine (although Wittich did not acknowledge that they were)’ (Opera omnia VII, pp. 321–326; 1988, p. 58). The Landgrave's letter of 20 October 1585 already credits Wittich's instruction for the improvement of his instruments (Opera omnia VI, pp. 31–32; 1988, p. 68). The image: a woodblock cut on Hven by 1596, printed in the Icones (1596), the Mechanica (1598) and, from the same block, the Nuremberg reprint of 1602 (registered 27 October 2026).",
    "edges": [
     [
      "described_in",
@@ -821,7 +821,7 @@
     "table_year": 1584,
     "basis": "by name, and Thoren p. 177 n. 61 ('portable sextant' of 1584 = TBOO V, 24–27)"
    },
-   "date_basis": "Thoren 1990, Table 5.1 (p. 172) and p. 177 n. 61: the 'portable sextant' of 1584 is TBOO V, 24–27, this instrument's chapter",
+   "date_basis": "Thoren 1990, Table 5.1 (p. 173) and p. 177 n. 61: the 'portable sextant' of 1584 is TBOO V, 24–27, this instrument's chapter",
    "attested_by": "Described and depicted in Tycho's Astronomiae instauratae mechanica (Wandsbek 1598).",
    "aim1996_pages": "25–29",
    "museum_record_note": "A framed, hand-coloured impression of the Blaeu plate is at the Maritime Museum of Denmark, cut from a dismembered copy of the Atlas maior (the text leaves survive as 1950:2427) and framed for display in the 1949–1958 registrations."
@@ -1615,7 +1615,7 @@
    "material": "brass, with a steel meridian ring",
    "accuracy": "two-observer reading of declination + RA-difference",
    "principle": "A 155 cm equatorial armillary: an outer meridian ring carrying the polar axis, a fixed equator ring (two sights → right-ascension difference and hour angle) and an inner declination ring (two sights → declination). Two observers fix an unknown star's coordinates against a known one — the sphere whose working Wennberg diagrams step by step.",
-   "description": "A 155 cm equatorial armillary in the castle's southern smaller observatory, of brass with a steel meridian ring: meridian ring, fixed equator ring and inner declination ring, each with sights. The south-facing member of the castle's pair of smaller equatorial spheres, and the one Wennberg uses to explain how an equatorial armillary is read. Not extant. In his own words: “The reason why this instrument has three inner armillae besides the meridian is that the equator is movable instead of fixed as in the case of the previous instrument.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 61). The image: a woodblock cut by August 1585 and sent that year as a broadside to Hagecius and, in March 1586, to Landgrave Wilhelm (the Marburg sheet); the same block in the Progymnasmata sheets of 1592–93, the Icones (1596) and the Mechanica (1598). It was missing at Nuremberg in 1602, where the image was re-engraved in copper in the woodcut's own orientation (leaf C6v), the one instrument image of the reprint not printed from Tycho's own block or plate.",
+   "description": "A 155 cm equatorial armillary in the castle's southern smaller observatory, of brass with a steel meridian ring: meridian ring, fixed equator ring and inner declination ring, each with sights. The south-facing member of the castle's pair of smaller equatorial spheres, and the one Wennberg uses to explain how an equatorial armillary is read. Not extant. In his own words: “The reason why this instrument has three inner armillae besides the meridian is that the equator is movable instead of fixed as in the case of the previous instrument.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 61). The image: a woodblock cut by August 1585 — with the triangular sextant's block one of the two oldest of the set — and sent that year as a broadside to Hagecius and, in March 1586, to Landgrave Wilhelm (the Marburg sheet); the same block in the Progymnasmata sheets of 1592–93, the Icones (1596) and the Mechanica (1598). It was missing at Nuremberg in 1602, where the image was re-engraved in copper in the woodcut's own orientation (leaf C6v), the one instrument image of the reprint not printed from Tycho's own block or plate.",
    "edges": [
     [
      "described_in",

@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.10",
- "edition_date": "2026-10-26",
+ "version": "2.11",
+ "edition_date": "2026-10-27",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
  "description": "A prosopography of the documented circle of Tycho Brahe: the assistants and craftsmen of Uraniborg, the printers and publishers of his works, the patrons and dedicatees, the kin and friends, every party to the surviving correspondence, and the later owners, editors and scholars through whom his books and papers passed. Each record carries its roles, dates, documented seat, biography with sources, and the letters, visits, stays, printed works, presentation copies and manuscripts in which the person appears elsewhere in Tychoniana.",
@@ -215,6 +215,12 @@
    "label": "Westman, The Copernican Question (2011)",
    "full": "Robert S. Westman, The Copernican Question: Prognostication, Skepticism, and Celestial Order (Berkeley and Los Angeles: University of California Press, 2011; first paperback printing 2020).",
    "contributes": "Dybvad's Wittenberg formation and Copenhagen chair, with Thoren's rivalry thesis weighed; the De mundi courier journeys of Gellius Sascerides in 1588 and his Padua years; the English journey of Tengnagel and Eriksen and Eriksen's report of Harriot to Kepler."
+  },
+  {
+   "id": "S_TBOO_XIV",
+   "label": "Opera omnia XIV (1929) — the letters and acts of the heirs",
+   "full": "Tychonis Brahe Dani Opera omnia, ed. J. L. E. Dreyer, vol. XIV: Epistolae et acta ad vitam Tychonis Brahe pertinentia (Copenhagen, 1929): nos. 284–285, Georg Brahe to Kepler, Prague 14 April 1627 (printed from his draft), and Kepler to the brothers Brahe, Ulm 20 April 1627, pp. 292–294; Vienna, Österreichische Nationalbibliothek, Cod. 9737d, fols. 34 and 36.",
+   "contributes": "the heirs' own record of the Mechanica's blocks and plates in 1627 — Georg Brahe's letter and Dr Basilius's custody"
   }
  ],
  "category_colours": {
@@ -700,11 +706,12 @@
    "categories": [
     "publisher"
    ],
-   "connection": "Nuremberg and Frankfurt cosmographer-publisher who, after Tycho's death, obtained the Mechanica's woodblocks and copperplates — by sale from the heirs in Dreyer's account, by a loan 'gegen gewisse Versicherung' in Georg Brahe's memory of 1627, for which no document was found (Opera omnia XIV, p. 293) — and issued the 1602 Nuremberg reprint from them, with a new title portrait and one re-engraved plate, and reissued the remaining stock of the Epistolae (1596). (Nielsen)",
+   "connection": "Nuremberg and Frankfurt cosmographer-publisher who, after Tycho's death, obtained the Mechanica's woodblocks and copperplates — by sale from the heirs in Dreyer's account, by a loan 'zu continuirung der Mechanich: gegen gewiße versicherung' in the supposition of Tycho's son Georg, who searched in April 1627 for a document and found none (Opera omnia XIV, p. 293) — and issued the 1602 Nuremberg reprint from them, with a new title portrait and one re-engraved plate, and reissued the remaining stock of the Epistolae (1596). (Nielsen)",
    "sources": [
     "S_NIELSEN1921",
     "S_THESAURUS",
-    "S_DREYER"
+    "S_DREYER",
+    "S_TBOO_XIV"
    ],
    "letters_sent": 0,
    "letters_received": 0,
@@ -5884,6 +5891,69 @@
     "lat": 55.6761,
     "lon": 12.5683,
     "basis": "professor at the University of Copenhagen, 1575–1607"
+   }
+  },
+  {
+   "id": "GEORG_BRAHE",
+   "name": "Georg (Jørgen) Brahe",
+   "sort_name": "Brahe, Georg (Jørgen)",
+   "name_latin": "Georgius Brahe",
+   "name_variants": [
+    "Jørgen Brahe",
+    "Jörgen Brahe",
+    "Georg Tychonis Brahe"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": 1640,
+   "categories": [
+    "family"
+   ],
+   "connection": "Tycho's younger son, who stayed in Bohemia and Saxony with the family after 1601 and died in 1640 (Dreyer 1890, Appendix, p. 366). He is the family's voice on the fate of the Mechanica's blocks: asked by Kepler, with the Tabulae Rudolphinae in the press at Ulm, he answered from Prague on 14 April 1627 that he had searched 'der angedeuten formen oder stöcke halber', that Dr Basilius had kept ten of the instrument blocks, the Uraniborg and Stjerneborg blocks and the Astronomia emblem block 'vnverlezt vnd noch wolzugebrauchen', that the rest had been lost in the war years, that he could only suppose a loan of some of the forms to Hülsius 'gegen gewiße versicherung' and found nothing in writing, and that the portrait copperplate was, he believed, 'in eine truhe an einem orth auf dem lande' (Opera omnia XIV, nos. 284–285, pp. 292–294; ÖNB Cod. 9737d, fols. 34 and 36, his letter printed from his draft). Kepler wrote to him again on 17 August 1628, from Sagan, about printing the observations (Dreyer, p. 371).",
+   "sources": [
+    "S_DREYER",
+    "S_TBOO_XIV"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Prague",
+    "lat": 50.0875,
+    "lon": 14.4213,
+    "basis": "writing from Prague, April 1627"
+   }
+  },
+  {
+   "id": "BASILIUS",
+   "name": "Dr Basilius",
+   "sort_name": "Basilius, Dr",
+   "name_latin": "",
+   "name_variants": [
+    "herr d: Basilius"
+   ],
+   "entry_kind": "person",
+   "born": null,
+   "died": null,
+   "categories": [
+    "associate"
+   ],
+   "connection": "The custodian of Tycho's woodblocks in Prague: 'herr d: Basilius, damalß profess: mathem: in collegio Carolino', by 1627 'keyserlicher secretarius', who through the war years had kept nearly half of the instrument blocks — ten of them — with the Uraniborg, Stjerneborg and Astronomia blocks, 'vnverlezt vnd noch wolzugebrauchen', and in April 1627 handed them back to Georg Brahe; the rest, expected in his former rooms in the Carolinum, by then in Jesuit hands, was not found (Georg Brahe to Kepler, 14 April 1627, Opera omnia XIV, no. 284, pp. 292–293). Not otherwise identified: a professor of mathematics in the Carolinum turned imperial secretary, whether Basilius is his first name or his surname unknown.",
+   "sources": [
+    "S_TBOO_XIV"
+   ],
+   "letters_sent": 0,
+   "letters_received": 0,
+   "epistolarium_keys": [],
+   "thesaurus_agent": "",
+   "in_agents": false,
+   "seat": {
+    "place": "Prague",
+    "lat": 50.0875,
+    "lon": 14.4213,
+    "basis": "the Carolinum; imperial secretary at Prague by 1627"
    }
   }
  ]
