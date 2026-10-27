@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.20",
+ "version": "1.21",
  "edition_date": "2026-10-27",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
@@ -4420,7 +4420,7 @@
     "books-printing",
     "travel-transit"
    ],
-   "narrative": "Leaving mourning Kassel in April 1575, Tycho went to Frankfurt am Main for the spring book fair. He stayed some days, turning over a great variety of books and buying not a few — above all whatever published tracts on the new star of 1572 he did not yet possess, the pamphlets he would later dissect in the Progymnasmata. Thoren reconstructs the breadth of the purchases: Proclus, pseudo-Ptolemaic astrologica, Synesius, Bonatti, recent Philippist authors, French and Italian treatises including du Chesne and five works of Oronce Fine, Gesner's bibliography, and works on mining and minerals serving the alchemical interests. The stop ties the tour to his lifelong book-buying practice — in 1579 he would send Vedel to this fair with a marked-up catalogue. Šolc, in the National Library's handbook (2006, printed p. 191), puts the nova purchases at ‘about a dozen’ tracts, bought to compare with his own book in observation and interpretation, and adds that in later years Tycho sent his collaborators to the fair to buy books; the number is unsourced and stands beside Dreyer's ‘some of the numerous pamphlets’.",
+   "narrative": "Leaving mourning Kassel in April 1575, Tycho went to Frankfurt am Main for the spring fair — in his own words, written for Landgrave Moritz in 1596, 'ad Nundinas Francofurtenses (quæ instabant) me contuli', before going on through the rest of Germany into northern Italy. That is all Tycho says of it. The buying is Gassendi's addition of 1655: a stay of some days, many books turned over and 'nonnullis etiam coemptis', above all the tracts on the new star he did not yet have — restated, without a source of their own, by Friis, Dreyer ('some of the numerous pamphlets'), Norlind ('förmodligen'), Thoren ('well over a dozen titles') and Šolc ('asi tucet spisů'). Tycho's own account of the nova tracts in the Progymnasmata names no fair: Pratensis sent him the German judgements, manuscript and printed, at Knutstorp in the spring of 1573, Hagecius supplied more, and the reviewed writings are 'quotquot mihi ad manus habere licuit'. What the journey's buying left behind is physical: thirteen Prague volumes bound in brown calf and stamped T.B.O. 1576, holding the 33 works Westman counted in 1975 — Naibod, Brucaeus, Peucer, Mizaldus, Gesner's Bibliotheca, Gauricus's Opera of Basel 1575 the latest imprint among them — consistent with purchases at Frankfurt, Basel, Venice or Augsburg, and proof of none. The stop ties the tour to his lifelong book-buying practice all the same: in May 1579 he would send Vedel a Frankfurt catalogue with thirteen titles marked for a Copenhagen bookseller to procure, and in August 1579 a standing commission to buy for him in Germany.",
    "people": [],
    "evidence": [
     {
@@ -4467,9 +4467,28 @@
      "source": "S_LOCI_SOLC2006",
      "pages": "p. 191",
      "quote": "V roce 1575 navštívil Tycho frankfurtský knižní veletrh a nakoupil asi tucet spisů o nové hvězdě v Kasiopeji (1572), aby je mohl porovnat se spisem vlastním"
+    },
+    {
+     "source": "S_LOCI_EPISTOLAE1596",
+     "pages": "TBOO VI 10 (dedication to Landgrave Moritz)",
+     "quote": "isthinc discedens, ad Nundinas Francofurtenses (quæ instabant) me contuli",
+     "note": "Tycho's own testimony of the fair visit; Gassendi's source, and silent on buying"
+    },
+    {
+     "source": "S_LOCI_TBOO3",
+     "pages": "III 95",
+     "quote": "illud quicquid erat, ad Sedem meam KNVDSTORPIANAM mihi statim transmisit",
+     "note": "the German judgements on the star came through Pratensis in the spring of 1573, not from the fair"
+    },
+    {
+     "source": "S_LOCI_WESTMAN1975",
+     "pages": "p. 324 nn. 91–92",
+     "quote": "I have counted a total of 33 books which are bound and stamped with the same designation T.B.O. 1576",
+     "note": "the thirteen volumes of Kleinschnitzová nos. 15, 19, 21, 22, 26, 27, 28, 29, 34, 35, 39, 40, 43; the Frankfurt provenance is his 'probably', after Dreyer"
     }
    ],
-   "grade": "A"
+   "grade": "A",
+   "disputes": "The purchases at the fair are Gassendi's statement (1655, p. 29), not Tycho's: Tycho attests the visit (TBOO VI 10) and traces the nova tracts to Pratensis (1573) and Hagecius (Progymnasmata, TBOO III 95, 205–206). Dreyer's page carries no source; Norlind hedges on p. 66 and asserts on p. 335. The 1576 bindings date a binding campaign, not the purchases (the Bellanti in one of them was owned before the oration of 1574). Register dossier of 27 October 2026, §1 row 14 and §6."
   },
   {
    "id": "stay-augsburg-1575",
@@ -4712,7 +4731,7 @@
     "instrument",
     "travel-transit"
    ],
-   "narrative": "Starting north after the coronation, Tycho stopped in Nuremberg, centre of the German clock and instrument trade. He met Joachim Camerarius the Younger, physician-son of the humanist — the friendship 'contracted in a short time' that Tycho's first letter to him of November 1576 (TBOO VII, 42) fixes to this visit — and visited the shop of the fountain-maker Georg Labenwolf, whom he recommended for the Kronborg works and who later built Uraniborg's hydraulics. The contacts made here brought Nuremberg artisans to Denmark in 1577; the sculptor Johan Gregor van der Schardt was probably first met here or at Regensburg.",
+   "narrative": "Starting north after the coronation, Tycho stopped in Nuremberg, centre of the German clock and instrument trade. He met Joachim Camerarius the Younger, physician-son of the humanist — the friendship 'contracted in a short time' that Tycho's first letter to him of November 1576 (TBOO VII, 42) fixes to this visit — and visited the shop of the fountain-maker Georg Labenwolf, whom he recommended for the Kronborg works and who later built Uraniborg's hydraulics. The contacts made here brought Nuremberg artisans to Denmark in 1577; the sculptor Johan Gregor van der Schardt was probably first met here or at Regensburg. The acquaintance had a sequel in books: on 21 November 1576, back on Hven, Tycho asked Camerarius to collect the remainder of Brechtel's dispersed mathematical library 'iuxta catalogum tibi missum', add any old or new mathematical and chemical books, and hand them to Labenwolf, who was to pay a price Camerarius set with money borrowed in Tycho's name from Johann von der Schack (TBOO VII 42–43) — the owner probably Stephan Brechtel the Elder, buried 29 June 1574; no reply survives. Brucaeus, writing in May 1576, expected Tycho to have bought unpublished Jordanus or Regiomontanus at Nuremberg ('Si quos habeas … Norimbergae a te emptos'), a conditional that records his expectation, not a purchase.",
    "people": [
     {
      "name": "Joachim Camerarius the Younger",
@@ -4750,6 +4769,18 @@
      "source": "S_LOCI_CHRISTIANSON",
      "pages": "scan pp. 28, 312, 357",
      "quote": "He probably met Schardt in Nuremberg or Regensburg"
+    },
+    {
+     "source": "S_LOCI_TBOO7",
+     "pages": "VII 42–43 (Tycho to Joachim Camerarius, 21 November 1576)",
+     "quote": "eos, qui residui adhuc sunt, velis mihi, iuxta catalogum tibi missum, curare colligi",
+     "note": "the Brechtel commission — the Nuremberg stop's sequel in books; outcome unknown"
+    },
+    {
+     "source": "S_LOCI_TBOO7",
+     "pages": "VII 32–34 (Brucaeus to Tycho, 14 May 1576)",
+     "quote": "Si quos habeas IORDANI aut REGIOMONTANI nondum editos, Norimbergae a te emptos",
+     "note": "conditional — Brucaeus's expectation, not a documented purchase"
     }
    ],
    "grade": "B",
@@ -13450,6 +13481,22 @@
    "full": "F. & M. Albrecht, ‘Die Reste der Sternwarten Tycho Brahe's auf der Insel Hveen’, Das Weltall: illustrierte Zeitschrift für Astronomie und verwandte Gebiete 2 (1901–02), Heft 1, pp. 7–12, Heft 2, pp. 21–25, with the colour plans ‘Die Reste der Uranienburg’ and ‘Die Reste der Sternenburg’ (‘Aufgenommen am 13. August 1901 durch Max Albrecht. Massstab 1:160’); F. Albrecht's review of Charlier 1901, ibid., pp. 274–276.",
    "url": "https://archive.org/details/das-weltall-2h",
    "contributes": "The Treptow observatory's survey of the Uraniborg ruins in the summer of Charlier's excavation: the measured plan that lays Tycho's ground plan over the found masonry, the north tower's surviving inner ring with a radius of about 3 m, and the statement that nothing but the outer ring and two bricked holes remains on the south side."
+  },
+  {
+   "id": "S_LOCI_TBOO3",
+   "label": "Opera omnia III (1916) — Astronomiae instauratae progymnasmata, the review of the writers on the new star",
+   "full": "Tychonis Brahe Dani Opera Omnia, ed. J. L. E. Dreyer, vol. III (Copenhagen, 1916): Astronomiae instauratae progymnasmata, pp. 95 (Pratensis's parcel of the German judgements on the star, sent to Knutstorp in the spring of 1573) and 205–206 (Hagecius's manuscript excerpt of Elias Camerarius, 'licet plerasque earum antea etiam in promptu habuerim').",
+   "url": "https://archive.org/details/operaomniaedidit03brahuoft",
+   "url_label": "full scan at the Internet Archive",
+   "contributes": "Tycho's own account of how the tracts on the new star reached him — through Pratensis in 1573 and Hagecius, 'quotquot mihi ad manus habere licuit' — which names no fair and no purchase."
+  },
+  {
+   "id": "S_LOCI_WESTMAN1975",
+   "label": "Westman, ‘Three Responses to the Copernican Theory’ (1975)",
+   "full": "Robert S. Westman, ‘Three Responses to the Copernican Theory: Johannes Praetorius, Tycho Brahe, and Michael Maestlin’, in R. S. Westman (ed.), The Copernican Achievement (Berkeley and Los Angeles: University of California Press, 1975), pp. 285–345, at p. 324 with nn. 91–92.",
+   "url": "https://archive.org/details/bub_gb_sLb6k-62vbQC",
+   "url_label": "full scan at the Internet Archive",
+   "contributes": "The count of the books bound and stamped T.B.O. 1576 — 'a total of 33 books' in the thirteen Prague volumes of Kleinschnitzová nos. 15, 19, 21, 22, 26, 27, 28, 29, 34, 35, 39, 40, 43 — read as the harvest of the journey of 1575–76, 'probably' at Frankfurt."
   }
  ]
 }
