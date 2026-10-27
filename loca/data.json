@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.18",
- "edition_date": "2026-10-26",
+ "version": "1.19",
+ "edition_date": "2026-10-27",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
   {
@@ -4483,7 +4483,7 @@
     "social-visit",
     "travel-transit"
    ],
-   "narrative": "In late summer 1575 Tycho and Flemløs came from Italy to Augsburg, renewing the old circle — the Hainzel brothers, Hieronymus Wolf — though the second stay proved anticlimactic: the great Göggingen quadrant had been destroyed by a windstorm in December 1574 and left unrepaired, and Schissler's long-awaited celestial globe, ordered in 1570, proved imperfectly spherical and cracked at the joints. He prepared the globe for transport — it was freighted with great difficulty to Denmark the following year, trued with parchment, clad in brass and perfected on Hven, carrying the stars of his catalogue by 1595. He recruited the portrait artist Tobias Gemperlin into his service, the future painter of the mural-quadrant portrait, and scouted artisans for Frederick II, lingering into late October before dropping downriver to the Regensburg coronation.",
+   "narrative": "In late summer 1575 Tycho and Flemløs came from Italy to Augsburg, renewing the old circle — the Hainzel brothers, Hieronymus Wolf — though the second stay proved anticlimactic: the great Göggingen quadrant had been destroyed by a windstorm in December 1574 and left unrepaired, and Schissler's long-awaited celestial globe, ordered in 1570, proved imperfectly spherical and cracked at the joints. He prepared the globe for transport; by his own later account it was freighted with great difficulty to Denmark 'the following year', but it was still at Augsburg, in the house of his old host Lorenz Den, on 15 August 1579, when he asked Vedel, setting out for Germany, to have it packed and conveyed to Hven before winter (TBOO VII 56–58; Christianson 2000, p. 358) — then trued with parchment, clad in brass and perfected on Hven, carrying the stars of his catalogue by 1595. He recruited the portrait artist Tobias Gemperlin into his service, the future painter of the mural-quadrant portrait, and scouted artisans for Frederick II, lingering into late October before dropping downriver to the Regensburg coronation.",
    "people": [
     {
      "name": "Paul Hainzel",
@@ -4512,12 +4512,16 @@
      "name": "Peder Jacobsen Flemløse",
      "role": "travel companion",
      "familia": "FLEMLOES"
+    },
+    {
+     "name": "Lorenz Den",
+     "role": "Tycho's Augsburg host of 1569–70; kept the unfinished globe in his house until its shipment in 1579"
     }
    ],
    "related": {
     "works": [],
     "instruments": [
-     "great celestial globe (Schissler core collected 1575, shipped to Denmark 1576, completed on Hven 1595)",
+     "great celestial globe (Schissler core left at Augsburg 1575, still there in August 1579, shipped that autumn or later, completed on Hven 1595)",
      "great Goggingen quadrant (destroyed by storm, December 1574)"
     ],
     "books": []
@@ -4569,10 +4573,21 @@
      "source": "S_LOCI_CHRISTIANSON",
      "pages": "scan pp. 15, 28",
      "quote": "He visited the great technical workshops of Augsburg and Nuremberg"
+    },
+    {
+     "source": "S_LOCI_TBOO7",
+     "pages": "VII, pp. 56–58",
+     "quote": "efficias ut Globum meum magnum, quem ipse conservat, ante hyemem habere possim",
+     "note": "The letter of 15 August 1579 to Vedel, who was leaving for Germany; Den is 'hospes meus', the host of the Augsburg residence of 1569–70."
+    },
+    {
+     "source": "S_LOCI_CHRISTIANSON",
+     "pages": "p. 358",
+     "quote": "By 1579, it had been moved to the residence of Laurentius Dehn, where Anders Sorensen Vedel presumably found it when he visited Augsburg"
     }
    ],
    "grade": "A",
-   "disputes": "The globe's fate: Thoren (p. 97) has Tycho refusing Schissler's imperfect globe; Dreyer, Friis, Norlind, Jönsson and Gassendi have it prepared for transport, freighted to Denmark in 1576 and perfected at Uraniborg — the majority (and the globe's later Hven career) followed, Thoren's 'refusal' read as rejection of the workmanship, not of the object. Quadrant destruction: 'storm of 1574' generally; Dreyer and Thoren specify December 1574."
+   "disputes": "The globe's fate: Thoren (p. 97) has Tycho refusing Schissler's imperfect globe; Dreyer, Friis, Norlind, Jönsson and Gassendi have it prepared for transport, freighted to Denmark in 1576 and perfected at Uraniborg — the majority (and the globe's later Hven career) followed, Thoren's 'refusal' read as rejection of the workmanship, not of the object. Quadrant destruction: 'storm of 1574' generally; Dreyer and Thoren specify December 1574. Date of the shipment: the Mechanica (and Dreyer, Friis, Norlind and Jönsson after it) has the globe brought to Denmark in 1576; Tycho's letter to Vedel of 15 August 1579 shows it still at Augsburg in Lorenz Den's keeping, awaiting shipment before winter (TBOO VII 56–58; Christianson 2000, p. 358) — 1579 followed."
   },
   {
    "id": "stay-regensburg-1575",
@@ -13418,6 +13433,14 @@
    "label": "Westman, The Copernican Question (2011)",
    "full": "Robert S. Westman, The Copernican Question: Prognostication, Skepticism, and Celestial Order (Berkeley and Los Angeles: University of California Press, 2011; first paperback printing 2020).",
    "contributes": "The reception historian's account of the early years: the first meeting with Hagecius dated to 9 October 1575 from Hagecius's Responsio, and the Progymnasmata narrative of the nova's discovery cited at its page against Dreyer's and Thoren's."
+  },
+  {
+   "id": "S_LOCI_TBOO7",
+   "label": "Opera omnia VII (1924) — the letters to 1587",
+   "full": "Tychonis Brahe Dani Opera Omnia, ed. J. L. E. Dreyer, vol. VII: Epistolae astronomicae (Copenhagen, 1924), pp. 56–58: Tycho to Anders Sørensen Vedel, Hven, 15 August 1579.",
+   "url": "https://archive.org/details/operaomniaedidit07brahuoft",
+   "url_label": "full scan at the Internet Archive",
+   "contributes": "The letter of 15 August 1579 that keeps the great globe at Augsburg, in Lorenz Den's house, four years after the visit of 1575 — the shipment to Denmark dated 1579, not the Mechanica's 1576."
   }
  ]
 }

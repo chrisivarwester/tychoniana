@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.23",
+ "version": "1.24",
  "edition_date": "2026-10-27",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
@@ -505,7 +505,7 @@
    "year_end": 1728,
    "status": "extant",
    "grade": "A",
-   "description": "The Rundetårn, the university observatory tower begun in Copenhagen by order of King Christian IV in 1637 and completed in 1642, where Longomontanus inaugurated a programme to fix precise positions for the 777 stars of Tycho's printed catalogue (the select catalogue of the Progymnasmata) — the Tychonic enterprise re-rooted in Denmark a generation after Hven (it was sometimes styled the 'Royal Stjerneborg of Copenhagen'). The tower still stands; it was also where Tycho's great brass globe finally came to rest, until tower and contents burned in 1728 (see the great brass globe in Instrumenta). Longomontanus's Copenhagen afterlife has one object: the sundial of St Nicolai's church, an oak board of 57 × 55 cm painted in 1670 by C. P. Getreuer and renewed with the church by the magistrate in 1738–42, whose verse calls Longomontanus 'en Mester for den Skive' and 'den ærlig Rømer' its restorer (Københavns Museum 1918:048X0001).",
+   "description": "The Rundetårn, the university observatory tower begun in Copenhagen by order of King Christian IV in 1637 and completed in 1642, where Longomontanus inaugurated a programme to fix precise positions for the 777 stars of Tycho's printed catalogue (the select catalogue of the Progymnasmata) — the Tychonic enterprise re-rooted in Denmark a generation after Hven (it was sometimes styled the 'Royal Stjerneborg of Copenhagen'). The tower still stands; it was also where Tycho's great brass globe came to rest. Brought from Neisse by Prince Ulrik in 1632 and set up in the University's upper auditorium, where Resen printed its inscriptions in 1668 and Picard saw it in 1671, the globe was on the tower by 13 February 1686, when the Trinitatis clerk's list of the mathematical instruments there opened with 'Tycho Brahaes Hans Globus' (Nissen 1937, pp. 62–63); the inventories of 1710 and 1718 place it in the first chamber at the top, Horrebow's 'Camera Tychonica', hung with a painted portrait of Tycho (Nissen 1937, p. 72), and there it burned with the tower's contents on 21 October 1728 (see the great brass globe in Instrumenta, where the chain is set out step by step). Longomontanus's Copenhagen afterlife has one object: the sundial of St Nicolai's church, an oak board of 57 × 55 cm painted in 1670 by C. P. Getreuer and renewed with the church by the magistrate in 1738–42, whose verse calls Longomontanus 'en Mester for den Skive' and 'den ærlig Rømer' its restorer (Københavns Museum 1918:048X0001).",
    "edges": [
     [
      "about",
@@ -522,7 +522,9 @@
    ],
    "sources": [
     "S_RECEP_BIOGENC",
-    "S_RECEP_SLKS"
+    "S_RECEP_SLKS",
+    "S_RECEP_NISSEN1937",
+    "S_RECEP_AGERTOFT2026"
    ],
    "category": "Legacy",
    "links": [
@@ -540,6 +542,11 @@
      "label": "St Nicolai's sundial, 'Longomontanus … Rømer', 1670/1738–42 — Københavns Museum 1918:048X0001",
      "href": "https://samlinger.slks.dk/samlinger/cb14c267-7181-4d4c-b009-222a32f28c8e",
      "kind": "record"
+    },
+    {
+     "label": "Rundetaarn 1637–1937 (1937), the jubilee volume with Nissen's history of the observatory, digitised by Rundetaarn",
+     "href": "https://www.rundetaarn.dk/wp-content/uploads/2015/04/1637-1937Rundetaarn.pdf",
+     "kind": "facsimile"
     }
    ]
   },
@@ -2513,6 +2520,20 @@
    "label": "Opera omnia XIV (1929) — the letters and acts of the heirs",
    "full": "Tychonis Brahe Dani Opera Omnia, ed. J. L. E. Dreyer, vol. XIV: Epistolae et acta ad vitam Tychonis Brahe pertinentia (Copenhagen, 1929): nos. 284–285, Georg Brahe to Kepler, Prague 14 April 1627, and Kepler to the brothers Brahe, Ulm 20 April 1627, pp. 292–294. Vienna, Österreichische Nationalbibliothek, Cod. 9737d, fols. 34 and 36; no. 284 is printed from Georg's draft, no. 285 from Kepler's original.",
    "contributes": "the terminal inventory of the Mechanica's blocks and plates: ten instrument blocks, the Uraniborg and Stjerneborg blocks and the Astronomia emblem in Prague in 1627, the loan to Hülsius remembered without a document, the portrait copperplate believed in a chest in the country, and Kepler's reply that the Tables did not need them"
+  },
+  {
+   "id": "S_RECEP_NISSEN1937",
+   "label": "Nissen, 'Rundetaarn som Observatorium' (1937)",
+   "full": "Andreas Nissen, 'Rundetaarn som Observatorium', in Rundetaarn 1637–1937 (Copenhagen, 1937), pp. 62–63 (the Trinitatis clerk's list of the instruments on the tower, 13 February 1686), 72–73 (the inventories of 1710 and 1718).",
+   "url": "https://www.rundetaarn.dk/wp-content/uploads/2015/04/1637-1937Rundetaarn.pdf",
+   "url_label": "the jubilee volume of 1937, digitised by Rundetaarn",
+   "contributes": "the great globe on the tower by 13 February 1686 ('Tycho Brahaes Hans Globus', first in the clerk's list) and in the Camera Tychonica at the top of the tower in 1710 and 1718, with Tycho's painted portrait"
+  },
+  {
+   "id": "S_RECEP_AGERTOFT2026",
+   "label": "Agertoft, 'Himmelglobussens lange rejse' (forthcoming)",
+   "full": "Rasmus Agertoft, 'Himmelglobussens lange rejse', in a forthcoming anthology (cited from the proof of October 2026): the great globe's itinerary from Augsburg to the fire of 1728, with the Copenhagen stations dated from Resen, Huet, Picard, Christian IV's letter of 1646, the lists of 1686, 1710 and 1718 and Horrebow's Basis astronomiae.",
+   "contributes": "the globe's Copenhagen stations — the University's upper auditorium 1632–after 1671, the tower by 1686, the fire of 21 October 1728"
   }
  ],
  "threads": [

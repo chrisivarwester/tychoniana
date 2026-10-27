@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "2.11",
+ "version": "2.12",
  "edition_date": "2026-10-27",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
@@ -1122,10 +1122,10 @@
    "tycho_relation": "finished",
    "place": "P_HVEN",
    "material": "fir-wood shell (commissioned Augsburg 1570 from Christopher Schissler) sheathed in brass",
-   "dimensions": "diameter almost six feet — Tycho's own figure, ≈149 cm; on a stand about five feet (≈130 cm) high (Mechanica 1946, Fig. 22, p. 103)",
-   "fate": "returned to Copenhagen; destroyed in the University observatory-tower fire of 1728",
+   "dimensions": "diameter almost six feet — Tycho's own figure, ≈149 cm; on a stand about five feet (≈130 cm) high (Mechanica 1946, Fig. 22, p. 103); Rømer measured the diameter at 57 Rhineland inches, 1.49 m (Adversaria, p. 136, in Nissen 1937, p. 63)",
+   "fate": "returned to Copenhagen in 1632 (the University's upper auditorium); on the Round Tower by February 1686; destroyed in the tower fire of 21 October 1728",
    "maker": "Christopher Schissler the Elder (Augsburg, shell, 1570)",
-   "description": "A celestial globe of almost six Tychonic feet (c. 149 cm) in diameter. Its wooden shell was commissioned in 1570 from Christopher Schissler the Elder, the leading Augsburg instrument-maker, who built it of many fir staves and rings fitted together like a great puzzle (Christianson, On Tycho's Island, p. 358; Dreyer, p. 112). On Tycho's return to Augsburg in 1575 it was found not perfectly spherical and slightly cracked; once received in Denmark in 1576 the cracks were stopped and the sphericity restored, after which the globe was observed over a two-year period to be sure it would hold its shape through the changeable Danish climate before being sheathed in brass, marked with ecliptic and equator divided to a minute of arc, and mounted in divided meridian and horizon rings. An inscription on the horizon dated its completion to 1584; only then were star positions engraved — Tycho's own measured places, added down to 1595 — making it a precision computing instrument as well as a showpiece (Mosley, Bearing the Heavens, ch. 4). The maker of the shell is normally identified as Christopher Schissler the Elder, though Mosley flags the identification as not beyond doubt. The longest-surviving of all Tycho's instruments, with a circuitous return: listed in the 6 Dec 1621 Belvedere inventory ('Ein sehr grosser globus coelestis vom metall'), it is placed by Mortensen's inference — the Jesuit college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397) names no globe — at the Jesuit College at Neisse (Nysa) in Silesia under Christoph Scheiner by about 1625, whence in 1632 it was carried as war-booty to Copenhagen by Prince Ulrik, son of Christian IV, and set up with ceremony in the University — the dedicatory tablet dates its restitution to 1 December 1632, and Longomontanus composed the wall inscription beside it after Ulrik's death in 1633 (Gassendi 1655, lib. VI pp. 217–218; Resen 1668, pp. 239–240, who prints it as still in place); it was later moved to the Round Tower's observatory (Pontoppidan 1739, p. 125) and burned there with the tower's contents in 1728 (Mortensen, Fra Tycho Brahes Bogsamling). In his own words: “A globe of this size, so solidly and finely worked, and correct in every respect, has never I think been constructed up to now by any man anywhere in the world.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 104). Tycho's own chronology as the 1996 edition prints it (pp. 112–115): the wooden core made at Augsburg in 1570, left there five years, found cracked in 1575 on the way to Regensburg, sent to Denmark in 1576, two years' shape test, the brass sheets, another year's test, the circles and the thousand stars 'referred to the integer year 1600' — 'about 25 years' from first phase to finish; the horizon inscription's 1584 'about the middle of the period'; the base about five feet (130 cm), the globe 'almost six feet' (149 cm), a hollow cover lowered by a rope. Mortensen gives the diameter as 149.2 cm, and the Prague Kunstkammer inventory of 6 December 1621 numbers the globe 'N:o 1424 Ein sehr grosser globus coelestis vomm metall' beside 'N:o 1425 Ein qvadrant mit viel zugehörigen instrumenten' (Jahrbuch der kunsthistorischen Sammlungen XXV, p. LI; Mortensen 1942, p. 20); after the fire of 1728 the wooden core had burned and the metal plates melted, and what remained — lumps of metal, the meridian ring, iron rings and the axle — has since been lost (p. 21). The image: a copperplate engraved at Hamburg early in 1598 for the Mechanica — the instrument has no woodcut and is absent from the Icones of 1596; the same plate was printed again at Nuremberg in 1602.",
+   "description": "A celestial globe of almost six Tychonic feet (c. 149 cm) in diameter. Its wooden shell was commissioned in 1570 from Christopher Schissler the Elder, the leading Augsburg instrument-maker, who built it of many fir staves and rings fitted together like a great puzzle (Christianson, On Tycho's Island, p. 358; Dreyer, p. 112). On Tycho's return to Augsburg in 1575 it was found not perfectly spherical and slightly cracked. The Mechanica has it brought to Denmark 'the following year', and Dreyer (pp. 109, 126) followed him; but on 15 August 1579 the shell was still at Augsburg, in the house of Tycho's old host Lorenz Den, when Tycho, sending Vedel into Germany with letters of introduction, asked him to see that 'Globum meum magnum, quem ipse conservat' was packed well inside and out and conveyed to Hven at Tycho's expense before winter (TBOO VII, pp. 56–58; Christianson 2000, p. 358; Agertoft, forthcoming) — so the shell reached Hven in the autumn of 1579 at the earliest, three years after Uraniborg was begun, and Thoren's table year of 1580 for the globe is the year of its arrival. Once received, the cracks were stopped and the sphericity restored, after which the globe was observed over a two-year period to be sure it would hold its shape through the changeable Danish climate before being sheathed in brass, marked with ecliptic and equator divided to a minute of arc, and mounted in divided meridian and horizon rings. An inscription on the horizon dated its completion to 1584; only then were star positions engraved — Tycho's own measured places, added down to 1595 — making it a precision computing instrument as well as a showpiece (Mosley, Bearing the Heavens, ch. 4). The maker of the shell is normally identified as Christopher Schissler the Elder, though Mosley flags the identification as not beyond doubt. The longest-surviving of all Tycho's instruments, with a circuitous return: listed in the 6 Dec 1621 Belvedere inventory ('Ein sehr grosser globus coelestis vom metall'), it is placed by Mortensen's inference — the Jesuit college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397) names no globe — at the Jesuit College at Neisse (Nysa) in Silesia under Christoph Scheiner by about 1625, whence in 1632 it was carried as war-booty to Copenhagen by Prince Ulrik, son of Christian IV, and set up with ceremony in the University, in the upper auditorium of the building Christian IV had raised for it in 1601 — Resen prints the globe's horizon inscription and the three wall texts directly after the inscription of that auditorium's skeleton case (Inscriptiones Haffnienses, pp. 237–241), and Hofman in 1779 names 'den store Høresal'. The dedicatory tablet dates its restitution to 1 December 1632, and Longomontanus composed the wall inscription beside it after Ulrik's death in 1633, tracing the globe's wanderings 'Primo Benaticam, mox Pragam inde Niessam' (Gassendi 1655, lib. VI pp. 217–218; Resen 1668, pp. 239–240, who prints the texts as still in place). Its Copenhagen stations are dated step by step by Agertoft: before 23 December 1646 Christian IV directed that two places be made in the new University Library over Trinitatis church for 'den globus och ded Segeruerck, som Ieg haffuer forehrit dertyl' (Bricka & Fridericia VI, no. 247, pp. 225–226), a plan nothing shows carried out; Pierre Daniel Huet examined it at the Collegium about 1652, after climbing the Round Tower, and was struck by the beauty and delicacy of the work (Commentarius, 1718, p. 81; Aikin's translation, I, p. 128); Jean Picard saw 'ce fameux Globe celeste' in the Academy's auditorium in 1671 and judged it in good condition after its long journeys (Voyage d'Uranibourg, 1680, p. 4); the Trinitatis clerk's list of the mathematical instruments on the tower, dated 13 February 1686, opens with 'Tycho Brahaes Hans Globus' (Nissen 1937, pp. 62–63), so the move from the auditorium to the tower falls between 1671 and 1686 — Rømer took charge of the observatory in December 1685 — and Longomontanus's wall text went up with it (Pontoppidan 1739, p. 125: 'postea vero in turrim Astronomicam translati'); Horrebow adds that it had been housed at Rosenborg castle before the tower, without saying when (Basis astronomiae, in the translation of 2023, p. 16, quoted by Agertoft). Schiwe's inventory of the tower of 1710 and Horrebow's of 18 May 1718 place it in the first chamber at the top of the tower, which Horrebow calls the 'Camera Tychonica' and says was hung with a painted portrait of Tycho (Nissen 1937, p. 72; the originals read 'Globus Tÿchonis' and 'Globus orichalcicus coelestis Tychonis', Rigsarkivet, Københavns Universitet, Sager henhørende til Astronomisk observatorium 1700–1766, pk. 1612–01, quoted by Agertoft); Rømer's Adversaria give its diameter as 57 Rhineland inches, 1.49 m (Nissen 1937, p. 63). It burned there on 21 October 1728 about six in the evening: Horrebow, occupied with saving Rømer's legacy, could rescue nothing of 'the most famous globe that any age has seen' 'except for the meridian, the iron axis and some brass sheets — and even they are not undamaged' (Basis astronomiae, tr. 2023, pp. 18, 70–72, quoted by Agertoft), pieces Mortensen could no longer trace in 1942 (p. 21). Thykier's suggestion (1990, p. 58) that Villum Lange moved the globe from the University Library to the tower between 1652 and 1657 does not account for the auditorium, where Resen and Picard still found it in 1668 and 1671 (Agertoft). In his own words: “A globe of this size, so solidly and finely worked, and correct in every respect, has never I think been constructed up to now by any man anywhere in the world.” (Mechanica, trans. Raeder, Strömgren & Strömgren 1946, p. 104). Tycho's own chronology as the 1996 edition prints it (pp. 112–115): the wooden core made at Augsburg in 1570, left there five years, found cracked in 1575 on the way to Regensburg, sent to Denmark in 1576 (so Tycho; the letter to Vedel of 1579 corrects him), two years' shape test, the brass sheets, another year's test, the circles and the thousand stars 'referred to the integer year 1600' — 'about 25 years' from first phase to finish; the horizon inscription's 1584 'about the middle of the period'; the base about five feet (130 cm), the globe 'almost six feet' (149 cm), a hollow cover lowered by a rope. Mortensen gives the diameter as 149.2 cm, and the Prague Kunstkammer inventory of 6 December 1621 numbers the globe 'N:o 1424 Ein sehr grosser globus coelestis vomm metall' beside 'N:o 1425 Ein qvadrant mit viel zugehörigen instrumenten' (Jahrbuch der kunsthistorischen Sammlungen XXV, p. LI; Mortensen 1942, p. 20); after the fire of 1728 the wooden core had burned and the metal plates melted, and what remained — lumps of metal, the meridian ring, iron rings and the axle — has since been lost (p. 21). The image: a copperplate engraved at Hamburg early in 1598 for the Mechanica — the instrument has no woodcut and is absent from the Icones of 1596; the same plate was printed again at Nuremberg in 1602.",
    "edges": [
     [
      "described_in",
@@ -1151,7 +1151,14 @@
     "S_RESEN1668",
     "S_PONTOPPIDAN1739",
     "S_DETMOLD1598",
-    "S_SIL1602"
+    "S_SIL1602",
+    "S_AGERTOFT2026",
+    "S_NISSEN1937",
+    "S_TBOO7",
+    "S_PICARD1680",
+    "S_HUET1718",
+    "S_BRICKA1886",
+    "S_TRIDUUM2023"
    ],
    "location": "library, Uraniborg",
    "location_group": "uraniborg",
@@ -1174,6 +1181,11 @@
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
      "url": "https://www.sil.si.edu/DigitalCollections/hst/brahe/brahe-brass-globe.htm",
      "kind": "plate"
+    },
+    {
+     "label": "Tycho to Vedel, 15 August 1579 — the globe still at Augsburg (Epistolarium)",
+     "url": "https://tychoniana.com/epistolarium/letters/brahe-t_15790815001.html",
+     "kind": "record"
     }
    ],
    "thoren_1990": {
@@ -2136,6 +2148,65 @@
    "url_label": "Lippische Landesbibliothek, digital collections",
    "kind": "facsimile",
    "contributes": "The one public uncoloured copy of the 1598 edition: the surface of every plate — woodblock or copperplate — read without the colourist's hand, and the impressions against which the 1596 and 1602 pulls were registered."
+  },
+  {
+   "id": "S_AGERTOFT2026",
+   "label": "Agertoft, 'Himmelglobussens lange rejse' (forthcoming)",
+   "full": "Rasmus Agertoft, 'Himmelglobussens lange rejse', in a forthcoming anthology (cited from the proof of October 2026; the printed pagination will differ). The globe's whole itinerary from the Augsburg commission to the fire of 1728, read from the Danish and Latin witnesses: Tycho's letter to Vedel of 1579, Holberg, Hofman, Resen, Huet, Picard, Christian IV's letter of 1646, the Trinitatis clerk's list of 1686, the Rigsarkivet instrument lists of 1710 and 1718 (Københavns Universitet, Sager henhørende til Astronomisk observatorium 1700–1766, pk. 1612–01) and Horrebow's Basis astronomiae.",
+   "kind": "secondary",
+   "contributes": "The Copenhagen stations dated step by step — the upper auditorium of the University's building of 1601, the king's plan of 1646 for the University Library, Huet about 1652, Picard in 1671, the move to the tower between 1671 and 1686, Rosenborg, the Camera Tychonica of 1718 — and the quotations from the Rigsarkivet lists and from Horrebow's account of the fire, which are cited here as the article gives them."
+  },
+  {
+   "id": "S_NISSEN1937",
+   "label": "Nissen, 'Rundetaarn som Observatorium' (1937)",
+   "full": "Andreas Nissen, 'Rundetaarn som Observatorium', in Rundetaarn 1637–1937 (Copenhagen, 1937), pp. 62–63 (the Trinitatis clerk Matthis Sørensen's list of the mathematical instruments on the tower, dated 13 February 1686, printed in full from the burial register of Trinitatis church), 72–73 (Schiwe's inventory of the tower of 1710 in Danish rendering, with Horrebow's variants of 18 May 1718 in parentheses).",
+   "url": "https://www.rundetaarn.dk/wp-content/uploads/2015/04/1637-1937Rundetaarn.pdf",
+   "url_label": "the jubilee volume of 1937, digitised by Rundetaarn",
+   "kind": "secondary",
+   "contributes": "The list of 13 February 1686 that opens with 'Tycho Brahaes Hans Globus' — the globe on the tower by that date; Rømer's own measure of its diameter, 57 Rhineland inches, from the Adversaria; the inventories of 1710 and 1718 with the globe in the first chamber at the top of the tower, Horrebow's 'Camera Tychonica', hung with a painted portrait of Tycho."
+  },
+  {
+   "id": "S_TBOO7",
+   "label": "Opera omnia VII (1924) — Tycho to Vedel, 15 August 1579",
+   "full": "Tychonis Brahe Dani Opera Omnia, ed. J. L. E. Dreyer, vol. VII: Epistolae astronomicae (Copenhagen, 1924), pp. 56–58: Tycho to Anders Sørensen Vedel, Hven, 15 August 1579 — the travel brief for Vedel's German journey, with the commission to have the great globe sent from Augsburg.",
+   "url": "https://archive.org/details/operaomniaedidit07brahuoft",
+   "url_label": "Opera Omnia vol. VII, digitised (Internet Archive)",
+   "kind": "primary",
+   "contributes": "'Scripsi etiam quasdam literas in aedes hospitis mei LAURENTII DEN et peto, ut si qua ratione fieri poterit, efficias ut Globum meum magnum, quem ipse conservat, ante hyemem habere possim' — the globe's shell still at Augsburg in August 1579, which corrects the Mechanica's 'the following year' (1576)."
+  },
+  {
+   "id": "S_PICARD1680",
+   "label": "Picard, Voyage d'Uranibourg (1680)",
+   "full": "Jean Picard, Voyage d'Uranibourg, ou observations astronomiques faites en Dannemarck (Paris: Imprimerie royale, 1680), p. 4, in the Recueil d'observations faites en plusieurs voyages par ordre de Sa Majesté (Paris, 1693); reprinted in Mémoires de l'Académie royale des sciences VII (1729), pp. 223–264. The passage is cited as Agertoft quotes it.",
+   "url": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-9308",
+   "url_label": "the 1680 printing in the Recueil (e-rara, ETH Zürich)",
+   "kind": "primary",
+   "contributes": "Picard, come in 1671 to fix Hven's position against Paris, visits the Round Tower and then 'l'Auditoire de l'Académie, c'est ainsi qu'ils appellent le lieu où se font les Actes publics de l'Université', where he sees 'ce fameux Globe celeste' and judges it in good condition after its long journeys — the globe still in the auditorium in 1671."
+  },
+  {
+   "id": "S_HUET1718",
+   "label": "Huet, Commentarius de rebus ad eum pertinentibus (1718)",
+   "full": "Pierre Daniel Huet, Commentarius de rebus ad eum pertinentibus (Amsterdam: du Sauzet, 1718), p. 81 (the Copenhagen visit of 1652, before the crossing to Hven of 26 May); in English, Memoirs of the Life of Peter Daniel Huet, tr. John Aikin (London, 1810), vol. I, p. 128 (read in the Internet Archive scan); in French, Mémoires de Daniel Huet (Paris, 1853), pp. 51–53, which Agertoft quotes.",
+   "url": "https://archive.org/details/memoirsoflifeofp01huetiala",
+   "url_label": "Aikin's translation, vol. I (Internet Archive)",
+   "kind": "primary",
+   "contributes": "After climbing the Round Tower, Huet goes to the Collegium and examines the globe, which he had long known by repute, struck by the beauty and delicacy of the work and the dexterity of the craftsman; he repeats the cost of 5,000 thalers and the twenty-five years of its making — the globe in the University's auditorium building about 1652."
+  },
+  {
+   "id": "S_BRICKA1886",
+   "label": "Christian IV's letter on the University Library (1646)",
+   "full": "Kong Christian den Fjerdes egenhændige Breve, ed. C. F. Bricka & J. A. Fridericia, vol. VI: 1645–1648 (Copenhagen, 1885–86), no. 247, pp. 225–226: an undated letter placed by the editors before 23 December 1646, on the building of Trinitatis church and the University Library over it.",
+   "url": "https://archive.org/details/kongchristianden06chriuoft",
+   "url_label": "vol. VI, digitised (Internet Archive)",
+   "kind": "primary",
+   "contributes": "'Och Eptherdi der skal anordnis y samme Bybiliotecke thuende Pladtze, Som den globus och ded Segeruerck, som Ieg haffuer forehrit dertyl, bekuemmeligen kan settis' — the king's plan to place the globe and a clockwork he had given in the new University Library; nothing shows it carried out."
+  },
+  {
+   "id": "S_TRIDUUM2023",
+   "label": "Horrebow, Basis astronomiae (1735), in the translation of 2023",
+   "full": "Claus Fabricius, Niels Therkel Jørgensen & Chr. Gorm Tortzen (eds.), Ole Rømer's Triduum, vol. II: Peder Horrebow's Basis Astronomiae (Copenhagen: Society for Danish Language and Literature, 2023), pp. 16–18, 70–72 — the English translation of Horrebow's Basis astronomiae (Copenhagen, 1735). Not read at source; cited as Agertoft quotes it.",
+   "kind": "primary",
+   "contributes": "Horrebow's account of the fire of 21 October 1728 and of what he could save of 'the most famous globe that any age has seen' — 'except for the meridian, the iron axis and some brass sheets — and even they are not undamaged'; the globe housed at Rosenborg castle before the tower; Longomontanus's wall text on the tower beside it."
   }
  ],
  "federates_with": [
@@ -2389,6 +2460,20 @@
  ],
  "transmission": [
   {
+   "year": "1579, 15 August",
+   "event": "Tycho, sending Vedel into Germany, asks him to have 'Globum meum magnum', kept in Lorenz Den's house at Augsburg, packed and conveyed to Hven before winter — the shell, left at Augsburg in 1575, had not yet reached Denmark; the Mechanica's 'the following year' (1576) is corrected by the letter.",
+   "sources": [
+    [
+     "S_TBOO7",
+     "VII, pp. 56–58"
+    ],
+    [
+     "S_CHRISTIANSON",
+     "p. 358"
+    ]
+   ]
+  },
+  {
    "year": "1597",
    "event": "Tycho leaves Hven; the instruments follow him into exile and, in 1599, to Bohemia.",
    "sources": [
@@ -2515,6 +2600,70 @@
    ]
   },
   {
+   "year": "c. 1625",
+   "event": "The globe passes to the Jesuit college at Neisse in Silesia under Christoph Scheiner — Mortensen's inference from the college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397), which names no globe; no document records the transfer.",
+   "sources": [
+    [
+     "S_MORTENSEN_BOG",
+     ""
+    ],
+    [
+     "S_MORTENSEN",
+     "p. 20"
+    ]
+   ]
+  },
+  {
+   "year": "1632, 1 December",
+   "event": "Prince Ulrik, son of Christian IV, having taken Neisse in the German war, recognises the globe and has it carried to Copenhagen, where it is set up with ceremony in the University (the Regia Hafniae Academia), in the upper auditorium of the building of 1601 — not in the Round Tower, which was begun only in 1637. Longomontanus, who had turned the globe by hand on Hven for eight years, composes the verses 'Globus ad lectorem' ('Robusto quondam ligno me cura Tychonis / Coelari fecit …') and the wall inscription beside it: 'Sive hospes, sive inquilinus es, bene adsis: hoc aeneum coeli simulacrum, quod vides, ingenio et impendio Tychonis Brahe ad astronomicas observationes in insula Hvenna efformatum est … nomen Uraniburgo dedit, Daniae famam … primo Benaticam, mox Pragam, inde Nissam defertur … tandem, capta Nissa, virtute, ductu et auspicio aeternae memoriae Principis Divi Uldarici, Patriae velut trophaeum ex peregrino Marte vindicatur et restituitur.' The date of the return is that of the dedicatory tablet to Urania and to Ulrik's memory — 'Globum hunc Anno Domini MDCXXXII Cal. Dec. Patriae victoriose restitutus' — while the wall inscription, which calls Ulrik 'aeternae memoriae … Divi', was composed after his death on 12 August 1633: Gassendi prints its closing date as Calend. Decemb. 1633, Resen and Pontoppidan as 1632. The globe was later moved to the Round Tower's observatory ('postea vero in turrim Astronomicam translati').",
+   "sources": [
+    [
+     "S_GASSENDI1655",
+     "lib. VI, pp. 217–218"
+    ],
+    [
+     "S_RESEN1668",
+     "pp. 239–240"
+    ],
+    [
+     "S_PONTOPPIDAN1739",
+     "p. 125"
+    ],
+    [
+     "S_MORTENSEN",
+     "p. 21"
+    ],
+    [
+     "S_MORTENSEN_BOG",
+     ""
+    ]
+   ]
+  },
+  {
+   "year": "1646, before 23 December",
+   "event": "Christian IV directs that two places be made in the new University Library over Trinitatis church for 'den globus och ded Segeruerck, som Ieg haffuer forehrit dertyl', and that the library be drawn up accordingly; nothing shows the globe ever stood there.",
+   "sources": [
+    [
+     "S_BRICKA1886",
+     "no. 247, pp. 225–226"
+    ],
+    [
+     "S_AGERTOFT2026",
+     ""
+    ]
+   ]
+  },
+  {
+   "year": "1648–1650",
+   "event": "The Swedish removal of Rudolf II's collections leaves the two large iron sextants behind; the Castle Armoury inventory of 1650 lists them.",
+   "sources": [
+    [
+     "S_FUCIKOVA",
+     "pp. 276–281"
+    ]
+   ]
+  },
+  {
    "year": "1650",
    "event": "The Specification of 29 July 1650 of the Castle's Schatz- und Kunstkammer, drawn up after the Swedish removal, lists under ‘In der rüstcamer’ one line, ‘2 grosze geometrische instrumenta’ — the entry Fučíková identifies, ‘fairly likely’, with the two sextants; it names no maker, type or size.",
    "sources": [
@@ -2529,6 +2678,20 @@
    ]
   },
   {
+   "year": "c. 1652",
+   "event": "Pierre Daniel Huet, after climbing the Round Tower, examines the globe at the Collegium — the University's auditorium building of 1601 — and is struck by the beauty and delicacy of the work and the dexterity of the craftsman.",
+   "sources": [
+    [
+     "S_HUET1718",
+     "p. 81; tr. Aikin, I, p. 128"
+    ],
+    [
+     "S_AGERTOFT2026",
+     ""
+    ]
+   ]
+  },
+  {
    "year": "1666",
    "event": "Isaac Vossius's Leiden sale of 30 November 1666 ends with a gilt-metal ‘Geometrisch en Astronomisch Quadrant … eertijdts door Tycko Brahe vereert aen de Keyser Rodolphus’, by Balsem's inference out of Christina's Prague booty; buyer and whereabouts unknown, the attribution the vendor's.",
    "sources": [
@@ -2539,12 +2702,96 @@
    ]
   },
   {
+   "year": "1668",
+   "event": "Resen prints the horizon inscription of 1584 and the three wall texts of 1632 directly after the inscription of the upper auditorium's skeleton case, and elsewhere notes the globe 'hodieque in Academia Hafniensi' — still in the Academy.",
+   "sources": [
+    [
+     "S_RESEN1668",
+     "pp. 237–241, 341"
+    ]
+   ]
+  },
+  {
+   "year": "1671",
+   "event": "Jean Picard, come to fix Hven's position against Paris, visits the Round Tower and then 'l'Auditoire de l'Académie', where he sees 'ce fameux Globe celeste', in good condition after its long journeys.",
+   "sources": [
+    [
+     "S_PICARD1680",
+     "p. 4"
+    ],
+    [
+     "S_AGERTOFT2026",
+     ""
+    ]
+   ]
+  },
+  {
+   "year": "1672, 18 May",
+   "event": "The English legation secretary Henshaw reports that 'Tycho Brahe's instruments were long ago sold to brass-founders'.",
+   "sources": [
+    [
+     "S_MORTENSEN",
+     "p. 21"
+    ]
+   ]
+  },
+  {
+   "year": "1686, 13 February",
+   "event": "The Trinitatis clerk Matthis Sørensen's list of the mathematical instruments on the tower opens with 'Tycho Brahaes Hans Globus'; a copy went to Rømer on 20 September 1690. The globe had therefore moved from the auditorium to the tower between 1671 and 1686, Longomontanus's wall text with it.",
+   "sources": [
+    [
+     "S_NISSEN1937",
+     "pp. 62–63"
+    ],
+    [
+     "S_PONTOPPIDAN1739",
+     "p. 125"
+    ]
+   ]
+  },
+  {
+   "year": "1710 and 1718",
+   "event": "Schiwe's inventory of the tower (1710) and Horrebow's (18 May 1718) list 'Globus Tÿchonis' / 'Globus orichalcicus coelestis Tychonis' in the first chamber at the top of the tower, Horrebow's 'Camera Tychonica', hung with a painted portrait of Tycho; Horrebow also records that the globe had been housed at Rosenborg before the tower.",
+   "sources": [
+    [
+     "S_NISSEN1937",
+     "p. 72"
+    ],
+    [
+     "S_AGERTOFT2026",
+     ""
+    ],
+    [
+     "S_TRIDUUM2023",
+     "p. 16"
+    ]
+   ]
+  },
+  {
    "year": "1718",
    "event": "The Castle inventory of 8 April 1718 lists in the Schatzkammer vaults ‘ein mathematisches instrumentum mit seinem fusz’, underlined in the original — by Köpl's reading, missing at the second revision.",
    "sources": [
     [
      "S_KOPL1889",
      "Reg. 6232, p. CXLI"
+    ]
+   ]
+  },
+  {
+   "year": "1728, 21 October",
+   "event": "The globe burns in the Round Tower about six in the evening; Horrebow, occupied with saving Rømer's legacy, could rescue 'the most famous globe that any age has seen' only as the meridian, the iron axis and some brass sheets, themselves damaged; the wooden body was consumed and the brass melted to lumps, and those remains have since been lost.",
+   "sources": [
+    [
+     "S_TRIDUUM2023",
+     "pp. 18, 70–72"
+    ],
+    [
+     "S_MORTENSEN",
+     "p. 21"
+    ],
+    [
+     "S_MORTENSEN_BOG",
+     ""
     ]
    ]
   },
@@ -2593,6 +2840,16 @@
    ]
   },
   {
+   "year": "c. 1780",
+   "event": "The Prague observatory's earliest inventory lists 'No. 4, a large sextant of Tycho Brahe, made in the year 1600 by Erasmus Habermel' and 'No. 5, a smaller sextant of Tycho Brahe, which he brought with him to Prague'.",
+   "sources": [
+    [
+     "S_MORTENSEN",
+     "p. 22"
+    ]
+   ]
+  },
+  {
    "year": "1781",
    "event": "Antonín Strnad's inventory of the Clementinum's Mathematical Museum (5 August 1781) lists ‘Sextans Tychonis’ (D 8), ‘Horologium Tychonis Brahe’ (D 3 — Klein's clock of 1751), ‘Instrumentum ab Erasmo Habermel Pragae factum pro Tychone’ (C 51) with its fragment (C 53), a Habermel dialling instrument of 1598 (C 19), three armillary models ‘adhuc probabiliter a Tychone’ (C 17–C 18 bis) and ‘three copper plates for Tycho's automatic clock’ (C 69). The list was drawn up, Seydl holds (‘nepochybně’), because after the death of the observatory's director Zeno on 7 June 1781 everything at the observatory and in the Museum had to be established; its heading ‘Consignatio rerum in museo mathematico Caesareo Regio’ shows him that the Museum was not part of the observatory, and what official relation the two had he does not know — his conjecture (‘Možná’) is that the astronomers Stepling, Zeno and Strnad, ex-Jesuits lodged in the Clementinum beside the Museum, were the natural custodians of the former Order's property (Seydl 1951, printed pp. 5–6 (scans 6–7)).",
    "sources": [
@@ -2621,12 +2878,40 @@
    ]
   },
   {
+   "year": "1782",
+   "event": "At Joseph II's auction of the Castle collections the two sextants are sold to Franz Leonard Herget, public teacher of mechanics and hydraulics.",
+   "sources": [
+    [
+     "S_FUCIKOVA",
+     "pp. 276–281"
+    ]
+   ]
+  },
+  {
    "year": "1785",
    "event": "The Mathematical Museum is dissolved as a whole, the University Library needing its rooms for the books of the suppressed monasteries: the mathematical and astronomical instruments go to the observatory in the Clementinum tower — ‘Tycho's sextants’, Seydl's plural read off the observatory's inventories of 1834 and 1846, and the old planetolabia among them (p. 30), the physics to the university's cabinet, the mechanics to the Estates' engineering institute under Herget, who had held rooms in the Clementinum since 1774.",
    "sources": [
     [
      "S_SEYDL1951",
      "pp. 26–30"
+    ]
+   ]
+  },
+  {
+   "year": "1852",
+   "event": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904). Seydl itemises the sale from the observatory's accounts (submitted 25 March 1856): announced in the Amtsblatt zur Prager Zeitung of 22 October 1852; 45 sundials, three of them Habermel's gilt pieces of 1598 and 1600, valued at 54, 20 and 3 kreuzer and sold for 2 fl., 1 fl. and 12 kr.; 18 telescopes, quadrants and sextants; 6 planetaria; 9 globes; among the pieces sold without Kreil's ‘unusable’ mark the gilt Habermel sundials and brass astrolabes. His figure 19 identifies the two Munich planetaria as the more complex pair of the three armillary models C 17–C 18 bis that Strnad in 1781 held ‘probabiliter a Tychone’ — the attribution is Strnad's, the ‘Ty. de Brahe’ engraving later (Seydl 1951, pp. 30–36, 48). Hornstein's defence of 9 March 1881, reprinted by Weinek (1901, p. 6): the sale, approved by the ministry on 11 September 1852, disposed only of sundials mostly made by the Jesuits, old reflectors and non-achromatic telescopes, and the list of everything sold survives in the files.",
+   "sources": [
+    [
+     "S_MORTENSEN",
+     "pp. 21–22"
+    ],
+    [
+     "S_SEYDL1951",
+     "pp. 30–36, 48"
+    ],
+    [
+     "S_WEINEK1901",
+     "p. 6"
     ]
    ]
   },
@@ -2647,118 +2932,6 @@
     [
      "S_WEINEK1901",
      "pp. 5–7"
-    ]
-   ]
-  },
-  {
-   "year": "c. 1625",
-   "event": "The globe passes to the Jesuit college at Neisse in Silesia under Christoph Scheiner — Mortensen's inference from the college's petition of 26 May 1625 for a church treasure promised by Archduke Karl (Jahrbuch der kunsthistorischen Sammlungen XXXI, no. 20397), which names no globe; no document records the transfer.",
-   "sources": [
-    [
-     "S_MORTENSEN_BOG",
-     ""
-    ],
-    [
-     "S_MORTENSEN",
-     "p. 20"
-    ]
-   ]
-  },
-  {
-   "year": "1632, 1 December",
-   "event": "Prince Ulrik, son of Christian IV, having taken Neisse in the German war, recognises the globe and has it carried to Copenhagen, where it is set up with ceremony in the University (the Regia Hafniae Academia) — not in the Round Tower, which was begun only in 1637. Longomontanus, who had turned the globe by hand on Hven for eight years, composes the verses 'Globus ad lectorem' ('Robusto quondam ligno me cura Tychonis / Coelari fecit …') and the wall inscription beside it: 'Sive hospes, sive inquilinus es, bene adsis: hoc aeneum coeli simulacrum, quod vides, ingenio et impendio Tychonis Brahe ad astronomicas observationes in insula Hvenna efformatum est … nomen Uraniburgo dedit, Daniae famam … primo Benaticam, mox Pragam, inde Nissam defertur … tandem, capta Nissa, virtute, ductu et auspicio aeternae memoriae Principis Divi Uldarici, Patriae velut trophaeum ex peregrino Marte vindicatur et restituitur.' The date of the return is that of the dedicatory tablet to Urania and to Ulrik's memory — 'Globum hunc Anno Domini MDCXXXII Cal. Dec. Patriae victoriose restitutus' — while the wall inscription, which calls Ulrik 'aeternae memoriae … Divi', was composed after his death on 12 August 1633: Gassendi prints its closing date as Calend. Decemb. 1633, Resen and Pontoppidan as 1632. The globe was later moved to the Round Tower's observatory ('postea vero in turrim Astronomicam translati').",
-   "sources": [
-    [
-     "S_GASSENDI1655",
-     "lib. VI, pp. 217–218"
-    ],
-    [
-     "S_RESEN1668",
-     "pp. 239–240"
-    ],
-    [
-     "S_PONTOPPIDAN1739",
-     "p. 125"
-    ],
-    [
-     "S_MORTENSEN",
-     "p. 21"
-    ],
-    [
-     "S_MORTENSEN_BOG",
-     ""
-    ]
-   ]
-  },
-  {
-   "year": "1648–1650",
-   "event": "The Swedish removal of Rudolf II's collections leaves the two large iron sextants behind; the Castle Armoury inventory of 1650 lists them.",
-   "sources": [
-    [
-     "S_FUCIKOVA",
-     "pp. 276–281"
-    ]
-   ]
-  },
-  {
-   "year": "1672, 18 May",
-   "event": "The English legation secretary Henshaw reports that 'Tycho Brahe's instruments were long ago sold to brass-founders'.",
-   "sources": [
-    [
-     "S_MORTENSEN",
-     "p. 21"
-    ]
-   ]
-  },
-  {
-   "year": "1728",
-   "event": "The globe burns in the Round Tower fire; the wooden body is consumed and the brass melts, leaving some lumps, the meridian ring, iron rings and the axle, since lost.",
-   "sources": [
-    [
-     "S_MORTENSEN",
-     "p. 21"
-    ],
-    [
-     "S_MORTENSEN_BOG",
-     ""
-    ]
-   ]
-  },
-  {
-   "year": "c. 1780",
-   "event": "The Prague observatory's earliest inventory lists 'No. 4, a large sextant of Tycho Brahe, made in the year 1600 by Erasmus Habermel' and 'No. 5, a smaller sextant of Tycho Brahe, which he brought with him to Prague'.",
-   "sources": [
-    [
-     "S_MORTENSEN",
-     "p. 22"
-    ]
-   ]
-  },
-  {
-   "year": "1782",
-   "event": "At Joseph II's auction of the Castle collections the two sextants are sold to Franz Leonard Herget, public teacher of mechanics and hydraulics.",
-   "sources": [
-    [
-     "S_FUCIKOVA",
-     "pp. 276–281"
-    ]
-   ]
-  },
-  {
-   "year": "1852",
-   "event": "The Prague observatory sells discarded instruments; the 'Tychonic' pieces among them, a sundial inscribed 'Insula Heveen A.D. 1578' and a planetarium engraved 'Ty. de Brahe', are forgeries, bought by the painter Gabriel Max and given in 1909 to the Deutsches Museum in Munich. Böhm rebutted the attributions in Astronomische Nachrichten 1115 (1857); the sundial reads 'Insula Heveen (!) A. D. 1578. Non haberi sed esse', the planetarium 'Ty. de Brahe' (Mortensen 1942, pp. 21–22; Das Weltall 1904). Seydl itemises the sale from the observatory's accounts (submitted 25 March 1856): announced in the Amtsblatt zur Prager Zeitung of 22 October 1852; 45 sundials, three of them Habermel's gilt pieces of 1598 and 1600, valued at 54, 20 and 3 kreuzer and sold for 2 fl., 1 fl. and 12 kr.; 18 telescopes, quadrants and sextants; 6 planetaria; 9 globes; among the pieces sold without Kreil's ‘unusable’ mark the gilt Habermel sundials and brass astrolabes. His figure 19 identifies the two Munich planetaria as the more complex pair of the three armillary models C 17–C 18 bis that Strnad in 1781 held ‘probabiliter a Tychone’ — the attribution is Strnad's, the ‘Ty. de Brahe’ engraving later (Seydl 1951, pp. 30–36, 48). Hornstein's defence of 9 March 1881, reprinted by Weinek (1901, p. 6): the sale, approved by the ministry on 11 September 1852, disposed only of sundials mostly made by the Jesuits, old reflectors and non-achromatic telescopes, and the list of everything sold survives in the files.",
-   "sources": [
-    [
-     "S_MORTENSEN",
-     "pp. 21–22"
-    ],
-    [
-     "S_SEYDL1951",
-     "pp. 30–36, 48"
-    ],
-    [
-     "S_WEINEK1901",
-     "p. 6"
     ]
    ]
   },

@@ -62,7 +62,7 @@
   "recep_before": 13,
   "recep_from": 40,
   "recep_1601": 5,
-  "transmission": 33,
+  "transmission": 40,
   "questions": 30,
   "q_open": 5,
   "lost_objects": 4
@@ -562,6 +562,15 @@
    "year_end": 1578,
    "edition": "Epistolarium",
    "link": "../epistolarium/index.html"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1579, 15 August",
+   "label": "Tycho, sending Vedel into Germany, asks him to have 'Globum meum magnum', kept in Lorenz Den's house at Augsburg, packed and conveyed to Hven before winter — the shell, left at Augsburg in 1575, had not yet reached Denmark; the Mechanica's 'the following year' (1576) is corrected by the letter.",
+   "year_start": 1579,
+   "year_end": 1579,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
   },
   {
    "kind": "letters-year",
@@ -2267,7 +2276,7 @@
   {
    "kind": "instrument-fate",
    "key": "transmission-1632, 1 December",
-   "label": "Prince Ulrik, son of Christian IV, having taken Neisse in the German war, recognises the globe and has it carried to Copenhagen, where it is set up with ceremony in the University (the Regia Hafniae Academia) — not in the Round Tower, which was begun only in 1637. Longomontanus, who had turned the globe by hand on Hven for eight years, composes the verses 'Globus ad lectorem' ('Robusto quondam ligno me cura Tychonis / Coelari fecit …') and the wall inscription beside it: 'Sive hospes, sive inquilinus es, bene adsis: hoc aeneum coeli simulacrum, quod vides, ingenio et impendio Tychonis Brahe ad astronomicas observationes in insula Hvenna efformatum est … nomen Uraniburgo dedit, Daniae famam … primo Benaticam, mox Pragam, inde Nissam defertur … tandem, capta Nissa, virtute, ductu et auspicio aeternae memoriae Principis Divi Uldarici, Patriae velut trophaeum ex peregrino Marte vindicatur et restituitur.' The date of the return is that of the dedicatory tablet to Urania and to Ulrik's memory — 'Globum hunc Anno Domini MDCXXXII Cal. Dec. Patriae victoriose restitutus' — while the wall inscription, which calls Ulrik 'aeternae memoriae … Divi', was composed after his death on 12 August 1633: Gassendi prints its closing date as Calend. Decemb. 1633, Resen and Pontoppidan as 1632. The globe was later moved to the Round Tower's observatory ('postea vero in turrim Astronomicam translati').",
+   "label": "Prince Ulrik, son of Christian IV, having taken Neisse in the German war, recognises the globe and has it carried to Copenhagen, where it is set up with ceremony in the University (the Regia Hafniae Academia), in the upper auditorium of the building of 1601 — not in the Round Tower, which was begun only in 1637. Longomontanus, who had turned the globe by hand on Hven for eight years, composes the verses 'Globus ad lectorem' ('Robusto quondam ligno me cura Tychonis / Coelari fecit …') and the wall inscription beside it: 'Sive hospes, sive inquilinus es, bene adsis: hoc aeneum coeli simulacrum, quod vides, ingenio et impendio Tychonis Brahe ad astronomicas observationes in insula Hvenna efformatum est … nomen Uraniburgo dedit, Daniae famam … primo Benaticam, mox Pragam, inde Nissam defertur … tandem, capta Nissa, virtute, ductu et auspicio aeternae memoriae Principis Divi Uldarici, Patriae velut trophaeum ex peregrino Marte vindicatur et restituitur.' The date of the return is that of the dedicatory tablet to Urania and to Ulrik's memory — 'Globum hunc Anno Domini MDCXXXII Cal. Dec. Patriae victoriose restitutus' — while the wall inscription, which calls Ulrik 'aeternae memoriae … Divi', was composed after his death on 12 August 1633: Gassendi prints its closing date as Calend. Decemb. 1633, Resen and Pontoppidan as 1632. The globe was later moved to the Round Tower's observatory ('postea vero in turrim Astronomicam translati').",
    "year_start": 1632,
    "year_end": 1632,
    "edition": "Instrumenta",
@@ -2302,6 +2311,15 @@
   },
   {
    "kind": "instrument-fate",
+   "key": "transmission-1646, before 23 December",
+   "label": "Christian IV directs that two places be made in the new University Library over Trinitatis church for 'den globus och ded Segeruerck, som Ieg haffuer forehrit dertyl', and that the library be drawn up accordingly; nothing shows the globe ever stood there.",
+   "year_start": 1646,
+   "year_end": 1646,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
    "key": "transmission-1648–1650",
    "label": "The Swedish removal of Rudolf II's collections leaves the two large iron sextants behind; the Castle Armoury inventory of 1650 lists them.",
    "year_start": 1648,
@@ -2326,6 +2344,15 @@
    "year_end": null,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-crater-tycho"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-c. 1652",
+   "label": "Pierre Daniel Huet, after climbing the Round Tower, examines the globe at the Collegium — the University's auditorium building of 1601 — and is struck by the beauty and delicacy of the work and the dexterity of the craftsman.",
+   "year_start": 1652,
+   "year_end": 1652,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
   },
   {
    "kind": "likeness",
@@ -2392,6 +2419,24 @@
   },
   {
    "kind": "instrument-fate",
+   "key": "transmission-1668",
+   "label": "Resen prints the horizon inscription of 1584 and the three wall texts of 1632 directly after the inscription of the upper auditorium's skeleton case, and elsewhere notes the globe 'hodieque in Academia Hafniensi' — still in the Academy.",
+   "year_start": 1668,
+   "year_end": 1668,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1671",
+   "label": "Jean Picard, come to fix Hven's position against Paris, visits the Round Tower and then 'l'Auditoire de l'Académie', where he sees 'ce fameux Globe celeste', in good condition after its long journeys.",
+   "year_start": 1671,
+   "year_end": 1671,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
+   "kind": "instrument-fate",
    "key": "transmission-1672, 18 May",
    "label": "The English legation secretary Henshaw reports that 'Tycho Brahe's instruments were long ago sold to brass-founders'.",
    "year_start": 1672,
@@ -2409,6 +2454,15 @@
    "link": "../observationes/index.html#vc-O_OBSPM_B4_14"
   },
   {
+   "kind": "instrument-fate",
+   "key": "transmission-1686, 13 February",
+   "label": "The Trinitatis clerk Matthis Sørensen's list of the mathematical instruments on the tower opens with 'Tycho Brahaes Hans Globus'; a copy went to Rømer on 20 September 1690. The globe had therefore moved from the auditorium to the tower between 1671 and 1686, Longomontanus's wall text with it.",
+   "year_start": 1686,
+   "year_end": 1686,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
+  },
+  {
    "kind": "reception",
    "key": "recep-tycho-brahes-dage",
    "label": "'Tycho Brahes Dage' — the unlucky days under his name",
@@ -2416,6 +2470,15 @@
    "year_end": 1960,
    "edition": "Receptio",
    "link": "../receptio/index.html#recep-tycho-brahes-dage"
+  },
+  {
+   "kind": "instrument-fate",
+   "key": "transmission-1710 and 1718",
+   "label": "Schiwe's inventory of the tower (1710) and Horrebow's (18 May 1718) list 'Globus Tÿchonis' / 'Globus orichalcicus coelestis Tychonis' in the first chamber at the top of the tower, Horrebow's 'Camera Tychonica', hung with a painted portrait of Tycho; Horrebow also records that the globe had been housed at Rosenborg before the tower.",
+   "year_start": 1710,
+   "year_end": 1710,
+   "edition": "Instrumenta",
+   "link": "../instrumenta/index.html#sec-transmission"
   },
   {
    "kind": "instrument-fate",
@@ -2428,8 +2491,8 @@
   },
   {
    "kind": "instrument-fate",
-   "key": "transmission-1728",
-   "label": "The globe burns in the Round Tower fire; the wooden body is consumed and the brass melts, leaving some lumps, the meridian ring, iron rings and the axle, since lost.",
+   "key": "transmission-1728, 21 October",
+   "label": "The globe burns in the Round Tower about six in the evening; Horrebow, occupied with saving Rømer's legacy, could rescue 'the most famous globe that any age has seen' only as the meridian, the iron axis and some brass sheets, themselves damaged; the wooden body was consumed and the brass melted to lumps, and those remains have since been lost.",
    "year_start": 1728,
    "year_end": 1728,
    "edition": "Instrumenta",
