@@ -1,7 +1,7 @@
 {
  "id": "brahe-tycho",
- "version": "2.3",
- "edition_date": "2026-10-19",
+ "version": "2.4",
+ "edition_date": "2026-10-27",
  "generated": "2026-09-05",
  "title": "Horoscopi — the astrological manuscripts of Tycho Brahe",
  "description": "The astrological documents of Tycho Brahe whose primary form is a manuscript — the texts he wrote or had written for an astrological purpose and never sent to press — with every manuscript that carries them, the hand per witness with its authority, Dreyer's edition and the readable text where one exists; and the documents the sources attest but no one has located. The printed astrology, the weather diary, the Hven almanacs and the poem Urania Titani are bridged to their own pillars.",
@@ -249,11 +249,11 @@
   },
   {
    "id": "S_MANUS",
-   "label": "The Hand (Graphonomicon)",
-   "full": "Tychoniana, the Graphonomicon of Tycho Brahe's hand: the specimen files for GKS 1822, GKS 1823 and Cod. 10689/29 — facsimile autopsies of June 2026 with their stated confidence. The portal’s own authority, named as such wherever it raises a claim.",
+   "label": "Manus — the portal’s own handwriting study",
+   "full": "Tychoniana, Manus — the portal’s own study of Tycho Brahe’s hand: the specimen files for GKS 1822, GKS 1823 and Cod. 10689/29 — facsimile autopsies of June 2026 with their stated confidence. The portal’s own authority, named as such wherever it raises a claim.",
    "contributes": "The reading that the Latin of GKS 1823 is in Tycho's italic and its German in a different, Kurrent, hand (confidence B); the reading that Cod. 10689/29 is a working draft in his hand (confidence A); the verified facsimile and IIIF links.",
    "url": "../observationes/graphonomicon/brahe-tycho/explorer.html",
-   "url_label": "the Graphonomicon"
+   "url_label": "Manus"
   },
   {
    "id": "S_TEKSTNET",
@@ -887,7 +887,7 @@
     "Latin",
     "German (the interpretation)"
    ],
-   "description": "The nativity of the king's third son, prepared at the royal command in 1583, with a Latin preface that defends astrological prediction as physically grounded conjecture leaving free will intact. It survives in the presentation volume itself, in green velvet like its companion for Prince Ulrik. Which part is in Tycho's hand is contested between the two authorities this chapter has: Dreyer, who had the volume in hand, says only the German interpretation is his; the facsimile autopsy of the Graphonomicon finds the Latin chart, directions and judgment in his italic and leaves the German Kurrent open. Both are printed; neither is resolved here. A second witness, unknown to Dreyer, lies among Kepler's papers in St Petersburg: Tycho's own draft of the directions and of the analysis, dated September 1600, in the former Pulkovo volume 19 (Boockmann 2010, p. 29).",
+   "description": "The nativity of the king's third son, prepared at the royal command in 1583, with a Latin preface that defends astrological prediction as physically grounded conjecture leaving free will intact. It survives in the presentation volume itself, in green velvet like its companion for Prince Ulrik. Which part is in Tycho's hand is contested between the two authorities this chapter has: Dreyer, who had the volume in hand, says only the German interpretation is his; the facsimile autopsy made for Manus, the portal’s own handwriting study, finds the Latin chart, directions and judgment in his italic and leaves the German Kurrent open. Both are printed; neither is resolved here. A second witness, unknown to Dreyer, lies among Kepler's papers in St Petersburg: Tycho's own draft of the directions and of the analysis, dated September 1600, in the former Pulkovo volume 19 (Boockmann 2010, p. 29).",
    "edition": {
     "tboo_volume": "I",
     "headnote_page": "251",
@@ -1133,7 +1133,7 @@
    "languages": [
     "Latin"
    ],
-   "description": "The judgment of a nativity whose subject is not named: the figure of the birth with the planets' places, then the judgment by rubric — complexion, friends and enemies, journeys. Four leaves among Tycho's papers in Vienna, catalogued under his name. Not printed by Dreyer. The Graphonomicon's reading of the digitised leaves finds a working draft in Tycho's rapid italic, with the author's own deletions and insertions; that reading is the portal’s own and is shown as such.",
+   "description": "The judgment of a nativity whose subject is not named: the figure of the birth with the planets' places, then the judgment by rubric — complexion, friends and enemies, journeys. Four leaves among Tycho's papers in Vienna, catalogued under his name. Not printed by Dreyer. The reading of the digitised leaves made for Manus, the portal’s own handwriting study, finds a working draft in Tycho's rapid italic, with the author's own deletions and insertions; that reading is the portal’s own and is shown as such.",
    "edition": {
     "tboo_volume": "",
     "headnote_page": "",
@@ -1179,7 +1179,7 @@
    ],
    "links": [],
    "grade": "A",
-   "grade_basis": "existence, identity and attribution on the catalogue record read; the hand on the Hand’s own autopsy, shown beside it",
+   "grade_basis": "existence, identity and attribution on the catalogue record read; the hand on the portal’s own autopsy (Manus), shown beside it",
    "open_questions": [
     "Whose nativity it is. The chart's planetary places, once read, would date the birth."
    ],
@@ -2510,7 +2510,7 @@
   "The draft nativity of Frederik II in Cod. 10686/17: whether it is in Tycho's hand, when it was written, and what it says. The fascicle is digitised and has not been read.",
   "The reply to the Emperor's question in Cod. 10689/50: what was asked and what answered. Digitised; unread.",
   "The hand of GKS 1823: Dreyer against the facsimile autopsy. A comparison of the German section against the wholly autograph GKS 1822 in the reading room.",
-  "Cod. 10689/29: the hand rests on the Hand’s own reading alone; an external palaeographic opinion is wanted, and the subject of the geniture is unidentified.",
+  "Cod. 10689/29: the hand rests on the portal’s own reading (Manus) alone; an external palaeographic opinion is wanted, and the subject of the geniture is unidentified.",
   "The Christian IV draft in Cod. 10688/8: the fascicle number is Dreyer's; the library's title for the fascicle ('Simplices motus a. 1576 etc.') does not name the draft. The fascicle should be read to confirm the draft is there and how far it runs.",
   "Langebeks Excerpter 178–179: the horoscope copy is not itemised in the boxes' record; which box, and how much of the text, Langebek copied.",
   "The eclipse prognostication of 1566, in which Tycho is said to have foretold the death of Sultan Süleyman: an explanation is attested (Dreyer 1890 p. 26), no document is located. Entered here, not as a record.",
@@ -2518,7 +2518,7 @@
   "David Fabricius's promised 'exempla nativitatum' (Opera Omnia VIII, p. 430): the letter is not yet keyed to the Epistolarium.",
   "The German tract on the comet of 1577 has no modern edition or translation and is not in the Danish critical edition; it cannot be read here beyond Dreyer's text.",
   "No photograph of GKS 1822, of the velvet bindings or of any horoscope leaf is in Iconographia.",
-  "Cod. 10688/17, 'Calculi miscelli, observationes, pericula' (1600), holds astrological directions in a hand the Graphonomicon grades possible; it has not been examined for a prose document and is not a record.",
+  "Cod. 10688/17, 'Calculi miscelli, observationes, pericula' (1600), holds astrological directions in a hand Manus, the portal’s own handwriting study, grades possible; it has not been examined for a prose document and is not a record.",
   "The Latin letter of 28 January 1612 on Tycho's prediction for Rudolf II: that the stars acted on the emperor as on his favourite lion, whose fate he should therefore watch — the lion died two weeks before the emperor. It is known only from a communication of František Dvorský, director of the Bohemian provincial archive, in the newspaper Politik (1901, no. 262), quoted by Studnička (Bericht über die astrologischen Studien …, Prague 1901, p. 14); the writer, the addressee and the present place of the letter are not stated.",
   "The St Petersburg leaves of the former Pulkovo volume 19 (F 285 op. 1 No. 15): Tycho's drafts of September 1600 for the Hans nativity, his draft analysis of the Ulrik nativity and the unnamed nativity of 25 August 1573 (fol. 151–231), known only from Boockmann's inventory. The copies at the Kepler-Kommission of the Bayerische Akademie der Wissenschaften, Munich, are the way to read them without St Petersburg; Martha List's inventory of 1961 is the printed source still unread.",
   "Tycho’s nativity of Caspar Peucer: writing to Peucer on 13 September 1588 Tycho recalled a nativity he had cast for him ‘long ago’ and found borne out by events (Opera omnia VII, pp. 137–138; Jardine & Segonds 2008, p. 76). No manuscript of it is known; the Wittenberg and Copenhagen collections of Peucer’s papers, and the horoscope compilations of the circle, are where a copy would be."

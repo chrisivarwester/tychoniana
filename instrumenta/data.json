@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "2.12",
+ "version": "2.13",
  "edition_date": "2026-10-27",
  "title": "Instrumenta Tychonis — the instruments of Tycho Brahe",
  "places": [
@@ -131,6 +131,7 @@
    "mechanica_engraved": true,
    "image_src_label": "The Royal Library's copy 1 of the 1598 edition, digitised",
    "destroyed_year": 1574,
+   "destroyed_event": "storm of 1574",
    "links": [
     {
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
@@ -187,6 +188,9 @@
    "location": "south-west ground-floor room, Uraniborg (fixed on the meridian wall)",
    "location_group": "uraniborg",
    "accuracy": "transversal scale read to ⅙′ (≈10″) — the 1996 editors (n. 55, p. 31) doubt the ⅙′: at 194 cm one degree is ≈ 34 mm and one minute < 0.6 mm, 'which scarcely could be further divided even using transversal points'; on their reading of Tycho's angular vocabulary (n. 35) the degrees were divided into tens of minutes (6 mm) and those by transversals into single minutes, as the Addendum's own figure shows; n. 66: one minute 'greater than the eye can distinguish'",
+   "accuracy_disputed": true,
+   "accuracy_disputed_reading": "single minutes (1′) — the editors of the 1996 edition (Hadravová, Hadrava & Shackelford) read Tycho's passage as degrees divided into tens of minutes and those by transversals into single minutes",
+   "accuracy_disputed_arcsec": 60,
    "principle": "A quarter-circle fixed flat on a wall set exactly in the meridian, its centre at a sight-cylinder through the south wall, graduated 0° at the top down to 90° on the plumb-line. Because the altitude and the arc above the sight-line are equal vertical angles, and the scale starts from the top, the reading is the meridian altitude directly.",
    "image": "plates/inst-mural-quadrant.jpg",
    "image_thumb": "plates/inst-mural-quadrant_thumb.jpg",
@@ -197,7 +201,7 @@
    "blaeu": {
     "plate_page": 204,
     "context_page": 201,
-    "context_title": "Interior of Uraniborg with the mural quadrant in use — the most famous image in the atlas",
+    "context_title": "Interior of Uraniborg with the mural quadrant in use",
     "text_pages": [
      202,
      203
@@ -205,7 +209,7 @@
     "plate_title": "Quadrans muralis sive Tichonicus",
     "section": "De Muur-Quadrant van Tycho",
     "observatory": "South wall of the main building, Uraniborg",
-    "english": "THE MURAL QUADRANT OF TYCHO.\n\nBlaeu describes the great mural quadrant painted on the south wall of Uraniborg's main building. Radius ca. 6 feet; graduated to one-sixth of a minute by transversal dots. Three assistants are used simultaneously: one calls the star name, one reads the altitude from the scale, one records the time from the clock — as depicted in the famous interior view (p. 201), which Blaeu reproduces as a coloured engraving from the Astronomiae Instauratae Mechanica (Wandsbek, 1598). At the arc's centre, Tycho placed a self-portrait as part of the wall painting — an instrument that was also his grandest act of self-fashioning.",
+    "english": "THE MURAL QUADRANT OF TYCHO.\n\nBlaeu describes the great mural quadrant painted on the south wall of Uraniborg's main building. Radius ca. 6 feet; graduated to one-sixth of a minute by transversal dots. Three assistants are used simultaneously: one calls the star name, one reads the altitude from the scale, one records the time from the clock — as depicted in the interior view (p. 201), which Blaeu reproduces as a coloured engraving from the Astronomiae Instauratae Mechanica (Wandsbek, 1598). At the arc's centre, Tycho placed a self-portrait as part of the wall painting.",
     "dutch": "D E M U U R - Q U A D R A N T\nV A N T Y C H O.",
     "citation": "Joan Blaeu, Grooten Atlas oft Werelt-beschryving (Amsterdam, 1664), pp. 201–204. Universiteitsbibliotheek Utrecht, AC 62 Rariora.",
     "plate_image": "../assets/blaeu/p204.jpg",
@@ -436,6 +440,9 @@
    "location": "south-west crypt, Stjerneborg",
    "location_group": "stjerneborg",
    "accuracy": "transversal scale read to ⅙′ (≈10″) — the editors of the 1996 edition warn (nn. 35 and 72) that Tycho's gradus, minutum and secunda shift meaning with context and that at this radius the stated subdivision is finer than the graduation could carry; they read the passage as degrees divided into tens of minutes and those by transversals into single minutes",
+   "accuracy_disputed": true,
+   "accuracy_disputed_reading": "single minutes (1′) — the editors of the 1996 edition (Hadravová, Hadrava & Shackelford) read Tycho's passage as degrees divided into tens of minutes and those by transversals into single minutes",
+   "accuracy_disputed_arcsec": 60,
    "principle": "A circle-quadrant braced inside a steel square, turnable about a vertical iron axle; the alidade reads altitude on the arc while rules carry the bearing to a c. 350 cm azimuth ring. So solidly built that — Tycho records — a man could hang on it and ride it round several turns without disturbing it.",
    "image": "plates/inst-revolving-steel-quadrant.jpg",
    "image_thumb": "plates/inst-revolving-steel-quadrant_thumb.jpg",
@@ -532,6 +539,9 @@
    "location": "south (largest) crypt, Stjerneborg",
    "location_group": "stjerneborg",
    "accuracy": "≈¼′ — one of his most accurate instruments — the editors of the 1996 edition warn (nn. 35 and 123) that Tycho's gradus, minutum and secunda shift meaning with context and that at this radius the stated subdivision is finer than the graduation could carry; they read the passage as degrees divided into tens of minutes and those by transversals into single minutes",
+   "accuracy_disputed": true,
+   "accuracy_disputed_reading": "single minutes (1′) — the editors of the 1996 edition (Hadravová, Hadrava & Shackelford) read Tycho's passage as degrees divided into tens of minutes and those by transversals into single minutes",
+   "accuracy_disputed_arcsec": 60,
    "principle": "A single great declination ring whose axle is set parallel to the Earth's axis (tilted to Stjerneborg's latitude). Because that axis is the polar axis, a sight swung onto a star reads its declination directly on the ring and its hour angle on the equatorial arc below; right-ascension differences between a known and an unknown star are read on the same arc.",
    "image": "plates/inst-great-equatorial-armillary.jpg",
    "image_thumb": "plates/inst-great-equatorial-armillary_thumb.jpg",
@@ -683,6 +693,9 @@
    "location": "Uraniborg",
    "location_group": "uraniborg",
    "accuracy": "transversal scale, to ≈½′ — the editors of the 1996 edition warn (nn. 35 and 139) that Tycho's gradus, minutum and secunda shift meaning with context and that at this radius the stated subdivision is finer than the graduation could carry; they read the passage as degrees divided into tens of minutes and those by transversals into single minutes",
+   "accuracy_disputed": true,
+   "accuracy_disputed_reading": "single minutes (1′) — the editors of the 1996 edition (Hadravová, Hadrava & Shackelford) read Tycho's passage as degrees divided into tens of minutes and those by transversals into single minutes",
+   "accuracy_disputed_arcsec": 60,
    "principle": "A 60° arc for the angular distance between two stars, the triangular bracing giving the long arms rigidity. Two observers sight the two stars from the common centre and read the arc between.",
    "image": "plates/inst-triangular-sextant.jpg",
    "image_thumb": "plates/inst-triangular-sextant_thumb.jpg",
@@ -1163,7 +1176,7 @@
    "location": "library, Uraniborg",
    "location_group": "uraniborg",
    "accuracy": "ecliptic & equator divided by transversals to 1′; >1000 stars — the 1996 editors (n. 189, p. 114): one degree on the globe is about 13 mm, so single minutes could be carried only by transversal points and only on the horizon, read with the vertical quadrant; n. 187: the engraving shows no transversal points and no circle for reading ecliptic longitude",
-   "principle": "A precision celestial globe used as an analogue computer: set the pole-altitude on the meridian at the horizon, turn a star to the meridian to read its declination there and its right ascension on the equator; a movable vertical circle gives altitude and the horizon ring azimuth — all four coordinates, and the conversions between the three systems.",
+   "principle": "A celestial globe used as a working model of the sky: set the pole-altitude on the meridian at the horizon, turn a star to the meridian to read its declination there and its right ascension on the equator; a movable vertical circle gives altitude and the horizon ring azimuth — all four coordinates, and the conversions between the three systems.",
    "image": "plates/inst-globe.jpg",
    "image_thumb": "plates/inst-globe_thumb.jpg",
    "image_credit": "Tycho Brahe, Astronomiæ instauratæ mechanica (Wandsbek, 1598). Det Kongelige Bibliotek, Copenhagen, LN 432 2°, copy 2 (Nielsen 432). Public domain.",
@@ -1176,6 +1189,7 @@
    "mechanica_engraved": true,
    "image_src_label": "The Royal Library's copy 1 of the 1598 edition, digitised",
    "destroyed_year": 1728,
+   "destroyed_event": "fire of 1728",
    "links": [
     {
      "label": "The same plate in the 1602 Nuremberg edition (Smithsonian Libraries)",
@@ -1263,7 +1277,7 @@
    "institution": "Národní technické muzeum (National Technical Museum), Prague",
    "maker": "Jost Bürgi (1552–1632) per Šíma 1993 / Wolfschmidt 2002; or Pater Johann Klein (18th c.) per Mortensen 1942 (not Weinek 1901, who leaves the maker unknown)",
    "dimensions": "iron; radius 1.11 m",
-   "description": "The smaller ('Nr. 5') of the two iron sextants in the Národní technické muzeum, Prague — radius 1.11 m. Its maker is genuinely disputed. Modern scholarship (Šíma 1993; Wolfschmidt 2002) attributes it to the clockmaker and instrument-maker Jost Bürgi (1552–1632) of the Prague years, grouping it with the Habermel sextant as the only surviving instruments associated with Tycho. Mortensen (1942) instead held it 'presumably' (vistnok) made by Pater Johann Klein, keeper of the Clementinum's Mathematical Chamber from 1732 to his death in 1762 (Mortensen's '1732–82' is a slip) — i.e. an 18th-century instrument, not Tychonic at all; Weinek 1901, Mortensen's only cited source, says no such thing: for him the smaller sextant is not Habermel's (no signature, a different cross-shaped strengthening) and otherwise of unknown make, its 60° arc shows Strnad's 'Octans' to be a misnomer, and he does not dispute the inventories' 'brought to Prague' (the observatory's inventories of 1846, No. 12, and 1856, Nr. 5, call it 'ein kleinerer Sextant von Tycho Brahe, den er nach Prag mitbrachte'; Strnad's undated list of the 1780s–90s has '1 Octans desselben' — the word Sainovics used in 1769 of the small Tycho instrument shown in the Jesuit museum). A sextant of the same size and very similar form survives at the Kremsmünster observatory in Austria, described by Rankl 1946 as 'Der Tychonische Sextant (von Bürgi)'. That Tycho's own Hven instruments are all lost makes any Prague-period survivor precious; the Bürgi attribution is the current consensus but graded B for the open dispute. For Fučíková's Castle chain for both sextants, and what the Castle inventories of 1650–1782 say when read in Köpl's edition, see the Habermel sextant. Strnad's inventory of 1781 lists a single ‘Tycho's sextant’ (D 8) and, among the armillary spheres, a model of ‘the Jupiter system according to Tycho's opinion’ (C 18) (Hyklová 2017, pp. 55, 57). Seydl 1951 adds the Jesuit college's own record of a small Tycho-attributed instrument before the auction of 1782 — Sainovics's ‘small iron octant said to have belonged to Tycho’ of 2 May 1769, Vydra's ‘Sextans Tychonis … quo fato nescio’ of 1778 and Strnad's ‘Sextans Tychonis’ (D 8) of 1781 — which the smaller sextant fits better than the signed Habermel piece; Seydl himself, who neither knows nor accepts the Klein attribution Mortensen printed in 1942, calls it ‘of unknown origin’ (pp. 7, 22–23, 25, 40; fig. 16, ‘Menší sextant Tyge Braha, původu neznámého. Č. D 8’). The Jesuits were showing a small Tycho instrument within seven years of Klein's death in 1762, which does not exclude his making it. For the conflict between this road and Fučíková's Castle-Armoury chain of 1650–1782, see the Habermel sextant.",
+   "description": "The smaller ('Nr. 5') of the two iron sextants in the Národní technické muzeum, Prague — radius 1.11 m. Its maker is genuinely disputed. Modern scholarship (Šíma 1993; Wolfschmidt 2002) attributes it to the clockmaker and instrument-maker Jost Bürgi (1552–1632) of the Prague years, grouping it with the Habermel sextant as the only surviving instruments associated with Tycho. Mortensen (1942) instead held it 'presumably' (vistnok) made by Pater Johann Klein, keeper of the Clementinum's Mathematical Chamber from 1732 to his death in 1762 (Mortensen's '1732–82' is a slip) — i.e. an 18th-century instrument, not Tychonic at all; Weinek 1901, Mortensen's only cited source, says no such thing: for him the smaller sextant is not Habermel's (no signature, a different cross-shaped strengthening) and otherwise of unknown make, its 60° arc shows Strnad's 'Octans' to be a misnomer, and he does not dispute the inventories' 'brought to Prague' (the observatory's inventories of 1846, No. 12, and 1856, Nr. 5, call it 'ein kleinerer Sextant von Tycho Brahe, den er nach Prag mitbrachte'; Strnad's undated list of the 1780s–90s has '1 Octans desselben' — the word Sainovics used in 1769 of the small Tycho instrument shown in the Jesuit museum). A sextant of the same size and very similar form survives at the Kremsmünster observatory in Austria, described by Rankl 1946 as 'Der Tychonische Sextant (von Bürgi)'. Tycho's own Hven instruments are all lost; the Bürgi attribution is the current consensus but graded B for the open dispute. For Fučíková's Castle chain for both sextants, and what the Castle inventories of 1650–1782 say when read in Köpl's edition, see the Habermel sextant. Strnad's inventory of 1781 lists a single ‘Tycho's sextant’ (D 8) and, among the armillary spheres, a model of ‘the Jupiter system according to Tycho's opinion’ (C 18) (Hyklová 2017, pp. 55, 57). Seydl 1951 adds the Jesuit college's own record of a small Tycho-attributed instrument before the auction of 1782 — Sainovics's ‘small iron octant said to have belonged to Tycho’ of 2 May 1769, Vydra's ‘Sextans Tychonis … quo fato nescio’ of 1778 and Strnad's ‘Sextans Tychonis’ (D 8) of 1781 — which the smaller sextant fits better than the signed Habermel piece; Seydl himself, who neither knows nor accepts the Klein attribution Mortensen printed in 1942, calls it ‘of unknown origin’ (pp. 7, 22–23, 25, 40; fig. 16, ‘Menší sextant Tyge Braha, původu neznámého. Č. D 8’). The Jesuits were showing a small Tycho instrument within seven years of Klein's death in 1762, which does not exclude his making it. For the conflict between this road and Fučíková's Castle-Armoury chain of 1650–1782, see the Habermel sextant.",
    "edges": [
     [
      "located_at",
@@ -2220,7 +2234,7 @@
    "name": "The transversal (diagonal) scale",
    "tag": "precision",
    "companion_page": 28,
-   "summary": "Tycho's signature precision device — a band of diagonal lines crossing a ladder of parallel rows that turns a coarse degree-scale into a reading good to a single arcminute, and to c. 10″ on his largest arcs, by interpolating diagonally. He first saw the idea in Leipzig as a youth and perfected it; it is the chief reason his instruments out-resolved every predecessor.",
+   "summary": "The transversal scale, which Tycho describes in ch. 33: a band of diagonal lines crossing a ladder of parallel rows that lets a coarse degree-scale be read to a single arcminute by interpolating diagonally, and, as Tycho states it, to c. 10″ on his largest arcs — a figure the 1996 editors read as single minutes. He first saw the idea in Leipzig as a youth and refined it; it is what carried his arcs to single minutes.",
    "on": [
     "inst-mural-quadrant",
     "inst-revolving-steel-quadrant",
@@ -2270,7 +2284,7 @@
    "name": "Reading the sky in equatorial coordinates",
    "tag": "method",
    "companion_page": 26,
-   "summary": "Tycho's conceptual innovation as much as a mechanical one: orienting an armillary's axis parallel to the Earth's axis so a single ring reads declination and hour angle (and right-ascension differences) directly — the equatorial system astronomers still use — instead of the traditional ecliptic (zodiacal) armillary's latitude and longitude.",
+   "summary": "Orienting an armillary's axis parallel to the Earth's axis, so that a single ring reads declination and hour angle (and right-ascension differences) directly — the equatorial system astronomers still use — instead of the traditional ecliptic (zodiacal) armillary's latitude and longitude.",
    "on": [
     "inst-great-equatorial-armillary",
     "inst-north-equatorial-armillary",
@@ -2458,6 +2472,80 @@
    ]
   }
  ],
+ "comparanda": [
+  {
+   "id": "comp-kremsmuenster",
+   "label": "The comparandum at Kremsmünster",
+   "text": "An iron sextant of the same size and form as the smaller Prague instrument is kept at the observatory of Kremsmünster abbey in Upper Austria: arms of 112 cm, a brass limb divided by transversals to a single arcminute, an alidade driven along the toothed limb by a chain — described by Rankl 1946 as \"the Tychonic sextant (by Bürgi)\" and thought by him to have served Kepler in Prague. It has no record in this catalogue; it is the comparandum for the Bürgi attribution.",
+   "compares_with": "inst-sextant-burgi",
+   "desideratum": "des-burgi-klein",
+   "sources": [
+    "S_RANKL46"
+   ]
+  }
+ ],
+ "thoren_unmodelled": [
+  {
+   "entry": "Half-sextant",
+   "year": 1569,
+   "identification": "the Augsburg-period half-sextant; see Loca's record of the Augsburg stay"
+  },
+  {
+   "entry": "Bifurcated sextant",
+   "year": 1581,
+   "identification": "Tycho's 'fork-shaped sextant', described but not engraved (Mechanica ch. 25)"
+  },
+  {
+   "entry": "Semicirculus",
+   "year": 1588,
+   "identification": "the large semicircle for distances beyond a sixth of the circle (ch. 25); Thoren suspects it is the azimuth semicircle under another pivot"
+  },
+  {
+   "entry": "Icelandic quadrant",
+   "year": 1589,
+   "identification": "TBOO XI, 319, 360; not in the Mechanica"
+  },
+  {
+   "entry": "New canal",
+   "year": 1591,
+   "identification": "a camera obscura for solar observation, TBOO XII, 108–118; not in the Mechanica"
+  },
+  {
+   "entry": "Portable ring armillary",
+   "year": 1591,
+   "identification": "the armilla portatilis of 60 cm radius, described but not engraved (ch. 25)"
+  }
+ ],
+ "unengraved": {
+  "mechanica_section": 25,
+  "note": "Chapter 25 of the Mechanica names the instruments Tycho had not engraved and promises to add them; none has a record in this catalogue.",
+  "items": [
+   {
+    "name": "The fork-shaped sextant",
+    "description": "steel arc of a sixth of the circle, sighting rules of Brazil wood four cubits (155 cm) long, brass slit-sights; for two observers, portable"
+   },
+   {
+    "name": "The large semicircle for greater distances",
+    "description": "for distances beyond a sixth of the circle, up to and beyond a quarter, as between sun and moon; braced with cross-beams and clad in brass"
+   },
+   {
+    "name": "The astronomical radius",
+    "description": "a cross-staff of his own construction"
+   },
+   {
+    "name": "The astronomical ring",
+    "description": "a ring instrument"
+   },
+   {
+    "name": "The portable armilla",
+    "description": "a single-ring equatorial armilla of about 60 cm radius, useful even at Stjerneborg for low altitudes"
+   },
+   {
+    "name": "An astrolabe",
+    "description": ""
+   }
+  ]
+ },
  "transmission": [
   {
    "year": "1579, 15 August",
@@ -2475,6 +2563,7 @@
   },
   {
    "year": "1597",
+   "terminus": "Hven abandoned",
    "event": "Tycho leaves Hven; the instruments follow him into exile and, in 1599, to Bohemia.",
    "sources": [
     [
@@ -2515,6 +2604,7 @@
   },
   {
    "year": "1601, 24 October",
+   "terminus": "Tycho dies",
    "event": "Tycho dies; Kepler closes the observation journal with the account of his illness and death.",
    "sources": [
     [
@@ -2577,6 +2667,7 @@
   },
   {
    "year": "1619",
+   "terminus": "war of 1619",
    "event": "Destruction in the disturbances that followed the death of Emperor Matthias, when Prague was held for Frederick of the Palatinate: some instruments converted to other uses, the rest destroyed or dispersed (Gassendi, Vita, 1655, p. 216). The version that attaches the loss to the battle of the White Mountain, 8 November 1620, is a misreading of Gassendi.",
    "sources": [
     [

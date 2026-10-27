@@ -9988,7 +9988,7 @@
     "O_GKS311"
    ],
    "hypothesis": "KB holds the originals (nightly logs, grouped in multi-year folio/quarto volumes); Vienna holds the neat yearly recopies 1582–1601. The two halves had never been laid out against each other in a single year-by-year apparatus.",
-   "resolves": "The year-by-year KB-original ↔ Vienna-apographum mapping now exists — built from Dreyer's Opera Omnia X codex descriptions (Codices A–V) and the ÖNB Tabulae codicum VI (1873) leaf-count series, cross-checked against the leaf counts made for this register. Each of the 19 apographa (Cod. 10657–10675) is now cross-linked to the KB autograph protocol(s) it fair-copies, with the Dreyer Codex letter and the documented gap for each year, together with a register of the known discrepancies and the precedent of Bartholin's 1668 Specimen. Two corrections fell out of the work: Cod. 10673 = 1599 (was mislabelled 'composite 1582–1601'), and GKS 312 spans 1587–1594 (fixed stars), not 1587–1590. The residual — reading-level spot-collation of individual copyist errors beyond Bartholin's 1582 Specimen — is carried forward as ‘Reading-level collation of the fair-copies against the originals beyond 1582’.",
+   "resolves": "The year-by-year KB-original ↔ Vienna-apographum mapping now exists — built from Dreyer's Opera Omnia X codex descriptions (Codices A–V) and the ÖNB Tabulae codicum VI (1873) leaf-count series, cross-checked against the leaf counts recorded in Observationes. Each of the 19 apographa (Cod. 10657–10675) is now cross-linked to the KB autograph protocol(s) it fair-copies, with the Dreyer Codex letter and the documented gap for each year, together with a register of the known discrepancies and the precedent of Bartholin's 1668 Specimen. Two corrections fell out of the work: Cod. 10673 = 1599 (was mislabelled 'composite 1582–1601'), and GKS 312 spans 1587–1594 (fixed stars), not 1587–1590. The residual — reading-level spot-collation of individual copyist errors beyond Bartholin's 1582 Specimen — is carried forward as ‘Reading-level collation of the fair-copies against the originals beyond 1582’.",
    "pillar": "observationes",
    "position_kind": "register-exists",
    "resolved_on": "2026-05-30",
@@ -10023,8 +10023,8 @@
     "O_GKS1829",
     "O_GKS1830"
    ],
-   "hypothesis": "Dreyer Opera Omnia X describes Codex L = A. Coll. Reg. 1829 (4°, 214 ll.) as the transcript of the 1585 observations; this register's record for GKS 1829 instead read 'computations, 1599–1600', which looked like a transcription slip.",
-   "resolves": "Not a transcription error. The live KB catalogue (soeg.kb.dk; Ilsøe, Støbeskeen 1999 p.582) gives GKS 1829 the title 'Fasciculus Observationum Solis et Planetarum, subjuncto calculo Planetarum ex observationibus annorum 1599 et 1600' — i.e. 1599–1600, matching the record here. So the conflict is between Dreyer (1923) and the modern KB catalogue on the SAME shelfmark, not a data-entry slip. Neighbours GKS 1827/1828/1830 align Dreyer↔KB with no offset (ruling out a simple renumbering), and KB shelves no 214-leaf 1585 transcript under an obvious GKS number — a post-Dreyer rebinding of these 'modern-binding' quartos is the likeliest cause. GKS 1829 is now recorded per the live catalogue, with the Dreyer conflict noted on the object. The genuine residual — where Dreyer's 1585 Codex L lives today — is spun out as ‘The modern shelfmark of Dreyer's 1585 transcript (Codex L)’.",
+   "hypothesis": "Dreyer Opera Omnia X describes Codex L = A. Coll. Reg. 1829 (4°, 214 ll.) as the transcript of the 1585 observations; the Observationes record of GKS 1829 instead reads 'computations, 1599–1600', which looked like a transcription slip.",
+   "resolves": "Not a transcription error. The live KB catalogue (soeg.kb.dk; Ilsøe, Støbeskeen 1999 p.582) gives GKS 1829 the title 'Fasciculus Observationum Solis et Planetarum, subjuncto calculo Planetarum ex observationibus annorum 1599 et 1600' — i.e. 1599–1600, matching that record. So the conflict is between Dreyer (1923) and the modern KB catalogue on the SAME shelfmark, not a data-entry slip. Neighbours GKS 1827/1828/1830 align Dreyer↔KB with no offset (ruling out a simple renumbering), and KB shelves no 214-leaf 1585 transcript under an obvious GKS number — a post-Dreyer rebinding of these 'modern-binding' quartos is the likeliest cause. GKS 1829 is recorded as the live catalogue has it, with the conflict with Dreyer noted in its record. The genuine residual — where Dreyer's 1585 Codex L lives today — is spun out as ‘The modern shelfmark of Dreyer's 1585 transcript (Codex L)’.",
    "pillar": "observationes",
    "position_kind": "settled",
    "resolved_on": "2026-05-30",
@@ -10157,7 +10157,7 @@
     "O_GKS311",
     "O_GKS1825"
    ],
-   "hypothesis": "None of the 18 KB autograph observation volumes is digitised, yet they are the highest-value originals; a prioritised scan request was the deliverable.",
+   "hypothesis": "None of the 18 KB autograph observation volumes was digitised when the question was opened, yet they are the highest-value originals; the question asks which of them should be scanned first.",
    "resolves": "Prioritised KB scan list, autograph-density first: (1) GKS 1822 (Horoscope of Prince Ulrik, wholly in Tycho's hand); (2) GKS 1825 / Codex B (mostly autograph, 1577–81, portrait+arms binding); (3) GKS 311 / Codex C (the 1582–86 anchor of the collation apparatus, partly autograph); (4) GKS 314 / Codex F (1595, many autograph entries, complete); (5) GKS 316–317 / Codices G–H (1596–99, incl. David Fabricius's autograph leaves + Kepler's declaration); (6) GKS 312–313, 318 / Codices D, E, I; (7) the quarto transcripts GKS 1824/1828 (incl. the unique 1593 transcript). Digitising tiers 1–3 first maximises autograph + apparatus value per krone. Since then: GKS 316 folio (Codex G, 1596–97) and GKS 1824 kvart (earliest 1563–82) are now confirmed digitised on KB Digital Collections (object856355 and object77724 respectively). Remaining 16 KB protocols still undigitised.",
    "pillar": "observationes",
    "position_kind": "register-exists",
@@ -10420,7 +10420,7 @@
     "O_COD10689"
    ],
    "hypothesis": "Three Sammelbände hold many individual Tycho items between them (letters, treatises, Kepler editorial notes, polemics), catalogued at part level but once summarised as one row each.",
-   "resolves": "The per-part expansion is recorded: 89 sub-part records (Cod. 10686 ×48, Cod. 10688 ×13, Cod. 10689 ×28) are recorded as child objects under their parent convolute, each with genre, authorship-direction and notes; 78 of 89 carry an ÖNB AC permalink and 11 are digitised with viewer URLs. Residual is minor: ~11 leaf-range parts (e.g. /71–78) still lack an isolated AC number — a clean-up, not a discovery question.",
+   "resolves": "The per-part expansion is recorded: 89 sub-part records (Cod. 10686 ×48, Cod. 10688 ×13, Cod. 10689 ×28) are recorded as child objects under their parent convolute, each with its genre, the direction of authorship and notes; 78 of the 89 are linked to their own record in the ÖNB catalogue (the AC number) and 11 are digitised, with the viewer address recorded. What remains is eleven leaf-range parts (e.g. /71–78) that have no catalogue number of their own.",
    "pillar": "scripta",
    "position_kind": "register-exists",
    "resolved_on": "2026-05-31",
@@ -10435,7 +10435,7 @@
     "O_COD10657",
     "O_COD10675"
    ],
-   "hypothesis": "Only 13 of 127 ÖNB Tycho objects are digitised (incl. Cod. 10718 and Cod. 10688/17); the 19 apographa and most treatises are not. A prioritised request was the deliverable.",
+   "hypothesis": "Only 13 of 127 ÖNB Tycho objects are digitised (incl. Cod. 10718 and Cod. 10688/17); the 19 apographa and most treatises are not; the question asks which should be digitised first.",
    "resolves": "Prioritised ÖNB digitisation list: (1) the 19 yearly apographa Cod. 10657–10675 in full — the half of the split observation archive that is the citation-text behind the Historia Coelestis, and the partner side of the new KB↔Vienna apparatus (collation by image becomes possible once these are online); within them, lead with 1599/Cod. 10673 (the corrected volume) and the years flagged in the discrepancy register (1584, 1589–91); (2) the star-catalogue restitutions Cod. 10705–10707 + the right-ascension catalogue 10709; (3) the treatise codices 10721 (De nova stella materials), 10558 (trigonometry); (4) the three convolutes 10686/10688/10689 part by part. The apographa series is the unambiguous first ask.",
    "pillar": "observationes",
    "position_kind": "register-exists",

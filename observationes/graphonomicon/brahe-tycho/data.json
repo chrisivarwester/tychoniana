@@ -15,10 +15,10 @@
   "grade_b": 53,
   "grade_c": 8,
   "grade_d": 2,
-  "extant": 76,
+  "extant": 75,
   "surrogate_only": 2,
   "disputed": 5,
-  "lost": 1,
+  "lost": 2,
   "registers": 7,
   "stages": 3,
   "variants": 10,
@@ -34,7 +34,7 @@
   "surrogate_urls": 30,
   "with_census_copy": 29,
   "with_scribe": 15,
-  "open_questions": 109,
+  "open_questions": 114,
   "without_record_or_surrogate": 42,
   "anchors": 14,
   "undated": 2
@@ -2039,11 +2039,11 @@
    "scribe": "",
    "scribe_disc": "",
    "grade": "B",
-   "status": "extant",
+   "status": "lost",
    "institution": "formerly Gymnasium zum Grauen Kloster, Berlin (institution destroyed in WW2)",
    "city": "Berlin",
    "country": "DE",
-   "shelfmark": "(lost)",
+   "shelfmark": "",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
@@ -2587,7 +2587,7 @@
    "institution": "Universitätsbibliothek Königsberg",
    "city": "Kaliningrad",
    "country": "RU",
-   "shelfmark": "(former Königsberg Univ-Bibl; survival uncertain)",
+   "shelfmark": "",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
@@ -2603,7 +2603,8 @@
    ],
    "census_ref": "brahe-progymnasmata-1592-uraniborg/konigsberg-muller-working-copy",
    "open_questions": [
-    "Confirm the extent and hand of the gift note against the object or a surrogate — the copy is untraced since the WW2 dispersal of the Königsberg Universitätsbibliothek (survivors scattered across Toruń, Göttingen, Berlin and Kaliningrad)."
+    "Confirm the extent and hand of the gift note against the object or a surrogate — the copy is untraced since the WW2 dispersal of the Königsberg Universitätsbibliothek (survivors scattered across Toruń, Göttingen, Berlin and Kaliningrad).",
+    "No shelfmark is known: the copy belonged to the Universitätsbibliothek Königsberg, and whether it survived the dispersal of 1945 is uncertain."
    ],
    "variants": []
   },
@@ -2781,7 +2782,7 @@
    "institution": "Российская национальная библиотека (Russian National Library)",
    "city": "St Petersburg",
    "country": "RU",
-   "shelfmark": "(no public OPAC for 16th-c. material; contact RNL Rare Books)",
+   "shelfmark": "",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
@@ -2797,7 +2798,8 @@
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/st-petersburg-rnl-otto-ii",
    "open_questions": [
-    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate."
+    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate.",
+    "The shelfmark has not yet been retrieved: the National Library of Russia has no public catalogue of its sixteenth-century holdings, so it must be asked for from the library's rare-books department."
    ],
    "variants": []
   },
@@ -3128,7 +3130,7 @@
    "institution": "Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen)",
    "city": "Göttingen",
    "country": "DE",
-   "shelfmark": "(not yet retrieved)",
+   "shelfmark": "",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
@@ -3144,7 +3146,8 @@
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/goettingen-ub-h33-henrik-julius",
    "open_questions": [
-    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate."
+    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate.",
+    "The shelfmark of the copy has not yet been retrieved from the holding library's catalogue."
    ],
    "variants": []
   },
@@ -3172,7 +3175,7 @@
    "institution": "Det Kgl. Bibliotek (Royal Danish Library)",
    "city": "Copenhagen",
    "country": "DK",
-   "shelfmark": "(not yet retrieved; KB Copenhagen confirmed institution; Mosley does not give shelfmark)",
+   "shelfmark": "",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
@@ -3188,7 +3191,8 @@
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/copenhagen-kb-ferdinand-archduke",
    "open_questions": [
-    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate."
+    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate.",
+    "The shelfmark has not yet been retrieved: the Royal Danish Library is confirmed as the holding institution, but Mosley does not give the shelfmark."
    ],
    "variants": []
   },
@@ -3912,7 +3916,7 @@
    "institution": "Deichmanske Bibliotek, Oslo",
    "city": "Oslo",
    "country": "NO",
-   "shelfmark": "(not yet retrieved)",
+   "shelfmark": "",
    "catalogue_url": "",
    "iiif": "",
    "surrogates": [],
@@ -3928,7 +3932,8 @@
    ],
    "census_ref": "brahe-mechanica-1598-wandsbek/oslo-deichmanske-mosbach",
    "open_questions": [
-    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate."
+    "Confirm autograph extent (autograph dedication vs calligrapher-body + autograph signature) against the surrogate.",
+    "The shelfmark of the copy has not yet been retrieved from the holding library's catalogue."
    ],
    "variants": []
   },

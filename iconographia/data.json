@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.28",
+ "version": "1.29",
  "edition_date": "2026-10-27",
  "title": "Iconographia Tychonis — Tycho Brahe's image and self-fashioning",
  "images": [
@@ -1600,8 +1600,8 @@
    "nature": "An original carved monument, made in Prague by people who had seen him — but set up after his death, and heavily restored in 1901.",
    "whereabouts": {
     "summary": "In situ in the Church of Our Lady before Týn, Prague, against a pier near the chancel.",
-    "holder": "Kostel Panny Marie před Týnem",
-    "city": "Staroměstské náměstí, Prague 1",
+    "holder": "Kostel Panny Marie před Týnem, Staroměstské náměstí",
+    "city": "Prague",
     "inv": "",
     "url": "https://projekter.au.dk/en/tycho-brahe/reburial",
     "tier": "located (architecturally fixed; the 2010 reinterment campaign necessarily handled it)",

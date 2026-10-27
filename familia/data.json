@@ -1,6 +1,6 @@
 {
  "id": "brahe-tycho",
- "version": "2.11",
+ "version": "2.12",
  "edition_date": "2026-10-27",
  "generated": "2026-09-05",
  "title": "Familia — the people around Tycho Brahe",
@@ -139,16 +139,17 @@
   {
    "id": "S_EPISTOLARIUM",
    "label": "The letters (Epistolarium)",
-   "full": "The 509 letters to, from and about Tycho Brahe, 1568–1601, after Dreyer's Opera Omnia and the DSL edition, as modelled in the Tychoniana Epistolarium.",
+   "full": "The letters to, from and about Tycho Brahe, 1568–1601, after Dreyer's Opera Omnia and the DSL edition, as modelled in the Tychoniana Epistolarium.",
    "contributes": "Every letter count in this register, and the biographies of the correspondents known only through their letters.",
    "url": "../epistolarium/index.html",
    "url_label": "the Epistolarium"
   },
   {
    "id": "S_THESAURUS",
-   "label": "The Tychoniana agent register",
-   "full": "The agent register of the Tychoniana thesaurus: the 33 persons recorded as author, printer, publisher, dedicatee, scribe, owner or editor of a Tychonic work, manifestation or object.",
-   "contributes": "The 33 core entries and their roles, and the joins to the works printed, the presentation copies and the manuscripts in each hand."
+   "label": "The Tychoniana register of makers, owners and editors",
+   "full": "The portal’s own register of the persons recorded as author, printer, publisher, dedicatee, scribe, owner or editor of a work, printing or object of Tycho Brahe’s. Internal data of Tychoniana: listed here, not cited on the records.",
+   "contributes": "The core entries and their roles, and the links to the works printed, the presentation copies and the manuscripts in each hand.",
+   "internal": true
   },
   {
    "id": "S_DIARIUM",
@@ -337,7 +338,7 @@
     "author",
     "astronomer"
    ],
-   "connection": "",
+   "connection": "Tycho Brahe is the hub of this register, not an entry like the others: every other party stands here through a documented relation to him, and the apparatus below gathers what the chapters of Tychoniana record of him in each of those relations — the letters sent and received, the arrivals and departures the Hven diary notes, the stays of the itinerary, the manuscripts in his hand, the presentation copies he gave, the horoscopes he cast and the poems addressed to him. His life is not retold here: the itinerary of Loca follows him year by year, the Epistolarium holds the correspondence, Manus the handwriting, and the portal’s hub page carries the biography with its sources.",
    "sources": [
     "S_THESAURUS",
     "S_EPISTOLARIUM"

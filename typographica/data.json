@@ -30,7 +30,7 @@
   "sections": [
    {
     "h": "Why he built it",
-    "html": "Tycho's plan was a vast work, a <i>Theatrum astronomicum</i> embracing the whole new astronomy. A press of his own answered several needs at once: the Copenhagen printers were busy and the city was plague-ridden; Hven's isolation made constant traffic with the mainland awkward; and he wished to guard his discoveries from those who might publish them as their own, and to oversee the setting and correction of his books sheet by sheet. The first notice of the press is his letter to Anders Sørensen Vedel of 16 February 1584, announcing that he would set up a small printing house on Uraniborg and procure type at the coming Frankfurt fair.",
+    "html": "Tycho's plan was a vast work he called the <i>Theatri Astronomici Opus</i> (§[sec:programme], 'The name, settled'; Nielsen writes 'Theatrum astronomicum'), embracing the whole new astronomy. A press of his own answered several needs at once: the Copenhagen printers were busy and the city was plague-ridden; Hven's isolation made constant traffic with the mainland awkward; and he wished to guard his discoveries from those who might publish them as their own, and to oversee the setting and correction of his books sheet by sheet. The first notice of the press is his letter to Anders Sørensen Vedel of 16 February 1584, announcing that he would set up a small printing house on Uraniborg and procure type at the coming Frankfurt fair.",
     "id": "why-built"
    },
    {
@@ -371,7 +371,7 @@
    "references": "L. Nielsen, in Nord. tidskr. f. bok- och biblioteksväsen VIII, pp. 202–04.",
    "nielsen_census": "*Breslau, Univ. Bibl.; Stockholm, Kgl. Bibl.; *Vienna, Nationalbibl.",
    "production": "Eighteen instrument-woodcuts assembled as a supplement to the Epistolae, printed one to a page with no captions. Nielsen's typographic analysis shows the Vienna copy's reset title-leaf and printed afterword were not printed at Uraniborg ('Saavel Typerne som Vignetten paa Titelbladet er forskellige', 1921, p. 204); where and by whom he does not say. The attribution to Philip de Ohr at Hamburg in early 1598, when Tycho was at Wandsbek, is this apparatus's inference from the chronology, not Nielsen's. The blocks were cut piecemeal from 1585 — the two broadside blocks, later Figs. 16 and 13 — to 1596, and seven had been printed before: two in De mundi (1588: Figs. 2 and 17), five in the Progymnasmata sheets of 1592–93 (Figs. 13, 16, 18, 19, 20). Tycho's afterword promises numbers keyed to the Epistolae descriptions; no copy examined carries them. Armorial watermarks seen in transmitted light on three leaves of the ex-Lindskoug copy are consistent with the Brahe-arms marks of the Hven mill as Vellev draws them (2002, fig. 18), which, if the identification holds, would place the pulls after the mill began work in 1590–92; a mark-for-mark comparison is still owed, and the identification is a possibility, not a result.",
-   "note_html": "The <i>Icones</i> was sent as a supplement to the <i>Epistolae</i> (1596), whose bound-in instrument descriptions supply the captions these plates lack. The Vienna afterword announces the forthcoming <i>Mechanica</i>: the Icones is thus the immediate predecessor of the 1598 masterpiece.",
+   "note_html": "The <i>Icones</i> was sent as a supplement to the <i>Epistolae</i> (1596), whose bound-in instrument descriptions supply the captions these plates lack. The Vienna afterword announces the forthcoming <i>Mechanica</i>: the Icones is thus the immediate predecessor of the <i>Mechanica</i> of 1598.",
    "flags": [],
    "entry_class": "surviving",
    "author_class": "tycho",
@@ -665,7 +665,7 @@
    "gloss": "Tycho's lost reply to the Scotsman John Craig on the parallax of comets — printed on Tycho's own insistence, and no copy known.",
    "survival": "No printed copy of either printing is located. The text survives in manuscript: Copenhagen, Royal Danish Library, NKS 93b 2° (the base manuscript of the Opera Omnia edition); a Berlin fragment apparently copied from the print and prefaced by Craig's three letters; a scribal copy among Kepler's papers in St Petersburg — Archive of the Russian Academy of Sciences, F 285 op. 1 No. 15 (the former Pulkovo volume 19), fol. 115r–150v — read and corrected by Tycho himself (Norlind 1970, p. 138; Boockmann 2010, p. 29), unknown to Dreyer; and the Longomontanus–From manuscript, untraced since 1651.",
    "production": "Printed at Uraniborg in 1591, then — enlarged — at Wandsbek/Hamburg in 1598 (the latter from Tycho's letter to Scultetus, 7 Jan 1600). Craig's longer rebuttal reached Tycho only in May 1592, after the first printing, prompting the reissue; a further, unfinished refutation was left in manuscript at his death.",
-   "note_html": "<b>The most contested of the lost prints.</b> Tycho's <i>Apologetica responsio</i> answered John Craig's three critical letters on the 1588 <i>De mundi</i>. Friis and Dreyer both doubted a printed edition ever existed, following Gassendi's claim that it survived only in Longomontanus's manuscript. But Rasmus Bartholin, in <i>De cometis</i> (1665) p. 49, states flatly that he <i>owns a printed copy</i> ('quam impressam habeo Uraniburgi 1591'), expressly to refute Gassendi. So: <b>printed at Uraniborg 1591, then enlarged and reprinted at Wandsbek/Hamburg 1598</b> (the latter confirmed by Tycho's own letter to Scultetus, 7 Jan 1600), all copies dispersed by the mid-17th century. A fragmentary manuscript in Berlin appears to be copied from the printed edition; Copenhagen holds NKS 93b; a third copy, corrected throughout by Tycho, lies among Kepler's papers in St Petersburg (F 285 op. 1 No. 15, fol. 115r–150v). Both printings are entered in the census register; no copy of either is known.",
+   "note_html": "<b>The print whose existence has been most disputed.</b> Tycho's <i>Apologetica responsio</i> answered John Craig's three critical letters on the 1588 <i>De mundi</i>. Friis and Dreyer both doubted a printed edition ever existed, following Gassendi's claim that it survived only in Longomontanus's manuscript. Rasmus Bartholin, in <i>De cometis</i> (1665) p. 49, states that he owns a printed copy ('quam impressam habeo Uraniburgi 1591'), expressly to refute Gassendi &mdash; the witness for a printing at Uraniborg in 1591; Tycho's own letter to Scultetus of 7 January 1600 attests the enlarged reprint at Wandsbek/Hamburg in 1598; all copies were dispersed by the mid-17th century. A fragmentary manuscript in Berlin appears to be copied from the printed edition; Copenhagen holds NKS 93b; a third copy, corrected throughout by Tycho, lies among Kepler's papers in St Petersburg (F 285 op. 1 No. 15, fol. 115r–150v). Both printings are entered in the census register; no copy of either is known.",
    "flags": [
     "lost"
    ],
@@ -826,7 +826,7 @@
    "references": "T. Brahe, Opera omnia IX, pp. 193–230 (ed. Dreyer, 1922). F. R. Friis, Danske Samlinger IV (1868–69), pp. 1–13 (partial; from Friis's 1868 inventory of Cod. Vindob. Lat. 10686). P. Zeeberg, Tycho Brahes »Urania Titani«: Et digt om Sophie Brahe, Renæssancestudier 7 (Copenhagen: Museum Tusculanum, 1994), 320 pp. — first critical edition with complete Danish translation, literary commentary, and the Ove von Späth horoscope reconstructions.",
    "nielsen_census": "No Nielsen number — inedita. Primary MS: Vienna, ÖNB, Cod. Vindob. Lat. 10686/12. Secondary printed text: Resen, Inscriptiones Hafnienses (Copenhagen, 1668). No census of print copies; the 1584 printed poem to Erik Lange has its own entry.",
    "production": "Composed at Uraniborg in winter 1594, before 26 July 1594 — the date of Tycho's covering letter to the Scottish jurist Thomas Craig (TBOO VII.366), which encloses the poem as ‘sororis nomine a me lusam’. Tycho's authorship has been the standard scholarly view since Zeeberg 1994, grounded in Tycho's own claim in that letter, though a minority attribution to Jon Jacobsen Venusin — Gellius Sascerides's brother-in-law, not Gellius himself — is argued in Andersen-Vinilandicus (2009), pp. 225–276, and remains an open question. The Vienna MS (V) carries two layers of autograph correction — hand T (identified as Tycho's) and hand X (unknown) — establishing Tycho's direct involvement with the text regardless of primary authorship.",
-   "note_html": "<b>Tycho's literary magnum opus.</b> At 608 lines in elegiac couplets, <i>Urania Titani</i> is his longest poem — a sustained Ovidian <i>heroide</i> written in Sophie Brahe's voice to her absent beloved Erik Lange, with Tycho appearing as the god Apollo. Written in winter 1594 at Uraniborg, it is the richest surviving window onto the intellectual interior of the island: alchemical longing, astrological symbolism, and the intimate pseudonym-world of the Brahe circle all run through it. Its four embedded horoscopes — of Erik Lange, of Sophie Brahe, of the young Tage Thott, and of Tycho himself, who casts his own nativity in his sister's voice — were reconstructed from the verse by Ove von Späth for Zeeberg's 1994 edition; all four are in <a href=\"../horoscopi/index.html\">Horoscopi</a>. Tycho claims the poem as his own: sending it to the Scottish jurist Thomas Craig on 26 July 1594 he encloses an <i>Epistola Elegiaca ad imitationem Ovidianarum … sororis nomine a me lusam</i> — an elegiac epistle in Ovid's manner, composed by me in my sister's name (TBOO VII.366) — and it is this first-person attestation on which Zeeberg's attribution rests. A minority ascription to Jon Jacobsen Venusin (Andersen-Vinilandicus 2009) remains open. First published in full by Dreyer (TBOO IX, 1922); first critically edited and translated into Danish by Peter Zeeberg (Museum Tusculanum, 1994) — the monograph that opened Tycho Brahe studies as a branch of Danish literary history (<a href=\"../receptio/index.html#recep-zeeberg-urania-titani\">Receptio, 1994</a>).",
+   "note_html": "<b>His longest poem: 608 lines in elegiac couplets.</b> <i>Urania Titani</i> is a sustained Ovidian <i>heroide</i> written in Sophie Brahe's voice to her absent beloved Erik Lange, with Tycho appearing as the god Apollo. Written in winter 1594 at Uraniborg; alchemy, astrological symbolism and the pseudonym-world of the Brahe circle run through it. Its four embedded horoscopes — of Erik Lange, of Sophie Brahe, of the young Tage Thott, and of Tycho himself, who casts his own nativity in his sister's voice — were reconstructed from the verse by Ove von Späth for Zeeberg's 1994 edition; all four are in <a href=\"../horoscopi/index.html\">Horoscopi</a>. Tycho claims the poem as his own: sending it to the Scottish jurist Thomas Craig on 26 July 1594 he encloses an <i>Epistola Elegiaca ad imitationem Ovidianarum … sororis nomine a me lusam</i> — an elegiac epistle in Ovid's manner, composed by me in my sister's name (TBOO VII.366) — and it is this first-person attestation on which Zeeberg's attribution rests. A minority ascription to Jon Jacobsen Venusin (Andersen-Vinilandicus 2009) remains open. First published in full by Dreyer (TBOO IX, 1922); Zeeberg 1994 (Museum Tusculanum) is the first critical edition and Danish translation (<a href=\"../receptio/index.html#recep-zeeberg-urania-titani\">Receptio, 1994</a>).",
    "flags": [
     "inedita",
     "no-ln"
@@ -856,7 +856,7 @@
   "title_genitive": "Theatri Astronomici Opus",
   "title_nominative": "Theatrum astronomicum",
   "tagline": "the work all the rest were fragments of",
-  "intro": "The printings gathered in this chapter were never meant to stand alone. Tycho conceived his entire output as one branded <i>restoration of astronomy</i> (<i>instauratio astronomiae</i>) culminating in a single great work he named, in print and in his own hand, with the genitive formula <b>&#8220;Theatri Astronomici Opus&#8221;</b> &mdash; the Work of the Astronomical Theatre. It was never assembled. What survives are the realized fragments &mdash; and the visible scars of the parts that never came.",
+  "intro": "The printings gathered in this chapter were never meant to stand alone. Each was a part of that one restoration of astronomy (<i>instauratio astronomiae</i>). What survives are the parts realised in print; the rest is documented only as a plan.",
   "structure_note": "The plan had two tiers: an <b>introductory series</b> on &#8220;recent phenomena&#8221; (the 1572 nova, the comets), explicitly a <i>prodromus</i> &mdash; the forerunner that &#8220;prepares the way&#8221; &mdash; and the <b>systematic great work</b>, which Tycho divided in his letter to Caspar Peucer of 13 September 1588 into seven books. The geo-heliocentric cosmology is not a topic inside the opus; it is the organizing principle of the book-division.",
   "tier1": {
    "label": "Tier 1 · The introductory series",
@@ -917,7 +917,7 @@
      "content": "the science of triangles and numbers; the computational shortcuts (prosthaphaeresis) that relieve &#8220;our predecessors' excessive labours&#8221;",
      "status": "manuscript",
      "status_label": "a trigonometry manual survives in MS &mdash; identified here with Book II",
-     "ms": "<i>Triangulorum planorum et sphaericorum praxis arithmetica</i> &mdash; a compendium of 7 plane + 9 spherical triangle-solving rules. Prague codex NK 14 C 20 (in a calligrapher's hand, not Tycho's); Studnička's 1886 facsimile (<i>editio princeps</i>); critical text: TBOO I, pp.&#160;281&ndash;293 (1913), &#8220;<i>quae vivo Tychone edita non est</i>&#8221; (not published in Tycho's lifetime). DSL assigns 1591; surviving recension colophon 19 Nov 1595. Strano &amp; Truffa call Book&#160;II &#8220;without equivalent among Tycho's works&#8221; &mdash; wrongly: a Tycho trigonometry treatise demonstrably survives, and its content answers the Peucer letter's Book&#160;II point for point (triangles, numbers, prosthaphaeretic <i>compendia</i>). The identification of this manuscript with the planned Book&#160;II is the editor's: no earlier author makes the equation, and Tycho nowhere states it. Existence certain (TBOO I); the identification defensible but unattested.",
+     "ms": "<i>Triangulorum planorum et sphaericorum praxis arithmetica</i> &mdash; a compendium of 7 plane + 9 spherical triangle-solving rules. Prague codex NK 14 C 20 (in a calligrapher's hand, not Tycho's); Studnička's 1886 facsimile (<i>editio princeps</i>); critical text: TBOO I, pp.&#160;281&ndash;293 (1913), &#8220;<i>quae vivo Tychone edita non est</i>&#8221; (not published in Tycho's lifetime). DSL assigns 1591; surviving recension colophon 19 Nov 1595. Strano &amp; Truffa call Book&#160;II &#8220;without equivalent among Tycho's works&#8221;; a trigonometry treatise by Tycho survives, and its content answers the Peucer letter's Book&#160;II point for point (triangles, numbers, prosthaphaeretic <i>compendia</i>). The identification of this manuscript with the planned Book&#160;II is the editor's: no earlier author makes the equation, and Tycho nowhere states it. Existence certain (TBOO I); the identification defensible but unattested.",
      "card": null,
      "id": "opus-t2-ii"
     },
@@ -968,10 +968,10 @@
     }
    ]
   },
-  "tally": "Of the seven: <b>two</b> realized (I, IV), <b>two</b> partial (III — 777 stars printed; VI — a Saturn model only), <b>one</b> answered by a surviving manuscript (II — an identification made here by the editor, unattested in the earlier literature), <b>two</b> never written (V, VII). The unified opus was never assembled.",
+  "tally": "Of the seven: <b>two</b> realized (I, IV), <b>two</b> partial (III — 777 stars printed; VI — a Saturn model only), <b>one</b> answered by a surviving manuscript (II — an identification made here by the editor, unattested in the earlier literature), <b>two</b> never written (V, VII).",
   "privilege": {
    "intro": "Tycho did not only plan the opus privately — he advertised it in print and secured imperial protection for it.",
-   "quaternio_note": "The <b>1592 <i>Quaternio Primus</i></b> &mdash; the collective title-leaf and prospectus for the <i>Progymnasmata</i> &mdash; is the documentary keystone joining the two tiers: it declares the whole <i>Progymnasmata</i> to stand <i>Prodromi loco</i> (&#8220;in the place of a forerunner&#8221;) to the greater opus, and bound into it is Rudolf II's printing privilege. Nielsen (&#167;433) knew three witnesses to the 1592 advance issue, and the census of it grades them: <b>Berlin</b>, Staatsbibliothek &mdash; a partial copy, extant, though its WW2 survival is still to be confirmed; <b>Marburg</b>, Hessisches Staatsarchiv &mdash; the title-leaf alone; and the <b>K&ouml;nigsberg</b> working copy &mdash; Tycho's own, corrected throughout in his hand, with twelve blank leaves bound in where the Moon section was still pending &mdash; which the census grades <b>lost</b>: the K&ouml;nigsberg collections were dispersed or destroyed in 1944&ndash;45 and no post-war trace has been found. It is the witness that mattered most, the one object that could have fixed the boundary between what was printed on Hveen and what was completed in Prague.",
+   "quaternio_note": "The <b>1592 <i>Quaternio Primus</i></b> &mdash; the collective title-leaf and prospectus for the <i>Progymnasmata</i> &mdash; is the document that joins the two tiers: it declares the whole <i>Progymnasmata</i> to stand <i>Prodromi loco</i> (&#8220;in the place of a forerunner&#8221;) to the greater opus, and bound into it is Rudolf II's printing privilege. Nielsen (&#167;433) knew three witnesses to the 1592 advance issue, and the census of it grades them: <b>Berlin</b>, Staatsbibliothek &mdash; a partial copy, extant, though its WW2 survival is still to be confirmed; <b>Marburg</b>, Hessisches Staatsarchiv &mdash; the title-leaf alone; and the <b>K&ouml;nigsberg</b> working copy &mdash; Tycho's own, corrected throughout in his hand, with twelve blank leaves bound in where the Moon section was still pending &mdash; which the census grades <b>lost</b>: the K&ouml;nigsberg collections were dispersed or destroyed in 1944&ndash;45 and no post-war trace has been found. It is the one witness that could fix the boundary between what was printed on Hven and what was completed in Prague.",
    "diploma": {
     "label": "The Diploma Caesareum · 13 June 1590",
     "source": "Rudolf II to Tycho Brahe · signed by the Emperor, countersigned Curtius and Barvitius",
@@ -1012,7 +1012,7 @@
    "disambig": "Not to be confused with Longomontanus's <i>Introductio in Theatrum Astronomicum</i> (Copenhagen, 1639) — a different book by Tycho's former assistant, in which <i>theatrum</i> means the literal new Copenhagen observatory (the Round Tower). A 47-years-later coincidence of idiom."
   },
   "evolution": {
-   "label": "A moving target",
+   "label": "The three states of the plan, 1588–1598",
    "intro": "The architecture was never fixed. The record preserves three successive states of it &#8212; 1588, 1592, 1598 &#8212; and across them Tycho twice re-cut the boundary between the &#8220;recent phenomena&#8221; volumes and the systematic books.",
    "steps": [
     {
@@ -1048,9 +1048,9 @@
     "sequence_note": "He set a sequencing rule: issue first the material needing no long delay &mdash; &#8220;what is contained in the <b>first four or five books</b>&#8221; &mdash; and leave the planetary Books VI&ndash;VII, needing the most new observation, for last."
    },
    "verdict": {
-    "label": "Beyond reach in principle",
-    "events": "The five-year estimate was overtaken by events: loss of royal favour, departure from Hven on 29 April 1597, years in exile, and death at Prague on <b>24 October 1601</b> &mdash; seven years past the deadline he had set himself, the opus still unassembled.",
-    "scholarly": "Modern scholarship judges the failure not merely biographical. Kepler found the Mars orbit irreducible to <i>either</i> Ptolemaic theory <i>or</i> Tycho&#8217;s proposed geo-heliocentric replacement: an eight-arcminute residual remained that Tycho&#8217;s framework could not account for. Completing the opus required a <b>physical, causal</b> approach to planetary motion.",
+    "label": "Why it was not finished",
+    "events": "The five-year estimate was overtaken by events: loss of royal favour, departure from Hven on {departure_date}, years in exile, and death at Prague on <b>24 October 1601</b> &mdash; seven years past the deadline he had set himself, the opus still unassembled.",
+    "scholarly": "Voelkel (2001) places the obstacle in the Mars theory: Kepler found an eight-arcminute residual that neither Ptolemaic theory nor Tycho&#8217;s geo-heliocentric replacement could account for. Completing the opus required a <b>physical, causal</b> approach to planetary motion.",
     "irony": "That approach was Kepler&#8217;s own &mdash; and Tycho <b>disapproved</b> of it (Voelkel, <i>The Composition of Kepler&#8217;s Astronomia Nova</i>, Princeton 2001). The opus could only be finished by a method its author had rejected."
    }
   },
@@ -1067,7 +1067,7 @@
     },
     {
      "year": "1609&ndash;27",
-     "text": "The logs yield the <i>Astronomia Nova</i> (1609) &mdash; the elliptical orbit and the equal-areas law. The <i>Tabulae Rudolphinae</i> follow (1627): Tycho's own title, honouring Rudolf II, but built on heliocentric-elliptical principles. Tycho himself had &#8220;negotiated a deal whereby he would publish his planetary theories under the name of the Rudolphine Tables and Kepler would help him&#8221; (Thoren) &mdash; the title he planned, the physics he rejected."
+     "text": "The logs yield the <i>Astronomia Nova</i> (1609) &mdash; the elliptical orbit and the equal-areas law. The <i>Tabulae Rudolphinae</i> follow (1627): Tycho's own title, honouring Rudolf II, but built on heliocentric-elliptical principles. Tycho himself had &#8220;negotiated a deal whereby he would publish his planetary theories under the name of the Rudolphine Tables and Kepler would help him&#8221; (Thoren)."
     },
     {
      "year": "1655&ndash;66",
@@ -1092,7 +1092,7 @@
    "S_NIELSEN_BT"
   ]
  },
- "version": "2.9",
+ "version": "2.10",
  "edition_date": "2026-10-27",
  "period_vocabulary": [
   {
@@ -1876,7 +1876,7 @@
   {
    "id": "des-mechanica-db-collation",
    "title": "The Mechanica's collation in the Dansk Bibliografi",
-   "text": "The formula in DB 432 as transcribed for this chapter — ):(:(⁴ A⁴ B⁴–F⁴ G⁸ H⁴ — sums to 40 leaves against the 42 the entry states; Nielsen 1921 (p. 205) gives ):(⁴ A⁶ B⁴–F⁴ G⁶ H⁶, which sums, and is followed here. Whether the DB entry itself or the house transcription carries the error should be checked on the page image.",
+   "text": "The formula in DB 432 as transcribed for this chapter — ):(:(⁴ A⁴ B⁴–F⁴ G⁸ H⁴ — sums to 40 leaves against the 42 the entry states; Nielsen 1921 (p. 205) gives ):(⁴ A⁶ B⁴–F⁴ G⁶ H⁶, which sums, and is followed here. Whether the DB entry itself or the transcription made for this chapter carries the error should be checked on the page image.",
    "sources": [
     "S_NIELSEN_DB",
     "S_NIELSEN_BT"
@@ -1921,7 +1921,7 @@
   {
    "id": "des-prague-inserted-leaf",
    "title": "The inserted leaf in the Prague University copy of the Epistolae",
-   "text": "Nielsen (1921, p. 201 n. 4) records in the Prague University Library copy an inserted leaf 'Tabulae conversionum graduum …' marked 'Post fol. 108', not printed at Uraniborg. No house store records it; the copy's census entry should.",
+   "text": "Nielsen (1921, p. 201 n. 4) records in the Prague University Library copy an inserted leaf 'Tabulae conversionum graduum …' marked 'Post fol. 108', not printed at Uraniborg. This register does not record it; the copy's census entry should.",
    "sources": [
     "S_NIELSEN_BT"
    ]
@@ -1948,7 +1948,7 @@
   {
    "id": "des-legacy-copies",
    "title": "Five copy records to disposition in the censuses",
-   "text": "The retired hand-picked copy list carried five records the censuses do not hold or hold differently: a Mechanica 1598 at Prague under the shelfmark AG XI 56 (the Strahov Hasenburg copy is Hasselberg 23); the Pruskovský copy placed at Křivoklát where the census has the Národní muzeum; a Copenhagen 1592 Progymnasmata title-leaf; a De mundi 1603 at the Library of Congress; three Epistolae 1610 at the Royal Danish Library. Each is filed as a census proposal, not silently dropped.",
+   "text": "Five copies recorded in the literature are not yet in the censuses, or stand there differently: a Mechanica 1598 at Prague under the shelfmark AG XI 56 (the Strahov Hasenburg copy is Hasselberg 23); the Pruskovský copy placed at Křivoklát where the census has the Národní muzeum; a Copenhagen 1592 Progymnasmata title-leaf; a De mundi 1603 at the Library of Congress; three Epistolae 1610 at the Royal Danish Library. Each is proposed to its census.",
    "sources": [
     "S_NIELSEN_BT"
    ]

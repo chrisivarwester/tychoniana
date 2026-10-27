@@ -1,6 +1,6 @@
 {
  "key": "brahe-tycho",
- "version": "1.21",
+ "version": "1.23",
  "edition_date": "2026-10-27",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
@@ -183,7 +183,7 @@
     "Brandisium"
    ],
    "country_modern": "Czech Republic",
-   "region_note": "Imperial hunting-lodge on the Elbe, administrative seat of the Benátky-Brandeis crown estates. Tycho datelined a letter here 20 August 1599 (n.s.) and inspected the castle, but declined it as a residence — see the phantom register (see the phantom register).",
+   "region_note": "Imperial hunting-lodge on the Elbe, administrative seat of the Benátky-Brandeis crown estates. Tycho datelined a letter here 20 August 1599 (n.s.) and inspected the castle, but declined it as a residence — see the register of refuted claims (§9).",
    "lat": 50.1868,
    "lon": 14.6646,
    "geocode": {
@@ -246,12 +246,12 @@
     "patria"
    ],
    "country_modern": "Denmark",
-   "region_note": "Region-blob cluster holding imprecisely-located stays ('in patria', presence in Denmark between journeys) where Gassendi and Joensson name no residence.",
+   "region_note": "Region record holding imprecisely-located stays ('in patria', presence in Denmark between journeys) where Gassendi and Joensson name no residence.",
    "lat": null,
    "lon": null,
    "geocode": {
     "source": "unresolved",
-    "note": "Region blob: holds imprecisely-located stays; no pin by design."
+    "note": "Region record: holds imprecisely-located stays. No coordinate: the source names a region, not a locality."
    },
    "type": "other",
    "cluster": "Danish realm (other)",
@@ -265,12 +265,12 @@
     "faedrelandet"
    ],
    "country_modern": "Denmark",
-   "region_note": "Region-blob cluster for home periods attested without a named seat ('faedrelandet').",
+   "region_note": "Region record for home periods attested without a named seat ('faedrelandet').",
    "lat": null,
    "lon": null,
    "geocode": {
     "source": "unresolved",
-    "note": "Region blob: holds imprecisely-located stays; no pin by design."
+    "note": "Region record: holds imprecisely-located stays. No coordinate: the source names a region, not a locality."
    },
    "type": "other",
    "cluster": "Danish realm (other)",
@@ -282,12 +282,12 @@
    "name_modern": "Denmark (residence unspecified)",
    "names_period": [],
    "country_modern": "Denmark",
-   "region_note": "Region-blob cluster: Christianson 2000 says only 'home from Germany' without naming the residence.",
+   "region_note": "Region record: Christianson 2000 says only 'home from Germany' without naming the residence.",
    "lat": null,
    "lon": null,
    "geocode": {
     "source": "unresolved",
-    "note": "Region blob: holds imprecisely-located stays; no pin by design."
+    "note": "Region record: holds imprecisely-located stays. No coordinate: the source names a region, not a locality."
    },
    "type": "other",
    "cluster": "Danish realm (other)",
@@ -299,12 +299,12 @@
    "name_modern": "Denmark (place unspecified)",
    "names_period": [],
    "country_modern": "Denmark",
-   "region_note": "Region-blob cluster: Dreyer attests presence in the native country without naming a locality.",
+   "region_note": "Region record: Dreyer attests presence in the native country without naming a locality.",
    "lat": null,
    "lon": null,
    "geocode": {
     "source": "unresolved",
-    "note": "Region blob: holds imprecisely-located stays; no pin by design."
+    "note": "Region record: holds imprecisely-located stays. No coordinate: the source names a region, not a locality."
    },
    "type": "other",
    "cluster": "Danish realm (other)",
@@ -318,7 +318,7 @@
     "Doberan"
    ],
    "country_modern": "Germany",
-   "region_note": "Mecklenburg; the fief pledged for Tycho's loan to the young dukes; probable stop on the westward road from Rostock, September 1597. The claimed loan-delivery journey is a phantom (see the phantom register).",
+   "region_note": "Mecklenburg; the fief pledged for Tycho's loan to the young dukes; probable stop on the westward road from Rostock, September 1597. The claimed loan-delivery journey is a phantom (see the register of refuted claims, §9).",
    "lat": 54.1069,
    "lon": 11.905,
    "geocode": {
@@ -377,7 +377,7 @@
     "Frankfurt am Main"
    ],
    "country_modern": "Germany",
-   "region_note": "Book-fair city, visited on the 1575 journey; thereafter Tycho worked the fairs only through agents and catalogues — the recurring fair-attendance claim is a phantom (see the phantom register).",
+   "region_note": "Book-fair city, visited on the 1575 journey; thereafter Tycho worked the fairs only through agents and catalogues — the recurring fair-attendance claim is a phantom (see the register of refuted claims, §9).",
    "lat": 50.1109,
    "lon": 8.6821,
    "geocode": {
@@ -626,7 +626,7 @@
     "Tuna"
    ],
    "country_modern": "Sweden",
-   "region_note": "Island in the Øresund, Danish until 1658; Tycho's lifetime fief 1576–97 and the seat of Uraniborg, Stjerneborg, the printing house and the paper mill (all carried as separate sites, not places). He never returned after 1597 (see the phantom register).",
+   "region_note": "Island in the Øresund, Danish until 1658; Tycho's lifetime fief 1576–97 and the seat of Uraniborg, Stjerneborg, the printing house and the paper mill (all carried as separate sites, not places). He never returned after 1597 (see the register of refuted claims, §9).",
    "lat": 55.906,
    "lon": 12.6945,
    "geocode": {
@@ -635,7 +635,62 @@
    },
    "type": "island",
    "cluster": "Zealand & the Sound",
-   "grade": "A"
+   "grade": "A",
+   "description": "The island of Hven (Swedish Ven) in the Øresund, granted to Tycho as a fief by Frederik II on 23 May 1576 — rent-free for as long as he lived and continued his mathematical studies, with 400 daler from the treasury toward a house he was to build on the island (Tycho himself supplying the stone and lime; Kancelliets Brevbøger 1576–79 p. 59). Today part of Sweden (Landskrona kommun). In his own words, “The island itself is very high, as if it were a mountain which you might ascend, but on top it is flat all over”; it lies in the Sound “which divides Scania from Sealand,” with Copenhagen three miles to the south-west, and its “latitude from the equator is 55°54½′, as measured several times by us with the greatest care” (Mechanica, trans. Ræder, Strömgren & Strömgren 1946, pp. 138–139). Tycho's two decades on Hven were also a hard landlordship. He held the island's tenants to heavy labour-service on Uraniborg and its works, and his disputes with them — and with the Crown over their grievances — run through the record: a royal letter of 1587 and another of 1592 document the friction, the latter in the matter of his tenant Rasmus Pedersen of Gundsømagle, whom Tycho had barred from a farm and had imprisoned, the King directing that the suit be heard before the landsdommer Lauge Beck (Becker, Danske Magazin 3. R. IV–V). Even from his Wandsbek exile Tycho went on managing the island at a distance — a Danish letter of 28 May 1598 thanks the Lord High Steward Christoffer Valkendorf for backing his bailiff against the 'disobedient peasants' there (Epistolarium: Tycho to Christoffer Valkendorf, 28 May 1598). The tenants' grievances were among the grounds on which Tycho lost royal favour and, in 1597, the fief itself. The chancery records document the friction in detail: as early as 1578 the Crown forbade Hven's tenants to move off the island without Tycho's leave 'medens han bygger der paa Landet' (KB 1576–79 p. 334); on the tenants' complaint of intolerable labour-service the King sent Arild Ugerup and Axel Gyldenstierne to Hven (20 August 1580), whose report produced the formal 'Ordning og Skik mellem Tyge Brahe og Bønderne paa Hven' of 8 January 1581 — two days' labour-service a week per half-farm, the tenants' claimed freeholder (jordegne) status revoked, and Hven's court cases moved to the Skaane landsting (KB 1580–83 pp. 128–129, 200-201). Tycho's Crown income beyond Hven was itself a knot of fiefs: Kullegaarden on the Kullen peninsula in Skaane (granted 1577), which carried the duty of keeping the Kullen lighthouse 'i Stand og lade den blusse den sædvanlige Tid' and, as Tycho successfully argued in 1579, supplied the firewood for Uraniborg (KB 1576–79 pp. 230, 249, 765; 1580–83 pp. 294–295); the prebend of the Helligtrekongers Kapel in Roskilde Cathedral (held 1579–1597, with jus patronatus over Udbye parish); the Norwegian fief of Nordfjord (1578), exchanged in 1586 for 400 daler yearly from the Øresund toll; and a royal pension terminated in 1581 once the fiefs sufficed. The end came together: a fresh royal commission investigated the tenants' renewed grievances on 9 April 1597, and in June 1597 the Roskilde prebend passed to Chancellor Christen Friis 'saaledes som Tyge Brahe hidtil har haft det' (KB 1596–1602 pp. 113, 168, 170) in the same weeks Tycho gave up Hven. The island passed in 1602 to a new lensmand, Cort Barleben, on ordinary commercial terms (50 daler the first year, 100 thereafter), by which time the buildings were reported 'meget forfalden' (KB 1596–1602 pp. 739, 746). In metric terms Hven lies 27 km from Copenhagen, 15 km from Elsinore and from Helsingborg and 9 km from Landskrona; the island is 4.5 km long and roughly 2.5 km wide, its highest point 45 m above the sea (Hadravová, Hadrava & Shackelford 1996, nn. 282–283). Tycho's own figures: a circumference of 8,160 passus maiores, latitude 55°54½′, longitude 36°45′; the Rudolphine Tables later made Hven the prime meridian and gave its latitude as 55°55′ (n. 284).",
+   "dimensions": "highest in the middle and flat on top; latitude 55°54½′ (Tycho's own determination); circumference 8160 passus (Mechanica 1946, pp. 138–139)",
+   "blaeu": {
+    "opening_dutch": "Tusschen Zeelandt en Schonen legt in de Sond een klijn Eylandt, genomende Hven, ofte Venusia, só genaamt van Tycho Brahe, die daer meer als tweentwintig jaren over de Stelkunde heeft gearbeyt.",
+    "opening_english": "Between Zealand and Scania lies in the Sound a small island, called Hven, or Venusia, so named by Tycho Brahe, who laboured there for more than twenty-two years over astronomy.",
+    "citation": "Joan Blaeu, Grooten Atlas oft Werelt-beschryving (Amsterdam, 1664), p. 174. Universiteitsbibliotheek Utrecht, AC 62 Rariora."
+   },
+   "links": [
+    {
+     "label": "Braun & Hogenberg, Topographia Insulæ Huenæ (Cologne 1586), hand-coloured, framed — M/S Museet for Søfart 1958:0142",
+     "url": "https://samlinger.slks.dk/samlinger/d68837d0-4d53-4ec9-814a-17fd2956a84a",
+     "kind": "record"
+    },
+    {
+     "label": "Blaeu, Insula Hvæna sive Venusia, double page from the Atlas maior, hand-coloured — M/S Museet for Søfart 1949:0106",
+     "url": "https://samlinger.slks.dk/samlinger/3f9671ca-b68c-4ce3-8d3d-e2f725fb4d83",
+     "kind": "record"
+    },
+    {
+     "label": "C. Sepp's reduced copy of Blaeu's map of Hven, c. 1700 — M/S Museet for Søfart 1954:0483",
+     "url": "https://samlinger.slks.dk/samlinger/e366c750-e5a3-49e2-bbe1-1b66358dbe26",
+     "kind": "record"
+    },
+    {
+     "label": "Braun & Hogenberg, Freti Danici or Sondt accuratissima delineatio, with 'Uraniburgum' on Hven — Museerne Helsingør HM02142",
+     "url": "https://samlinger.slks.dk/samlinger/0cd94ee6-db22-40d8-bf4b-80c7b4fa7630",
+     "kind": "record"
+    },
+    {
+     "label": "Braun & Hogenberg, Freti Danici ØreSondt accuratissima delineatio, framed — Museerne Helsingør HM03646",
+     "url": "https://samlinger.slks.dk/samlinger/81b4fac4-0b30-4a10-a5b5-be88d0a53d9c",
+     "kind": "record"
+    },
+    {
+     "label": "Georg Christian Schule, Ansicht des Sundes (1807), with Hven and Uraniborg — formerly M/S Museet for Søfart 1951:0075, since 2016 Museerne Helsingør",
+     "url": "https://samlinger.slks.dk/samlinger/c442b629-1d25-4561-91c1-a15e83d559ba",
+     "kind": "record"
+    },
+    {
+     "label": "Braun & Hogenberg's map of Hven (1586), a second coloured impression with the verso text — Museum Sønderjylland 07160X00007",
+     "url": "https://samlinger.slks.dk/samlinger/3b5b3b8d-4474-460b-8634-18d7ff292efe",
+     "kind": "record"
+    },
+    {
+     "label": "A 17th-century drawn and coloured copy of Blaeu's map of Hven, 'Insulæ Hvennæ Topographia' — Statens Museum for Kunst KKSgb38481",
+     "url": "https://samlinger.slks.dk/samlinger/b606dc7c-a902-4610-9abc-a4eb6f5f2472",
+     "kind": "record"
+    },
+    {
+     "label": "Its key, 'Notarum Explicatio: A. Arx Oraniburgum, B. Stelleburgum …' — Statens Museum for Kunst KKSgb38482",
+     "url": "https://samlinger.slks.dk/samlinger/8ba3e79d-89c2-4553-8a27-b9d8d82757f1",
+     "kind": "record"
+    }
+   ],
+   "today": "The Tycho Brahe Museum on Ven, centred on the excavated and reconstructed crypts of Stjerneborg and the foundations of Uraniborg, with a recreated Renaissance garden, is where the establishment can be seen."
   },
   {
    "id": "place-ibstrup",
@@ -706,12 +761,12 @@
     "Judtland"
    ],
    "country_modern": "Denmark",
-   "region_note": "Region-blob cluster: the diary names no town for the June 1595 journey.",
+   "region_note": "Region record: the diary names no town for the June 1595 journey.",
    "lat": null,
    "lon": null,
    "geocode": {
     "source": "unresolved",
-    "note": "Region blob: holds imprecisely-located stays; no pin by design."
+    "note": "Region record: holds imprecisely-located stays. No coordinate: the source names a region, not a locality."
    },
    "type": "other",
    "cluster": "Danish realm (other)",
@@ -747,7 +802,7 @@
     "in Hassiam"
    ],
    "country_modern": "Germany",
-   "region_note": "Court and balcony observatory of Landgrave Wilhelm IV of Hesse-Kassel, visited at Easter 1575; Tycho never returned — the later collaboration ran by correspondence and emissaries (see the phantom register).",
+   "region_note": "Court and balcony observatory of Landgrave Wilhelm IV of Hesse-Kassel, visited at Easter 1575; Tycho never returned — the later collaboration ran by correspondence and emissaries (see the register of refuted claims, §9).",
    "lat": 51.3127,
    "lon": 9.4797,
    "geocode": {
@@ -812,7 +867,7 @@
     "Kronborg"
    ],
    "country_modern": "Denmark",
-   "region_note": "Sound-toll town opposite Hven; Kronborg was Frederick II's new fortress whose craftsmen milieu also served Uraniborg. Bodily presence at the castle itself is disputed — the Danish-context sources find no documented visit (see the phantom register).",
+   "region_note": "Sound-toll town opposite Hven; Kronborg was Frederick II's new fortress whose craftsmen milieu also served Uraniborg. Bodily presence at the castle itself is disputed — the Danish-context sources find no documented visit (see the register of refuted claims, §9).",
    "lat": 56.039,
    "lon": 12.621,
    "geocode": {
@@ -834,7 +889,7 @@
     "Lygtegaarden paa Kulden"
    ],
    "country_modern": "Sweden",
-   "region_note": "Crown farm carrying the Kullen sea-light, held by Tycho with the lighthouse duty. The chancery record documents the holding richly but never his bodily presence; the two stay-claims rest on commission orders whose execution is undocumented (see the phantom register). In then-Danish Scania (Danish until 1658).",
+   "region_note": "Crown farm carrying the Kullen sea-light, held by Tycho with the lighthouse duty. The chancery record documents the holding richly but never his bodily presence; the two stay-claims rest on commission orders whose execution is undocumented (see the register of refuted claims, §9). In then-Danish Scania (Danish until 1658).",
    "lat": 56.3004,
    "lon": 12.4611,
    "geocode": {
@@ -893,7 +948,7 @@
     "Lipsia"
    ],
    "country_modern": "Germany",
-   "region_note": "Electoral Saxon university city of the first study tour (1562–65), nominally for law. The claimed second journey of November 1565 is a phantom (see the phantom register).",
+   "region_note": "Electoral Saxon university city of the first study tour (1562–65), nominally for law. The claimed second journey of November 1565 is a phantom (see the register of refuted claims, §9).",
    "lat": 51.3397,
    "lon": 12.3731,
    "geocode": {
@@ -969,7 +1024,7 @@
     "Magdeburg"
    ],
    "country_modern": "Germany",
-   "region_note": "Elbe city and Tycho's instrument depot 1598–1600. He was bodily here in October 1598, when the travel plan changed and the household turned back; the later winter-1599–1600 and 1600-transport presence claims are phantoms (see the phantom register).",
+   "region_note": "Elbe city and Tycho's instrument depot 1598–1600. He was bodily here in October 1598, when the travel plan changed and the household turned back; the later winter-1599–1600 and 1600-transport presence claims are phantoms (see the register of refuted claims, §9).",
    "lat": 52.13,
    "lon": 11.63,
    "geocode": {
@@ -1029,7 +1084,7 @@
     "Nürnberg"
    ],
    "country_modern": "Germany",
-   "region_note": "Imperial free city and centre of the German clock and instrument trade, passed on the 1575 journey. The visit to the Walther/Regiomontanus observing balcony is only Christianson's inference (see the phantom register).",
+   "region_note": "Imperial free city and centre of the German clock and instrument trade, passed on the 1575 journey. The visit to the Walther/Regiomontanus observing balcony is only Christianson's inference (see the register of refuted claims, §9).",
    "lat": 49.4511,
    "lon": 11.0784,
    "geocode": {
@@ -1188,7 +1243,7 @@
     "Roeskilde"
    ],
    "country_modern": "Denmark",
-   "region_note": "Cathedral city; seat of Tycho's prebend of the Chapel of the Three Holy Kings from 1579. The chancery sweep never documents him bodily in Roskilde — chapel business ran by letter and bailiff (see the phantom register); the stays rest on the biographical sources.",
+   "region_note": "Cathedral city; seat of Tycho's prebend of the Chapel of the Three Holy Kings from 1579. The chancery sweep never documents him bodily in Roskilde — chapel business ran by letter and bailiff (see the register of refuted claims, §9); the stays rest on the biographical sources.",
    "lat": 55.6415,
    "lon": 12.0803,
    "geocode": {
@@ -1247,12 +1302,12 @@
     "Skaane"
    ],
    "country_modern": "Sweden",
-   "region_note": "Region-blob cluster: the 1570–71 sickbed winter, Dreyer's 'very frequent trips' from Hven, and the January 1597 journey, all without a named seat. In then-Danish Scania (Danish until 1658).",
+   "region_note": "Region record: the 1570–71 sickbed winter, Dreyer's 'very frequent trips' from Hven, and the January 1597 journey, all without a named seat. In then-Danish Scania (Danish until 1658).",
    "lat": null,
    "lon": null,
    "geocode": {
     "source": "unresolved",
-    "note": "Region blob: holds imprecisely-located stays; no pin by design."
+    "note": "Region record: holds imprecisely-located stays. No coordinate: the source names a region, not a locality."
    },
    "type": "other",
    "cluster": "Scania",
@@ -1306,7 +1361,7 @@
     "Tagalycka"
    ],
    "country_modern": "Sweden",
-   "region_note": "Manor of the widow Margrethe Gagge, plague refuge of Kirsten Jørgensdatter and Magdalene 1576–77. Tycho's own presence is undocumented, and he was explicitly absent at the birth and death of the infant Claus (see the phantom register). In then-Danish Scania (Danish until 1658).",
+   "region_note": "Manor of the widow Margrethe Gagge, plague refuge of Kirsten Jørgensdatter and Magdalene 1576–77. Tycho's own presence is undocumented, and he was explicitly absent at the birth and death of the infant Claus (see the register of refuted claims, §9). In then-Danish Scania (Danish until 1658).",
    "lat": null,
    "lon": null,
    "geocode": {
@@ -1386,7 +1441,7 @@
     "Venedig"
    ],
    "country_modern": "Italy",
-   "region_note": "The southernmost point Tycho ever reached, on the 1575 journey; its aristocratic-academy sociability shaped the Uraniborg ideal. The late-career Venetian relocation claim is a phantom (see the phantom register).",
+   "region_note": "The southernmost point Tycho ever reached, on the 1575 journey; its aristocratic-academy sociability shaped the Uraniborg ideal. The late-career Venetian relocation claim is a phantom (see the register of refuted claims, §9).",
    "lat": 45.4408,
    "lon": 12.3155,
    "geocode": {
@@ -1470,7 +1525,7 @@
     "Vitebergae"
    ],
    "country_modern": "Germany",
-   "region_note": "Electoral Saxon university town: the five-month stay of 1566 (without matriculation) and the 236-day plague-refuge sojourn of October 1598 — 14 June 1599, lodging in Melanchthon's former house, then occupied by Johannes Jessenius. The claimed 1568 pass-through is a phantom (see the phantom register).",
+   "region_note": "Electoral Saxon university town: the five-month stay of 1566 (without matriculation) and the 236-day plague-refuge sojourn of October 1598 — 14 June 1599, lodging in Melanchthon's former house, then occupied by Johannes Jessenius. The claimed 1568 pass-through is a phantom (see the register of refuted claims, §9).",
    "lat": 51.8662,
    "lon": 12.6471,
    "geocode": {
@@ -1489,12 +1544,12 @@
     "Insula Zelandia"
    ],
    "country_modern": "Denmark",
-   "region_note": "Region-blob cluster: Gassendi's account of the early-1576 royal summons, 'seu Hafniae, seu ubivis in Insula Zelandia'.",
+   "region_note": "Region record: Gassendi's account of the early-1576 royal summons, 'seu Hafniae, seu ubivis in Insula Zelandia'.",
    "lat": null,
    "lon": null,
    "geocode": {
     "source": "unresolved",
-    "note": "Region blob: the king's summons of early 1576 left the meeting-place open; no pin by design."
+    "note": "Region record: the king's summons of early 1576 left the meeting-place open. No coordinate: the source names a region, not a locality."
    },
    "type": "other",
    "cluster": "Zealand & the Sound",
@@ -4620,7 +4675,7 @@
     "social-visit",
     "books-printing"
    ],
-   "narrative": "Tycho attended the Regensburg festivities for the coronation of Rudolf of Habsburg as King of the Romans, performed with great solemnity on 1 November 1575 — his first bodily crossing of the path of the prince who would become his last patron. He had hoped to find Landgrave Wilhelm, who alone among the German princes did not come; instead he met the imperial physician Thaddaeus Hagecius, and in a few days the two formed a lifelong bond: Hagecius gave him his Dialexis on the new star, Munosius's Spanish tract, and — a most precious gift — a manuscript of Copernicus's unprinted Commentariolus, which Tycho later circulated to German astronomers, reciprocating with du Chesne's new book from Frankfurt. Hugo Blotius and Gemperlin were in the company; a manuscript De directionum significationibus he examined with Hagecius here was still on his mind in 1585 (TBOO VI, 95). Soon after the coronation he started for home to prepare the intended spring emigration.",
+   "narrative": "Tycho attended the Regensburg festivities for the coronation of Rudolf of Habsburg as King of the Romans, performed with great solemnity on 1 November 1575 — his first bodily crossing of the path of the prince who would become his last patron. He had hoped to find Landgrave Wilhelm, who alone among the German princes did not come; instead he met the imperial physician Thaddaeus Hagecius, and in a few days the two formed a lifelong bond: Hagecius gave him his Dialexis on the new star, Offusius's De divina astrorum facultate (Paris 1570), and — a most precious gift — a manuscript of Copernicus's unprinted Commentariolus, which Tycho later circulated to German astronomers, reciprocating with du Chesne's new book from Frankfurt. Hugo Blotius and Gemperlin were in the company; a manuscript De directionum significationibus he examined with Hagecius here was still on his mind in 1585 (TBOO VI, 95). Soon after the coronation he started for home to prepare the intended spring emigration.",
    "people": [
     {
      "name": "Rudolf II",
@@ -4629,7 +4684,7 @@
     },
     {
      "name": "Thaddaeus Hagecius (Tadeáš Hájek)",
-     "role": "imperial physician; gave the Commentariolus manuscript, his Dialexis and Munosius's tract; lifelong correspondent and later broker of the Prague patronage",
+     "role": "imperial physician; gave the Commentariolus manuscript, his Dialexis and Offusius's De divina astrorum facultate; lifelong correspondent and later broker of the Prague patronage",
      "familia": "COR_THADDAEUS_HAGECIUS"
     },
     {
@@ -4653,7 +4708,7 @@
     "books": [
      "Copernicus, Commentariolus (manuscript, gift of Hagecius)",
      "Hagecius, Dialexis (gift)",
-     "Munosius's tract on the new star (gift)"
+     "Offusius, De divina astrorum facultate (Paris 1570) (gift of Hagecius; lost from the library by 1588)"
     ]
    },
    "evidence": [
@@ -4714,6 +4769,12 @@
      "pages": "p. 242 (n. 93: Hagecius 1576)",
      "quote": "Hagecius had received Raimondo's latest irritation in Regensburg on October 9, 1575 — where he met Tycho Brahe for the first time",
      "note": "The day of the first meeting, taken from the Responsio's dating of the receipt of Raimondo's tract; the Responsio has not been read for the passage, so the day stands as Westman's statement."
+    },
+    {
+     "source": "S_LOCI_TBOO3",
+     "pages": "p. 80",
+     "quote": "Munosij Scriptum nobis nondum inspicere licuit",
+     "note": "Tycho never received Muñoz's tract: he was still asking Hagecius for ‘MUNOSI libellum’ on 22 March 1589 and 23 February 1590 (TBOO VII 165, 224), Hagecius had only his own copy and no translator (11 June 1590, VII 251), and Tycho dropped the request on 3 August 1590 (VII 270). Gassendi 1655 p. 30 and Friis 1871 made it a Regensburg gift; the record lost it on 27 October 2026 (register dossier §17-01)."
     }
    ],
    "grade": "A",
@@ -5399,7 +5460,7 @@
     },
     {
      "source": "S_LOCI_SEED",
-     "pages": "site record #site-hven, #site-uraniborg, #site-stjerneborg",
+     "pages": "gazetteer record #place-hven; site records #site-uraniborg, #site-stjerneborg",
      "quote": "granted to Tycho as a fief by Frederik II on 23 May 1576 — rent-free for as long as he lived and continued his mathematical studies"
     },
     {
@@ -5488,7 +5549,7 @@
     }
    ],
    "grade": "C",
-   "disputes": "Thoren and Jönsson name the refuge as Vasby up the coast (Jönsson: son Klaus born at Vasby 2 January 1577, memorial in Vasby church) and record no bodily presence of Tycho there; Christianson 2020 names Tagalycka and implies only the escorting visit. Presence is C-grade inference; the explicit absence at the January 1577 birth is recorded in the phantom register."
+   "disputes": "Thoren and Jönsson name the refuge as Vasby up the coast (Jönsson: son Klaus born at Vasby 2 January 1577, memorial in Vasby church) and record no bodily presence of Tycho there; Christianson 2020 names Tagalycka and implies only the escorting visit. Presence is C-grade inference; the explicit absence at the January 1577 birth is recorded in the register of refuted claims (§9)."
   },
   {
    "id": "stay-copenhagen-1576",
@@ -11092,11 +11153,11 @@
     }
    ],
    "grade": "D",
-   "disputes": "Single passing mention, internally inconsistent with the same source's Copenhagen claim, uncorroborated in any other source — removed from the stays to the phantom register.",
+   "disputes": "Single passing mention, internally inconsistent with the same source's Copenhagen claim, uncorroborated in any other source — removed from the stays to the register of refuted claims (§9).",
    "verdict": "disputed",
    "id": "nv-soro-schooling",
    "label": "Sorø (the claimed Latin-school years, 1559–62)",
-   "narrative": "Asserted only by an earlier compilation of the album leaves, which gives Sorø and Copenhagen identical 1559–62 date-ranges in the same sentence — an internal duplication betraying compression or conflation. No other source places Tycho at Sorø in these years; all ten sources for the period put him at the University of Copenhagen. Recorded in the phantom register rather than as a stay; if a Sorø schooling tradition exists it belongs, undated, to the pre-1559 period."
+   "narrative": "Asserted only by an earlier compilation of the album leaves, which gives Sorø and Copenhagen identical 1559–62 date-ranges in the same sentence — an internal duplication betraying compression or conflation. No other source places Tycho at Sorø in these years; all ten sources for the period put him at the University of Copenhagen. Recorded in the register of refuted claims (§9) rather than as a stay; if a Sorø schooling tradition exists it belongs, undated, to the pre-1559 period."
   },
   {
    "id": "nv-alexandria",
@@ -11821,7 +11882,7 @@
    "lon": 14.823,
    "claim": "Rudolf II visited Tycho at Benátky.",
    "verdict": "disputed",
-   "narrative": "An entrance was prepared for the emperor, who reserved an adjoining house — but 'whether Rudolph ever came to Benatky while Tycho was there is not known, and it is not likely', the court sitting out the plague at Pilsen through the winter of 1599–1600. The prepared apartments are evidence of hope, not of a visit; the claim stays in the phantom register until positive evidence appears.",
+   "narrative": "An entrance was prepared for the emperor, who reserved an adjoining house — but 'whether Rudolph ever came to Benatky while Tycho was there is not known, and it is not likely', the court sitting out the plague at Pilsen through the winter of 1599–1600. The prepared apartments are evidence of hope, not of a visit; the claim stays in the register of refuted claims (§9) until positive evidence appears.",
    "evidence": [
     {
      "source": "S_LOCI_DREYER",
@@ -11972,7 +12033,7 @@
    "lon": 12.5683,
    "claim": "Tycho attended Christian IV's wedding to Anne Catherine of Brandenburg.",
    "verdict": "never-visited",
-   "narrative": "Tycho was in exile at Wandsburg. Viceroy Rantzau planned to attend, while Tycho sent him travel-health advice and instructions on what to answer if his return to Denmark were raised at court. He met the bride's parents only afterwards, at Bramstedt on 22 December 1597, as the Brandenburg delegation travelled home. His having never again set foot on Danish soil after 2 June 1597 (see the phantom register) independently excludes attendance.",
+   "narrative": "Tycho was in exile at Wandsburg. Viceroy Rantzau planned to attend, while Tycho sent him travel-health advice and instructions on what to answer if his return to Denmark were raised at court. He met the bride's parents only afterwards, at Bramstedt on 22 December 1597, as the Brandenburg delegation travelled home. His having never again set foot on Danish soil after 2 June 1597 (see the register of refuted claims, §9) independently excludes attendance.",
    "evidence": [
     {
      "source": "S_LOCI_BJORKLUND",
@@ -12007,107 +12068,11 @@
  ],
  "sites": [
   {
-   "id": "site-hven",
-   "label": "Hven (Ven) — the island fief",
-   "date": "1576–1597",
-   "year_start": 1576,
-   "year_end": 1597,
-   "status": "extant",
-   "grade": "A",
-   "lat": 55.907,
-   "lon": 12.696,
-   "description": "The island of Hven (Swedish Ven) in the Øresund, granted to Tycho as a fief by Frederik II on 23 May 1576 — rent-free for as long as he lived and continued his mathematical studies, with 400 daler from the treasury toward a house he was to build on the island (Tycho himself supplying the stone and lime; Kancelliets Brevbøger 1576–79 p. 59). Today part of Sweden (Landskrona kommun). In his own words, “The island itself is very high, as if it were a mountain which you might ascend, but on top it is flat all over”; it lies in the Sound “which divides Scania from Sealand,” with Copenhagen three miles to the south-west, and its “latitude from the equator is 55°54½′, as measured several times by us with the greatest care” (Mechanica, trans. Ræder, Strömgren & Strömgren 1946, pp. 138–139). Tycho's two decades on Hven were also a hard landlordship. He held the island's tenants to heavy labour-service on Uraniborg and its works, and his disputes with them — and with the Crown over their grievances — run through the record: a royal letter of 1587 and another of 1592 document the friction, the latter in the matter of his tenant Rasmus Pedersen of Gundsømagle, whom Tycho had barred from a farm and had imprisoned, the King directing that the suit be heard before the landsdommer Lauge Beck (Becker, Danske Magazin 3. R. IV–V). Even from his Wandsbek exile Tycho went on managing the island at a distance — a Danish letter of 28 May 1598 thanks the Lord High Steward Christoffer Valkendorf for backing his bailiff against the 'disobedient peasants' there (Epistolarium: Tycho to Christoffer Valkendorf, 28 May 1598). The tenants' grievances were among the grounds on which Tycho lost royal favour and, in 1597, the fief itself. The chancery records document the friction in detail: as early as 1578 the Crown forbade Hven's tenants to move off the island without Tycho's leave 'medens han bygger der paa Landet' (KB 1576–79 p. 334); on the tenants' complaint of intolerable labour-service the King sent Arild Ugerup and Axel Gyldenstierne to Hven (20 August 1580), whose report produced the formal 'Ordning og Skik mellem Tyge Brahe og Bønderne paa Hven' of 8 January 1581 — two days' labour-service a week per half-farm, the tenants' claimed freeholder (jordegne) status revoked, and Hven's court cases moved to the Skaane landsting (KB 1580–83 pp. 128–129, 200-201). Tycho's Crown income beyond Hven was itself a knot of fiefs: Kullegaarden on the Kullen peninsula in Skaane (granted 1577), which carried the duty of keeping the Kullen lighthouse 'i Stand og lade den blusse den sædvanlige Tid' and, as Tycho successfully argued in 1579, supplied the firewood for Uraniborg (KB 1576–79 pp. 230, 249, 765; 1580–83 pp. 294–295); the prebend of the Helligtrekongers Kapel in Roskilde Cathedral (held 1579–1597, with jus patronatus over Udbye parish); the Norwegian fief of Nordfjord (1578), exchanged in 1586 for 400 daler yearly from the Øresund toll; and a royal pension terminated in 1581 once the fiefs sufficed. The end came together: a fresh royal commission investigated the tenants' renewed grievances on 9 April 1597, and in June 1597 the Roskilde prebend passed to Chancellor Christen Friis 'saaledes som Tyge Brahe hidtil har haft det' (KB 1596–1602 pp. 113, 168, 170) in the same weeks Tycho gave up Hven. The island passed in 1602 to a new lensmand, Cort Barleben, on ordinary commercial terms (50 daler the first year, 100 thereafter), by which time the buildings were reported 'meget forfalden' (KB 1596–1602 pp. 739, 746). In metric terms Hven lies 27 km from Copenhagen, 15 km from Elsinore and from Helsingborg and 9 km from Landskrona; the island is 4.5 km long and roughly 2.5 km wide, its highest point 45 m above the sea (Hadravová, Hadrava & Shackelford 1996, nn. 282–283). Tycho's own figures: a circumference of 8,160 passus maiores, latitude 55°54½′, longitude 36°45′; the Rudolphine Tables later made Hven the prime meridian and gave its latitude as 55°55′ (n. 284).",
-   "edges": [
-    [
-     "location_of",
-     "site-uraniborg"
-    ],
-    [
-     "location_of",
-     "site-stjerneborg"
-    ],
-    [
-     "location_of",
-     "site-printing-house"
-    ],
-    [
-     "location_of",
-     "site-paper-mill"
-    ],
-    [
-     "location_of",
-     "site-museum"
-    ]
-   ],
-   "sources": [
-    "S_LOCI_CHRISTIANSON",
-    "S_LOCI_BIOGENC",
-    "S_LOCI_AIM1946",
-    "S_LOCI_BECKER_DM",
-    "S_LOCI_AIM1996",
-    "S_LOCI_SLKS"
-   ],
-   "blaeu": {
-    "opening_dutch": "Tusschen Zeelandt en Schonen legt in de Sond een klijn Eylandt, genomende Hven, ofte Venusia, só genaamt van Tycho Brahe, die daer meer als tweentwintig jaren over de Stelkunde heeft gearbeyt.",
-    "opening_english": "Between Zealand and Scania lies in the Sound a small island, called Hven, or Venusia, so named by Tycho Brahe, who laboured there for more than twenty-two years over astronomy.",
-    "citation": "Joan Blaeu, Grooten Atlas oft Werelt-beschryving (Amsterdam, 1664), p. 174. Universiteitsbibliotheek Utrecht, AC 62 Rariora."
-   },
-   "dimensions": "highest in the middle and flat on top; latitude 55°54½′ (Tycho's own determination); circumference 8160 passus (Mechanica 1946, pp. 138–139)",
-   "place": "place-hven",
-   "links": [
-    {
-     "label": "Braun & Hogenberg, Topographia Insulæ Huenæ (Cologne 1586), hand-coloured, framed — M/S Museet for Søfart 1958:0142",
-     "url": "https://samlinger.slks.dk/samlinger/d68837d0-4d53-4ec9-814a-17fd2956a84a",
-     "kind": "record"
-    },
-    {
-     "label": "Blaeu, Insula Hvæna sive Venusia, double page from the Atlas maior, hand-coloured — M/S Museet for Søfart 1949:0106",
-     "url": "https://samlinger.slks.dk/samlinger/3f9671ca-b68c-4ce3-8d3d-e2f725fb4d83",
-     "kind": "record"
-    },
-    {
-     "label": "C. Sepp's reduced copy of Blaeu's map of Hven, c. 1700 — M/S Museet for Søfart 1954:0483",
-     "url": "https://samlinger.slks.dk/samlinger/e366c750-e5a3-49e2-bbe1-1b66358dbe26",
-     "kind": "record"
-    },
-    {
-     "label": "Braun & Hogenberg, Freti Danici or Sondt accuratissima delineatio, with 'Uraniburgum' on Hven — Museerne Helsingør HM02142",
-     "url": "https://samlinger.slks.dk/samlinger/0cd94ee6-db22-40d8-bf4b-80c7b4fa7630",
-     "kind": "record"
-    },
-    {
-     "label": "Braun & Hogenberg, Freti Danici ØreSondt accuratissima delineatio, framed — Museerne Helsingør HM03646",
-     "url": "https://samlinger.slks.dk/samlinger/81b4fac4-0b30-4a10-a5b5-be88d0a53d9c",
-     "kind": "record"
-    },
-    {
-     "label": "Georg Christian Schule, Ansicht des Sundes (1807), with Hven and Uraniborg — formerly M/S Museet for Søfart 1951:0075, since 2016 Museerne Helsingør",
-     "url": "https://samlinger.slks.dk/samlinger/c442b629-1d25-4561-91c1-a15e83d559ba",
-     "kind": "record"
-    },
-    {
-     "label": "Braun & Hogenberg's map of Hven (1586), a second coloured impression with the verso text — Museum Sønderjylland 07160X00007",
-     "url": "https://samlinger.slks.dk/samlinger/3b5b3b8d-4474-460b-8634-18d7ff292efe",
-     "kind": "record"
-    },
-    {
-     "label": "A 17th-century drawn and coloured copy of Blaeu's map of Hven, 'Insulæ Hvennæ Topographia' — Statens Museum for Kunst KKSgb38481",
-     "url": "https://samlinger.slks.dk/samlinger/b606dc7c-a902-4610-9abc-a4eb6f5f2472",
-     "kind": "record"
-    },
-    {
-     "label": "Its key, 'Notarum Explicatio: A. Arx Oraniburgum, B. Stelleburgum …' — Statens Museum for Kunst KKSgb38482",
-     "url": "https://samlinger.slks.dk/samlinger/8ba3e79d-89c2-4553-8a27-b9d8d82757f1",
-     "kind": "record"
-    }
-   ]
-  },
-  {
    "id": "site-uraniborg",
-   "label": "Uraniborg — the castle of the heavens",
+   "label": "Uraniborg — Tycho's house and observatory, 1576–1597",
    "date": "1576–1580",
    "year_start": 1576,
-   "year_end": 1601,
+   "year_end": 1597,
    "status": "ruined",
    "grade": "A",
    "lat": 55.9076,
@@ -12332,10 +12297,10 @@
   },
   {
    "id": "site-stjerneborg",
-   "label": "Stjerneborg — the star castle",
+   "label": "Stjerneborg — the sunken observatory (1584)",
    "date": "1584",
    "year_start": 1584,
-   "year_end": 1601,
+   "year_end": 1597,
    "status": "reconstructed",
    "grade": "A",
    "lat": 55.907,
@@ -12632,30 +12597,6 @@
     }
    ],
    "attested_by": "Attested in royal chancery records — the rag-privilege of 2 March 1592 and the demolition order of 26 June 1602 (Kancelliets Brevbøger) — and in Tycho's correspondence with Hájek; the site was excavated 1933–34."
-  },
-  {
-   "id": "site-museum",
-   "label": "Tycho Brahe Museum & the Stjerneborg reconstruction",
-   "date": "20th–21st c.",
-   "year_start": 1950,
-   "year_end": 2025,
-   "status": "extant",
-   "grade": "A",
-   "lat": 55.9069,
-   "lon": 12.6967,
-   "description": "The modern Tycho Brahe Museum on Ven, centred on the excavated and reconstructed crypts of Stjerneborg and the foundations of Uraniborg, with a recreated Renaissance garden — the principal place where Tycho's establishment can be seen today.",
-   "edges": [],
-   "sources": [
-    "S_LOCI_BIOGENC"
-   ],
-   "place": "place-hven",
-   "links": [
-    {
-     "label": "Tycho Brahe-museet, Ven (Landskrona stad) — visitor information",
-     "url": "https://ilandskrona.se/besoka/ven/tycho-brahe-museet/",
-     "kind": "institution"
-    }
-   ]
   },
   {
    "id": "site-belvedere",
@@ -13303,8 +13244,8 @@
   {
    "id": "S_LOCI_DEBUNKED_REGISTER",
    "label": "This chapter's register of refuted claims (unpublished)",
-   "full": "The register of claims about Tycho that research has overturned, kept by this chapter; consulted before every verdict in the phantom register so that a refutation is stated once. Not yet published.",
-   "contributes": "The standing register of overturned claims, consulted before every phantom-register verdict so a refutation is stated once and not re-derived."
+   "full": "The register of claims about Tycho that research has overturned, kept by this chapter; consulted before every verdict in the register of refuted claims so that a refutation is stated once. Not yet published.",
+   "contributes": "The standing register of overturned claims, consulted before every verdict in the register of refuted claims so a refutation is stated once and not re-derived."
   },
   {
    "id": "S_LOCI_",
@@ -13498,5 +13439,6 @@
    "url_label": "full scan at the Internet Archive",
    "contributes": "The count of the books bound and stamped T.B.O. 1576 — 'a total of 33 books' in the thirteen Prague volumes of Kleinschnitzová nos. 15, 19, 21, 22, 26, 27, 28, 29, 34, 35, 39, 40, 43 — read as the harvest of the journey of 1575–76, 'probably' at Frankfurt."
   }
- ]
+ ],
+ "_master_step5_applied": true
 }
