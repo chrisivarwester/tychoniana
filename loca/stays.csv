@@ -1,18 +1,20 @@
 record_key,date_start,date_end,date_precision,span,place,region,country_modern,lat,lon,period,purposes,evidence_grade,people,citations,dispute
-stay-knutstorp-1546,1546-12-14,1548,circa,c. 14 December 1546 – 1548,Knutstorp,Scania,Sweden,55.9400,13.0900,Childhood in Scania and Zealand,family,A,4,15,yes
-stay-tostrup-1548,1548,1559-04,circa,c. 1548 – April 1559,Tosterup,Scania,Sweden,55.5500,13.9700,Childhood in Scania and Zealand,"family, education",B,3,6,yes
-stay-naesbyhoved-1549,1549,1552,year,1549 – 1552,Næsbyhoved,Danish realm (other),Denmark,55.4180,10.3680,Childhood in Scania and Zealand,family,C,2,1,no
-stay-vordingborg-1552,1552,1557,range-uncertain,1552 – 1557 (bounds uncertain),Vordingborg,Zealand & the Sound,Denmark,55.0080,11.9100,Childhood in Scania and Zealand,"family, education",B,2,5,yes
-stay-nykobing-falster-1557,1557,1559-04,range-uncertain,1557 – April 1559 (bounds uncertain),Nykøbing Falster,Danish realm (other),Denmark,54.7691,11.8743,Childhood in Scania and Zealand,family,C,2,1,yes
-stay-copenhagen-1559,1559-04-19,1562-02-14,day,19 April 1559 – 14 February 1562,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,Student at Copenhagen,"education, observation, books & printing",A,8,14,yes
-stay-wittenberg-1562,1562-02,1562-03,month,February 1562 – March 1562,Wittenberg,German lands,Germany,51.8662,12.6471,Leipzig with Vedel,in transit,B,1,2,no
-stay-leipzig-1562,1562-03-24,1565-05-17,day,24 March 1562 – 17 May 1565,Leipzig,German lands,Germany,51.3397,12.3731,Leipzig with Vedel,"education, observation, instruments, books & printing",A,9,13,yes
-stay-copenhagen-1565,1565-05,1565-06,circa,c. May 1565 – June 1565,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,The Wanderjahre,"in transit, family",B,2,3,yes
+stay-knutstorp-1546,1546-12-14,1548,circa,c. 14 December 1546 – 1548,Knutstorp,Scania,Sweden,55.9400,13.0900,Childhood in Scania and Zealand,family,A,4,19,yes
+stay-tostrup-1548,1548,1559-04,circa,c. 1548 – April 1559,Tosterup,Scania,Sweden,55.5500,13.9700,Childhood in Scania and Zealand,"family, education",B,3,11,yes
+stay-tranekaer-1548,1548,1549,range-uncertain,1548 – 1549 (bounds uncertain),Tranekær,Danish realm (other),Denmark,54.9622,10.8567,Childhood in Scania and Zealand,family,C,2,4,yes
+stay-naesbyhoved-1549,1549-04,1552-07,range-uncertain,April 1549 – July 1552 (bounds uncertain),Odense (the Odense len),Danish realm (other),Denmark,55.4006,10.3876,Childhood in Scania and Zealand,family,C,2,5,yes
+stay-vordingborg-1552,1552-07,1557,range-uncertain,July 1552 – 1557 (bounds uncertain),Vordingborg,Zealand & the Sound,Denmark,55.0080,11.9100,Childhood in Scania and Zealand,"family, education",B,2,10,yes
+stay-nykobing-falster-1557,1555,1559-04,range-uncertain,1555 – April 1559 (bounds uncertain),Nykøbing Falster,Danish realm (other),Denmark,54.7691,11.8743,Childhood in Scania and Zealand,family,C,2,6,yes
+stay-copenhagen-1559,1559-04-19,1562-02-14,day,19 April 1559 – 14 February 1562,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,Student at Copenhagen,"education, observation, books & printing",A,8,16,yes
+stay-wittenberg-1562,1562-02,1562-03,month,February 1562 – March 1562,Wittenberg,German lands,Germany,51.8662,12.6471,Leipzig with Vedel,in transit,C,1,4,yes
+stay-leipzig-1562,1562-03-24,1565-05-17,day,24 March 1562 – 17 May 1565,Leipzig,German lands,Germany,51.3397,12.3731,Leipzig with Vedel,"education, observation, instruments, books & printing",A,9,18,yes
+stay-copenhagen-1565,1565-05,1565-06,circa,c. May 1565 – June 1565,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,The Wanderjahre,"in transit, family",B,2,6,yes
 stay-wittenberg-1565,1565-05,1565-05,month,May 1565,Wittenberg,German lands,Germany,51.8662,12.6471,The Wanderjahre,"in transit, social visit",B,3,5,yes
-stay-rostock-1565,1565-05-25,1565-05,day,25 May 1565 (departure within the month),Rostock,German lands,Germany,54.0889,12.1400,The Wanderjahre,in transit,A,1,6,no
-stay-helsingborg-1565,1565-06,1565-06,circa,c. June 1565,Helsingborg,Scania,Sweden,56.0465,12.6945,The Wanderjahre,"observation, in transit",B,0,2,no
-stay-knutstorp-1565,1565-06,1566-04,circa,c. June 1565 – April 1566,Knutstorp,Scania,Sweden,55.9400,13.0900,The Wanderjahre,"family, property",B,8,8,yes
-stay-malmo-1565,1565-06,1565-06,circa,c. June 1565,Malmö,Scania,Sweden,55.6050,13.0000,The Wanderjahre,"observation, in transit",B,0,2,no
+stay-rostock-1565,1565-05-25,1565-05,day,25 May 1565 (departure within the month),Rostock,German lands,Germany,54.0889,12.1400,The Wanderjahre,in transit,A,1,6,yes
+stay-helsingborg-1565,1565-06,1565-06,circa,c. June 1565,Helsingborg,Scania,Sweden,56.0465,12.6945,The Wanderjahre,"observation, in transit",C,0,4,yes
+stay-knutstorp-1565,1565-06,1566-04,range-uncertain,June 1565 – April 1566 (bounds uncertain),Knutstorp,Scania,Sweden,55.9400,13.0900,The Wanderjahre,"family, property",B,8,11,yes
+stay-malmo-1565,1565-06,1565-06,circa,c. June 1565,Malmö,Scania,Sweden,55.6050,13.0000,The Wanderjahre,"observation, in transit",C,0,3,yes
+stay-aalborghus-1565,1565-07,1566-04,range-uncertain,July 1565 – April 1566 (bounds uncertain),Aalborghus,Danish realm (other),Denmark,57.0500,9.9200,The Wanderjahre,family,B,4,7,yes
 stay-wittenberg-1566,1566-04-15,1566-09-16,day,15 April 1566 – 16 September 1566,Wittenberg,German lands,Germany,51.8662,12.6471,The Wanderjahre,education,A,4,10,yes
 stay-rostock-1566,1566-09-24,1567,day,24 September 1566 – 1567,Rostock,German lands,Germany,54.0889,12.1400,The Wanderjahre,"education, observation, alchemy & medicine",A,8,10,yes
 stay-copenhagen-1567,1567,1567,circa,c. 1567,Copenhagen,Zealand & the Sound,Denmark,55.6761,12.5683,The Wanderjahre,"education, court & patronage, social visit",C,1,1,yes

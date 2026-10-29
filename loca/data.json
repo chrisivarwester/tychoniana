@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.23",
- "edition_date": "2026-10-27",
+ "version": "1.24",
+ "edition_date": "2026-10-29",
  "title": "Loca Tychonis — every place in Tycho Brahe's life, from Knutstorp to the Týn church",
  "periods": [
   {
@@ -10,7 +10,7 @@
    "date": "1546–1559",
    "year_start": 1546,
    "year_end": 1559,
-   "description": "From his birth at Knutstorp on 14 December 1546 to his dispatch to the University of Copenhagen in April 1559, Tycho's childhood was shaped by his abduction, aged about one, by his childless paternal uncle Jørgen Brahe, who with his wife Inger Oxe raised the boy at his ancestral seat of Tostrup in eastern Scania and at the royal castles he successively commanded — Næsbyhoved on Funen, Vordingborg on Zealand, Nykøbing on Falster. Latin instruction began about his seventh year; whether it came from a private tutor in the uncle's house or at a grammar school (Vordingborg is only a modern presumption) is unresolved, and is the period's one genuinely soft spot."
+   "description": "From his birth at Knutstorp on 14 December 1546 — recorded in his father's own memorandum — to his dispatch to the University of Copenhagen on 19 April 1559, Tycho's childhood is the least documented stretch of his life: between the birth and the Copenhagen date no record places him anywhere. Taken 'in infancy' by his childless paternal uncle Jørgen Brahe (the conventional c. 1548 is an inference from his brother Steen's birth at Gladsaxehus on 21 December 1547), he was raised, every biographer agrees and none can show, by Jørgen and Inger Oxe at their seat of Tosterup in eastern Scania and, presumably, at the royal fiefs Jørgen held in succession — Tranekær on Langeland to 1549, the Odense len 1549–52, Vordingborg 1552–57, Nykøbing on Falster from 1555 — a frame the fief register and the chancery document year by year for the uncle, never for the boy. Latin instruction began 'about my seventh year'; whether at a school or from masters in the house, and where, is unresolved: the Vordingborg Latin school is a museum essay's presumption with four rivals, held in the register of refuted claims."
   },
   {
    "id": "per-2",
@@ -18,7 +18,7 @@
    "date": "1559–1562",
    "year_start": 1559,
    "year_end": 1562,
-   "description": "Tycho's first university period: nearly three years at the University of Copenhagen, from his arrival on 19 April 1559, aged twelve, to his departure for Leipzig on 14 February 1562. Sent by his uncle and foster-father Jørgen Brahe to read rhetoric and philosophy towards a career in law and statecraft, he followed the Melanchthonian curriculum while quietly assembling his first astronomical library — Sacrobosco, the Basel 1551 Ptolemy, Apian, Regiomontanus, the ephemerides of Carelli and Stadius. The famous story that the predicted solar eclipse of 21 August 1560 awakened his vocation is Gassendi's tradition, rejected by Norlind; the book purchases are the documented fact. Danish dates are Julian throughout."
+   "description": "Tycho's first university period: nearly three years at the University of Copenhagen, from his arrival on 19 April 1559, aged twelve, to his departure for Leipzig on 14 February 1562 — both dates from the Stephanius sheet, the single chain behind every day-date of the student years. Sent by his uncle and foster-father Jørgen Brahe to read rhetoric and philosophy towards a career in law and statecraft, he followed the Melanchthonian curriculum while quietly assembling his first astronomical library — Sacrobosco, Apian, Regiomontanus (the volume stamped 'Anno 1561', the only one dated before he left Denmark), the ephemerides of Carelli and Stadius; the Basel Ptolemy bought on the last day of November 1560 was Pratensis's purchase, not his. The famous story that the predicted solar eclipse of 21 August 1560 awakened his vocation is Gassendi's tradition, rejected by Norlind; the book purchases are the documented fact. Danish dates are Julian throughout."
   },
   {
    "id": "per-3",
@@ -78,7 +78,7 @@
     "Aalborghus"
    ],
    "country_modern": "Denmark",
-   "region_note": "Otto Brahe's seat as governor (lensmand) of north Jutland; a childhood station attested by a single source.",
+   "region_note": "Otte Brahe's seat as lensmand of Aalborghus, 1555–67 (lensbrev May 1555; styled 'Embedsmand paa Olborghus' in every chancery year 1556–65, about thirty-five entries in 1565 alone, the last on 31 December). The birth family's home when Tycho came back from Leipzig in 1565: Christianson 2020 and Ellefsen 2023 have him live with his parents here, Thoren has him 'probably' with his father.",
    "lat": 57.05,
    "lon": 9.92,
    "geocode": {
@@ -87,7 +87,7 @@
    },
    "type": "castle-manor",
    "cluster": "Danish realm (other)",
-   "grade": "C"
+   "grade": "B"
   },
   {
    "id": "place-augsburg",
@@ -1058,18 +1058,22 @@
   },
   {
    "id": "place-naesbyhoved",
-   "label": "Næsbyhoved",
-   "name_modern": "Næsbyhoved Castle (site), Odense, Funen",
+   "label": "Odense (the Odense len)",
+   "name_modern": "Odense: the Odensegård len — the old St Hans Kloster (Odense Slot) in the town; Næsbyhoved castle, burnt in 1534 and never rebuilt, lies 3 km to the north",
    "names_period": [
-    "Naesbyhoved"
+    "Næsbyhoved",
+    "Nesbyhofuit Len",
+    "Odensegaard",
+    "Odensegård",
+    "Odense"
    ],
    "country_modern": "Denmark",
-   "region_note": "Royal fief on Funen commanded by Jørgen Brahe 1549–52; a station of Tycho's early childhood in the foster household (Thoren only).",
-   "lat": 55.418,
-   "lon": 10.368,
+   "region_note": "The stift-len of Funen that Jørgen Brahe held from 2 April 1549 (genant; Rugård's lensbrev 28 June 1549) to 18 July 1552, when Jørgen Skinkel took over 'Nesbyhofuit Len og under S. Hans Kloster i Odense ... som Jørgen Brade hidtil har haft i Værge'. The chancery calls him 'Embedsmand i Odense' (25 June 1551) and arranges him a lodging 'der i Byen' (14 April 1552): the seat was the town, not the ruined castle. Thoren's 'Næsbyhoved Castle' is the len's older name.",
+   "lat": 55.4006,
+   "lon": 10.3876,
    "geocode": {
-    "source": "agent-knowledge",
-    "note": "No coordinate vote in input; approximate pin on the Næsbyhoved castle mound north of Odense."
+    "source": "editor",
+    "note": "Odense Slot (the former St Hans Kloster), the seat of the Odensegård len; the earlier pin stood on the Næsbyhoved ruin 3 km north."
    },
    "type": "castle-manor",
    "cluster": "Danish realm (other)",
@@ -1554,6 +1558,26 @@
    "type": "other",
    "cluster": "Zealand & the Sound",
    "grade": "C"
+  },
+  {
+   "id": "place-tranekaer",
+   "label": "Tranekær",
+   "name_modern": "Tranekær Castle (Tranekær Slot), Langeland",
+   "names_period": [
+    "Tranekær",
+    "Tranekjær"
+   ],
+   "country_modern": "Denmark",
+   "region_note": "The royal castle on Langeland that Jørgen Brahe held as lensmand from 18 June 1542 to 1549 (Erslev) — the only fief he held when he took the infant Tycho from his parents c. 1548. No source places the boy there; Håkansson says Jørgen himself was mostly there in Tycho's earliest years.",
+   "lat": 54.9622,
+   "lon": 10.8567,
+   "geocode": {
+    "source": "editor",
+    "note": "Tranekær Slot, Langeland."
+   },
+   "type": "castle-manor",
+   "cluster": "Danish realm (other)",
+   "grade": "C"
   }
  ],
  "stays": [
@@ -1568,7 +1592,7 @@
    "purposes": [
     "birth-family"
    ],
-   "narrative": "Tycho Brahe was born at his family's ancestral seat of Knutstorp in Scania on 14 December 1546, between nine and ten in the morning by his father Otte Brahe's own memorandum; the Stephanius notes, copied from Tycho's lost self-horoscope, give 10:47 a.m. The firstborn of twins — his brother was stillborn, later the subject of his first publication (1572) — he was baptised Tyge after his paternal grandfather, Latinising the name at university. Norlind and Thoren place the birth in the medieval manor that preceded the moated brick castle Otte built from 1551. He remained with his parents Otte Brahe and Beate Bille only until about mid-1548, when, after the birth of his brother Steen (21 December 1547), his childless uncle Jørgen Brahe carried him off, 'without the knowledge of my parents', to raise as his own. Knutstorp remained his lifelong territorial designation.",
+   "narrative": "Tycho Brahe was born at Knutstorp on 14 December 1546 'between nine and ten in the day' — the record is his father Otte Brahe's own memorandum of his children's births, which puts this birth, and those of Lisbeth, Maren (15 May 1549), Axel (1550) and Margrethe (1551), 'po Knustrop', and only Steen's, on St Thomas's day before Yule 1547 (21 December), 'po Glaxass'; the Stephanius notes, copied from Tycho's lost self-horoscope, give 10:47 a.m. The firstborn of twins — his brother was stillborn, the subject of his first publication (1572) — he was baptised Tyge after his paternal grandfather. Knutstorp was the family seat, rebuilt by Otte from 1551, but not the household's only address: Otte held the royal fief of Gladsaxe in eastern Scania from 11 November 1544 to 1555, and Steen's birth there shows the family at Gladsaxehus in December 1547. The infant was taken from his parents by his childless uncle Jørgen Brahe 'without their knowledge' — Tycho's own words say only 'in infantiâ abreptus'; no record gives the date or the place, and the customary 'about one year old, c. 1548' is an inference from Steen's birth and Gassendi's account that the uncle, refused the child, had him carried off once a second son was born. Knutstorp remained his lifelong territorial designation.",
    "people": [
     {
      "name": "Otte Brahe",
@@ -1667,10 +1691,32 @@
      "pages": "scan p. 287 n.",
      "quote": "sto ferdig rundt 1551, men ombyggingen kan ha vaert paabegynt da Tycho ble fodt",
      "note": "the 1551 castle and the medieval predecessor manor"
+    },
+    {
+     "source": "S_LOCI_FRIIS1871",
+     "pages": "Bilag 1 (scan p. 323) — Otte Brahe's memorandum",
+     "quote": "bleff ... ffed om dagen melom IX och X po Knwstrop",
+     "note": "Otte Brahe's own record of the birth; Steen 'po Glaxass' on St Thomas's day before Yule 1547; Maren at Knutstorp 15 May 1549"
+    },
+    {
+     "source": "S_LOCI_MECHANICA1598",
+     "pages": "TBOO V 106 (Raeder/Strömgren 1946 p. 106)",
+     "quote": "a Patruo prænominato Parentibus ipsis insciis in infantiâ abreptus",
+     "note": "Tycho's only words on the abduction: no age, no place"
+    },
+    {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Gladsaxe entry (p. 7); Otte Brahe",
+     "note": "Otte Brahe lensmand of Gladsaxe from 11 November 1544 (forleningsbrev 26 September 1544) to 1555, when Bjørn Saxtrup followed; Knutstorp rebuilt 1551 (DBL)"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Otte Brahe – rigsråd",
+     "note": "Gladsax 1544–55, Aalborghus 1555–67, Helsingborg 1567–71; Knutstorp rebuilt 1551"
     }
    ],
    "grade": "A",
-   "disputes": "Birth date: Gassendi canvasses 13/14/15/19 December 1546; Norlind pp. 11–12 rejects Gassendi's 19 Dec (mis-derived Tuesday) and Jessenius' funeral-oration 15 Dec — 14 December o.s., fixed by Otte Brahe's memorandum, followed (unanimous modern). Hour: the memorandum has 'between 9 and 10'; the Stephanius horoscope notes and Gassendi have 10:47 a.m. — both recorded, not harmonised. Abduction timing: Thoren has mid-1548 (middle of the second year, after Steen was past infancy dangers); Christianson 2020, Friis and Jönsson link it to after Steen's birth at about age one; Norlind commits only to 'before his seventh year' — c. 1548 followed (Thoren/Christianson). Birth building: Norlind and Thoren argue the medieval manor, not the 1551 castle of the later tradition."
+   "disputes": "Hour of birth: Otte's memorandum 'between nine and ten' against the Stephanius/Gassendi 10:47 a.m. — both preserved. Day: Norlind rejects Gassendi's variants (13/15/19 December) and Jessenius's 15th; Tycho himself sometimes wrote 13 December, counting the astronomical day from noon. The abduction: Tycho gives no age and no place ('in infantiâ abreptus', Mechanica 1598); Gassendi (p. 3) has the uncle ask, be refused, and act once Steen was born; 'about one year old' is Friis's 'maaskee', 'c. mid-1548' Thoren's, 'about eighteen months' Ellefsen's — all inference from Steen's birth-date, and Morsing wrongly credits Tycho with 'a year old'. The story that Otte had promised Jørgen his firstborn (Dreyer p. 12, Friis pp. 3–4) is in neither Tycho nor Gassendi and cites no record. Where the child was between birth and abduction — Knutstorp or his father's fief at Gladsaxehus — is undocumented either way (see the register of refuted claims, Gladsaxehus); the end-date 1548 of this stay is the abduction's conventional year, not a sighting."
   },
   {
    "id": "stay-tostrup-1548",
@@ -1683,7 +1729,7 @@
     "birth-family",
     "education"
    ],
-   "narrative": "The fostered boyhood was based at Jørgen Brahe's ancestral seat of Tostrup in eastern Scania, where the childless Jørgen and Inger Oxe raised him as their only charge, with visits to Knutstorp to see his birth parents. From about his seventh year (c. 1553) he was put to Latin and the rudiments of learning — Dreyer and Friis with a private tutor (Hovmester) in the uncle's house, five years of schooling above all in Latin, in which he was soon writing letters and verse. Against the Brahe military tradition, Jørgen intended him for learned studies and a chancery career, and paid for his education until age eighteen. Friis, Norlind and Jönsson all hedge the Tostrup placement as inference from Jørgen's fief-holding; Thoren states it plainly. The stay, interleaved with residence at Jørgen's successive royal fiefs, closed when the boy was sent to the University of Copenhagen in April 1559.",
+   "narrative": "The fostered boyhood is placed by every biographer at Jørgen Brahe's seat of Tosterup in eastern Scania, where the childless Jørgen and Inger Oxe raised him as their only charge — and no record places him there, or anywhere, between the abduction and his arrival at Copenhagen on 19 April 1559. Tycho never names a house, castle or town for these years; Thoren concedes 'we know little about Tyge's early youth, not even where he was raised', Christianson that why he grew up at Tosterup 'is still unclear'; Friis ('rimeligviis'), Norlind ('om det nu var hit han fördes') and Jönsson ('bör ha') hedge. What is documented is Jørgen's own standing: he 'wrote himself to Tostrup' in the chancery's citation of 8 February 1560 and was granted two oaks from Höjby forest 'til Bygningstømmer' there the same year; his years were also spent at the royal fiefs he held in succession — Tranekær on Langeland to 1549, the Odense len 1549–52, Vordingborg 1552–57, Nykøbing on Falster from 1555 — and Håkansson has him 'mostly at Tranekær' in Tycho's earliest years. Of the schooling Tycho says only that his uncle put him 'to the Latin school about my seventh year' ('circa annum ætatis septimum scholæ latinæ adhibitus sim'); the private masters 'summoned to the house' for five years are Gassendi's, the 'Hovmester' Friis's inference ('altsaa'), the Vordingborg Latin school a museum essay's 'formodentlig' — see the register of refuted claims. Jørgen intended him for learned studies and a chancery career and supported him, Tycho says, 'as long as he lived, until my eighteenth year'. The stay closed when the boy was sent to the University of Copenhagen in April 1559.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -1730,22 +1776,101 @@
      "source": "S_LOCI_THOREN",
      "pages": "p. 8",
      "quote": "it was the only life Tyge would know until he started school at about the age of seven"
+    },
+    {
+     "source": "S_LOCI_MECHANICA1598",
+     "pages": "TBOO V 106 (Raeder/Strömgren 1946 p. 106)",
+     "quote": "in infantiâ abreptus, ab eo circa annum ætatis septimum scholæ latinæ adhibitus sim",
+     "note": "No place named for the upbringing or the school; the uncle 'liberaliter aluit quoad vixit, usque in ætatis meæ annum decimum octavum'"
+    },
+    {
+     "source": "S_LOCI_KB_BREVBOGER",
+     "pages": "Kancelliets Brevbøger 1556–60, pp. 359, 369",
+     "quote": "Jørgen Brade til Thostrup og Otte Brade til Knudstrop, Embedsmænd paa Nyekiøpping og Aalborg",
+     "note": "Citation of 8 February 1560 to the Odense herredag; the grant of two oaks of Höjby forest 'til Bygningstømmer' to Jørgen Brade til Tostrup, 1560"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Jørgen Brahe – lensmand (Henry Bruun)",
+     "note": "'Tosterup i Skåne, hvortil han skrev sig'; the fiefs Tranekær 1542–49, Odensegård 1549–52, Vordingborg 1552–57, Nykøbing from 1555; never rigsråd"
+    },
+    {
+     "source": "S_LOCI_HAKANSSON",
+     "pages": "Håkansson ed. 2006, p. 40",
+     "quote": "det var oftast där [Tranekær] han vistades under Tychos tidigaste år",
+     "note": "Christianson's essay: Tycho 'skulle växa upp hos sin farbror Jørgen Brahe på Tosterups slott ... Varför det blev så är alltjämt oklart'"
+    },
+    {
+     "source": "S_LOCI_GASSENDI",
+     "pages": "p. 4 (marginal year 1554)",
+     "quote": "totis quinque annis sub Latinæ linguæ magistris, quos Patruus domum accersiit",
+     "note": "The origin of the house-tutor tradition; basis unstated"
     }
    ],
    "grade": "B",
-   "disputes": "Friis ('rimeligviis'), Norlind ('om det nu var hit han fördes') and Jönsson ('bör ha') all present Tostrup as inference from Jørgen's fief-holding rather than documented residence; Thoren asserts it most firmly (though prefacing that not even the place of upbringing is documented) — Thoren followed, hedges recorded. The schooling is a second soft spot: Dreyer and Friis have a private tutor in the uncle's house; Norlind doubts a formal cathedral Latin school altogether ('mycket ovisst'); the school is never identified in any source (see the Vordingborg stay for the 'formodentlig' school conjecture)."
+   "disputes": "Residence: asserted by Dreyer (p. 12, citing only the Mechanica, which names no place), Thoren (p. 6, 'Home' was Tostrup — with the admission that the place of upbringing is unknown), Håkansson 2006 (p. 40, with 'alltjämt oklart') and Jönsson; hedged by Friis, Norlind and Jönsson. DOCUMENTED: nothing for the boy; Jørgen 'til Tostrup' 1560 (KB 1556–60 pp. 359, 369). Graded Probable as the consensus home of a man whose seat it was, interleaved with the fief stays, none of which is documented for the boy either. Schooling: Tycho's 'schola latina' (Mechanica, TBOO V 106) is the only word; Gassendi (p. 4, marginal year 1554) turns it into Latin masters brought to the house for five whole years; Dreyer's 'tutor' and Friis's 'Hovmester' descend from Gassendi, not from a record; the Dansk Biografisk Leksikon has 'privatundervisning'; the Nationalmuseet essay's Vordingborg Latin school and Christianson's Nykøbing Latin school ('förmodligen', Håkansson 2006 p. 42) are rival conjectures from the uncle's fiefs; Norlind doubts any cathedral school ('mycket ovisst'). No school register, tutor's name or payment exists in anything read."
+  },
+  {
+   "id": "stay-tranekaer-1548",
+   "place": "tranekaer",
+   "period": "per-1",
+   "date_start": "1548",
+   "date_end": "1549",
+   "date_precision": "range-uncertain",
+   "calendar_note": "All dates Old Style (Julian).",
+   "purposes": [
+    "birth-family"
+   ],
+   "narrative": "The first fief of the foster household. When Jørgen Brahe took the infant Tycho from his parents c. 1548 he had held Tranekær Castle on Langeland as lensmand since 18 June 1542, and he kept it until Eiler Rønnow succeeded him in 1549, when he moved to the Odense len; Christianson writes that Tranekær, not Tosterup, 'was mostly where he stayed in Tycho's earliest years'. On Thoren's presumption that 'Inger and Tyge followed Jørgen on his periodic moves from one fief to another', the child's first foster home would have been this island castle for a year or so — but no source places him there, Christianson's own sentence has the boy grow up at Tosterup, and the abduction is undated. Possible, on the same footing as the Odense, Vordingborg and Nykøbing stays, and the weakest of them.",
+   "people": [
+    {
+     "name": "Jørgen Brahe",
+     "role": "foster father; lensmand of Tranekær 1542–49"
+    },
+    {
+     "name": "Inger Oxe",
+     "role": "foster mother"
+    }
+   ],
+   "evidence": [
+    {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Tranekær entry (p. 38)",
+     "quote": "1542–49 Jørgen Brade",
+     "note": "Forleningsbrev 18 June 1542; freed of the afgift for a year 31 May 1545; Eiler Rønnow from 1549"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Jørgen Brahe – lensmand",
+     "quote": "Allerede 1542–49 havde han Tranekær"
+    },
+    {
+     "source": "S_LOCI_THOREN",
+     "pages": "pp. 3, 7–8",
+     "quote": "Presumably, Inger and Tyge followed Jørgen on his periodic moves from one fief to another",
+     "note": "'By 1542, Jørgen had advanced to the command of Tranekær Castle'; 'promoted from Tranekær Castle on Langeland' in 1549"
+    },
+    {
+     "source": "S_LOCI_HAKANSSON",
+     "pages": "Håkansson ed. 2006, p. 40",
+     "quote": "han var också länsherre på Tranekær slott på Langeland och det var oftast där han vistades under Tychos tidigaste år",
+     "note": "Christianson's essay; the same paragraph has Tycho grow up at Tosterup — not reconciled"
+    }
+   ],
+   "grade": "C",
+   "disputes": "No source places the boy at Tranekær; the stay is the editor's application of Thoren's household presumption to the one fief Jørgen held at the time of the abduction, with Håkansson's sentence on Jørgen's own residence. Added by the audit of 29 October 2026 so that the question is visible rather than silently absent."
   },
   {
    "id": "stay-naesbyhoved-1549",
    "place": "naesbyhoved",
    "period": "per-1",
-   "date_start": "1549",
-   "date_end": "1552",
-   "date_precision": "year",
+   "date_start": "1549-04",
+   "date_end": "1552-07",
+   "date_precision": "range-uncertain",
    "purposes": [
     "birth-family"
    ],
-   "narrative": "Jørgen Brahe was promoted from Tranekaer Castle on Langeland to the command of Næsbyhoved Castle on Funen in 1549, and Thoren judges that Inger Oxe and the infant Tyge presumably followed him on these periodic moves between fiefs, as on his frequent trips back to Tostrup and appearances at court. The boy's presence is an inference from the structure of the foster household, not a documented sighting, and no other swept source places him there; the stay is graded accordingly.",
+   "narrative": "Jørgen Brahe left Tranekær for the stift-len of Funen — the Odense len, in the chancery's words 'Nesbyhofuit Len og under S. Hans Kloster i Odense', with Rugård — by the genant of 2 April 1549 (Rugård's lensbrev 28 June), and was relieved by Jørgen Skinkel on 18 July 1552. The seat was the town: he is 'Embedsmand i Odense' at the king's retterting on 25 June 1551, and on 14 April 1552 the king sent a scribe to arrange him a lodging 'der i Byen'; the old castle of Næsbyhoved, which Thoren names, had been burnt by the Odense burghers in 1534 and never rebuilt. The two-to-five-year-old Tycho's presence here is Thoren's inference from the structure of the foster household — 'presumably, Inger and Tyge followed Jørgen on his periodic moves from one fief to another' — and no source places the child in Odense; Norlind's guess that his Latin school might have been there ('kanske ... Odense, där Jørgen Brahe en tid var länsman') fails on the dates, since Jørgen left in 1552, before the 'seventh year'.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -1758,25 +1883,49 @@
    ],
    "evidence": [
     {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Odensegaard entry (p. 32)",
+     "note": "Jørgen Brahe 1549–52: genant 2 April 1549; forleningsbrev for Rugård 28 June 1549"
+    },
+    {
+     "source": "S_LOCI_KB_BREVBOGER",
+     "pages": "Kancelliets Brevbøger 1551–55, pp. 5, 52, 145, 174",
+     "quote": "Nesbyhofuit Len og under S. Hans Kloster i Odense ... som Jørgen Brade hidtil har haft i Værge",
+     "note": "Orders on Rugård's peasants (21 January 1551); 'Jyrgen Bragde, Embedsmand i Odense' at the retterting 25 June 1551; the lodging in the town 14 April 1552; Jørgen Skinkel's følgebrev 18 July 1552"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Jørgen Brahe – lensmand",
+     "note": "'1549–52 som stiftslensmand over Fyn Odensegård' with Rugård and St Hans kloster; Næsbyhoved not mentioned"
+    },
+    {
      "source": "S_LOCI_THOREN",
      "pages": "p. 7",
-     "quote": "Presumably, Inger and Tyge followed Jørgen on his periodic moves from one fief to another"
+     "quote": "Presumably, Inger and Tyge followed Jørgen on his periodic moves from one fief to another",
+     "note": "Thoren's 'Næsbyhoved Castle on Funen', 1549"
+    },
+    {
+     "source": "S_LOCI_NORLIND",
+     "pages": "p. 12",
+     "quote": "Kanske var det i Odense, där Jørgen Brahe en tid var länsman",
+     "note": "The Latin-school guess, doubted by Norlind himself and refuted by the dates"
     }
    ],
-   "grade": "C"
+   "grade": "C",
+   "disputes": "Place-name: Thoren (p. 7) and Håkansson (p. 40) write 'Næsbyhoved'; Erslev, the chancery and the Dansk Biografisk Leksikon have the Odense len (Odensegård, Rugård, St Hans Kloster) with its seat in the town — this record now carries the documented name and keeps the older one. Dates: the fief 2 April 1549 – 18 July 1552 (Erslev; Kancelliets Brevbøger 1551–55 p. 174), the boy's presence undated and undocumented, Possible on Thoren's presumption alone."
   },
   {
    "id": "stay-vordingborg-1552",
    "place": "vordingborg",
    "period": "per-1",
-   "date_start": "1552",
+   "date_start": "1552-07",
    "date_end": "1557",
    "date_precision": "range-uncertain",
    "purposes": [
     "birth-family",
     "education"
    ],
-   "narrative": "Jørgen Brahe received command of the immense medieval royal stronghold of Vordingborg on the south coast of Zealand in 1552, and Tycho passed part of his boyhood in the sprawling castle — Christianson recalls the connection when the 1597 exile caravan passed through the town. Vordingborg sat on the main route between Copenhagen and the continent: Duke Ulrich of Mecklenburg came with his court in 1556, Christian III's peripatetic court stayed periodically, and Brahe, Oxe and Rud kin visited regularly — the boy's first exposure to high court traffic. The school question stays open: his autobiography has him at Latin school 'in his seventh year', and the Nationalmuseet education essay presumes ('formodentlig') Vordingborg Latin school because Jørgen was then lensmand there, but Facts of Life (1970) is silent on schooling before 1559, Dreyer and Friis have a private tutor at Tostrup instead, and Norlind doubts a formal school altogether. No school is asserted.",
+   "narrative": "Jørgen Brahe received Vordingborg, the great medieval royal stronghold on the south coast of Zealand, by lensbrev of 16 July 1552 — a word-for-word copy of Holger Rosenkrantz's, running from 1 May — and held it until Lave Ulfstand succeeded him in 1557; the chancery shows him in post throughout: building works with seventy cartloads of lime in 1553, 'Embedsmand paa Vordingborg' on 17 September 1554, a powder tower to be fitted in the castle in 1555, the order of 1 February 1556 to host Duke Ulrich of Mecklenburg 'paa Nykiøbing og Vordingborg', the king's retterting sitting at Vordingborg on 19 July 1556, and 'i Prestø og Vordingborg Jørgen Brade' still on 3 April 1557. The one record that places the foster mother is from here: the queen's list of ladies for a festivity in December 1555 names 'fra Sieland Fru Inger Jørgen Bradis'. Tycho's own boyhood at Vordingborg rests on Christianson, who recalls when the exile caravan passed through the town in 1597 that Tycho 'had spent part of his youth in the sprawling castle commanded by his foster father', and on Thoren's reckoning that the five-year-old 'would probably have been old enough to remember the move'. The school question stays open: his autobiography puts him to Latin school 'about my seventh year', and the Nationalmuseet education essay presumes ('formodentlig') the Vordingborg Latin school because Jørgen was then lensmand — a school whose teaching the town's own history finds beginning only after 1550, with a schoolmaster endowed in 1555; the Dansk Biografisk Leksikon has private tuition, Gassendi masters in the house, Christianson elsewhere the Nykøbing school, Norlind doubts any school. No school is asserted.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -1789,9 +1938,26 @@
    ],
    "evidence": [
     {
+     "source": "S_LOCI_KB_BREVBOGER",
+     "pages": "Kancelliets Brevbøger 1551–55, pp. 174, 234, 328, 368, 409; 1556–60, pp. 7, 35, 39, 85",
+     "quote": "fra Sieland Fru Inger Jørgen Bradis",
+     "note": "Lensbrev 16 July 1552 from 1 May; lime for building 1553; 'Embedsmand paa Vordingborg' 17 September 1554; the powder tower 1555; the queen's list of ladies, December 1555; Duke Ulrich to be hosted 'paa Nykiøbing og Vordingborg' 1 February 1556; the retterting at Vordingborg 19 July and Sørup 22 July 1556 with Jørgen Brahe as co-judge; 'i Prestø og Vordingborg Jørgen Brade' 3 April 1557"
+    },
+    {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Vordingborg entry (p. 25)",
+     "note": "Jørgen Brahe 1552–57 (lensbrev 16 July 1552), Lave Ulfstand 1557–61"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Jørgen Brahe – lensmand; Tyge Brahe – astronom",
+     "note": "'1552–57 sad han paa Vordingborg'; Tycho 'fra syvårsalderen fik han privatundervisning, især i latin'"
+    },
+    {
      "source": "S_LOCI_THOREN",
-     "pages": "p. 7",
-     "quote": "Jørgen was promoted... to Vordingborg Castle in 1552. By this time, Tyge would probably have been old enough to remember the move"
+     "pages": "pp. 7, 9",
+     "quote": "Jørgen was promoted... to Vordingborg Castle in 1552. By this time, Tyge would probably have been old enough to remember the move",
+     "note": "p. 9: 'All we actually know is that he was sent to grammar school in my seventh year'; the cathedral-school inference from Steen's and Axel's Aalborg schooling"
     },
     {
      "source": "S_LOCI_CHRISTIANSON",
@@ -1804,30 +1970,43 @@
      "note": "'Tycho had grown up in castles commanded by his father and foster father'"
     },
     {
-     "source": "S_LOCI_VERDEN",
-     "pages": "Tycho Brahes Verden, scan p. 35",
-     "quote": "kom ifolge sin selvbiografi i latinskole i 'sit syvende aar', formodentlig i Vordingborg latinskole, da hans plejefar, Jørgen Brahe, paa den tid var lensmand paa Vordingborg slot"
+     "source": "S_LOCI_MECHANICA1598",
+     "pages": "TBOO V 106",
+     "quote": "circa annum ætatis septimum scholæ latinæ adhibitus sim",
+     "note": "No place, no teacher"
     },
     {
      "source": "S_LOCI_VERDEN",
-     "pages": "Tycho Brahes Verden, scan pp. 9, 26, 262",
-     "note": "Upbringing with Jørgen Brahe and Inger Oxe; they sent him to Latin school"
+     "pages": "Tycho Brahes Verden, scan p. 35",
+     "quote": "kom ifølge sin selvbiografi i latinskole i 'sit syvende aar', formodentlig i Vordingborg latinskole, da hans plejefar, Jørgen Brahe, paa den tid var lensmand paa Vordingborg slot",
+     "note": "Conjecture; the same paragraph notes that noble sons were mostly taught privately"
+    },
+    {
+     "source": "S_LOCI_HAKANSSON",
+     "pages": "Håkansson ed. 2006, p. 42",
+     "quote": "Förmodligen tillbringade han sina dagar vid Nykøbings latinskola, samtidigt som han bodde kvar på slottet",
+     "note": "Christianson's rival conjecture"
+    },
+    {
+     "source": "S_LOCI_",
+     "pages": "the whereabouts audit of 29 October 2026, §4 (the Vordingborg school's beginnings after 1550; the schoolmaster's tithe 1555)",
+     "note": "Tier-2 school histories: Vordingborg Gymnasium's jubilee volume 1963; Trap Danmark"
     }
    ],
    "grade": "B",
-   "disputes": "Dating: the start follows Jørgen's 1552 promotion to Vordingborg (Thoren); the transfer to Nykøbing is undated in the sources — Thoren places it inside the power struggle culminating in Peder Oxe's fall in mid-1558, naming no year, and the conventional 1557 is retained as an approximation only; Christianson 2000 attaches the boyhood residence to Vordingborg but gives no dates; the Nationalmuseet education essay runs its Vordingborg schooling from c. 1553 — Thoren's 1552–1557 followed. The school: the Vordingborg latinskole identification is the Nationalmuseet essay's own inference ('formodentlig'), contradicted by Dreyer's/Friis' private tutor at Tostrup and doubted in principle by Norlind; Christianson's 'Facts of Life' (1970) is silent on schooling before 1559. Held as C-grade conjecture inside a B-grade residence."
+   "disputes": "Dating: the fief 16 July 1552 – 1557 (Erslev; Kancelliets Brevbøger 1551–55 p. 174; 1556–60 p. 85); Thoren contradicts himself on the end (p. 20 'mid-1558', p. 39 '1557') and the records settle it at 1557 — the earlier 'bounds uncertain' 1552–1557 stands, the start now at month precision. Nykøbing was held concurrently from 1555, so 'transfer of seat' in 1557 (Thoren) means only that Vordingborg was lost. The school: the Vordingborg latinskole is the Nationalmuseet essay's conjecture (scan p. 35), rivals in Gassendi's house-masters (p. 4), Christianson's Nykøbing ('förmodligen', Håkansson 2006 p. 42), Norlind's Odense ('kanske', p. 12) and Thoren's 'cathedral school near Vordingborg' inferred from his brothers' Aalborg schooling (p. 9); no record of any; held in the register of refuted claims as an unevidenced conjecture inside a Probable residence. Inger Oxe 'fra Sieland' (December 1555) documents the household on Zealand, not the boy."
   },
   {
    "id": "stay-nykobing-falster-1557",
    "place": "nykobing-falster",
    "period": "per-1",
-   "date_start": "1557",
+   "date_start": "1555",
    "date_end": "1559-04",
    "date_precision": "range-uncertain",
    "purposes": [
     "birth-family"
    ],
-   "narrative": "Queen Mother Sophie had invested Jørgen Brahe with the fief and command of Nykøbing in 1555, and in 1557, having relinquished his royal fief in the power struggle that preceded Peder Oxe's fall, Jørgen transferred his seat to the island fortress between Lolland and Falster. On Thoren's 'presumably followed' reading of the foster household, the ten-to-twelve-year-old Tycho lived there until he was sent to Copenhagen in April 1559. Christianson notes that Jørgen also commanded Nykøbing but attaches Tycho's boyhood residence only to Vordingborg; the stay is therefore single-source and inferential.",
+   "narrative": "Queen Dowager Sophie invested Jørgen Brahe with the fief and command of Nykøbing, the island fortress between Lolland and Falster that was her jointure, in 1555 — the month is not in the king's chancery, which first styles him 'for Nykiøpings Len' on 28 April 1557 — and he held it with Vordingborg until 1557 and alone thereafter until his death; Erslev's register runs it '1555–66', the widow Inger Oxe keeping it to 1 May 1566. The order of 1 February 1556 to host Duke Ulrich of Mecklenburg 'paa Nykiøbing og Vordingborg' shows both castles in use; the retterting judged the Fæmø islanders against 'Jørgen Brade, Embedsmand paa Nykiøbing' on 11 August 1557; the Elector of Saxony passed through Falster in September 1559. On Thoren's 'presumably followed' reading of the foster household the boy lived here from about his ninth year until he was sent to Copenhagen in April 1559 — and Christianson, in his Swedish essay, supposes ('förmodligen') that he attended the Nykøbing Latin school, a town school attested since 1498, while living at the castle. No record places him on Falster; Christianson's English biography attaches the boyhood residence only to Vordingborg. Possible, as a household inference.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -1840,13 +2019,41 @@
    ],
    "evidence": [
     {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Nykøbing (Falster) entry",
+     "quote": "1555–66 Jørgen Brade, † 1565. Enken Inger Oxe maa beholde det til 1/5 1566"
+    },
+    {
+     "source": "S_LOCI_KB_BREVBOGER",
+     "pages": "Kancelliets Brevbøger 1556–60, pp. 7, 95, 123, 133, 175, 185, 193, 297–303, 331, 359; 1561–65, pp. 281, 312",
+     "quote": "Jørgen Brade, Embedsmand paa Nykiøbing",
+     "note": "Duke Ulrich 1 February 1556; 'for Nykiøpings Len' 28 April 1557; the Fæmø judgment 11 August 1557; the tax list 1557; the hunting peace and the queen's game 1558–59; the Elector of Saxony's passage September 1559; 'Embedsmand paa Nyekiøpping' 8 February 1560; Erik Grubbe holding the castle 'i Jørgen Bradis Fraværelse' 16 July and 12 August 1563"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Jørgen Brahe – lensmand",
+     "note": "'fra 1555 til sin død var han dronning Sophies lensmand paa Nykøbing slot'"
+    },
+    {
      "source": "S_LOCI_THOREN",
-     "pages": "p. 7",
-     "quote": "Jørgen relinquished his fief from the king and transferred his seat to Nykobing"
+     "pages": "pp. 7–8, 20",
+     "quote": "Jørgen relinquished his fief from the king and transferred his seat to Nykøbing",
+     "note": "p. 20: 'In 1555 Queen Sophie invested Jørgen Brahe'; the boy's presence 'presumably'"
+    },
+    {
+     "source": "S_LOCI_HAKANSSON",
+     "pages": "Håkansson ed. 2006, p. 42",
+     "quote": "Förmodligen tillbringade han sina dagar vid Nykøbings latinskola",
+     "note": "Christianson's conjecture of the Nykøbing Latin school, c. 1555"
+    },
+    {
+     "source": "S_LOCI_CHRISTIANSON",
+     "pages": "scan p. 214",
+     "note": "Jørgen also commanded Nykøbing; the boyhood residence attached to Vordingborg only"
     }
    ],
    "grade": "C",
-   "disputes": "Christianson 2000 (scan p. 214) attaches the boyhood residence only to Vordingborg while noting Jørgen also commanded Nykøbing; Thoren's household inference followed for the record, at grade C. The 1557 start is conventional: Thoren dates the seat-transfer only 'in the opening rounds' of the struggle that felled Oxe in mid-1558."
+   "disputes": "Start: Erslev, the Dansk Biografisk Leksikon ('fra 1555 til sin død') and Thoren (p. 20) all have 1555; the earlier 1557 of this record was the year Vordingborg was lost, when Nykøbing became the only fief — corrected. Thoren's 'relinquished his fief from the king' in 'the opening rounds' of the struggle that felled Peder Oxe is his narrative; the chancery has Jørgen at Vordingborg to 3 April 1557 and at Nykøbing from 28 April 1557. The record's id keeps its 1557 for the stability of its anchor. The school: Christianson's Nykøbing conjecture (Håkansson 2006 p. 42) stands beside the Vordingborg one in the register of refuted claims."
   },
   {
    "id": "stay-copenhagen-1559",
@@ -1861,7 +2068,7 @@
     "observation",
     "books-printing"
    ],
-   "narrative": "Tycho arrived at the University of Copenhagen on 19 April 1559, aged twelve — the first of his family to begin university studies — under Jørgen Brahe's plan for a career in law and statecraft, lodging in the household of a professor (unnamed in Christianson 2020; Thoren suggests possibly Niels Hemmingsen). He worked through the Melanchthonian trivium while turning himself, from 1560, into an astronomer by purchase: Sacrobosco's De sphaera (used in Scavenius's lectures), the Basel 1551 Ptolemy folio bought the last day of November 1560 for two Joachimsthaler (signed and annotated, now Prague University Library, also bearing Johannes Pratensis's name), Apian's Cosmographia (Paris 1553) and Regiomontanus's Tabulae directionum (Tübingen 1550), bound together in the calf stamped 'Tycho Brade' and 'Anno 1561' with his purchase note of one thaler and four groschen (Prandtl's Band II, now at the M/S Museet for Søfart, Helsingør) — the first appearance of the Latinised name — and the ephemerides of Carelli (bought with Jens Nilsson) and Stadius, compared for Ptolemaic against Copernican predictions. The tradition that the predicted partial solar eclipse of 21 August 1560 awakened his vocation begins with Gassendi; Norlind rejects it as aetiological myth. He left for Leipzig on 14 February 1562.",
+   "narrative": "Tycho arrived at the University of Copenhagen on 19 April 1559, aged twelve — the first of his family to begin university studies — under Jørgen Brahe's plan for a career in law and statecraft; where he lodged is not known (Christianson 2020 has 'the household of a professor' without a source, Thoren offers Scavenius or Niels Hemmingsen as possibilities). The date is the Stephanius sheet's, copied in 1648 from a lost record of c. 1584 that Christianson takes to be Tycho's own self-horoscope; the university's oldest matrikel is lost, and Norlind asks whether the day is that of his inscription. He worked through the Melanchthonian trivium while turning himself into an astronomer by purchase: Sacrobosco's De sphaera (used in Scavenius's lectures), bound with the year-stamp 'T. B. 1560', Apian's Cosmographia (Paris 1553) and Regiomontanus's Tabulae directionum (Tübingen 1550), bound together in the calf stamped 'Tycho Brade' and 'Anno 1561' with his purchase note of one thaler and four groschen (Prandtl's Band II, now at the M/S Museet for Søfart, Helsingør) — the earliest volume documented as his and the only one dated before he left Denmark, its place of purchase an inference from the year — and the ephemerides of Carelli (bought with Jens Nilsson) and Stadius, compared for Ptolemaic against Copernican predictions. The Basel 1551 Ptolemy bought in Copenhagen on the last day of November 1560 for two Joachimsthaler, long called his first book, was Johannes Pratensis's purchase and binding, Tycho's only later. The tradition that the predicted partial solar eclipse of 21 August 1560 awakened his vocation begins with Gassendi; Norlind rejects it as aetiological myth. He left for Leipzig on 14 February 1562.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -1904,12 +2111,11 @@
     "works": [],
     "instruments": [],
     "books": [
-     "Sacrobosco, De sphaera (1558; bought 1560, lectured on by Scavenius) — bound with Bayrus and Macer in the white leather stamped 'T. B. 1560', now Prague, NKP 18 J 318",
-     "Ptolemy, Omnia opera (Basel 1551) — the title note ‘Emptus Haffniae 2 Joachimicis 1560 ultimo Novembris’ (hand disputed: Tycho, per Friis and Dreyer, or Johannes Pratensis, whose name and ‘I. P. 1561’ binding the volume carries, per Boldan & Vackářová 2024); marginalia attributed to Tycho; now Prague, NKP 5 B 70 (Prandtl's Band I)",
-     "Apian/Gemma Frisius, Cosmographia (Paris 1553) — bound with the Regiomontanus in the volume stamped 'Tycho Brade' / 'Anno 1561' (Prandtl's Band II; M/S Museet for Søfart, Helsingør, 1957:0030)",
-     "Regiomontanus, Tabulae directionum (Tübingen 1550) — first in the same volume of 1561; not the De triangulis",
-     "Carelli, Ephemerides (acquired with Jens Nilsson c. 1561)",
-     "Stadius, Ephemerides"
+     "Sacrobosco, De sphaera (1558; lectured on by Scavenius) — bound with Bayrus and Macer in the white leather stamped 'T. B. 1560', now Prague, NKP 18 J 318 (ownership on the cipher alone, Possible)",
+     "Ptolemy, Omnia opera (Basel 1551) — the title note 'Emptus Haffniae 2 Joachimicis 1560 ultimo Novembris' and the 'I. P. 1561' binding are Johannes Pratensis's (Boldan & Vackářová 2024; house review 29 October 2026); marginalia attributed to Tycho; now Prague, NKP 5 B 70 (Prandtl's Band I) — not Tycho's Copenhagen purchase",
+     "Apian/Gemma Frisius, Cosmographia (Paris 1553) — bound with the Regiomontanus in the volume stamped 'Tycho Brade' / 'Anno 1561' (Prandtl's Band II; M/S Museet for Søfart, Helsingør, 1957:0030); place of purchase inferred from the year",
+     "Regiomontanus, Tabulae directionum (Tübingen 1550) — in the same volume of 1561, with the fly-leaf note 'Sum Tychonis Brade / Epts thaliro & 4 Gross'",
+     "Ephemerides of Carelli (Venice 1557; bought with Jens Nilsson) and Stadius — compared against the Prutenic and Alphonsine calculation"
     ]
    },
    "evidence": [
@@ -1986,10 +2192,20 @@
     {
      "source": "S_LOCI_VERDEN",
      "pages": "scan pp. 9, 262"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Tyge Brahe – astronom",
+     "note": "Copenhagen 1559–62; the lodging and the school unnamed"
+    },
+    {
+     "source": "S_LOCI_",
+     "pages": "the whereabouts audit of 29 October 2026, §3 (the single Stephanius chain; the student volumes after the verdict of the same day)",
+     "note": "5 B 70 = Pratensis; 18 J 318 Possible; MFS 1957:0030 the only volume dated before 14 February 1562"
     }
    ],
    "grade": "A",
-   "disputes": "The 1560 eclipse-vocation story: Gassendi (origin), Dreyer, Christianson 2020 and Morsing assert it; Håkansson hedges ('kanske'); Norlind pp. 13–15 rejects it as aetiological myth (Tycho never mentions the eclipse, not even in his autobiography) — rendered here as tradition, not fact; the eclipse itself and the book purchases stand. Arrival 19 April 1559 rests on Stephanius' notes; Norlind warns it may be the inscription date (matricle lost 1728), and Thoren notes noblemen's sons usually only attended lectures without matriculating — day-precision kept with this caveat. Lodging: Christianson 2020 has an unnamed professor's household, Thoren offers two candidates — Scavenius (professor of mathematics, an Oxe client) and Hemmingsen — stated as possible, not merged. End date: 14 February 1562 (Dreyer, Norlind, Friis, the Nationalmuseet essays, Jönsson) adopted over Thoren's month-precision February 1562; no real conflict (Thoren's 24 March 1562 is the Leipzig registration). The Regiomontanus of 1561: Thoren (p. 10, 'the Trigonometry of Regiomontanus') and Christianson 2020 (p. 21, 'On Triangles') name the De triangulis; the volume holds the Tabulae directionum of 1550, as Prandtl 1932 (Verzeichnis A no. 34, Band II), Norlind 1970 (pp. 335, 361) and the museum's record state — the title here follows the volume."
+   "disputes": "The 1560 eclipse-vocation story: Gassendi (origin), Dreyer, Christianson 2020 and Morsing assert it; Håkansson hedges ('kanske'); Norlind pp. 13–15 rejects it as aetiological myth (Tycho never mentions the eclipse, not even in his autobiography) — rendered here as tradition, not fact. Dates: every day-date of the student years (19 April 1559, 14 February 1562, 24 March 1562, 17 May and 25 May 1565, 15 April 1566) descends from one witness, the Stephanius sheet (KB, Langebeks Excerpter 179 fol., copied spring 1648 from Johannes Stephanius's lost annals; Christianson 1970 pp. 22–27); Norlind warns the 19 April may be the inscription date (the matricle lost in the 1728 fire), Thoren that noblemen's sons usually only attended lectures without matriculating — day-precision kept with this caveat. Lodging: not known; Christianson 2020's professor's household is unsourced, Thoren's two candidates possibilities. The books: the Ptolemy 5 B 70 with the note 'Emptus Haffniae 2 Joachimicis 1560 ultimo Novembris' was re-judged on 29 October 2026 as Johannes Pratensis's purchase and binding ('I. P. 1561'), Tycho's later (Boldan & Vackářová 2024; the register of refuted claims) — Dreyer's and Friis's 'first book' withdrawn; the Sacrobosco volume 18 J 318 is his on the cipher 'T. B. 1560' alone (ownership Possible); the volume of 1561 is the only one dated before 14 February 1562 and names no place of purchase. End date: 14 February 1562 (Stephanius; Dreyer, Norlind, Friis, Jönsson). The Regiomontanus of 1561: Thoren (p. 10, 'the Trigonometry of Regiomontanus') and Christianson 2020 (p. 21, 'On Triangles') name the De triangulis; the volume holds the Tabulae directionum of 1550, as Prandtl 1932 (Verzeichnis A no. 34, Band II), Norlind 1970 (pp. 335, 361) and the museum's record state — the title here follows the volume."
   },
   {
    "id": "stay-wittenberg-1562",
@@ -2001,7 +2217,7 @@
    "purposes": [
     "travel-transit"
    ],
-   "narrative": "A waypoint of the outward journey, not yet a study station. Having crossed the southern Baltic in February 1562, Tycho and Vedel travelled up the Elbe to Wittenberg and continued overland — Thoren has them riding two more days — to Leipzig, where both were registered on 24 March 1562. Tycho's Wittenberg study residence belongs to a later period.",
+   "narrative": "A waypoint of the outward journey in the modern reconstruction, not a station any witness names. Having crossed the southern Baltic in February 1562 — no source names the port — Tycho and Vedel are said to have ridden up the Elbe to Wittenberg and on for two more days to Leipzig, where they arrived on 24 March 1562. The passage through Wittenberg is Thoren's (p. 14, 'the well trodden route') and Håkansson's after him; the Stephanius sheet has only the two dates, Gassendi, Dreyer, Friis, Norlind, Jönsson and Christianson 2020 no route at all; Tycho's own 'cum Vitebergam olim transirem' (to Peucer, 1588) and 'dum semel Wittebergam ... transirem' (to Hagecius, 1580) attest a pass-through without a year, and the 1565 return serves them as well. Possible, as the natural road.",
    "people": [
     {
      "name": "Anders Sørensen Vedel",
@@ -2011,17 +2227,31 @@
    ],
    "evidence": [
     {
+     "source": "S_LOCI_THOREN",
+     "pages": "p. 14",
+     "quote": "Tycho and Vedel, however, passed through Wittenberg and then rode for about two more days to reach Leipzig",
+     "note": "'The journey by ship across the Baltic and on horseback along the roads that followed the Elbe and the Saale rivers took five weeks'; unsourced reconstruction"
+    },
+    {
      "source": "S_LOCI_HAKANSSON",
      "pages": "Håkansson ed. 2006, p. 44",
      "quote": "I februari 1562 korsade de södra Östersjön, för att därefter färdas längs Elbe till Wittenberg, varifrån de landvägen fortsatte till Leipzig"
     },
     {
-     "source": "S_LOCI_THOREN",
-     "pages": "p. 14",
-     "note": "Through-passage at Wittenberg on the Elbe-Saale route; no overnight stop individually named"
+     "source": "S_LOCI_FACTSOFLIFE",
+     "pages": "p. 24",
+     "quote": "He left Copenhagen on February 14, 1562. He came to Leipzig on March 24, 1562.",
+     "note": "No intermediate station in the Stephanius sheet"
+    },
+    {
+     "source": "S_LOCI_TBOO7",
+     "pages": "VII 59; VII 127",
+     "quote": "cum Vitebergam olim transirem",
+     "note": "Tycho to Peucer, 13 September 1588; to Hagecius, 4 November 1580 ('dum semel Wittebergam ipso illic studente transirem') — a pass-through, year unstated"
     }
    ],
-   "grade": "B"
+   "grade": "C",
+   "disputes": "Thoren-only reconstruction, with Håkansson 2006 (p. 44) repeating it; downgraded from Probable on the audit of 29 October 2026. No source names the Baltic port of the crossing (Rostock, Wismar, Lübeck and Stralsund are all unsupported) — the store names none. Norlind (p. 16) adds that the Leipzig matriculation was entered at the close of the winter semester 1561–62, so the arrival date itself may be the inscription date."
   },
   {
    "id": "stay-leipzig-1562",
@@ -2037,7 +2267,7 @@
     "instrument",
     "books-printing"
    ],
-   "narrative": "Tycho reached Leipzig on 24 March 1562, five and a half weeks out of Copenhagen, with the twenty-year-old Anders Sørensen Vedel as preceptor, and matriculated as 'Ticho Brade ex Scandia'. Sent to read law, he lodged in a professor's household and studied astronomy secretly at night: a fist-sized celestial globe hidden from Vedel, Stadius's ephemerides, then the Alphonsine and Prutenic tables. The Saturn–Jupiter conjunction of August 1563, which the tables missed badly, prompted his first observation log, headed 'Anno 1563, seventeen years of age, Leipzig'. Sightings taken first with large compasses gave way from 1 May 1564 to a cross-staff after Gemma Frisius, transversal-divided by Bartholomaeus Scultetus, for whose faulty divisions he computed a correction table. His circle included Homelius, Camerarius and the electoral mathematician Valentin Thau; he also cast nativities, Peucer's among them. He and Vedel left on 17 May 1565.",
+   "narrative": "Tycho reached Leipzig on 24 March 1562 by the Stephanius sheet, five and a half weeks out of Copenhagen, with the twenty-year-old Anders Sørensen Vedel as preceptor; the university's matrikel, in Erler's edition, carries them in the natio Saxonum of the winter semester 1561/62 (St Gall's day to St George's day) as consecutive entries — 'Severin Andr. ex Cymbria Danus 8 gr.' at no. 14 and 'Brade Tycho ex Schania Dan. 1 fl. 3 gr.' at no. 15 — the noble pupil paying the higher fee; the rector entered the term's students at its close, so the register dates nothing to the day. Sent to read law, he lodged in a professor's household ('apud doctorem nostrum hospitem', the codex's note of 14 December 1564, when Pfeffinger dined) and studied astronomy secretly at night: a fist-sized celestial globe hidden from Vedel, Stadius's ephemerides, then the Alphonsine and Prutenic tables. The Saturn–Jupiter conjunction of August 1563, which the tables missed badly, prompted his first observation log, headed 'Anno 1563, ætatis anno 17, Lipsiæ' — the earliest place-sighting in his own record, its entries running from 17 August 1563 to 19 April 1565 under three year-headings that all read Leipzig; the one latitude inside an entry is 'polus 51' (27 March 1564). Sightings taken first with large compasses gave way from 1 May 1564 to a cross-staff after Gemma Frisius, transversal-divided by Bartholomaeus Scultetus, for whose faulty divisions he computed a correction table. His circle included Homelius, Camerarius and the electoral mathematician Valentin Thau; he also cast nativities, Peucer's among them, 'cum Lipsiæ ante annos plus minus viginti quatuor operam literis darem', as he reminded Peucer in 1588. No source has him leave the town in three years. He and Vedel left on 17 May 1565 — the one date of the student years with a second, independent witness, Peder Hegelund's almanac ('d. 17 Maji dederunt se in iter Andreas Seuerini et Tuco Bradhe').",
    "people": [
     {
      "name": "Anders Sørensen Vedel",
@@ -2165,10 +2395,39 @@
      "pages": "p. 31",
      "quote": "If. immatrikulationslisten for Leipzigs universitet blev Tycho Brahe sammen med Anders Sørensen Vedel og et par andre danske indskrevet St. Galli dag, 16. oktober 1561",
      "note": "Against the 24 March 1562 of the biographies; recorded as a dispute, not adopted."
+    },
+    {
+     "source": "S_LOCI_TBOO10",
+     "pages": "X 1–13 (codex A, GKS 1824 4°)",
+     "quote": "ANNO 1563, ÆTATIS ANNO 17, LIPSIÆ",
+     "note": "Dated entries 17 Aug – 13 Oct 1563; 27 Mar ('polus 51') – 30 May and 11 Nov – 17 Dec 1564; 7 Jan, 28–29 Mar, 19 Apr 1565; then 'Annotationes interiectæ' — 'duobus sequentibus annis nullæ extant observationes'; Dreyer's note 2 (p. 13) infers the November 1565 Leipzig stay that Norlind refutes"
+    },
+    {
+     "source": "S_LOCI_TBOO7",
+     "pages": "VII 127–128, 137; VII 61",
+     "quote": "cum Lipsiæ ante annos plus minus viginti quatuor operam literis darem",
+     "note": "To Peucer, 13 September 1588: Leipzig at seventeen with the radius; the nativity annotated at Leipzig; to Scultetus, 12 October 1581, 'veteris amicitiæ, Lipsiæ olim inter nos initæ'"
+    },
+    {
+     "source": "S_LOCI_MECHANICA1598",
+     "pages": "TBOO V 106–108",
+     "quote": "Lipsiam studiorum continuandorum gratiâ missus, ubi per triennium moratus sum",
+     "note": "The conjunction of 1563 observed at Leipzig; the radius of 1564; 'quam diu Lipsiæ morabar, et postea etiam in Patriam revocatus' — the observing continued at home"
+    },
+    {
+     "source": "S_LOCI_BJORKLUND",
+     "pages": "Bilag 4, note f",
+     "note": "Hegelund's almanac note of 17 May 1565 as printed by Langebek (Danske Magazin II, 1746) — the one independent contemporary date"
+    },
+    {
+     "source": "S_LOCI_ERLER1909",
+     "pages": "pp. 43, 433",
+     "quote": "Brade Tycho ex Schania Dan. 1 fl. 3 gr. i W 1561 S 15.",
+     "note": "'Severin, -ni, -nus Andr. ex Cymbria Danus 8 gr. i W 1561 S 14.' — Vedel immediately before Tycho in the Saxon nation's list of the winter semester 1561/62; read on the page images, 29 October 2026"
     }
    ],
    "grade": "A",
-   "disputes": "First recorded observation: Dreyer (p. 19) has 17 August 1563; Christianson 2020 (pp. 25–26) has first entry 18 August — Christianson followed (modern), Dreyer's day noted; Thoren gives only August 1563. Cross-staff origin: Thoren (pp. 18–19; his n. 27 hedges whether the two references are to one instrument) has Tycho ordering an Arscenius cross-staff from Louvain; Dreyer, Norlind and Christianson 2020 have a radius built at Leipzig after Gemma Frisius's instructions with Scultetus's transversal scale — both accounts preserved, not conflated. Norlind (p. 20) rejects Dreyer's inference of a second Leipzig sojourn in November 1565 as a copyist's misreading of the observation journal ('En andra resa till Leipzig kan det naturligtvis ej vara tal om') — no such stay created. Christianson 2000 gives no dates for Leipzig; its 1562–1565 span is this chapter's approximation, not that source's assertion. Matriculation day: the Kronik of Magasin fra Det Kongelige Bibliotek 2:1 (1987), p. 31, reports that the Leipzig matriculation list enters Tycho, Vedel ‘og et par andre danske’ on St Gall's day, 16 October 1561, and reads the thaler-and-groschen price in his student volume of 1561 as Saxon coin paid in Leipzig. Neither holds: 16 October is the heading of the winter semester 1561–62 (St Gall's day to St George's day), under which the rector entered the term's students at its end, so the entry dates nothing (Norlind 1970, p. 16, already Strömgren 1928; Becker had read it as a later insertion ‘fejlskrevet for 1562’), and the Copenhagen Ptolemy of 1560 is itself priced ‘2 Joachimicis’. Stephanius's day-dates (left Copenhagen 14 February, Leipzig 24 March 1562) come from Tycho's own self-horoscope and stand."
+   "disputes": "Arrival: 24 March 1562 is the Stephanius sheet's date (the single chain, see stay-copenhagen-1559); Norlind (p. 16) asks whether it is in fact the matriculation date; Gassendi has 'sub Martii finem'. Day precision kept as the sheet's. The matrikel: read at source in Erler 1909 (pp. 43, 433) — 'Brade Tycho ex Schania Dan.', winter semester 1561, natio Saxonum no. 15, Vedel no. 14 — which replaces this record's earlier 'Ticho Brade ex Scandia' and Dreyer's 'Tyho Brade ex Scandria'. First recorded observation: Dreyer (p. 19) has 17 August 1563; Christianson 2020 (pp. 25–26) has first entry 18 August — the printed codex (Opera omnia X p. 1) opens with 'Augusti 17'; both days noted. The codex's year-headings 'Lipsiæ' are the copyist's, not Tycho's (codex A holds not one word in his hand, Dreyer's Prolegomena); Christianson quotes the first page as 'Anno 1563, seventeen years of age, Leipzig'. Cross-staff origin: Thoren (pp. 18–19; his n. 27 hedges whether the two references are to one instrument) has Tycho ordering an Arscenius cross-staff from Louvain; Dreyer, Norlind and Christianson 2020 have a radius built at Leipzig after Gemma Frisius's instructions with Scultetus's transversal scale — both accounts preserved, not conflated. Norlind (p. 20) rejects Dreyer's inference of a second Leipzig sojourn in November 1565 as a misreading of the codex's eclipse note against Tycho's own 'Lipsia tunc temporis studiorum gratia commorati' (De nova stella, Opera omnia I 64) — no such stay created. Christianson 2000 gives no dates for Leipzig; its 1562–1565 span is this chapter's approximation. The Kronik of Magasin fra Det Kongelige Bibliotek 2:1 (1987), p. 31, reads the matrikel's St Gall's day, 16 October 1561, as the day of inscription and the thaler-and-groschen price in the volume of 1561 as Saxon coin: neither holds — 16 October is the semester heading (Norlind 1970, p. 16, already Strömgren 1928; Becker had read it as 'fejlskrevet for 1562'), and the volume names no place."
   },
   {
    "id": "stay-copenhagen-1565",
@@ -2181,7 +2440,7 @@
     "travel-transit",
     "birth-family"
    ],
-   "narrative": "Landing at Copenhagen from Rostock in late May or early June 1565, Tycho learned that his foster father Jørgen Brahe — captor of the Swedish flagship in 1564 — was now vice-admiral of the fleet, deep in preparations for the next engagement. From the capital he proceeded home through Scania. Weeks later Jørgen fell into the water at the bridge between Copenhagen castle and the town while rescuing King Frederick II, and died on 21 June 1565 of the illness contracted; no source places Tycho at the deathbed or funeral, and Dreyer expressly declines to say where he resided in the following months. Norlind's pole-height list supplies independent, if inferential, support for the passage through the capital.",
+   "narrative": "Landing at Copenhagen from Rostock in late May or early June 1565 — the natural landfall, named by no witness — Tycho learned that his foster father Jørgen Brahe, captor of the Swedish flagship in 1564 and serving 'paa Mercurius' under Herluf Trolle on 23 May, was deep in the fleet's preparations. From the capital he proceeded home through Scania. The codex's reckoning of 1565 (GKS 1824 4° p. 68) computes Copenhagen's latitude from the German miles of the road he had travelled — 32 from Wittenberg to Rostock, 25 or 22 by sea from Rostock to Copenhagen — and arrives at 55°40' or 55°25', 'but of the measure of the miles nothing is certain': a student's exercise on the stations of his journey, not an observation in the city. Weeks later Jørgen fell into the water at the inspection of the returned fleet and died on 21 June 1565; no source places Tycho at the deathbed or funeral, and Dreyer expressly declines to say where he resided in the following months.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -2208,10 +2467,27 @@
      "source": "S_LOCI_NORLIND",
      "pages": "p. 20",
      "note": "pole-height list read as the homeward route, 'antagligen'"
+    },
+    {
+     "source": "S_LOCI_GKS1824",
+     "pages": "p. 68 (image 72)",
+     "quote": "Hafniæ Elevationem ita colligo; cum constat inter Vitebergam et Rostochiam esse 32 circiter miliaria",
+     "note": "The two reckonings of Copenhagen's latitude (55°40' and 'non posse excedere 55.25') from the mileages Wittenberg–Rostock, Rostock–Copenhagen and Rostock–Leipzig, on Homelius's Leipzig 51°17'; heading 'Annotationes interiectæ occasione puto itineris Lipsia per Witebergam, Rostochium'"
+    },
+    {
+     "source": "S_LOCI_KB_BREVBOGER",
+     "pages": "Kancelliets Brevbøger 1561–65, pp. 612, 625",
+     "quote": "Fru Inger Oxe, Jørgen Brades Enke",
+     "note": "Jørgen Brahe 'paa Mercurius' under Herluf Trolle, 23 May 1565; the widow's pledge in St Peder's Kloster, Lund, raised on 24 June 1565 — the latest documented date of his death"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Jørgen Brahe – lensmand",
+     "note": "Died in Copenhagen 21 June 1565 after the accident at the fleet's inspection; buried in Vor Frue; never rigsråd"
     }
    ],
    "grade": "B",
-   "disputes": "Tycho's presence at Jørgen Brahe's deathbed or funeral is asserted by no source (no source, including Thoren p. 20, places him there) and is not rendered here."
+   "disputes": "Not a dated sighting: no witness places Tycho in Copenhagen in 1565. The landing is Dreyer's and Friis's inference from the Rostock embarkation, Norlind's from the codex's latitude notes; read at source on 29 October 2026, p. 68 of GKS 1824 4° derives the Copenhagen figure by dead reckoning from mileages ('Hafniæ elevationem ita colligo; cum constat inter Vitebergam et Rostochiam esse 32 circiter miliaria ...'; 'Verum de miliarium mensura non constat certo') — the road it reckons along is the journey's, the figure no observation. Gassendi has 'in patria cum foret'. Probable as the natural landfall of a Rostock ship. Tycho's presence at Jørgen Brahe's deathbed or burial in Vor Frue (DBL; the widow's chancery entry of 24 June 1565) is asserted by no source — Thoren has him at Knutstorp when the uncle fell — and is held in the register of refuted claims."
   },
   {
    "id": "stay-wittenberg-1565",
@@ -2324,7 +2600,8 @@
     }
    ],
    "grade": "A",
-   "calendar_note": "Old Style (Julian) dates"
+   "calendar_note": "Old Style (Julian) dates",
+   "disputes": "The arrival of 25 May 1565 is the Stephanius sheet's; the crossing from Rostock to Copenhagen 'without meeting hostile cruisers' is Dreyer's and Friis's narrative (Friis p. 19: they 'went aboard and reached Copenhagen'), Thoren's 'no difficulty finding a ship' reasoning — the landing place is not recorded. Gassendi has the ship sail 'recta in patriam'."
   },
   {
    "id": "stay-helsingborg-1565",
@@ -2337,22 +2614,35 @@
     "observation",
     "travel-transit"
    ],
-   "narrative": "Travelling home through Scania in June 1565, Tycho stopped at Helsingborg — the natural landfall of the Sound crossing — and made a determination of the local latitude, the first of three such stops (Helsingborg, Malmö, Knutstorp) that constitute his earliest recorded geodetic-astronomical fieldwork on home ground, made with the instruments and habits acquired at Leipzig. The stop rests on the pole-height list in his oldest observation journal, which Norlind reads as the itinerary of the journey itself.",
+   "narrative": "Travelling home through Scania in June 1565, Tycho is placed at Helsingborg — the natural landfall of the Sound crossing — by one witness only: the table of seven latitudes at the foot of p. 68 of his earliest observation codex (Leipzig 51°17', Wittenberg 51°48', Rostock 53°56', Copenhagen 55°25', Helsingborg 55°40', Malmö 55°20', Knutstorp 55°30'), under the copyist's heading 'notes interposed on the occasion, I think, of the journey from Leipzig by Wittenberg and Rostock', which Norlind read as the itinerary of the journey with latitudes taken under way. Read at source, the page is a reckoning, not a log: the Copenhagen figure is computed from German miles along the road, Leipzig is Homelius's observed value, and the three Scanian figures — the places of home, all a quarter to half a degree out — stand without derivation or date. The stop is Possible as a station on the road from the capital to Knutstorp; the 'latitude determination' this record once claimed for it is withdrawn.",
    "people": [],
    "evidence": [
     {
-     "source": "S_LOCI_THOREN",
-     "pages": "p. 20",
-     "quote": "Tycho proceeded to Helsingborg, Malmö, and finally Knudstrup Manor, making determinations of the local latitude at each stop",
-     "note": "derives from Norlind p. 20 (Thoren n. 31), not an independent attestation"
+     "source": "S_LOCI_GKS1824",
+     "pages": "pp. 67–69 (images 71–73)",
+     "quote": "Elevatio — Lipsiæ 51.17 — Vitebergæ 51.48 — Rostochiæ 53.56 — Hafniæ 55.25 — Helsinburg 55.40 — Malmogiæ 55.20 — Knudstrup 55.30",
+     "note": "The table at the foot of p. 68, beside 'Atque hæc omnia neglecta longitudinis differentia, quæ sane multum adhuc his positis elevationibus detrahit'; the reckoning above it; the comparison lists on pp. 67 and 69"
     },
     {
      "source": "S_LOCI_NORLIND",
      "pages": "p. 20",
-     "note": "pole-height list read as homeward route; presence inferred from the journal note"
+     "quote": "Annotationes interiectae occasione puto itineris Lipsia per Witebergam, Rostochium",
+     "note": "The list read as the homeward route 'antagligen', with observations under way 'förmodligen'"
+    },
+    {
+     "source": "S_LOCI_THOREN",
+     "pages": "p. 20",
+     "quote": "Tycho proceeded to Helsingborg, Malmö, and finally Knudstrup Manor, making determinations of the local latitude at each stop",
+     "note": "Derives from Norlind p. 20 (Thoren n. 31), not an independent attestation; the determinations are not on the page"
+    },
+    {
+     "source": "S_LOCI_TBOO10",
+     "pages": "X 13 n. 1",
+     "note": "'Harum annotationum hic solum eas, quæ de rebus astronomicis tractant, transcripsimus' — the latitude notes are among those Dreyer left unprinted"
     }
    ],
-   "grade": "B"
+   "grade": "C",
+   "disputes": "Possible, not Probable: the whole basis is one undated table on p. 68 of GKS 1824 4° (codex A), read on the Royal Library's facsimile on 29 October 2026 — heading 'Annotationes interiectæ occasione puto itineris Lipsia per Witebergam, Rostochium' (the 'puto' the copyist's own doubt; only the German stations named), the Copenhagen latitude derived by dead reckoning from the mileages Wittenberg–Rostock–Copenhagen and Rostock–Leipzig ('Verum de miliarium mensura non constat certo'), the seven-place table at the foot, no date and no 'observavi' anywhere on the page; p. 67 ends with a four-place comparison (Leipzig, Rostock, Copenhagen, Knutstorp in two columns, 'hæc se ferè ita habent') and p. 69, 'Annotationes interiectæ Ao 1566', opens with the same places again. Norlind (p. 20) read the list as the homeward route 'antagligen', the observations made under way 'förmodligen', dating it to 1565 by its place between the 7 November 1565 eclipse and the 1566 notes — the dating holds, the observations do not. Thoren (p. 20, n. 31) derives from Norlind. Tycho observed from Helsingborg again on 30 December 1570 and from Knutstorp in 1573."
   },
   {
    "id": "stay-knutstorp-1565",
@@ -2360,12 +2650,12 @@
    "period": "per-4",
    "date_start": "1565-06",
    "date_end": "1566-04",
-   "date_precision": "circa",
+   "date_precision": "range-uncertain",
    "purposes": [
     "birth-family",
     "property-administration"
    ],
-   "narrative": "About a year at home in Denmark between the Leipzig and Wittenberg residences, June 1565 to April 1566, bracketed by the Stephanius notes (Rostock 25 May 1565; 'returned to Wittenberg on April 15, 1566, from his fatherland'). Jørgen Brahe's death on 21 June 1565 changed Tycho's status: the plan to make him heir to Tostrup lapsed, and Inger Oxe, widowed, continued to regard him 'with a quite special love'. He recorded no observations that year, occupied himself with ordering his money matters and gathering funds for the peregrination he had resolved on, and found the nobility's contempt for his studies galling — of his relations only Steen Bille approved. By spring 1566 he had won leave, or simply asserted himself, to depart.",
+   "narrative": "The year at home between the Leipzig and Wittenberg residences, June 1565 to April 1566, is bracketed by the Stephanius sheet (Rostock 25 May 1565; 'returned to Wittenberg on April 15, 1566, from his fatherland') and by Tycho's own 'in Patriam revocatus' — and no record names where in Denmark he lived it. Knutstorp is the last name of the codex's table of latitudes ('Knudstrup 55.30' — a reckoning, not an observation), read by Norlind as the end of the homeward route, and Thoren's arrival point ('finally Knudstrup Manor'); the family's home that year was Aalborghus, where Otte Brahe sat as lensmand in every chancery entry of 1565, and Christianson 2020, Ellefsen and Thoren himself have Tycho with his parents there (see stay-aalborghus-1565). Inger Oxe, widowed on 21 June 1565, held Nykøbing to 1 May 1566 and Tosterup as her jointure; nothing places Tycho with her either. Jørgen Brahe's death changed Tycho's status: the plan to make him heir to Tostrup lapsed, and Inger continued to regard him 'with a quite special love'. The printed journal has no observation between 19 April 1565 and 1568, though Tycho says he went on observing with the radius 'postea etiam in Patriam revocatus'; he occupied himself with ordering his money matters and gathering funds for the peregrination he had resolved on, and found the nobility's contempt for his studies galling — of his relations only Steen Bille approved. By spring 1566 he had won leave, or simply asserted himself, to depart; from which house is not recorded.",
    "people": [
     {
      "name": "Jørgen Brahe",
@@ -2449,10 +2739,102 @@
      "pages": "pp. 29–30",
      "quote": "Tycho came to live with his birth parents at Aalborghus Castle, where Otto Brahe was governor",
      "note": "the divergent Aalborghus placement; Hans Aalborg engaged as tutor"
+    },
+    {
+     "source": "S_LOCI_MECHANICA1598",
+     "pages": "TBOO V 108",
+     "quote": "quam diu Lipsiæ morabar, et postea etiam in Patriam revocatus exequebar",
+     "note": "Observing with the radius continued after the recall; no place named"
+    },
+    {
+     "source": "S_LOCI_ELLEFSEN",
+     "pages": "p. 31",
+     "quote": "På denne tiden bodde Otte og Beate på Ålborghus, slottet i Ålborg. Tycho var mye hos dem i tiden etter Jørgens død"
+    },
+    {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Nykøbing (Falster) entry",
+     "note": "The widow Inger Oxe kept Nykøbing to 1 May 1566"
     }
    ],
    "grade": "B",
-   "disputes": "Residence for the home year: Thoren pp. 20–22 has Knudstrup (with Otte, governor of Aalborg Castle, mostly absent), supported by the journal route-list terminus (Norlind); Christianson 2020 pp. 29–30 has Tycho live with his birth parents at Aalborghus Castle; Dreyer, Friis, Gassendi and Jönsson name no residence. Knutstorp adopted as best-attested, Aalborghus preserved as Christianson's alternative. Also: Gassendi's reading of 'in patriam revocatus' as a recall caused by Jørgen Brahe's death is rejected (Norlind pp. 20–21) — the uncle died 21 June 1565, a month after Tycho left Leipzig on 17 May."
+   "disputes": "Residence for the home year: Thoren pp. 20–22 has the arrival at Knudstrup and then the family 'at home with Beate and Otte in Aalborg Castle', Tycho 'probably' with his father; Christianson 2020 pp. 29–30 has him live with his birth parents at Aalborghus; Ellefsen 2023 p. 31 'Tycho var mye hos dem' at Aalborghus; Norlind's route-list terminus is Knutstorp; Dreyer, Friis, Gassendi and Jönsson name no residence; Dreyer expressly declines. The audit of 29 October 2026 splits the record: Knutstorp Probable for the June 1565 arrival, Aalborghus Probable for the year — both undocumented for Tycho himself, Otte's residence at Aalborghus documented. Gassendi's reading of 'in patriam revocatus' as a recall caused by Jørgen Brahe's death is rejected (Norlind pp. 20–21) — the uncle died 21 June 1565, a month after Tycho left Leipzig on 17 May. Christianson's 'did not observe the stars that entire year' against Tycho's own 'postea etiam in Patriam revocatus exequebar' — the printed codex supports Christianson, Tycho's sentence stands as his."
+  },
+  {
+   "id": "stay-aalborghus-1565",
+   "place": "aalborghus",
+   "period": "per-4",
+   "date_start": "1565-07",
+   "date_end": "1566-04",
+   "date_precision": "range-uncertain",
+   "calendar_note": "All dates Old Style (Julian).",
+   "purposes": [
+    "birth-family"
+   ],
+   "narrative": "The home year of 1565–66 in the house of his birth parents. Otte Brahe had held Aalborghus, the royal castle of northern Jutland, since May 1555, and the chancery styles him 'Embedsmand paa Olborghus' in every entry of 1565 — about thirty-five of them, the last on 31 December — with nothing placing him in Scania or Copenhagen that summer; he exchanged it for Helsingborg only in 1567. After Jørgen Brahe's death on 21 June 1565 Tycho, Christianson writes, 'came to live with his birth parents at Aalborghus Castle, where Otto Brahe was governor and also a Councillor of the Realm', Ellefsen that he 'was much with them in the time after Jørgen's death', and Thoren, who lands him at Knutstorp in June, has the sisters Kirsten and Sophie 'at home with Beate and Otte in Aalborg Castle' and Tycho 'probably' spending much of his time with his father — 'visiting in his curious role of nephew/cousin of his parents and siblings'. No record names Tycho at Aalborg; the printed journal has no observation between April 1565 and 1568, and the Stephanius sheet resumes only with Wittenberg on 15 April 1566, 'from his fatherland'. Probable, as the documented home of the family he returned to, beside the Knutstorp arrival (stay-knutstorp-1565).",
+   "people": [
+    {
+     "name": "Otte Brahe",
+     "role": "father; lensmand of Aalborghus 1555–67, rigsråd by 1563"
+    },
+    {
+     "name": "Beate Bille",
+     "role": "mother",
+     "familia": "COR_BEATE_BILLE"
+    },
+    {
+     "name": "Sophie Brahe",
+     "role": "sister, then about nine",
+     "familia": "COR_SOPHIE_BRAHE"
+    },
+    {
+     "name": "Kirsten Brahe",
+     "role": "sister"
+    }
+   ],
+   "evidence": [
+    {
+     "source": "S_LOCI_CHRISTIANSON2020",
+     "pages": "pp. 29–30",
+     "quote": "Tycho came to live with his birth parents at Aalborghus Castle, where Otto Brahe was governor and also a Councillor of the Realm. Tycho did not observe the stars that entire year",
+     "note": "Flat assertion; no record cited"
+    },
+    {
+     "source": "S_LOCI_ELLEFSEN",
+     "pages": "p. 31 (n. p. 288)",
+     "quote": "På denne tiden bodde Otte og Beate på Ålborghus, slottet i Ålborg. Tycho var mye hos dem i tiden etter Jørgens død",
+     "note": "Her note: 'Otte var lensherre i Ålborghus 1555–1567'"
+    },
+    {
+     "source": "S_LOCI_THOREN",
+     "pages": "pp. 20–22",
+     "quote": "Sisters Kirsten and Sophie were at home with Beate and Otte in Aalborg Castle",
+     "note": "Otte 'had been spending most of his time there'; Tycho 'probably spent much of his time with his father'; the arrival nevertheless at Knudstrup (p. 20)"
+    },
+    {
+     "source": "S_LOCI_KB_BREVBOGER",
+     "pages": "Kancelliets Brevbøger 1561–65 (Otte Brahe 'Embedsmand paa Olborghus', 1561–65; p. 697, 31 December 1565)",
+     "note": "About thirty-five entries style him at Aalborghus in 1565; a crown skøde to 'Otthe Brade til Knudstrup' 13 June 1563 (p. 269); not styled 'Hr.' 1563–65"
+    },
+    {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Aalborghus entry (p. 50); Helsingborg entry (p. 2)",
+     "note": "Otte Brahe 1555–67 (følgebrev to the peasants 2 May 1555, KB 1551–55 p. 384); Helsingborg 1567–71"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Otte Brahe – rigsråd; Tyge Brahe – astronom",
+     "note": "Aalborghus 1555–67; rigsråd by April 1563; Tycho's 'et års ophold i Danmark'"
+    },
+    {
+     "source": "S_LOCI_FACTSOFLIFE",
+     "pages": "p. 24",
+     "quote": "Returned to Wittenberg on April 15, 1566, from his fatherland.",
+     "note": "The next dated sighting; the Danish year's residence unnamed"
+    }
+   ],
+   "grade": "B",
+   "disputes": "Three modern biographers against the codex list's Knutstorp terminus and Thoren's own arrival sentence; none cites a document for Tycho. Inger Oxe's Nykøbing (to 1 May 1566) and Tosterup are a third possibility no source raises. Dreyer declines to say where he resided. Added by the audit of 29 October 2026; the Knutstorp record keeps the June arrival."
   },
   {
    "id": "stay-malmo-1565",
@@ -2465,22 +2847,29 @@
     "observation",
     "travel-transit"
    ],
-   "narrative": "The second latitude-determination stop of the June 1565 homeward journey through Scania, between Helsingborg and Knutstorp. Malmö is the penultimate name in the pole-height list of the oldest observation journal (Leipzig, Wittenberg, Rostock, Copenhagen, Helsingborg, Malmö, Knutstorp), read by Norlind as the route of the journey with observations made under way; the observations were preserved in the notebook record but not printed by Dreyer, as Thoren notes from Norlind. As with the other Scanian waypoints, the presence rests on this journal inference.",
+   "narrative": "The second Scanian name of the June 1565 homeward journey, between Helsingborg and Knutstorp, on the strength of one undated table of seven latitudes at the foot of p. 68 of the earliest observation codex ('Malmogiæ 55.20', the sixth of seven), read by Norlind as the itinerary of the journey. The page, read at source, is a reckoning of latitudes from mileages, with no observation and no date beside the Scanian names; Malmö is Possible as a station of the road home, not a documented stop, and the 'latitude determination' this record once claimed is withdrawn.",
    "people": [],
    "evidence": [
     {
-     "source": "S_LOCI_THOREN",
-     "pages": "p. 20",
-     "quote": "Helsingborg, Malmö, and finally Knudstrup Manor, making determinations of the local latitude at each stop",
-     "note": "derives from Norlind p. 20 (Thoren n. 31), not an independent attestation"
+     "source": "S_LOCI_GKS1824",
+     "pages": "p. 68 (image 72)",
+     "quote": "Malmogiæ 55. 20",
+     "note": "Sixth of the seven names in the table at the foot of the page"
     },
     {
      "source": "S_LOCI_NORLIND",
      "pages": "p. 20",
-     "note": "pole-height list read as homeward route"
+     "note": "The list read as the homeward route"
+    },
+    {
+     "source": "S_LOCI_THOREN",
+     "pages": "p. 20",
+     "quote": "Helsingborg, Malmö, and finally Knudstrup Manor, making determinations of the local latitude at each stop",
+     "note": "Derives from Norlind p. 20 (Thoren n. 31), not an independent attestation"
     }
    ],
-   "grade": "B"
+   "grade": "C",
+   "disputes": "Possible, on the same single undated table as the Helsingborg stop — see stay-helsingborg-1565 for the page as read on 29 October 2026, the heading's 'puto' and Norlind's hedges."
   },
   {
    "id": "stay-wittenberg-1566",
@@ -10152,7 +10541,7 @@
     "stay-leipzig-1562"
    ],
    "purpose": "The prescribed foreign educational journey of a young Danish noble: sent by Jørgen Brahe and Inger Oxe to Germany's best law school, nominally for jurisprudence, with the twenty-year-old Anders Sørensen Vedel as preceptor, guardian and treasurer.",
-   "narrative": "Departed Copenhagen 14 February 1562, arrived Leipzig 24 March — five and a half weeks by ship across the southern Baltic, then on horseback along the Elbe and Saale, passing through Wittenberg and riding two more days to Leipzig. Wittenberg is the only intermediate station any source names; Dreyer, Friis, Norlind, Jönsson and Christianson 2020 name none. Kinsmen had arranged a good reception in Leipzig in advance.",
+   "narrative": "Departed Copenhagen 14 February 1562, arrived Leipzig 24 March — five and a half weeks, by the Stephanius sheet's two dates, which are all any witness gives. The ship across the southern Baltic, the ride along the Elbe and Saale, the passage through Wittenberg and the two further days to Leipzig are Thoren's reconstruction of 'the well trodden route', repeated by Håkansson; no source names the port of embarkation or landing, and Dreyer, Friis, Norlind, Jönsson, Gassendi and Christianson 2020 name no station at all. Kinsmen had arranged a good reception in Leipzig in advance.",
    "evidence": [
     {
      "source": "S_LOCI_DREYER",
@@ -10201,7 +10590,7 @@
     }
    ],
    "grade": "A",
-   "disputes": "A source record spanning the whole decade of the 1560s, with an ordering its own source cannot verify after Leipzig, is reduced here to the attested Copenhagen–Leipzig leg."
+   "disputes": "Route unattested beyond the two dates; the Wittenberg waypoint Possible (stay-wittenberg-1562), any named Baltic port unsupported. A source record spanning the whole decade of the 1560s, with an ordering its own source cannot verify after Leipzig, is reduced here to the attested Copenhagen–Leipzig leg."
   },
   {
    "id": "journey-leipzig-home-1565",
@@ -10218,7 +10607,7 @@
     "stay-knutstorp-1565"
    ],
    "purpose": "travel-transit",
-   "narrative": "The best-dated of the early journeys: Tycho and Vedel left Leipzig on 17 May 1565 (Hegelund's date), passed through Wittenberg, reached Rostock on 25 May (Stephanius), and crossed the war-time Baltic to Copenhagen without meeting hostile cruisers, the Danish and Swedish fleets massing in the Sound. The onward legs — Copenhagen, Helsingborg, Malmö, Knutstorp, with latitude determinations under way — are Norlind's probable reading of the pole-height list in the oldest observation journal. Gassendi has a direct sail from Rostock to the fatherland.",
+   "narrative": "The best-dated of the early journeys: Tycho and Vedel left Leipzig on 17 May 1565 (the Stephanius sheet and, independently, Peder Hegelund's almanac), passed through Wittenberg (Gassendi's regretted 'in transcursu'; Tycho's own undated 'olim transirem'), reached Rostock on 25 May (Stephanius), and crossed the war-time Baltic, the Danish and Swedish fleets massing in the Sound. The onward legs — Copenhagen, Helsingborg, Malmö, Knutstorp — are Norlind's reading of a page of the observation codex (GKS 1824 4°, p. 68) headed by the copyist 'Annotationes interiectæ occasione puto itineris Lipsia per Witebergam, Rostochium'; read at source, the page reckons Copenhagen's latitude from the German miles of the road — 32 Wittenberg to Rostock, 25 or 22 by sea to Copenhagen, 40 Rostock to Leipzig — and closes with a table of seven latitudes that ends with the three Scanian places of home: the itinerary the reckoning follows is this journey's, and the only one any witness gives beyond Rostock; the 'latitudes taken under way' are not there. Gassendi has a direct sail from Rostock to the fatherland. The year that followed was spent, by the better-supported account, with his parents at Aalborghus (stay-aalborghus-1565).",
    "evidence": [
     {
      "source": "S_LOCI_THOREN",
@@ -10251,10 +10640,21 @@
      "source": "S_LOCI_CHRISTIANSON2020",
      "pages": "p. 29",
      "quote": "In late May 1565, after three years in Leipzig, Tycho and Vedel came home to a Denmark locked in war"
+    },
+    {
+     "source": "S_LOCI_GKS1824",
+     "pages": "p. 68 (image 72)",
+     "quote": "Annotationes interiectæ occasione puto itineris Lipsia per Witebergam, Rostochium",
+     "note": "The copyist's heading; the mileages of the road and the seven-place table"
+    },
+    {
+     "source": "S_LOCI_ERLER1909",
+     "pages": "p. 43",
+     "note": "Context only: Tycho and Vedel consecutive in the Saxon nation's list of the winter semester 1561/62"
     }
    ],
    "grade": "A",
-   "disputes": "Gassendi's reading of the return as a recall occasioned by Jørgen Brahe's death is rejected (Norlind): the uncle died 21 June, a month after departure. The Scanian waypoints rest on the journal inference; Gassendi has the ship sail 'recta in patriam' from Rostock. Christianson 2020 ends the journey at Aalborghus rather than Knutstorp (see stay-knutstorp-1565 disputes). A parallel stationless record of the same return (Jönsson: probably at Jørgen Brahe's urging; Christianson 2020: home in late May) was merged here."
+   "disputes": "Gassendi's reading of the return as a recall occasioned by Jørgen Brahe's death is rejected (Norlind): the uncle died 21 June, a month after departure. The Scanian waypoints rest on the codex table alone, graded Possible (see stay-helsingborg-1565 for the page); the landing place is not recorded; no source names the port. Christianson 2020 ends the journey at Aalborghus rather than Knutstorp. A parallel stationless record of the same return (Jönsson: probably at Jørgen Brahe's urging; Christianson 2020: home in late May) was merged here."
   },
   {
    "id": "journey-second-study-tour-1566",
@@ -12064,6 +12464,150 @@
     }
    ],
    "grade": "B"
+  },
+  {
+   "id": "nv-gladsaxehus-1547",
+   "label": "Gladsaxehus (the infant's residence and the abduction, 1547–48)",
+   "claim": "That Tycho was at his father's fief of Gladsaxehus in eastern Scania in December 1547 and was taken from there by Jørgen Brahe",
+   "narrative": "The parents are documented there: Otte Brahe held the royal fief of Gladsaxe from 11 November 1544 to 1555, and his own memorandum puts Steen's birth on St Thomas's day before Yule 1547 'po Glaxass', while Tycho's (1546) and Maren's (15 May 1549) are 'po Knustrop' — the household moved between the seat and the fief. The infant Tycho's whereabouts in December 1547, and the place of his abduction, are recorded nowhere: Tycho says 'in infantiâ abreptus', Ellefsen 'ingen detaljer om episoden er bevart'. Gladsaxehus is a candidate site only if the child was with his mother when his brother was born, which no source states. An assumption, held here so that it is not made a stay.",
+   "evidence": [
+    {
+     "source": "S_LOCI_FRIIS1871",
+     "pages": "Bilag 1 (scan p. 323)",
+     "quote": "bleff myn ssøn Sten ffødh ... po Glaxass",
+     "note": "Otte Brahe's memorandum; Friis's note identifies Gladsaxe in Scania"
+    },
+    {
+     "source": "S_LOCI_ERSLEV1879",
+     "pages": "Gladsaxe entry (p. 7)",
+     "note": "Otte Brahe 1544–55; lensbrev 26 September 1544 from 11 November; pledged 17 November 1546"
+    },
+    {
+     "source": "S_LOCI_CHRISTIANSON2020",
+     "pages": "p. 13",
+     "quote": "Steen, born at Gladsaxehus Castle in eastern Skåne"
+    },
+    {
+     "source": "S_LOCI_ELLEFSEN",
+     "pages": "p. 26",
+     "quote": "Ingen detaljer om episoden er bevart"
+    }
+   ],
+   "grade": "D",
+   "verdict": "disputed",
+   "disputes": "Documented for the parents on 21 December 1547 (Otte's memorandum); for Tycho assumed by no one in print and asserted by no source — recorded by the audit of 29 October 2026 as the one place other than Knutstorp where the household can be shown in his first year.",
+   "lat": 55.571,
+   "lon": 14.27
+  },
+  {
+   "id": "nv-torgau-1548",
+   "label": "Torgau (Electress Anne's wedding, October 1548)",
+   "claim": "That the infant Tycho accompanied Jørgen Brahe and Inger Oxe to Saxony for the wedding of Princess Anne to Duke Augustus",
+   "narrative": "Thoren has Peder Oxe lead Princess Anne's entourage to her Saxon wedding in 1548 and Jørgen and Inger accompany the electress 'when Tycho was a baby' — the origin of the family's ties to the Dresden court that later sent Tycho to Leipzig. No source takes the child, then under two, to Torgau, and none discusses what the journey means for the abduction's date: if the foster parents were in Saxony in the autumn of 1548, the boy was either not yet theirs or was left behind. Never visited, on the evidence; the point is kept for the chronology.",
+   "evidence": [
+    {
+     "source": "S_LOCI_THOREN",
+     "pages": "pp. 5, 13",
+     "quote": "Jørgen and Inger had close ties to the court, because they had accompanied Electress Anne to her wedding ceremonies there when Tycho was a baby"
+    }
+   ],
+   "grade": "C",
+   "verdict": "never-visited",
+   "disputes": "The wedding's place and month (Torgau, October 1548) are from general reference, not from Thoren; the infant's absence is an inference from the silence of every source.",
+   "lat": 51.56,
+   "lon": 13.01
+  },
+  {
+   "id": "nv-vordingborg-latinskole",
+   "label": "Vordingborg Latin school (as Tycho's school, c. 1553–59)",
+   "claim": "That Tycho attended the Latin school of Vordingborg from about his seventh year, because his foster father was lensmand of the castle",
+   "narrative": "Tycho's only word on his schooling is that his uncle put him 'to the Latin school about my seventh year' — no place, no teacher. The Nationalmuseet's education essay presumes ('formodentlig') the Vordingborg Latin school, where Jørgen Brahe was lensmand 1552–57, and gives him five years there; the five years are Gassendi's, who has Latin masters 'summoned to the house' instead, and the town's own school history finds teaching at Vordingborg beginning only after 1550, with a schoolmaster endowed from the Kastrup tithe in 1555 — a school barely begun in the boy's seventh year. The Dansk Biografisk Leksikon has 'privatundervisning'; Friis a 'Hovmester' ('altsaa', an inference); Dreyer a tutor at Tostrup, citing only the Mechanica; Christianson's Swedish essay the Nykøbing Latin school ('förmodligen', a school attested since 1498, Jørgen's from 1555); Norlind 'kanske' Odense (impossible on the dates) and doubt that a cathedral school was meant at all; Thoren 'a cathedral school near Vordingborg' by analogy with his brothers at Aalborg. No school register, tutor's name or payment exists in anything read. An unevidenced conjecture among five; not refuted, not asserted.",
+   "evidence": [
+    {
+     "source": "S_LOCI_MECHANICA1598",
+     "pages": "TBOO V 106 (Raeder/Strömgren 1946 p. 106)",
+     "quote": "circa annum ætatis septimum scholæ latinæ adhibitus sim"
+    },
+    {
+     "source": "S_LOCI_VERDEN",
+     "pages": "Tycho Brahes Verden, scan p. 35",
+     "quote": "formodentlig i Vordingborg latinskole, da hans plejefar, Jørgen Brahe, paa den tid var lensmand paa Vordingborg slot. Her undervistes Tycho de næste 5 år"
+    },
+    {
+     "source": "S_LOCI_GASSENDI",
+     "pages": "p. 4",
+     "quote": "totis quinque annis sub Latinæ linguæ magistris, quos Patruus domum accersiit"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Tyge Brahe – astronom",
+     "quote": "fra syvårsalderen fik han privatundervisning, især i latin"
+    },
+    {
+     "source": "S_LOCI_HAKANSSON",
+     "pages": "Håkansson ed. 2006, p. 42",
+     "quote": "Förmodligen tillbringade han sina dagar vid Nykøbings latinskola"
+    },
+    {
+     "source": "S_LOCI_NORLIND",
+     "pages": "p. 12",
+     "quote": "Om Tycho ... sattes i latinskola, vilket skulle förutsätta en dom- och katedralskola, är mycket ovisst"
+    },
+    {
+     "source": "S_LOCI_THOREN",
+     "pages": "p. 9",
+     "quote": "All we actually know is that he 'was sent to grammar school in my seventh year'"
+    },
+    {
+     "source": "S_LOCI_FRIIS1871",
+     "pages": "Friis 1871 pp. 5–6",
+     "quote": "Omtrent fra sit syvende Aar fik Tyge Brahe altsaa en Hovmester"
+    },
+    {
+     "source": "S_LOCI_",
+     "pages": "the whereabouts audit of 29 October 2026, §4",
+     "note": "Vordingborg's school after 1550 and the 1555 tithe (the gymnasium's jubilee volume 1963; Trap Danmark); Nykøbing's school from 3 December 1498"
+    }
+   ],
+   "grade": "C",
+   "verdict": "disputed",
+   "disputes": "Five rival conjectures from one fact (the uncle's fiefs) and one sentence of Tycho's. The residence at Vordingborg (stay-vordingborg-1552) does not depend on the school.",
+   "lat": 55.008,
+   "lon": 11.91
+  },
+  {
+   "id": "nv-jorgen-funeral-1565",
+   "label": "Copenhagen (Jørgen Brahe's deathbed and burial, June 1565)",
+   "claim": "That Tycho was in Copenhagen at his foster father's death on 21 June 1565 or at his burial in Vor Frue",
+   "narrative": "Jørgen Brahe, serving 'paa Mercurius' under Herluf Trolle on 23 May 1565, fell into the water at the inspection of the returned fleet — the king's rescue at the castle bridge is the later telling — and died in Copenhagen on 21 June 1565; the chancery's first trace is the widow's pledge in Lund raised on 24 June; he was buried in Vor Frue. No source places Tycho at the deathbed or the burial: Thoren has him at Knutstorp when the uncle fell, the Danske Magazin biography of 1746 only that he may have been called home while the uncle lived, and Gassendi's 'recalled by the death' is impossible, since Tycho had left Leipzig on 17 May. Where the funeral was held and when is unrecorded.",
+   "evidence": [
+    {
+     "source": "S_LOCI_KB_BREVBOGER",
+     "pages": "Kancelliets Brevbøger 1561–65, pp. 612, 625",
+     "quote": "Fru Inger Oxe, Jørgen Brades Enke",
+     "note": "23 May 1565 'paa Mercurius'; 24 June 1565 the widow's pledge in St Peder's Kloster, Lund, raised by 1000 Joachimsdaler"
+    },
+    {
+     "source": "S_LOCI_DBL",
+     "pages": "Jørgen Brahe – lensmand",
+     "note": "'Død i Kbh., begravet sst. (Frue k.)'; the accident in the harbour at the fleet's inspection"
+    },
+    {
+     "source": "S_LOCI_THOREN",
+     "pages": "p. 20",
+     "note": "Tycho at Knudstrup; 'in less than a month, however, his status changed'"
+    },
+    {
+     "source": "S_LOCI_NORLIND",
+     "pages": "pp. 20–21",
+     "note": "Gassendi's recall motive rejected on the dates"
+    }
+   ],
+   "grade": "B",
+   "verdict": "disputed",
+   "disputes": "An absence of evidence, well attested: every source read is silent. The two versions of the accident (the harbour, DBL; the horse at the castle bridge, Ellefsen and the encyclopaedias) rest on no primary record reached.",
+   "lat": 55.6794,
+   "lon": 12.5727
   }
  ],
  "sites": [
@@ -13438,6 +13982,46 @@
    "url": "https://archive.org/details/bub_gb_sLb6k-62vbQC",
    "url_label": "full scan at the Internet Archive",
    "contributes": "The count of the books bound and stamped T.B.O. 1576 — 'a total of 33 books' in the thirteen Prague volumes of Kleinschnitzová nos. 15, 19, 21, 22, 26, 27, 28, 29, 34, 35, 39, 40, 43 — read as the harvest of the journey of 1575–76, 'probably' at Frankfurt."
+  },
+  {
+   "id": "S_LOCI_ERSLEV1879",
+   "label": "Erslev, Danmarks Len og Lensmænd 1513–1596 (1879)",
+   "full": "Kr. Erslev, Danmarks Len og Lensmænd i det sextende Aarhundrede (1513–1596) (Copenhagen, 1879) — the register of every royal fief and its holders, with the dates of the lensbreve. Read in the archive.org scan (danmarkslenogle00stifgoog); cited by printed page.",
+   "url": "https://archive.org/details/danmarkslenogle00stifgoog",
+   "url_label": "archive.org",
+   "contributes": "The documented frame of the childhood: which royal castle Jørgen Brahe and Otte Brahe held in which year — Tranekær 1542–49, the Odense len 1549–52, Vordingborg 1552–57, Nykøbing 1555–66; Gladsaxe 1544–55, Aalborghus 1555–67, Helsingborg 1567–71."
+  },
+  {
+   "id": "S_LOCI_DBL",
+   "label": "Dansk Biografisk Leksikon (3rd ed.)",
+   "full": "Dansk Biografisk Leksikon, 3rd edition (1979–84), online at biografiskleksikon.lex.dk: the entries 'Jørgen Brahe – lensmand' (Henry Bruun), 'Otte Brahe – rigsråd' and 'Tyge Brahe – astronom'; the first edition (Bricka, 1887–1905) on runeberg.org where cited.",
+   "url": "https://biografiskleksikon.lex.dk/J%C3%B8rgen_Brahe_-_lensmand",
+   "url_label": "lex.dk",
+   "contributes": "The brothers' careers in the standard reference: Jørgen never rigsråd, his fiefs year by year, his death and burial in Vor Frue; Otte's Gladsaxe, Aalborghus and Helsingborg; Tycho's 'privatundervisning' from his seventh year and the 'year's stay in Denmark' of 1565–66."
+  },
+  {
+   "id": "S_LOCI_TBOO10",
+   "label": "Opera omnia X (1923) — the observation codex 1563–1581",
+   "full": "Tychonis Brahe Dani Opera omnia, ed. J. L. E. Dreyer, tomus X (Copenhagen, 1923): the observations of 1563–1581 from the Copenhagen codices, chiefly codex A (GKS 1824 4°, the 17th-century transcript of the lost octavo of the boy Tycho), with Dreyer's Prolegomena on the codices. Cited by printed page.",
+   "url": "",
+   "url_label": "",
+   "contributes": "The earliest dated place-sightings in Tycho's own record: the Leipzig observations from 17 August 1563 to 19 April 1565 under the copyist's year-headings 'Lipsiæ'; the 'Annotationes interiectæ' that follow (the 7 November 1565 eclipse note Dreyer misread as a second Leipzig stay); nothing between April 1565 and 1568."
+  },
+  {
+   "id": "S_LOCI_GKS1824",
+   "label": "GKS 1824 4° — the observation codex (codex A), read at the Royal Library's facsimile",
+   "full": "Copenhagen, Det Kgl. Bibliotek, GKS 1824 4°: 'Tychonis Brahei Observationes, Lipsiæ ab anno 1563-1565, Rostochii 1568, Aug. Vind. 1569-1573, Herisvadi, Hafniæ et in insula Hvenæ 1574-1582, præmissis Excerptis ex observationibus G. Frisii et Regiomontani' — the 17th-century transcript of the lost octavo of Tycho's earliest observations (Dreyer's codex A), 466 pages, in the library's Digitale Samlinger (object 77724; image number = codex page + 4). Pages 67–69 read on 29 October 2026 for the latitude notes of 1565–66.",
+   "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object77724/da/",
+   "url_label": "Digitale Samlinger",
+   "contributes": "What the 'pole-height list' of the homeward journey of 1565 actually is: a page of dead reckoning (p. 68) that derives Copenhagen's latitude from German miles along the road Wittenberg–Rostock–Copenhagen and from Homelius's Leipzig, with a seven-place table of latitudes at its foot — Leipzig, Wittenberg, Rostock, Copenhagen, Helsingborg, Malmö, Knutstorp — and no observation; the route the reckoning follows is the journey's."
+  },
+  {
+   "id": "S_LOCI_ERLER1909",
+   "label": "Erler, Die jüngere Matrikel der Universität Leipzig, Bd. 1 (1909)",
+   "full": "Georg Erler, Die jüngere Matrikel der Universität Leipzig 1559–1809, Bd. 1: Die Immatrikulationen vom Wintersemester 1559 bis zum Sommersemester 1634 (Leipzig: Giesecke & Devrient, 1909) — a Personenregister (pp. 1–530) that is the edition of the matrikel: name, origin, fee, 'i' (inscriptus), semester, nation and running number in the nation's list. Read in the SLUB Dresden facsimile (sachsen.digital, werk 451750), pp. 43 and 433.",
+   "url": "https://sachsen.digital/werk/451750/161",
+   "url_label": "sachsen.digital",
+   "contributes": "The Leipzig matriculation at source: 'Brade Tycho ex Schania Dan. 1 fl. 3 gr. i W 1561 S 15' (p. 43) and 'Severin Andr. ex Cymbria Danus 8 gr. i W 1561 S 14' (p. 433) — the winter semester 1561/62, natio Saxonum, Vedel the entry before Tycho; no day."
   }
  ],
  "_master_step5_applied": true
