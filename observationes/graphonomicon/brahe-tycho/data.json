@@ -4878,10 +4878,10 @@
   },
   {
    "id": "gabriel-crusius",
-   "name": "Gabriel Crusius (fl. 1654–1673), ‘nobilis ac doctissimus Dominus’ — a mid-seventeenth-century Bohemian owner of at least four volumes from Tycho's library",
+   "name": "Gabriel Crusius (fl. 1654–1673), ‘nobilis ac doctissimus Dominus’ — a mid-seventeenth-century Bohemian owner (and, for 5 J 103, donor) of at least four volumes from Tycho's library",
    "relationship": "later_annotator",
    "confidence": "B",
-   "why": "His flourished ownership formula ‘G. Crusio inservio’, with a trailing K-glyph, stands on the title leaves of four Tycho volumes — Prague, NK ČR 5 G 92 and 5 J 103 (his gifts to the Chomutov Jesuits of 5 August 1654) and Strahov AG XIV 7 and AV II 2 (the latter in graphite) — so any title-leaf or endleaf mark in those books, and any annotation in a book he owned, must first be tested against his hand before it is given to Tycho. A later annotator, not a contemporary: the script is a Baroque display hand of c. 1620–1700, and the 5 G 92 instance stands beside the year 1673.",
+   "why": "His flourished ownership formula ‘G. Crusio inservio’, with a trailing K-glyph, stands on the title leaves of three Tycho volumes — Prague, NK ČR 5 G 92 (beside the year 1673) and Strahov AG XIV 7 and AV II 2 (the latter in graphite); a fourth, NK ČR 5 J 103, carries not the formula but his donation note to the Chomutov Jesuits, ‘Donauit Commotouij Nobilis ac Doctissimus Dominus Gabriel Crusius 5. Augustj A. D[omi]nj 1654.’, and a struck-through note round the printer's device ending ‘Crusij’ (the library's record; corrected,) — so any title-leaf or endleaf mark in those books, and any annotation in a book he owned, must first be tested against his hand before it is given to Tycho. A later annotator, not a contemporary: the script is a Baroque display hand of c. 1620–1700, and the 5 G 92 instance stands beside the year 1673.",
    "shared_features": [
     "Latin ownership formulae on the title leaves of Tycho's own books",
     "co-located with Tycho's bindings and, on AV II 2, with marginalia attributed to Tycho"
