@@ -1,7 +1,7 @@
 {
  "key": "brahe-tycho",
- "version": "1.24",
- "edition_date": "2026-10-27",
+ "version": "1.25",
+ "edition_date": "2026-11-13",
  "title": "Receptio Tychonis — the afterlife of Tycho Brahe",
  "items": [
   {
@@ -2531,8 +2531,8 @@
   },
   {
    "id": "S_RECEP_AGERTOFT2026",
-   "label": "Agertoft, 'Himmelglobussens lange rejse' (forthcoming)",
-   "full": "Rasmus Agertoft, 'Himmelglobussens lange rejse', in a forthcoming anthology (cited from the proof of October 2026): the great globe's itinerary from Augsburg to the fire of 1728, with the Copenhagen stations dated from Resen, Huet, Picard, Christian IV's letter of 1646, the lists of 1686, 1710 and 1718 and Horrebow's Basis astronomiae.",
+   "label": "Agertoft, 'Himmelglobussens lange rejse' (2026)",
+   "full": "Rasmus Agertoft, 'Himmelglobussens lange rejse', in Essays og foredrag. Selskabet for Historie, Litteratur og Kunst 150 år, ed. Per Kristian Madsen, Chr. Gorm Tortzen, Erik Skyum-Nielsen and Jesper Düring Jørgensen (2026), pp. 57–78: the great globe's itinerary from Augsburg to the fire of 1728, with the Copenhagen stations dated from Resen, Huet, Picard, Christian IV's letter of 1646, the lists of 1686, 1710 and 1718 and Horrebow's Basis astronomiae.",
    "contributes": "the globe's Copenhagen stations — the University's upper auditorium 1632–after 1671, the tower by 1686, the fire of 21 October 1728"
   }
  ],
