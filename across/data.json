@@ -22,8 +22,8 @@
   "cens_documented_none": 2,
   "cens_attested_only": 5,
   "printed": 29,
-  "lifetime_printed": 22,
-  "later_printed": 7,
+  "lifetime_printed": 23,
+  "later_printed": 6,
   "uncensused": 5,
   "instruments": 26,
   "inst_extant": 2,
@@ -1727,7 +1727,7 @@
   {
    "kind": "edition",
    "key": "M_APOLOGIA_1598",
-   "label": "Hamburg 1598 (lost; the author's statement)",
+   "label": "Hamburg 1598? (lost; the author's statement, which Nielsen finds not entirely clear)",
    "year_start": 1598,
    "year_end": 1598,
    "edition": "Typographica",
@@ -2011,6 +2011,15 @@
    "year_end": 1601,
    "edition": "Observationes",
    "link": "../observationes/index.html#vc-O_GKS318"
+  },
+  {
+   "kind": "edition",
+   "key": "M_EPIST_1602",
+   "label": "Nuremberg 1601 (Hülsius)",
+   "year_start": 1601,
+   "year_end": 1601,
+   "edition": "Typographica",
+   "link": "../typographica/index.html#ln430"
   },
   {
    "kind": "instrument-fate",

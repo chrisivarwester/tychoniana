@@ -619,7 +619,7 @@
   {
    "id": "W_RANTZAU",
    "title_short": "Carmen ad Rantzovium (1585)",
-   "title_full": "Nobilissimo … viro … [Henrico Ranzovio]",
+   "title_full": "Nobilissimo … viro … Henrico Ranzovio",
    "work_type": "poem",
    "year": "1585",
    "author": "TYCHO",
@@ -649,7 +649,7 @@
     {
      "slug": "brahe-t_diarii-astrologici-et-meteorologici-praefatio",
      "url": "https://tekstnet.dk/books/brahe-t_diarii-astrologici-et-meteorologici-praefatio/",
-     "title": "Praefatio: Diarii astrologici et meteorologici anni 1586",
+     "title": "Diarii astrologici et meteorologici anni 1586 praefationis adumbratio (Tycho's sketch of a preface, TBOO IX, p. 149 — not Morsing's printed preface)",
      "type": "preface"
     }
    ]
@@ -723,7 +723,7 @@
     {
      "slug": "brahe-t_in-solis-et-lunae-motus",
      "url": "https://tekstnet.dk/books/brahe-t_in-solis-et-lunae-motus/",
-     "title": "In solis et lunae motus restitutos (preface)",
+     "title": "In solis et lunae motus restitutos ac sequens diarium prolegomena (1598; TBOO V 165 — the preface to the restored motions of Sun and Moon and the diary, a separate text, not the Progymnasmata's preface)",
      "type": "preface"
     }
    ]
@@ -980,7 +980,7 @@
   {
    "id": "W_LANGE",
    "title_short": "Carmen ad Erik Lange (1584)",
-   "title_full": "Carmen ad Ericum Langium",
+   "title_full": "[Carmen ad Ericum Lange] (title supplied: the manuscript, TBOO XV pp. 3–5, opens 'Et generis et ingenii nobilitate iuveni claro Erico Lange …'; Dreyer, p. 6: 'Carmen Erico Lange scriptum')",
    "work_type": "poem",
    "year": "1584",
    "author": "TYCHO",
@@ -1487,7 +1487,7 @@
    "publisher": "",
    "reissue_of": "",
    "nielsen": "LN 433",
-   "note": "Nielsen's LN 433: the 388 leaves printed on Hven with gaps for the unfinished sections; the collective title-leaf went out as advance copies in 1592. No copy located: Berlin (partial) and Marburg (title-leaf) attested; Tycho's Königsberg working copy lost.",
+   "note": "Nielsen's LN 433: the 388 leaves printed on Hven with gaps for the unfinished sections; the collective title-leaf went out as advance copies in 1592. One copy located, the Marburg advance title-quire (HStAM Best. 3 II, Nr. 1070); Berlin (partial) attested; Tycho's Königsberg working copy lost.",
    "federation": {
     "census_key": "brahe-progymnasmata-1592-uraniborg",
     "explorer": "../census/brahe-progymnasmata-1592-uraniborg/explorer.html",
@@ -1610,7 +1610,7 @@
    "publisher": "",
    "reissue_of": "",
    "nielsen": "LN 430",
-   "note": "The Royal Danish Library catalogues its copies under 1601. No 1601 edition exists: the Uraniborg sheets are dated at the vernal equinox, 20 March 1596 (title-leaf ANNO CIↃ IↃ XCVI), and the year 1601 comes from the cancel title-leaf of the Nuremberg re-issue below, which misprints ANNO MDCI for 1602 (Nielsen).",
+   "note": "The Royal Danish Library catalogues its copies under 1601. No 1601 edition exists: the Uraniborg sheets are dated at the vernal equinox, 20 March 1596 (title-leaf ANNO CIↃ IↃ XCVI), and the year 1601 comes from the cancel title-quire of the Nuremberg re-issue below, dated ANNO MDCI = 1601 (Nielsen 1921, p. 211: issued 'allerede samme Aar', the year of Tycho's death).",
    "federation": {
     "census_key": "brahe-epistolae-1596",
     "explorer": "../census/brahe-epistolae-1596/explorer.html",
@@ -1688,15 +1688,15 @@
   {
    "id": "M_EPIST_1602",
    "work": "W_EPISTOLAE",
-   "label": "Nuremberg 1602 (Hülsius)",
-   "year": "1602",
+   "label": "Nuremberg 1601 (Hülsius)",
+   "year": "1601",
    "place": "Nuremberg",
    "format": "4°",
    "printer": "",
    "publisher": "HULSIUS",
    "reissue_of": "M_EPIST_1596",
    "nielsen": "",
-   "note": "Not a new edition: Hülsius bought up the remaining Uraniborg stock and reprinted the title-leaf only — the rest of the book is the 1596 Uraniborg sheets, with the Uraniborg colophon retained. The new title-leaf misprints ANNO MDCI (1601) for 1602 (Nielsen), which is why libraries and the trade catalogue this issue as 1601.",
+   "note": "Not a new edition: Hülsius bought up the remaining Uraniborg stock and had a new title-sheet printed (the title new, the rest of that sheet a reprint of the old) — the rest of the book is the 1596 Uraniborg sheets, with the Uraniborg colophon retained. Nielsen dates the issue 1601 (ANNO MDCI, 'allerede samme Aar'); MDCI is not a misprint for 1602, and 1602 in Nielsen is the Mechanica.",
    "issue_kind": "reissue"
   },
   {
@@ -2007,7 +2007,7 @@
   {
    "id": "M_APOLOGIA_1598",
    "work": "W_APOLOGIA",
-   "label": "Hamburg 1598 (lost; the author's statement)",
+   "label": "Hamburg 1598? (lost; the author's statement, which Nielsen finds not entirely clear)",
    "year": "1598",
    "place": "Wandsbek/Hamburg",
    "format": "",
@@ -2127,7 +2127,7 @@
    "publisher": "",
    "reissue_of": "",
    "nielsen": "",
-   "note": "German edition, 'Ein Elementisch und Jrdische Astrologia'.",
+   "note": "German edition, 'Ein Elementisch vnd Jrdische Astrologia' (so Nielsen 1921, p. 193, and DB 607, p. 136; DB's heading normalises it to 'Eine elementische und irdische Astrologia').",
    "federation": {
     "census_key": "brahe-flemloes-astrologia-1591-de",
     "explorer": "../census/brahe-flemloes-astrologia-1591-de/explorer.html",
@@ -4468,7 +4468,7 @@
    "confidence": "A",
    "status": "extant",
    "provenance": "",
-   "notes": "KB's catalogue record dates this copy 1601, but no 1601 edition of the Epistolae exists (the year comes from the Hülsius cancel title-leaf, which misprints ANNO MDCI for 1602 — Nielsen). Which title-leaf this copy carries, the Uraniborg 1596 or a Hülsius cancel, is not recorded in the census.",
+   "notes": "KB's catalogue record dates this copy 1601, but no 1601 edition of the Epistolae exists (the year comes from the Hülsius cancel title-leaf, which is dated ANNO MDCI = 1601 — Nielsen 1921, p. 211). Which title-leaf this copy carries, the Uraniborg 1596 or a Hülsius cancel, is not recorded in the census.",
    "sources": [
     "S_KB"
    ],
@@ -10832,7 +10832,7 @@
   },
   {
    "slug": "brahe-t_diarii-astrologici-et-meteorologici-praefatio",
-   "title": "Praefatio: Diarii astrologici et meteorologici anni 1586",
+   "title": "Diarii astrologici et meteorologici anni 1586 praefationis adumbratio (Tycho's sketch of a preface, TBOO IX, p. 149 — not Morsing's printed preface)",
    "date": "1586",
    "type": "preface",
    "thesaurus_work": "W_DIARIUM1586",
@@ -10976,7 +10976,7 @@
   },
   {
    "slug": "brahe-t_in-solis-et-lunae-motus",
-   "title": "In solis et lunae motus restitutos (preface)",
+   "title": "In solis et lunae motus restitutos ac sequens diarium prolegomena (1598; TBOO V 165 — the preface to the restored motions of Sun and Moon and the diary, a separate text, not the Progymnasmata's preface)",
    "date": "1598",
    "type": "preface",
    "thesaurus_work": "W_PROGYMN",
