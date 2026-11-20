@@ -667,7 +667,7 @@
     "dreyer_codex_confirmed": true,
     "dreyer_codex_note": "",
     "dreyer_page": "XVII",
-    "dreyer_hand_statement": "Tycho's hand appears in a number of places (especially for annotations) in this codex as well.",
+    "dreyer_hand_statement": "A good deal in this codex is in Tycho's own hand (Dreyer: ‘satis multa’).",
     "copied_from": null,
     "copied_note": "",
     "leaves_dreyer": "367 numbered leaves + 5 unnumbered (the KB catalogue agrees: ff. 1–183 + 184–367 + 5)",
@@ -943,7 +943,7 @@
     "dreyer_codex_confirmed": true,
     "dreyer_codex_note": "",
     "dreyer_page": "XIX",
-    "dreyer_hand_statement": "Very few entries in it are in Tycho's hand. (The report of Tycho's final illness and death, f. 151r, is in Kepler's hand; ff. 162–165 Fabricius, f. 166 Johannes Krabbe, ff. 167–173 Kepler.)",
+    "dreyer_hand_statement": "Very few entries in it are in Tycho's hand. (The report of Tycho's final illness and death, f. 151v, is in Kepler's hand; ff. 162–165 Fabricius, f. 166 Johannes Krabbe, ff. 167–173 Kepler.)",
     "copied_from": null,
     "copied_note": "",
     "leaves_dreyer": "173 numbered leaves, 5 blank",
@@ -1218,7 +1218,7 @@
      "url": "https://digitalesamlinger.kb.dk/manus/vmanus/2011/dec/ha/object77724/en/",
      "basis": "Royal Danish Library, Digital Collections, object 77724 (466 pages); resolves; re-verified 7 October 2026"
     },
-    "notes": "Codex A (Opera Omnia X); Leipzig, Rostock, Copenhagen, Hven; the 1563 Jupiter–Saturn conjunction note. Digitised: KB Digital Collections object77724.",
+    "notes": "Codex A (Opera Omnia X); Leipzig, Rostock, Copenhagen, Hven; the 1563 Jupiter–Saturn conjunction note. Digitised: KB Digital Collections object77724. Dreyer (Opera omnia X, p. XII) gives the years of the observations as 1563–81; the library's catalogue title runs to 1582.",
     "confidence": "A",
     "sources": [
      "S_DREYER_BIO",
@@ -3273,17 +3273,17 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. II"
+      "p. I"
      ]
     ]
    },
    {
     "date": "1601-10-24",
-    "event": "Tycho dies in Prague; the report of his illness and death is entered in Codex I (GKS 318, f. 151r) in Kepler's hand. All the observation books pass into Kepler's keeping.",
+    "event": "Tycho dies in Prague; the report of his illness and death is entered in Codex I (GKS 318, f. 151v) in Kepler's hand. All the observation books pass into Kepler's keeping.",
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "pp. II, XIX"
+      "pp. I, XIX"
      ]
     ]
    },
@@ -3303,17 +3303,17 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. II"
+      "p. I, n. 1"
      ]
     ]
    },
    {
     "date": "1612",
-    "event": "Kepler's declaration to Tycho's heirs, pasted to the cover of Codex G (GKS 316): each volume is to be marked as part of his treasure, to be locked away should he die suddenly; made after his move to Linz.",
+    "event": "Kepler's declaration to Tycho's heirs, pasted to the cover of Codex G (GKS 316): each volume is to be marked as part of his treasure, to be locked away should he die suddenly; made no earlier than 1612, the year Kepler left Prague for Linz (it speaks of what is to be done ‘as soon as I come to Linz’; Opera omnia X, pp. I–II). In the declaration to the heirs (Opera omnia XIV, pp. 268–269) Kepler says that Tengnagel, who had had the observation books in keeping, was drawn away into other business; that in 1611, in the unrest, an imperial chamberlain, formerly Tycho's pupil and servant, took the books into his keeping and died; that Kepler obtained them from the present emperor against a receipt; and that he holds four volumes in folio, ‘so man die protocolla nennet’, for 1582 to 1596 except the years 1587 to 1589, which he will keep and neither copy nor print.",
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "pp. II–III"
+      "pp. I–II"
      ]
     ]
    },
@@ -3323,7 +3323,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. III"
+      "p. II"
      ]
     ]
    },
@@ -3333,7 +3333,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. II"
+      "p. I, n. 1"
      ]
     ]
    },
@@ -3343,7 +3343,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. III"
+      "p. II"
      ]
     ]
    },
@@ -3353,7 +3353,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. III"
+      "p. II"
      ]
     ]
    },
@@ -3363,7 +3363,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "pp. III–IV"
+      "pp. II, IV"
      ],
      [
       "S_FRIIS1868",
@@ -3377,7 +3377,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. IV"
+      "p. III, n. 1"
      ]
     ]
    },
@@ -3387,13 +3387,13 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. IV"
+      "p. III, n. 1"
      ]
     ]
    },
    {
     "date": "before 1648",
-    "event": "CONTESTED. Veselá, on Veselá & Marek (Brepols 2026, in press): most of Rudolf II's astronomical manuscripts and prints had been removed from Prague Castle to Vienna before the Swedish attack, 'among them 24 volumes of Tycho Brahe's astronomical observations'. The Vienna chronology of this register — Kepler in 1604, Ferdinand II's request of 1621, Curtz before 1656, the Hofbibliothek about 1657 — knows no Rudolf-collection stage and no count of twenty-four; its Vienna dates are termini ante quem. Held as a contested statement, grade C, until the Brepols volume is read; no arithmetic over the registered volumes is offered.",
+    "event": "CONTESTED. Veselá, on Veselá & Marek (Brepols 2026, in press): most of Rudolf II's astronomical manuscripts and prints had been removed from Prague Castle to Vienna before the Swedish attack, 'among them 24 volumes of Tycho Brahe's astronomical observations'. The Vienna chronology of this register — Kepler in 1604, Ferdinand II's request of 1621, Curtz by 1647 at the latest, the Hofbibliothek by 1652 at the latest (about 1657 after Mosel) — knows no Rudolf-collection stage and no count of twenty-four; its Vienna dates are termini ante quem. Held as a contested statement, grade C, until the Brepols volume is read; no arithmetic over the registered volumes is offered. Kepler himself wrote in 1604, in the preface to his Paralipomena ad Vitellionem, that the reader should know that Tycho had left 24 books of observations (‘libros 24’; Opera omnia X, p. II n. 1, citing Kepler, Opera II, p. 127); the number is entered here as Kepler's and is not used to explain Veselá's.",
     "sources": [
      [
       "S_VESELA2025",
@@ -3441,11 +3441,11 @@
    },
    {
     "date": "before 1656",
-    "event": "Albert Curtz (Albertus Curtius, S.J.) obtains the nineteen Vienna fair copies — whether from Kepler in 1621 or from Susanna Bartsch after 1634 is not known; he believes them to be the originals and finds 1593 missing.",
+    "event": "Albert Curtz (Albertus Curtius, S.J.) obtains the nineteen Vienna fair copies — whether from Kepler in 1621 or from Susanna Bartsch after 1634 is not known; he believes them to be the originals and finds 1593 missing. Gassendi was told of his undertaking in 1647 and Hevelius asked about it in 1648, which appears to put the volumes in Curtz's hands by 1647 at the latest (Opera omnia X, p. IV).",
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "pp. IV–V"
+      "pp. III–V"
      ]
     ]
    },
@@ -3465,13 +3465,13 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "pp. IV–V"
+      "p. IV"
      ]
     ]
    },
    {
     "date": "c. 1657",
-    "event": "The Hofbibliothek's acquisition of the Tycho manuscripts is known to Friis in 1868 only through Mosel's 'um dieselbe Zeit' (about 1657); nothing in the library's acts records it, and he denies that the whole library reached Vienna — only part of the manuscripts, and hardly many of the printed books.",
+    "event": "The Hofbibliothek's acquisition of the Tycho manuscripts is known to Friis in 1868 only through Mosel's 'um dieselbe Zeit' (about 1657); nothing in the library's acts records it, and he denies that the whole library reached Vienna — only part of the manuscripts, and hardly many of the printed books. The Austrian National Library's own catalogue record for the Vienna set reads ‘Spätestens 1652 in der Hofbibliothek; vgl. Cod. 13555, fol. 154v’ (record AC13948895), which puts the acquisition by 1652 at the latest.",
     "sources": [
      [
       "S_FRIIS1868",
@@ -3481,7 +3481,7 @@
    },
    {
     "date": "1664-06-20",
-    "event": "Erasmus Bartholin is commissioned to edit the observations; his receipt lists the volumes he received, the octavo of 1563–1574 among them.",
+    "event": "Erasmus Bartholin is commissioned to edit the observations; his receipt lists the volumes he received, the octavo of 1563–1574 among them. Ole Rømer was the chief helper of the six students who copied and collated the books (Opera omnia X, p. VI).",
     "sources": [
      [
       "S_TBOO_X_PROL",
@@ -3505,7 +3505,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "pp. V–VI"
+      "pp. IV–V"
      ]
     ]
    },
@@ -3531,11 +3531,11 @@
    },
    {
     "date": "1680–1682",
-    "event": "The Paris printing, decreed by the Académie on 7 December 1680 and set in Picard's charge, reaches the observations of 3 December 1582 (23 quires in quarto, 96 pages) and stops; the quires survive at the Bibliothèque nationale (V. 1804) with Lalande's note of 2 March 1793 bound in.",
+    "event": "The Paris printing, decreed by the Académie on 7 December 1680 and set in Picard's charge, reaches the observations of 3 December 1582 (23 finished quires and a 24th still in proof, 96 pages, in folio) and stops; the quires survive at the Bibliothèque nationale (V. 1804) with Lalande's note of 2 March 1793 bound in.",
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. VII"
+      "pp. VII–VIII"
      ],
      [
       "S_FRIEDRICHSEN2006",
@@ -3545,7 +3545,7 @@
    },
    {
     "date": "1697-05-04",
-    "event": "Friderich Rostgaard finds the volumes in La Hire's room at the Paris Observatory — 'seven volumes in folio, seven volumes or bundles in quarto, and one volume in octavo'.",
+    "event": "Friderich Rostgaard finds the volumes in La Hire's room at the Paris Observatory — 'seven volumes in folio, seven volumes or bundles in quarto, and one volume in octavo', on 4 May, as he reported in a letter of 10 May 1697 to Wolfenius, then acting head of the Royal Library.",
     "sources": [
      [
       "S_TBOO_X_PROL",
@@ -3647,7 +3647,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. X"
+      "p. XI"
      ]
     ]
    },
@@ -3657,7 +3657,7 @@
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. X"
+      "p. XI"
      ]
     ]
    },
@@ -3697,11 +3697,11 @@
    },
    {
     "date": "1920",
-    "event": "After the war the nineteen Vienna fair copies are lent to Copenhagen and the printing resumes.",
+    "event": "From the autumn of 1920 the Vienna volumes can again be sent to Copenhagen and the printing, stopped since the summer of 1916, resumes; several of the volumes had already been lent before the war (Dreyer gives no number).",
     "sources": [
      [
       "S_TBOO_X_PROL",
-      "p. XI"
+      "p. XII"
      ]
     ]
    },

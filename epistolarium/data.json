@@ -2380,16 +2380,16 @@
     "print_label": "Dreyer, Tychonis Brahe Dani Opera Omnia (1913–29)",
     "source_edition_raw": "Tychonis Brahe Dani Opera Omnia",
     "tboo_vol": "VII",
-    "tboo_p1": 36,
-    "tboo_p2": 337,
-    "tboo_cite": "Tychonis Brahe Dani Opera Omnia, ed. I.L.E. Dreyer, Tom. VII, Hauniæ 1924, p. 337",
+    "tboo_p1": 37,
+    "tboo_p2": 38,
+    "tboo_cite": "Tychonis Brahe Dani Opera Omnia, ed. I.L.E. Dreyer, Tom. VII, Hauniæ 1924, p. 38",
     "located_by_search": false,
     "locate_confidence": null
    },
    "facsimile": {
-    "url": "https://tekstnet.dk/facs/brahe-t_opera_07/brahe-t_opera_07.pdf#page=50",
-    "file_page": 50,
-    "printed_page": 36,
+    "url": "https://tekstnet.dk/facs/brahe-t_opera_07/brahe-t_opera_07.pdf#page=51",
+    "file_page": 51,
+    "printed_page": 37,
     "offset": 14
    },
    "witnesses": [
@@ -21628,17 +21628,17 @@
     "print_label": "Dreyer, Tychonis Brahe Dani Opera Omnia (1913–29)",
     "source_edition_raw": "Tychonis Brahe Dani Opera Omnia",
     "tboo_vol": "VI",
-    "tboo_p1": 372,
-    "tboo_p2": 375,
+    "tboo_p1": 370,
+    "tboo_p2": 373,
     "tboo_cite": "(page located by incipit search of the volume; tekstnet gives none)",
     "located_by_search": true,
     "locate_confidence": 0.36
    },
    "facsimile": {
-    "url": "https://tekstnet.dk/facs/brahe-t_opera_06/brahe-t_opera_06.pdf#page=386",
-    "file_page": 386,
-    "printed_page": 372,
-    "offset": 14
+    "url": "https://tekstnet.dk/facs/brahe-t_opera_06/brahe-t_opera_06.pdf#page=387",
+    "file_page": 387,
+    "printed_page": 370,
+    "offset": 17
    },
    "witnesses": [],
    "witness_class": "none",
@@ -23062,16 +23062,16 @@
     "print_label": "Brahe, Epistolarum astronomicarum liber primus (Uraniborg 1596)",
     "source_edition_raw": "Tychonis Brahe Dani epistolarum astronomicarum libri. Quorum primus hic ...",
     "tboo_vol": "VI",
-    "tboo_p1": 58,
-    "tboo_p2": 71,
+    "tboo_p1": 303,
+    "tboo_p2": 304,
     "tboo_cite": "(page located by incipit search of the volume; tekstnet gives none)",
     "located_by_search": true,
     "locate_confidence": 0.54
    },
    "facsimile": {
-    "url": "https://tekstnet.dk/facs/brahe-t_opera_06/brahe-t_opera_06.pdf#page=72",
-    "file_page": 72,
-    "printed_page": 58,
+    "url": "https://tekstnet.dk/facs/brahe-t_opera_06/brahe-t_opera_06.pdf#page=317",
+    "file_page": 317,
+    "printed_page": 303,
     "offset": 14
    },
    "witnesses": [],
@@ -27489,16 +27489,16 @@
     "print_label": "Dassel, Poematum libri IV, with the Epistolarum familiarium liber (1596)",
     "source_edition_raw": "Poematum libri IV",
     "tboo_vol": "VII",
-    "tboo_p1": 3,
+    "tboo_p1": 376,
     "tboo_p2": 376,
-    "tboo_cite": "Tychonis Brahe Dani Opera Omnia, ed. I.L.E. Dreyer, Tom. VII, Hauniæ 1924, p. 3",
+    "tboo_cite": "Tychonis Brahe Dani Opera Omnia, ed. I.L.E. Dreyer, Tom. VII, Hauniæ 1924, p. 376",
     "located_by_search": false,
     "locate_confidence": null
    },
    "facsimile": {
-    "url": "https://tekstnet.dk/facs/brahe-t_opera_07/brahe-t_opera_07.pdf#page=17",
-    "file_page": 17,
-    "printed_page": 3,
+    "url": "https://tekstnet.dk/facs/brahe-t_opera_07/brahe-t_opera_07.pdf#page=390",
+    "file_page": 390,
+    "printed_page": 376,
     "offset": 14
    },
    "witnesses": [],
@@ -28895,16 +28895,16 @@
     "print_label": "Dreyer, Tychonis Brahe Dani Opera Omnia (1913–29)",
     "source_edition_raw": "Tychonis Brahe Dani Opera Omnia",
     "tboo_vol": "VII",
-    "tboo_p1": 382,
+    "tboo_p1": 383,
     "tboo_p2": 383,
     "tboo_cite": "Tychonis Brahe Dani Opera Omnia, ed. I.L.E. Dreyer, Tom. VII, Hauniæ 1924, p. 383",
     "located_by_search": false,
     "locate_confidence": null
    },
    "facsimile": {
-    "url": "https://tekstnet.dk/facs/brahe-t_opera_07/brahe-t_opera_07.pdf#page=396",
-    "file_page": 396,
-    "printed_page": 382,
+    "url": "https://tekstnet.dk/facs/brahe-t_opera_07/brahe-t_opera_07.pdf#page=397",
+    "file_page": 397,
+    "printed_page": 383,
     "offset": 14
    },
    "witnesses": [
