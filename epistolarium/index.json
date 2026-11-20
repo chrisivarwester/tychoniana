@@ -1327,6 +1327,31 @@
    "anchor": "index.html#brahe-t_15850108001"
   },
   {
+   "slug": "brahe-t_15850526001",
+   "date": "1585-03-26",
+   "precision": "day",
+   "calendar": "os",
+   "direction": "to",
+   "kind": "letter",
+   "period": "hven",
+   "sender_key": "Frederik 2.",
+   "recipient_key": "Tycho Brahe",
+   "sender_familia": [
+    "COR_FREDERIK_2"
+   ],
+   "recipient_familia": [],
+   "place": "Helsingør",
+   "loca": "place-kronborg",
+   "language": "Danish",
+   "grade": "A",
+   "collated": true,
+   "witness_class": "unmarked-only",
+   "abstract": "Rebukes Tycho for neglecting the Kullen beacon, citing sailors' complaints and noting that royal letters of command to the toll-officers have not been carried into effect.",
+   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15850526001/",
+   "page": "letters/brahe-t_15850526001.html",
+   "anchor": "index.html#brahe-t_15850526001"
+  },
+  {
    "slug": "brahe-t_15850404001",
    "date": "1585-04-04",
    "precision": "day",
@@ -1350,56 +1375,6 @@
    "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15850404001/",
    "page": "letters/brahe-t_15850404001.html",
    "anchor": "index.html#brahe-t_15850404001"
-  },
-  {
-   "slug": "brahe-t_15850518001",
-   "date": "1585-05-18",
-   "precision": "day",
-   "calendar": "os",
-   "direction": "to",
-   "kind": "letter",
-   "period": "hven",
-   "sender_key": "Christopher Rothmann",
-   "recipient_key": "Tycho Brahe",
-   "sender_familia": [
-    "COR_CHRISTOPHER_ROTHMANN"
-   ],
-   "recipient_familia": [],
-   "place": "Kassel",
-   "loca": "place-kassel",
-   "language": "Latin",
-   "grade": "B",
-   "collated": false,
-   "witness_class": "none",
-   "abstract": "Reports that Landgrave Wilhelm IV received Tycho's letter and comet treatise with great pleasure, that the Prince will write separately, and begins his own response on astronomical matters.",
-   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15850518001/",
-   "page": "letters/brahe-t_15850518001.html",
-   "anchor": "index.html#brahe-t_15850518001"
-  },
-  {
-   "slug": "brahe-t_15850526001",
-   "date": "1585-05-26",
-   "precision": "day",
-   "calendar": "os",
-   "direction": "to",
-   "kind": "letter",
-   "period": "hven",
-   "sender_key": "Frederik 2.",
-   "recipient_key": "Tycho Brahe",
-   "sender_familia": [
-    "COR_FREDERIK_2"
-   ],
-   "recipient_familia": [],
-   "place": "Helsingør",
-   "loca": "place-kronborg",
-   "language": "Danish",
-   "grade": "A",
-   "collated": true,
-   "witness_class": "unmarked-only",
-   "abstract": "Rebukes Tycho for neglecting the Kullen beacon, citing sailors' complaints and noting that royal letters of command to the toll-officers have not been carried into effect.",
-   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15850526001/",
-   "page": "letters/brahe-t_15850526001.html",
-   "anchor": "index.html#brahe-t_15850526001"
   },
   {
    "slug": "brahe-t_15850623001",
@@ -1679,6 +1654,31 @@
    "anchor": "index.html#brahe-t_15860328001"
   },
   {
+   "slug": "brahe-t_15850518001",
+   "date": "1586-04-14",
+   "precision": "day",
+   "calendar": "os",
+   "direction": "to",
+   "kind": "letter",
+   "period": "hven",
+   "sender_key": "Christopher Rothmann",
+   "recipient_key": "Tycho Brahe",
+   "sender_familia": [
+    "COR_CHRISTOPHER_ROTHMANN"
+   ],
+   "recipient_familia": [],
+   "place": "Kassel",
+   "loca": "place-kassel",
+   "language": "Latin",
+   "grade": "B",
+   "collated": false,
+   "witness_class": "none",
+   "abstract": "Reports that Landgrave Wilhelm IV received Tycho's letter and comet treatise with great pleasure, that the Prince will write separately, and begins his own response on astronomical matters.",
+   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15850518001/",
+   "page": "letters/brahe-t_15850518001.html",
+   "anchor": "index.html#brahe-t_15850518001"
+  },
+  {
    "slug": "brahe-t_15860414001",
    "date": "1586-04-14",
    "precision": "day",
@@ -1804,33 +1804,8 @@
    "anchor": "index.html#brahe-t_15860826001"
   },
   {
-   "slug": "brahe-t_15860907001",
-   "date": "1586-09-07",
-   "precision": "day",
-   "calendar": "ns",
-   "direction": "to",
-   "kind": "letter",
-   "period": "hven",
-   "sender_key": "Thaddaeus Hagecius",
-   "recipient_key": "Tycho Brahe",
-   "sender_familia": [
-    "COR_THADDAEUS_HAGECIUS"
-   ],
-   "recipient_familia": [],
-   "place": "Prague",
-   "loca": "place-prague",
-   "language": "Latin",
-   "grade": "A",
-   "collated": true,
-   "witness_class": "unmarked-only",
-   "abstract": "Asks Tycho to confirm receipt of earlier letters and Werner's book, and notes that Jacobus Curtius, Vice-Chancellor of the Empire, eagerly awaits Tycho's first publication.",
-   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15860907001/",
-   "page": "letters/brahe-t_15860907001.html",
-   "anchor": "index.html#brahe-t_15860907001"
-  },
-  {
    "slug": "brahe-t_15860907002",
-   "date": "1586-09-07",
+   "date": "1586-08-26",
    "precision": "day",
    "calendar": "os",
    "direction": "to",
@@ -2079,6 +2054,31 @@
    "anchor": "index.html#brahe-t_15870911001"
   },
   {
+   "slug": "brahe-t_15871011001",
+   "date": "1587-09-21",
+   "precision": "day",
+   "calendar": "os",
+   "direction": "to",
+   "kind": "letter",
+   "period": "hven",
+   "sender_key": "Christopher Rothmann",
+   "recipient_key": "Tycho Brahe",
+   "sender_familia": [
+    "COR_CHRISTOPHER_ROTHMANN"
+   ],
+   "recipient_familia": [],
+   "place": "Kassel",
+   "loca": "place-kassel",
+   "language": "Latin",
+   "grade": "B",
+   "collated": false,
+   "witness_class": "none",
+   "abstract": "Apologizes for the delayed reply, acknowledges Tycho's parallax argument for the comet, but reports his own observations cannot detect parallax, engaging Copernican hypotheses on the point.",
+   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15871011001/",
+   "page": "letters/brahe-t_15871011001.html",
+   "anchor": "index.html#brahe-t_15871011001"
+  },
+  {
    "slug": "brahe-t_15870924001",
    "date": "1587-09-24",
    "precision": "day",
@@ -2102,31 +2102,6 @@
    "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15870924001/",
    "page": "letters/brahe-t_15870924001.html",
    "anchor": "index.html#brahe-t_15870924001"
-  },
-  {
-   "slug": "brahe-t_15871011001",
-   "date": "1587-10-11",
-   "precision": "day",
-   "calendar": "os",
-   "direction": "to",
-   "kind": "letter",
-   "period": "hven",
-   "sender_key": "Christopher Rothmann",
-   "recipient_key": "Tycho Brahe",
-   "sender_familia": [
-    "COR_CHRISTOPHER_ROTHMANN"
-   ],
-   "recipient_familia": [],
-   "place": "Kassel",
-   "loca": "place-kassel",
-   "language": "Latin",
-   "grade": "B",
-   "collated": false,
-   "witness_class": "none",
-   "abstract": "Apologizes for the delayed reply, acknowledges Tycho's parallax argument for the comet, but reports his own observations cannot detect parallax, engaging Copernican hypotheses on the point.",
-   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15871011001/",
-   "page": "letters/brahe-t_15871011001.html",
-   "anchor": "index.html#brahe-t_15871011001"
   },
   {
    "slug": "brahe-t_15871019001",
@@ -2154,6 +2129,31 @@
    "anchor": "index.html#brahe-t_15871019001"
   },
   {
+   "slug": "brahe-t_15871114001",
+   "date": "1587-10-19",
+   "precision": "day",
+   "calendar": "os",
+   "direction": "to",
+   "kind": "letter",
+   "period": "hven",
+   "sender_key": "Christopher Rothmann",
+   "recipient_key": "Tycho Brahe",
+   "sender_familia": [
+    "COR_CHRISTOPHER_ROTHMANN"
+   ],
+   "recipient_familia": [],
+   "place": "Kassel",
+   "loca": "place-kassel",
+   "language": "Latin",
+   "grade": "B",
+   "collated": false,
+   "witness_class": "none",
+   "abstract": "Corrects a misquotation in his previous letter: the writers on optics place the dense atmosphere's upper limit not at one terrestrial semidiameter but at a much smaller fraction.",
+   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15871114001/",
+   "page": "letters/brahe-t_15871114001.html",
+   "anchor": "index.html#brahe-t_15871114001"
+  },
+  {
    "slug": "brahe-t_15871028001",
    "date": "1587-10-28",
    "precision": "day",
@@ -2177,31 +2177,6 @@
    "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15871028001/",
    "page": "letters/brahe-t_15871028001.html",
    "anchor": "index.html#brahe-t_15871028001"
-  },
-  {
-   "slug": "brahe-t_15871114001",
-   "date": "1587-11-14",
-   "precision": "day",
-   "calendar": "os",
-   "direction": "to",
-   "kind": "letter",
-   "period": "hven",
-   "sender_key": "Christopher Rothmann",
-   "recipient_key": "Tycho Brahe",
-   "sender_familia": [
-    "COR_CHRISTOPHER_ROTHMANN"
-   ],
-   "recipient_familia": [],
-   "place": "Kassel",
-   "loca": "place-kassel",
-   "language": "Latin",
-   "grade": "B",
-   "collated": false,
-   "witness_class": "none",
-   "abstract": "Corrects a misquotation in his previous letter: the writers on optics place the dense atmosphere's upper limit not at one terrestrial semidiameter but at a much smaller fraction.",
-   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15871114001/",
-   "page": "letters/brahe-t_15871114001.html",
-   "anchor": "index.html#brahe-t_15871114001"
   },
   {
    "slug": "brahe-t_15871207001",
@@ -2479,6 +2454,31 @@
    "anchor": "index.html#brahe-t_15880913002"
   },
   {
+   "slug": "brahe-t_15881013001",
+   "date": "1588-09-19",
+   "precision": "day",
+   "calendar": "os",
+   "direction": "to",
+   "kind": "letter",
+   "period": "hven",
+   "sender_key": "Christopher Rothmann",
+   "recipient_key": "Tycho Brahe",
+   "sender_familia": [
+    "COR_CHRISTOPHER_ROTHMANN"
+   ],
+   "recipient_familia": [],
+   "place": "Kassel",
+   "loca": "place-kassel",
+   "language": "Latin",
+   "grade": "B",
+   "collated": false,
+   "witness_class": "none",
+   "abstract": "Acknowledges both recent letters and the second tome of *De mundi aetherei*, then argues persistently that the celestial matter is elemental air and not aether.",
+   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15881013001/",
+   "page": "letters/brahe-t_15881013001.html",
+   "anchor": "index.html#brahe-t_15881013001"
+  },
+  {
    "slug": "brahe-t_15880920001",
    "date": "1588-09-20",
    "precision": "day",
@@ -2502,31 +2502,6 @@
    "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15880920001/",
    "page": "letters/brahe-t_15880920001.html",
    "anchor": "index.html#brahe-t_15880920001"
-  },
-  {
-   "slug": "brahe-t_15881013001",
-   "date": "1588-10-13",
-   "precision": "day",
-   "calendar": "os",
-   "direction": "to",
-   "kind": "letter",
-   "period": "hven",
-   "sender_key": "Christopher Rothmann",
-   "recipient_key": "Tycho Brahe",
-   "sender_familia": [
-    "COR_CHRISTOPHER_ROTHMANN"
-   ],
-   "recipient_familia": [],
-   "place": "Kassel",
-   "loca": "place-kassel",
-   "language": "Latin",
-   "grade": "B",
-   "collated": false,
-   "witness_class": "none",
-   "abstract": "Acknowledges both recent letters and the second tome of *De mundi aetherei*, then argues persistently that the celestial matter is elemental air and not aether.",
-   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15881013001/",
-   "page": "letters/brahe-t_15881013001.html",
-   "anchor": "index.html#brahe-t_15881013001"
   },
   {
    "slug": "brahe-t_15881101001",
@@ -2907,7 +2882,7 @@
   },
   {
    "slug": "brahe-t_15890806001",
-   "date": "1589-08-06",
+   "date": "1589-07-27",
    "precision": "day",
    "calendar": "os",
    "direction": "to",
@@ -2931,29 +2906,29 @@
    "anchor": "index.html#brahe-t_15890806001"
   },
   {
-   "slug": "brahe-t_15890822001",
-   "date": "1589-08-22",
+   "slug": "brahe-t_15860907001",
+   "date": "1589-09-07",
    "precision": "day",
-   "calendar": "os",
+   "calendar": "ns",
    "direction": "to",
    "kind": "letter",
    "period": "hven",
-   "sender_key": "Christopher Rothmann",
+   "sender_key": "Thaddaeus Hagecius",
    "recipient_key": "Tycho Brahe",
    "sender_familia": [
-    "COR_CHRISTOPHER_ROTHMANN"
+    "COR_THADDAEUS_HAGECIUS"
    ],
    "recipient_familia": [],
-   "place": "Kassel",
-   "loca": "place-kassel",
+   "place": "Prague",
+   "loca": "place-prague",
    "language": "Latin",
-   "grade": "B",
-   "collated": false,
-   "witness_class": "none",
-   "abstract": "Defends his previous letter against Tycho's misreading, denying he detracted from Scripture's authority, and cites Augustine as a precedent for speaking freely on sacred texts.",
-   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15890822001/",
-   "page": "letters/brahe-t_15890822001.html",
-   "anchor": "index.html#brahe-t_15890822001"
+   "grade": "A",
+   "collated": true,
+   "witness_class": "unmarked-only",
+   "abstract": "Asks Tycho to confirm receipt of earlier letters and Werner's book, and notes that Jacobus Curtius, Vice-Chancellor of the Empire, eagerly awaits Tycho's first publication.",
+   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15860907001/",
+   "page": "letters/brahe-t_15860907001.html",
+   "anchor": "index.html#brahe-t_15860907001"
   },
   {
    "slug": "brahe-t_15890920001",
@@ -2979,6 +2954,31 @@
    "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15890920001/",
    "page": "letters/brahe-t_15890920001.html",
    "anchor": "index.html#brahe-t_15890920001"
+  },
+  {
+   "slug": "brahe-t_15890822001",
+   "date": "1589-09-22",
+   "precision": "day",
+   "calendar": "os",
+   "direction": "to",
+   "kind": "letter",
+   "period": "hven",
+   "sender_key": "Christopher Rothmann",
+   "recipient_key": "Tycho Brahe",
+   "sender_familia": [
+    "COR_CHRISTOPHER_ROTHMANN"
+   ],
+   "recipient_familia": [],
+   "place": "Kassel",
+   "loca": "place-kassel",
+   "language": "Latin",
+   "grade": "B",
+   "collated": false,
+   "witness_class": "none",
+   "abstract": "Defends his previous letter against Tycho's misreading, denying he detracted from Scripture's authority, and cites Augustine as a precedent for speaking freely on sacred texts.",
+   "url": "https://tekstnet.dk/books/brahe-t_letters/brahe-t_15890822001/",
+   "page": "letters/brahe-t_15890822001.html",
+   "anchor": "index.html#brahe-t_15890822001"
   },
   {
    "slug": "brahe-t_15890925001",
